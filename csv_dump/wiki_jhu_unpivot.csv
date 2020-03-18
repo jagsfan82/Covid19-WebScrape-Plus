@@ -1,0 +1,1255 @@
+﻿Date,Country,State,Lat,Long,Cases,Type
+3/17/2020,China,,30.9756,112.2707,"80,894",confirmed
+3/17/2020,Italy,,43,12,"31,506",confirmed
+3/17/2020,Iran,,32,53,"16,169",confirmed
+3/17/2020,Spain,,40,-4,"11,826",confirmed
+3/17/2020,Germany,,51,9,"9,360",confirmed
+3/17/2020,"Korea, South",,,,"8,413",confirmed
+3/17/2020,France,,46.2276,2.2137,"7,730",confirmed
+3/17/2020,Switzerland,,46.8182,8.2275,"2,742",confirmed
+3/17/2020,United Kingdom,,49.3723,-2.3644,"1,950",confirmed
+3/17/2020,Netherlands,,52.1326,5.2913,"1,711",confirmed
+3/17/2020,Norway,,60.472,8.4689,"1,470",confirmed
+3/17/2020,Austria,,47.5162,14.5501,"1,332",confirmed
+3/17/2020,Belgium,,50.8333,4,"1,243",confirmed
+3/17/2020,Sweden,,63,16,"1,196",confirmed
+3/17/2020,Denmark,,56.2639,9.5018,"1,025",confirmed
+3/17/2020,Japan,,36,138,878,confirmed
+3/17/2020,Cruise Ship,,,,712,confirmed
+3/17/2020,Malaysia,,2.5,112.5,673,confirmed
+3/17/2020,Canada,,49.2827,-123.1207,598,confirmed
+3/17/2020,Australia,,-33.8688,151.2093,452,confirmed
+3/17/2020,Portugal,,39.3999,-8.2245,448,confirmed
+3/17/2020,Qatar,,25.3548,51.1839,442,confirmed
+3/17/2020,Czechia,,,,434,confirmed
+3/17/2020,Greece,,39.0742,21.8243,387,confirmed
+3/17/2020,Brazil,,-14.235,-51.9253,346,confirmed
+3/17/2020,Israel,,31,35,324,confirmed
+3/17/2020,Finland,,64,26,322,confirmed
+3/17/2020,Ireland,,53.1424,-7.6921,292,confirmed
+3/17/2020,Slovenia,,46.1512,14.9955,275,confirmed
+3/17/2020,Singapore,,1.2833,103.8333,266,confirmed
+3/17/2020,Iceland,,64.9631,-19.0208,247,confirmed
+3/17/2020,Pakistan,,30.3753,69.3451,247,confirmed
+3/17/2020,Bahrain,,26.0275,50.55,242,confirmed
+3/17/2020,Poland,,51.9194,19.1451,238,confirmed
+3/17/2020,Estonia,,58.5953,25.0136,225,confirmed
+3/17/2020,Romania,,45.9432,24.9668,222,confirmed
+3/17/2020,Chile,,-35.6751,-71.543,201,confirmed
+3/17/2020,Egypt,,26,30,196,confirmed
+3/17/2020,Philippines,,13,122,187,confirmed
+3/17/2020,Thailand,,15,101,177,confirmed
+3/17/2020,Indonesia,,-0.7893,113.9213,172,confirmed
+3/17/2020,Hong Kong,,22.3193,114.1694,167,confirmed
+3/17/2020,Iraq,,33,44,154,confirmed
+3/17/2020,India,,21,78,143,confirmed
+3/17/2020,Luxembourg,,49.8153,6.1296,140,confirmed
+3/17/2020,Saudi Arabia,,24,45,133,confirmed
+3/17/2020,Kuwait,,29.5,47.75,130,confirmed
+3/17/2020,Lebanon,,33.8547,35.8623,125,confirmed
+3/17/2020,Peru,,-9.19,-75.0152,117,confirmed
+3/17/2020,San Marino,,43.9424,12.4578,115,confirmed
+3/17/2020,Russia,,60,90,114,confirmed
+3/17/2020,Ecuador,,-1.8312,-78.1834,111,confirmed
+3/17/2020,Turkey,,38.9637,35.2433,98,confirmed
+3/17/2020,United Arab Emirates,,24,54,98,confirmed
+3/17/2020,Slovakia,,48.669,19.699,97,confirmed
+3/17/2020,Panama,,8.538,-80.7821,86,confirmed
+3/17/2020,South Africa,,-30.5595,22.9375,85,confirmed
+3/17/2020,Mexico,,23.6345,-102.5528,82,confirmed
+3/17/2020,Bulgaria,,42.7339,25.4858,81,confirmed
+3/17/2020,Argentina,,-38.4161,-63.6167,79,confirmed
+3/17/2020,Taiwan,,23.7,121,77,confirmed
+3/17/2020,Armenia,,40.0691,45.0382,72,confirmed
+3/17/2020,Serbia,,44.0165,21.0059,72,confirmed
+3/17/2020,Croatia,,45.1,15.2,69,confirmed
+3/17/2020,Vietnam,,16,108,66,confirmed
+3/17/2020,Colombia,,4.5709,-74.2973,65,confirmed
+3/17/2020,Algeria,,28.0339,1.6596,61,confirmed
+3/17/2020,Latvia,,56.8796,24.6032,60,confirmed
+3/17/2020,Brunei,,4.5353,114.7277,56,confirmed
+3/17/2020,Albania,,41.1533,20.1683,55,confirmed
+3/17/2020,Costa Rica,,9.7489,-83.7534,50,confirmed
+3/17/2020,Hungary,,47.1625,19.5033,50,confirmed
+3/17/2020,Cyprus,,35.1264,33.4299,49,confirmed
+3/17/2020,Jordan,,31.24,36.51,48,confirmed
+3/17/2020,Morocco,,31.7917,-7.0926,44,confirmed
+3/17/2020,Sri Lanka,,7,81,44,confirmed
+3/17/2020,occupied Palestinian territory,,,,41,confirmed
+3/17/2020,Malta,,35.9375,14.3754,38,confirmed
+3/17/2020,Belarus,,53.7098,27.9534,36,confirmed
+3/17/2020,Georgia,,42.3154,43.3569,35,confirmed
+3/17/2020,Bosnia and Herzegovina,,43.9159,17.6791,34,confirmed
+3/17/2020,Azerbaijan,,40.1431,47.5769,34,confirmed
+3/17/2020,Cambodia,,11.55,104.9167,33,confirmed
+3/17/2020,Venezuela,,6.4238,-66.5897,33,confirmed
+3/17/2020,Kazakhstan,,48.0196,66.9237,33,confirmed
+3/17/2020,North Macedonia,,41.6086,21.7453,32,confirmed
+3/17/2020,Moldova,,47.4116,28.3699,29,confirmed
+3/17/2020,Uruguay,,-32.5228,-55.7658,29,confirmed
+3/17/2020,Senegal,,14.4974,-14.4524,27,confirmed
+3/17/2020,Lithuania,,55.1694,23.8813,26,confirmed
+3/17/2020,Oman,,21,57,24,confirmed
+3/17/2020,Dominican Republic,,18.7357,-70.1627,21,confirmed
+3/17/2020,Afghanistan,,33,65,21,confirmed
+3/17/2020,Tunisia,,34,9,20,confirmed
+3/17/2020,New Zealand,,-40.9006,174.886,20,confirmed
+3/17/2020,Burkina Faso,,12.2383,-1.5616,15,confirmed
+3/17/2020,Jamaica,,18.1096,-77.2975,15,confirmed
+3/17/2020,Andorra,,42.5063,1.5218,14,confirmed
+3/17/2020,Ukraine,,48.3794,31.1656,14,confirmed
+3/17/2020,China,,30.9756,112.2707,13,confirmed
+3/17/2020,Maldives,,3.2028,73.2207,13,confirmed
+3/17/2020,Kosovo,,42.6026,20.903,13,confirmed
+3/17/2020,Bolivia,,-16.2902,-63.5887,12,confirmed
+3/17/2020,Uzbekistan,,41.3775,64.5853,11,confirmed
+3/17/2020,Cameroon,,3.848,11.5021,10,confirmed
+3/17/2020,Monaco,,43.7333,7.4167,9,confirmed
+3/17/2020,Bangladesh,,23.685,90.3563,8,confirmed
+3/17/2020,Guatemala,,15.7835,-90.2308,8,confirmed
+3/17/2020,Paraguay,,-23.4425,-58.4438,8,confirmed
+3/17/2020,Guyana,,5,-58.75,7,confirmed
+3/17/2020,Liechtenstein,,47.14,9.55,7,confirmed
+3/17/2020,Rwanda,,-1.9403,29.8739,7,confirmed
+3/17/2020,Cyprus,,,,7,confirmed
+3/17/2020,Ghana,,7.9465,-1.0232,6,confirmed
+3/17/2020,Honduras,,15.2,-86.2419,6,confirmed
+3/17/2020,Cuba,,22,-80,5,confirmed
+3/17/2020,Ethiopia,,9.145,40.4897,5,confirmed
+3/17/2020,Mongolia,,46.8625,103.8467,5,confirmed
+3/17/2020,Trinidad and Tobago,,10.6918,-61.2225,5,confirmed
+3/17/2020,"Cote d'Ivoire",,,,4,confirmed
+3/17/2020,Kenya,,-0.0236,37.9062,4,confirmed
+3/17/2020,Seychelles,,-4.6796,55.492,4,confirmed
+3/17/2020,DR Congo,,,,3,confirmed
+3/17/2020,Nigeria,,9.082,8.6753,3,confirmed
+3/17/2020,Barbados,,13.1939,-59.5432,2,confirmed
+3/17/2020,Liberia,,6.4281,-9.4295,2,confirmed
+3/17/2020,Montenegro,,42.5,19.3,2,confirmed
+3/17/2020,Namibia,,-22.9576,18.4904,2,confirmed
+3/17/2020,Saint Lucia,,13.9094,-60.9789,2,confirmed
+3/17/2020,Sudan,,12.8628,30.2176,1,confirmed
+3/17/2020,Antigua and Barbuda,,17.0608,-61.7964,1,confirmed
+3/17/2020,Benin,,9.3077,2.3158,1,confirmed
+3/17/2020,Bhutan,,27.5142,90.4336,1,confirmed
+3/17/2020,The Bahamas,,,,1,confirmed
+3/17/2020,Central African Republic,,6.6111,20.9394,1,confirmed
+3/17/2020,Republic of the Congo,,-1.44,15.556,1,confirmed
+3/17/2020,Equatorial Guinea,,1.5,10,1,confirmed
+3/17/2020,Eswatini,,-26.5225,31.4659,1,confirmed
+3/17/2020,Gabon,,-0.8037,11.6094,1,confirmed
+3/17/2020,Gambia,,,,1,confirmed
+3/17/2020,Guinea,,9.9456,-9.6966,1,confirmed
+3/17/2020,Mauritania,,21.0079,10.9408,1,confirmed
+3/17/2020,Saint Vincent and the Grenadines,,,,1,confirmed
+3/17/2020,Somalia,,5.1521,46.1996,1,confirmed
+3/17/2020,Suriname,,3.9193,-56.0278,1,confirmed
+3/17/2020,Tanzania,,-6.369,34.8888,1,confirmed
+3/17/2020,Togo,,8.6195,0.8248,1,confirmed
+3/17/2020,Vatican City,,,,1,confirmed
+3/17/2020,Nepal,,28.1667,84.25,1,confirmed
+3/17/2020,"Notes ^ Countries and territories where cases were diagnosed. Nationality and location of original infection may vary. As noted accordingly, the cases of some countries cover several territories and dependencies. ^ Reported confirmed cases. Actual case numbers are probably higher, but impossible to ascertain. ^ ""–"" denotes that no data is currently available for that territory, not that the value is zero. ^ Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Includes all cases overseas in regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and in collectivities of French Polynesia, Saint Barthélemy and Saint Martin. ^ Includes all dependencies cases in Guam, Puerto Rico and Virgin Islands, in addition to cases identified on the Grand Princess. ^ While there are more positive cases in Switzerland, the figure reported here is only the number of confirmed cases. ^ Includes all cases in the British Overseas Territories of Gibraltar and the Cayman Islands and the Crown dependencies of Jersey and Guernsey. ^ Includes the counted cases in all four of the constituent countries in the Kingdom of the Netherlands, namely",,,,0,confirmed
+3/17/2020,China,,30.9756,112.2707,"3,237",death
+3/17/2020,Italy,,43,12,"2,503",death
+3/17/2020,Iran,,32,53,988,death
+3/17/2020,Spain,,40,-4,533,death
+3/17/2020,Germany,,51,9,26,death
+3/17/2020,"Korea, South",,,,84,death
+3/17/2020,France,,46.2276,2.2137,175,death
+3/17/2020,Switzerland,,46.8182,8.2275,21,death
+3/17/2020,United Kingdom,,49.3723,-2.3644,60,death
+3/17/2020,Netherlands,,52.1326,5.2913,43,death
+3/17/2020,Norway,,60.472,8.4689,3,death
+3/17/2020,Austria,,47.5162,14.5501,3,death
+3/17/2020,Belgium,,50.8333,4,10,death
+3/17/2020,Sweden,,63,16,7,death
+3/17/2020,Denmark,,56.2639,9.5018,4,death
+3/17/2020,Japan,,36,138,28,death
+3/17/2020,Cruise Ship,,,,7,death
+3/17/2020,Malaysia,,2.5,112.5,2,death
+3/17/2020,Canada,,49.2827,-123.1207,8,death
+3/17/2020,Australia,,-33.8688,151.2093,5,death
+3/17/2020,Portugal,,39.3999,-8.2245,1,death
+3/17/2020,Qatar,,25.3548,51.1839,0,death
+3/17/2020,Czechia,,,,0,death
+3/17/2020,Greece,,39.0742,21.8243,5,death
+3/17/2020,Brazil,,-14.235,-51.9253,1,death
+3/17/2020,Israel,,31,35,0,death
+3/17/2020,Finland,,64,26,0,death
+3/17/2020,Ireland,,53.1424,-7.6921,2,death
+3/17/2020,Slovenia,,46.1512,14.9955,1,death
+3/17/2020,Singapore,,1.2833,103.8333,0,death
+3/17/2020,Iceland,,64.9631,-19.0208,0,death
+3/17/2020,Pakistan,,30.3753,69.3451,1,death
+3/17/2020,Bahrain,,26.0275,50.55,1,death
+3/17/2020,Poland,,51.9194,19.1451,5,death
+3/17/2020,Estonia,,58.5953,25.0136,0,death
+3/17/2020,Romania,,45.9432,24.9668,0,death
+3/17/2020,Chile,,-35.6751,-71.543,0,death
+3/17/2020,Egypt,,26,30,6,death
+3/17/2020,Philippines,,13,122,14,death
+3/17/2020,Thailand,,15,101,1,death
+3/17/2020,Indonesia,,-0.7893,113.9213,5,death
+3/17/2020,Hong Kong,,22.3193,114.1694,4,death
+3/17/2020,Iraq,,33,44,11,death
+3/17/2020,India,,21,78,3,death
+3/17/2020,Luxembourg,,49.8153,6.1296,1,death
+3/17/2020,Saudi Arabia,,24,45,0,death
+3/17/2020,Kuwait,,29.5,47.75,0,death
+3/17/2020,Lebanon,,33.8547,35.8623,4,death
+3/17/2020,Peru,,-9.19,-75.0152,0,death
+3/17/2020,San Marino,,43.9424,12.4578,9,death
+3/17/2020,Russia,,60,90,0,death
+3/17/2020,Ecuador,,-1.8312,-78.1834,2,death
+3/17/2020,Turkey,,38.9637,35.2433,1,death
+3/17/2020,United Arab Emirates,,24,54,0,death
+3/17/2020,Slovakia,,48.669,19.699,0,death
+3/17/2020,Panama,,8.538,-80.7821,1,death
+3/17/2020,South Africa,,-30.5595,22.9375,0,death
+3/17/2020,Mexico,,23.6345,-102.5528,0,death
+3/17/2020,Bulgaria,,42.7339,25.4858,2,death
+3/17/2020,Argentina,,-38.4161,-63.6167,2,death
+3/17/2020,Taiwan,,23.7,121,1,death
+3/17/2020,Armenia,,40.0691,45.0382,0,death
+3/17/2020,Serbia,,44.0165,21.0059,0,death
+3/17/2020,Croatia,,45.1,15.2,0,death
+3/17/2020,Vietnam,,16,108,0,death
+3/17/2020,Colombia,,4.5709,-74.2973,0,death
+3/17/2020,Algeria,,28.0339,1.6596,5,death
+3/17/2020,Latvia,,56.8796,24.6032,0,death
+3/17/2020,Brunei,,4.5353,114.7277,0,death
+3/17/2020,Albania,,41.1533,20.1683,1,death
+3/17/2020,Costa Rica,,9.7489,-83.7534,0,death
+3/17/2020,Hungary,,47.1625,19.5033,1,death
+3/17/2020,Cyprus,,35.1264,33.4299,0,death
+3/17/2020,Jordan,,31.24,36.51,0,death
+3/17/2020,Morocco,,31.7917,-7.0926,2,death
+3/17/2020,Sri Lanka,,7,81,0,death
+3/17/2020,occupied Palestinian territory,,,,0,death
+3/17/2020,Malta,,35.9375,14.3754,0,death
+3/17/2020,Belarus,,53.7098,27.9534,0,death
+3/17/2020,Georgia,,42.3154,43.3569,0,death
+3/17/2020,Bosnia and Herzegovina,,43.9159,17.6791,0,death
+3/17/2020,Azerbaijan,,40.1431,47.5769,1,death
+3/17/2020,Cambodia,,11.55,104.9167,0,death
+3/17/2020,Venezuela,,6.4238,-66.5897,0,death
+3/17/2020,Kazakhstan,,48.0196,66.9237,0,death
+3/17/2020,North Macedonia,,41.6086,21.7453,0,death
+3/17/2020,Moldova,,47.4116,28.3699,0,death
+3/17/2020,Uruguay,,-32.5228,-55.7658,0,death
+3/17/2020,Senegal,,14.4974,-14.4524,0,death
+3/17/2020,Lithuania,,55.1694,23.8813,0,death
+3/17/2020,Oman,,21,57,0,death
+3/17/2020,Dominican Republic,,18.7357,-70.1627,1,death
+3/17/2020,Afghanistan,,33,65,0,death
+3/17/2020,Tunisia,,34,9,0,death
+3/17/2020,New Zealand,,-40.9006,174.886,0,death
+3/17/2020,Burkina Faso,,12.2383,-1.5616,0,death
+3/17/2020,Jamaica,,18.1096,-77.2975,0,death
+3/17/2020,Andorra,,42.5063,1.5218,0,death
+3/17/2020,Ukraine,,48.3794,31.1656,2,death
+3/17/2020,China,,30.9756,112.2707,0,death
+3/17/2020,Maldives,,3.2028,73.2207,0,death
+3/17/2020,Kosovo,,42.6026,20.903,0,death
+3/17/2020,Bolivia,,-16.2902,-63.5887,0,death
+3/17/2020,Uzbekistan,,41.3775,64.5853,0,death
+3/17/2020,Cameroon,,3.848,11.5021,0,death
+3/17/2020,Monaco,,43.7333,7.4167,0,death
+3/17/2020,Bangladesh,,23.685,90.3563,0,death
+3/17/2020,Guatemala,,15.7835,-90.2308,1,death
+3/17/2020,Paraguay,,-23.4425,-58.4438,0,death
+3/17/2020,Guyana,,5,-58.75,1,death
+3/17/2020,Liechtenstein,,47.14,9.55,0,death
+3/17/2020,Rwanda,,-1.9403,29.8739,0,death
+3/17/2020,Cyprus,,,,0,death
+3/17/2020,Ghana,,7.9465,-1.0232,0,death
+3/17/2020,Honduras,,15.2,-86.2419,0,death
+3/17/2020,Cuba,,22,-80,0,death
+3/17/2020,Ethiopia,,9.145,40.4897,0,death
+3/17/2020,Mongolia,,46.8625,103.8467,0,death
+3/17/2020,Trinidad and Tobago,,10.6918,-61.2225,0,death
+3/17/2020,"Cote d'Ivoire",,,,0,death
+3/17/2020,Kenya,,-0.0236,37.9062,0,death
+3/17/2020,Seychelles,,-4.6796,55.492,0,death
+3/17/2020,DR Congo,,,,0,death
+3/17/2020,Nigeria,,9.082,8.6753,0,death
+3/17/2020,Barbados,,13.1939,-59.5432,0,death
+3/17/2020,Liberia,,6.4281,-9.4295,0,death
+3/17/2020,Montenegro,,42.5,19.3,0,death
+3/17/2020,Namibia,,-22.9576,18.4904,0,death
+3/17/2020,Saint Lucia,,13.9094,-60.9789,0,death
+3/17/2020,Sudan,,12.8628,30.2176,1,death
+3/17/2020,Antigua and Barbuda,,17.0608,-61.7964,0,death
+3/17/2020,Benin,,9.3077,2.3158,0,death
+3/17/2020,Bhutan,,27.5142,90.4336,0,death
+3/17/2020,The Bahamas,,,,0,death
+3/17/2020,Central African Republic,,6.6111,20.9394,0,death
+3/17/2020,Republic of the Congo,,-1.44,15.556,0,death
+3/17/2020,Equatorial Guinea,,1.5,10,0,death
+3/17/2020,Eswatini,,-26.5225,31.4659,0,death
+3/17/2020,Gabon,,-0.8037,11.6094,0,death
+3/17/2020,Gambia,,,,0,death
+3/17/2020,Guinea,,9.9456,-9.6966,0,death
+3/17/2020,Mauritania,,21.0079,10.9408,0,death
+3/17/2020,Saint Vincent and the Grenadines,,,,0,death
+3/17/2020,Somalia,,5.1521,46.1996,0,death
+3/17/2020,Suriname,,3.9193,-56.0278,0,death
+3/17/2020,Tanzania,,-6.369,34.8888,0,death
+3/17/2020,Togo,,8.6195,0.8248,0,death
+3/17/2020,Vatican City,,,,0,death
+3/17/2020,Nepal,,28.1667,84.25,0,death
+3/17/2020,"Notes ^ Countries and territories where cases were diagnosed. Nationality and location of original infection may vary. As noted accordingly, the cases of some countries cover several territories and dependencies. ^ Reported confirmed cases. Actual case numbers are probably higher, but impossible to ascertain. ^ ""–"" denotes that no data is currently available for that territory, not that the value is zero. ^ Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Includes all cases overseas in regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and in collectivities of French Polynesia, Saint Barthélemy and Saint Martin. ^ Includes all dependencies cases in Guam, Puerto Rico and Virgin Islands, in addition to cases identified on the Grand Princess. ^ While there are more positive cases in Switzerland, the figure reported here is only the number of confirmed cases. ^ Includes all cases in the British Overseas Territories of Gibraltar and the Cayman Islands and the Crown dependencies of Jersey and Guernsey. ^ Includes the counted cases in all four of the constituent countries in the Kingdom of the Netherlands, namely",,,,0,death
+3/17/2020,China,,30.9756,112.2707,"69,601",recovered
+3/17/2020,Italy,,43,12,"2,941",recovered
+3/17/2020,Iran,,32,53,"5,389",recovered
+3/17/2020,Spain,,40,-4,"1,028",recovered
+3/17/2020,Germany,,51,9,71,recovered
+3/17/2020,"Korea, South",,,,"1,540",recovered
+3/17/2020,France,,46.2276,2.2137,602,recovered
+3/17/2020,Switzerland,,46.8182,8.2275,4,recovered
+3/17/2020,United Kingdom,,49.3723,-2.3644,65,recovered
+3/17/2020,Netherlands,,52.1326,5.2913,–,recovered
+3/17/2020,Norway,,60.472,8.4689,1,recovered
+3/17/2020,Austria,,47.5162,14.5501,9,recovered
+3/17/2020,Belgium,,50.8333,4,14,recovered
+3/17/2020,Sweden,,63,16,1,recovered
+3/17/2020,Denmark,,56.2639,9.5018,–,recovered
+3/17/2020,Japan,,36,138,164,recovered
+3/17/2020,Cruise Ship,,,,508,recovered
+3/17/2020,Malaysia,,2.5,112.5,49,recovered
+3/17/2020,Canada,,49.2827,-123.1207,11,recovered
+3/17/2020,Australia,,-33.8688,151.2093,27,recovered
+3/17/2020,Portugal,,39.3999,-8.2245,3,recovered
+3/17/2020,Qatar,,25.3548,51.1839,4,recovered
+3/17/2020,Czechia,,,,3,recovered
+3/17/2020,Greece,,39.0742,21.8243,10,recovered
+3/17/2020,Brazil,,-14.235,-51.9253,2,recovered
+3/17/2020,Israel,,31,35,11,recovered
+3/17/2020,Finland,,64,26,10,recovered
+3/17/2020,Ireland,,53.1424,-7.6921,5,recovered
+3/17/2020,Slovenia,,46.1512,14.9955,0,recovered
+3/17/2020,Singapore,,1.2833,103.8333,114,recovered
+3/17/2020,Iceland,,64.9631,-19.0208,0,recovered
+3/17/2020,Pakistan,,30.3753,69.3451,2,recovered
+3/17/2020,Bahrain,,26.0275,50.55,88,recovered
+3/17/2020,Poland,,51.9194,19.1451,1,recovered
+3/17/2020,Estonia,,58.5953,25.0136,1,recovered
+3/17/2020,Romania,,45.9432,24.9668,19,recovered
+3/17/2020,Chile,,-35.6751,-71.543,0,recovered
+3/17/2020,Egypt,,26,30,32,recovered
+3/17/2020,Philippines,,13,122,4,recovered
+3/17/2020,Thailand,,15,101,41,recovered
+3/17/2020,Indonesia,,-0.7893,113.9213,9,recovered
+3/17/2020,Hong Kong,,22.3193,114.1694,92,recovered
+3/17/2020,Iraq,,33,44,41,recovered
+3/17/2020,India,,21,78,14,recovered
+3/17/2020,Luxembourg,,49.8153,6.1296,0,recovered
+3/17/2020,Saudi Arabia,,24,45,6,recovered
+3/17/2020,Kuwait,,29.5,47.75,12,recovered
+3/17/2020,Lebanon,,33.8547,35.8623,4,recovered
+3/17/2020,Peru,,-9.19,-75.0152,1,recovered
+3/17/2020,San Marino,,43.9424,12.4578,4,recovered
+3/17/2020,Russia,,60,90,5,recovered
+3/17/2020,Ecuador,,-1.8312,-78.1834,0,recovered
+3/17/2020,Turkey,,38.9637,35.2433,0,recovered
+3/17/2020,United Arab Emirates,,24,54,26,recovered
+3/17/2020,Slovakia,,48.669,19.699,0,recovered
+3/17/2020,Panama,,8.538,-80.7821,0,recovered
+3/17/2020,South Africa,,-30.5595,22.9375,0,recovered
+3/17/2020,Mexico,,23.6345,-102.5528,4,recovered
+3/17/2020,Bulgaria,,42.7339,25.4858,0,recovered
+3/17/2020,Argentina,,-38.4161,-63.6167,3,recovered
+3/17/2020,Taiwan,,23.7,121,22,recovered
+3/17/2020,Armenia,,40.0691,45.0382,1,recovered
+3/17/2020,Serbia,,44.0165,21.0059,1,recovered
+3/17/2020,Croatia,,45.1,15.2,5,recovered
+3/17/2020,Vietnam,,16,108,16,recovered
+3/17/2020,Colombia,,4.5709,-74.2973,1,recovered
+3/17/2020,Algeria,,28.0339,1.6596,10,recovered
+3/17/2020,Latvia,,56.8796,24.6032,1,recovered
+3/17/2020,Brunei,,4.5353,114.7277,0,recovered
+3/17/2020,Albania,,41.1533,20.1683,0,recovered
+3/17/2020,Costa Rica,,9.7489,-83.7534,0,recovered
+3/17/2020,Hungary,,47.1625,19.5033,2,recovered
+3/17/2020,Cyprus,,35.1264,33.4299,0,recovered
+3/17/2020,Jordan,,31.24,36.51,1,recovered
+3/17/2020,Morocco,,31.7917,-7.0926,1,recovered
+3/17/2020,Sri Lanka,,7,81,1,recovered
+3/17/2020,occupied Palestinian territory,,,,0,recovered
+3/17/2020,Malta,,35.9375,14.3754,2,recovered
+3/17/2020,Belarus,,53.7098,27.9534,3,recovered
+3/17/2020,Georgia,,42.3154,43.3569,1,recovered
+3/17/2020,Bosnia and Herzegovina,,43.9159,17.6791,2,recovered
+3/17/2020,Azerbaijan,,40.1431,47.5769,6,recovered
+3/17/2020,Cambodia,,11.55,104.9167,1,recovered
+3/17/2020,Venezuela,,6.4238,-66.5897,0,recovered
+3/17/2020,Kazakhstan,,48.0196,66.9237,0,recovered
+3/17/2020,North Macedonia,,41.6086,21.7453,1,recovered
+3/17/2020,Moldova,,47.4116,28.3699,1,recovered
+3/17/2020,Uruguay,,-32.5228,-55.7658,0,recovered
+3/17/2020,Senegal,,14.4974,-14.4524,2,recovered
+3/17/2020,Lithuania,,55.1694,23.8813,1,recovered
+3/17/2020,Oman,,21,57,9,recovered
+3/17/2020,Dominican Republic,,18.7357,-70.1627,0,recovered
+3/17/2020,Afghanistan,,33,65,1,recovered
+3/17/2020,Tunisia,,34,9,0,recovered
+3/17/2020,New Zealand,,-40.9006,174.886,0,recovered
+3/17/2020,Burkina Faso,,12.2383,-1.5616,0,recovered
+3/17/2020,Jamaica,,18.1096,-77.2975,2,recovered
+3/17/2020,Andorra,,42.5063,1.5218,0,recovered
+3/17/2020,Ukraine,,48.3794,31.1656,0,recovered
+3/17/2020,China,,30.9756,112.2707,10,recovered
+3/17/2020,Maldives,,3.2028,73.2207,0,recovered
+3/17/2020,Kosovo,,42.6026,20.903,0,recovered
+3/17/2020,Bolivia,,-16.2902,-63.5887,0,recovered
+3/17/2020,Uzbekistan,,41.3775,64.5853,0,recovered
+3/17/2020,Cameroon,,3.848,11.5021,0,recovered
+3/17/2020,Monaco,,43.7333,7.4167,0,recovered
+3/17/2020,Bangladesh,,23.685,90.3563,3,recovered
+3/17/2020,Guatemala,,15.7835,-90.2308,0,recovered
+3/17/2020,Paraguay,,-23.4425,-58.4438,0,recovered
+3/17/2020,Guyana,,5,-58.75,0,recovered
+3/17/2020,Liechtenstein,,47.14,9.55,0,recovered
+3/17/2020,Rwanda,,-1.9403,29.8739,0,recovered
+3/17/2020,Cyprus,,,,0,recovered
+3/17/2020,Ghana,,7.9465,-1.0232,0,recovered
+3/17/2020,Honduras,,15.2,-86.2419,0,recovered
+3/17/2020,Cuba,,22,-80,0,recovered
+3/17/2020,Ethiopia,,9.145,40.4897,0,recovered
+3/17/2020,Mongolia,,46.8625,103.8467,0,recovered
+3/17/2020,Trinidad and Tobago,,10.6918,-61.2225,0,recovered
+3/17/2020,"Cote d'Ivoire",,,,0,recovered
+3/17/2020,Kenya,,-0.0236,37.9062,0,recovered
+3/17/2020,Seychelles,,-4.6796,55.492,0,recovered
+3/17/2020,DR Congo,,,,0,recovered
+3/17/2020,Nigeria,,9.082,8.6753,1,recovered
+3/17/2020,Barbados,,13.1939,-59.5432,0,recovered
+3/17/2020,Liberia,,6.4281,-9.4295,0,recovered
+3/17/2020,Montenegro,,42.5,19.3,0,recovered
+3/17/2020,Namibia,,-22.9576,18.4904,0,recovered
+3/17/2020,Saint Lucia,,13.9094,-60.9789,0,recovered
+3/17/2020,Sudan,,12.8628,30.2176,0,recovered
+3/17/2020,Antigua and Barbuda,,17.0608,-61.7964,0,recovered
+3/17/2020,Benin,,9.3077,2.3158,0,recovered
+3/17/2020,Bhutan,,27.5142,90.4336,0,recovered
+3/17/2020,The Bahamas,,,,0,recovered
+3/17/2020,Central African Republic,,6.6111,20.9394,0,recovered
+3/17/2020,Republic of the Congo,,-1.44,15.556,0,recovered
+3/17/2020,Equatorial Guinea,,1.5,10,0,recovered
+3/17/2020,Eswatini,,-26.5225,31.4659,0,recovered
+3/17/2020,Gabon,,-0.8037,11.6094,0,recovered
+3/17/2020,Gambia,,,,0,recovered
+3/17/2020,Guinea,,9.9456,-9.6966,0,recovered
+3/17/2020,Mauritania,,21.0079,10.9408,0,recovered
+3/17/2020,Saint Vincent and the Grenadines,,,,0,recovered
+3/17/2020,Somalia,,5.1521,46.1996,0,recovered
+3/17/2020,Suriname,,3.9193,-56.0278,0,recovered
+3/17/2020,Tanzania,,-6.369,34.8888,0,recovered
+3/17/2020,Togo,,8.6195,0.8248,0,recovered
+3/17/2020,Vatican City,,,,0,recovered
+3/17/2020,Nepal,,28.1667,84.25,1,recovered
+3/17/2020,"Notes ^ Countries and territories where cases were diagnosed. Nationality and location of original infection may vary. As noted accordingly, the cases of some countries cover several territories and dependencies. ^ Reported confirmed cases. Actual case numbers are probably higher, but impossible to ascertain. ^ ""–"" denotes that no data is currently available for that territory, not that the value is zero. ^ Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Includes all cases overseas in regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and in collectivities of French Polynesia, Saint Barthélemy and Saint Martin. ^ Includes all dependencies cases in Guam, Puerto Rico and Virgin Islands, in addition to cases identified on the Grand Princess. ^ While there are more positive cases in Switzerland, the figure reported here is only the number of confirmed cases. ^ Includes all cases in the British Overseas Territories of Gibraltar and the Cayman Islands and the Crown dependencies of Jersey and Guernsey. ^ Includes the counted cases in all four of the constituent countries in the Kingdom of the Netherlands, namely",,,,0,recovered
+3/17/2020,US,Alabama,32.3182,-86.9023,39,confirmed
+3/17/2020,US,Alaska,61.3707,-152.4044,3,confirmed
+3/17/2020,US,American Samoa,AmericanSamoa,AmericanSamoa,0,confirmed
+3/17/2020,US,Arizona,33.7298,-111.4312,13,confirmed
+3/17/2020,US,Arkansas,34.9697,-92.3731,22,confirmed
+3/17/2020,US,California,36.1162,-119.6816,454,confirmed
+3/17/2020,US,Colorado,39.0598,-105.3111,160,confirmed
+3/17/2020,US,Connecticut,41.5978,-72.7554,68,confirmed
+3/17/2020,US,Delaware,39.3185,-75.5071,8,confirmed
+3/17/2020,US,District of Columbia,38.8974,-77.0268,22,confirmed
+3/17/2020,US,Florida,27.7663,-81.6868,173,confirmed
+3/17/2020,US,Georgia,33.0406,-83.6431,146,confirmed
+3/17/2020,US,Guam,13.4443,144.7937,3,confirmed
+3/17/2020,US,Hawaii,21.0943,-157.4983,4,confirmed
+3/17/2020,US,Idaho,44.2405,-114.4788,5,confirmed
+3/17/2020,US,Illinois,40.3495,-88.9861,166,confirmed
+3/17/2020,US,Indiana,39.8494,-86.2583,30,confirmed
+3/17/2020,US,Iowa,42.0115,-93.2105,17,confirmed
+3/17/2020,US,Kansas,38.5266,-96.7265,16,confirmed
+3/17/2020,US,Kentucky,37.6681,-84.6701,25,confirmed
+3/17/2020,US,Louisiana,31.1695,-91.8678,171,confirmed
+3/17/2020,US,Maine,44.6939,-69.3819,3,confirmed
+3/17/2020,US,Maryland,39.0639,-76.8021,57,confirmed
+3/17/2020,US,Massachusetts,42.2302,-71.5301,197,confirmed
+3/17/2020,US,Michigan,43.3266,-84.5361,65,confirmed
+3/17/2020,US,Minnesota,45.6945,-93.9002,60,confirmed
+3/17/2020,US,Mississippi,32.7416,-89.6787,21,confirmed
+3/17/2020,US,Missouri,38.4561,-92.2884,15,confirmed
+3/17/2020,US,Montana,46.9219,-110.4544,4,confirmed
+3/17/2020,US,Nebraska,41.1254,-98.2681,14,confirmed
+3/17/2020,US,Nevada,38.3135,-117.0554,19,confirmed
+3/17/2020,US,New Hampshire,43.4525,-71.5639,7,confirmed
+3/17/2020,US,New Jersey,40.2989,-74.521,178,confirmed
+3/17/2020,US,New Mexico,34.8405,-106.2485,10,confirmed
+3/17/2020,US,New York,42.1657,-74.9481,"1,374",confirmed
+3/17/2020,US,North Carolina,35.6301,-79.8064,40,confirmed
+3/17/2020,US,North Dakota,47.5289,-99.784,1,confirmed
+3/17/2020,US,N. Mariana Islands,N.MarianaIslands,N.MarianaIslands,0,confirmed
+3/17/2020,US,Ohio,40.3888,-82.7649,67,confirmed
+3/17/2020,US,Oklahoma,35.5653,-96.9289,17,confirmed
+3/17/2020,US,Oregon,44.572,-122.0709,47,confirmed
+3/17/2020,US,Pennsylvania,40.5908,-77.2098,96,confirmed
+3/17/2020,US,Puerto Rico,18.2208,-66.5901,3,confirmed
+3/17/2020,US,Rhode Island,41.6809,-71.5118,21,confirmed
+3/17/2020,US,South Carolina,33.8569,-80.945,28,confirmed
+3/17/2020,US,South Dakota,44.2998,-99.4388,10,confirmed
+3/17/2020,US,Tennessee,35.7478,-86.6923,73,confirmed
+3/17/2020,US,Texas,31.0545,-97.5635,64,confirmed
+3/17/2020,US,U.S. Virgin Islands,U.S.VirginIslands,U.S.VirginIslands,1,confirmed
+3/17/2020,US,Utah,40.15,-111.8624,41,confirmed
+3/17/2020,US,Vermont,44.0459,-72.7107,4,confirmed
+3/17/2020,US,Virginia,37.7693,-78.17,67,confirmed
+3/17/2020,US,Washington,47.4009,-121.4905,"1,012",confirmed
+3/17/2020,US,West Virginia,38.4912,-80.9545,1,confirmed
+3/17/2020,US,Wisconsin,44.2685,-89.6165,47,confirmed
+3/17/2020,US,Wyoming,42.756,-107.3025,11,confirmed
+3/17/2020,US,As of 18 March 2020 (UTC) · History of cases: United States,Asof18March2020(UTC)·Historyofcases:UnitedStates,Asof18March2020(UTC)·Historyofcases:UnitedStates,As of 18 March 2020 (UTC) · History of cases: United States,confirmed
+3/17/2020,US,Alabama,32.3182,-86.9023,0,recovered
+3/17/2020,US,Alaska,61.3707,-152.4044,0,recovered
+3/17/2020,US,American Samoa,AmericanSamoa,AmericanSamoa,0,recovered
+3/17/2020,US,Arizona,33.7298,-111.4312,1,recovered
+3/17/2020,US,Arkansas,34.9697,-92.3731,0,recovered
+3/17/2020,US,California,36.1162,-119.6816,6,recovered
+3/17/2020,US,Colorado,39.0598,-105.3111,0,recovered
+3/17/2020,US,Connecticut,41.5978,-72.7554,0,recovered
+3/17/2020,US,Delaware,39.3185,-75.5071,0,recovered
+3/17/2020,US,District of Columbia,38.8974,-77.0268,0,recovered
+3/17/2020,US,Florida,27.7663,-81.6868,0,recovered
+3/17/2020,US,Georgia,33.0406,-83.6431,0,recovered
+3/17/2020,US,Guam,13.4443,144.7937,0,recovered
+3/17/2020,US,Hawaii,21.0943,-157.4983,0,recovered
+3/17/2020,US,Idaho,44.2405,-114.4788,0,recovered
+3/17/2020,US,Illinois,40.3495,-88.9861,2,recovered
+3/17/2020,US,Indiana,39.8494,-86.2583,0,recovered
+3/17/2020,US,Iowa,42.0115,-93.2105,0,recovered
+3/17/2020,US,Kansas,38.5266,-96.7265,0,recovered
+3/17/2020,US,Kentucky,37.6681,-84.6701,1,recovered
+3/17/2020,US,Louisiana,31.1695,-91.8678,0,recovered
+3/17/2020,US,Maine,44.6939,-69.3819,0,recovered
+3/17/2020,US,Maryland,39.0639,-76.8021,3,recovered
+3/17/2020,US,Massachusetts,42.2302,-71.5301,1,recovered
+3/17/2020,US,Michigan,43.3266,-84.5361,0,recovered
+3/17/2020,US,Minnesota,45.6945,-93.9002,0,recovered
+3/17/2020,US,Mississippi,32.7416,-89.6787,0,recovered
+3/17/2020,US,Missouri,38.4561,-92.2884,0,recovered
+3/17/2020,US,Montana,46.9219,-110.4544,0,recovered
+3/17/2020,US,Nebraska,41.1254,-98.2681,0,recovered
+3/17/2020,US,Nevada,38.3135,-117.0554,0,recovered
+3/17/2020,US,New Hampshire,43.4525,-71.5639,0,recovered
+3/17/2020,US,New Jersey,40.2989,-74.521,1,recovered
+3/17/2020,US,New Mexico,34.8405,-106.2485,0,recovered
+3/17/2020,US,New York,42.1657,-74.9481,0,recovered
+3/17/2020,US,North Carolina,35.6301,-79.8064,0,recovered
+3/17/2020,US,North Dakota,47.5289,-99.784,0,recovered
+3/17/2020,US,N. Mariana Islands,N.MarianaIslands,N.MarianaIslands,0,recovered
+3/17/2020,US,Ohio,40.3888,-82.7649,0,recovered
+3/17/2020,US,Oklahoma,35.5653,-96.9289,0,recovered
+3/17/2020,US,Oregon,44.572,-122.0709,0,recovered
+3/17/2020,US,Pennsylvania,40.5908,-77.2098,0,recovered
+3/17/2020,US,Puerto Rico,18.2208,-66.5901,0,recovered
+3/17/2020,US,Rhode Island,41.6809,-71.5118,0,recovered
+3/17/2020,US,South Carolina,33.8569,-80.945,0,recovered
+3/17/2020,US,South Dakota,44.2998,-99.4388,0,recovered
+3/17/2020,US,Tennessee,35.7478,-86.6923,0,recovered
+3/17/2020,US,Texas,31.0545,-97.5635,0,recovered
+3/17/2020,US,U.S. Virgin Islands,U.S.VirginIslands,U.S.VirginIslands,0,recovered
+3/17/2020,US,Utah,40.15,-111.8624,0,recovered
+3/17/2020,US,Vermont,44.0459,-72.7107,0,recovered
+3/17/2020,US,Virginia,37.7693,-78.17,0,recovered
+3/17/2020,US,Washington,47.4009,-121.4905,1,recovered
+3/17/2020,US,West Virginia,38.4912,-80.9545,0,recovered
+3/17/2020,US,Wisconsin,44.2685,-89.6165,1,recovered
+3/17/2020,US,Wyoming,42.756,-107.3025,0,recovered
+3/17/2020,US,As of 18 March 2020 (UTC) · History of cases: United States,Asof18March2020(UTC)·Historyofcases:UnitedStates,Asof18March2020(UTC)·Historyofcases:UnitedStates,As of 18 March 2020 (UTC) · History of cases: United States,recovered
+3/17/2020,US,Alabama,32.3182,-86.9023,0,death
+3/17/2020,US,Alaska,61.3707,-152.4044,0,death
+3/17/2020,US,American Samoa,AmericanSamoa,AmericanSamoa,0,death
+3/17/2020,US,Arizona,33.7298,-111.4312,0,death
+3/17/2020,US,Arkansas,34.9697,-92.3731,0,death
+3/17/2020,US,California,36.1162,-119.6816,12,death
+3/17/2020,US,Colorado,39.0598,-105.3111,1,death
+3/17/2020,US,Connecticut,41.5978,-72.7554,0,death
+3/17/2020,US,Delaware,39.3185,-75.5071,0,death
+3/17/2020,US,District of Columbia,38.8974,-77.0268,0,death
+3/17/2020,US,Florida,27.7663,-81.6868,6,death
+3/17/2020,US,Georgia,33.0406,-83.6431,1,death
+3/17/2020,US,Guam,13.4443,144.7937,0,death
+3/17/2020,US,Hawaii,21.0943,-157.4983,0,death
+3/17/2020,US,Idaho,44.2405,-114.4788,0,death
+3/17/2020,US,Illinois,40.3495,-88.9861,1,death
+3/17/2020,US,Indiana,39.8494,-86.2583,2,death
+3/17/2020,US,Iowa,42.0115,-93.2105,0,death
+3/17/2020,US,Kansas,38.5266,-96.7265,1,death
+3/17/2020,US,Kentucky,37.6681,-84.6701,1,death
+3/17/2020,US,Louisiana,31.1695,-91.8678,4,death
+3/17/2020,US,Maine,44.6939,-69.3819,0,death
+3/17/2020,US,Maryland,39.0639,-76.8021,0,death
+3/17/2020,US,Massachusetts,42.2302,-71.5301,0,death
+3/17/2020,US,Michigan,43.3266,-84.5361,0,death
+3/17/2020,US,Minnesota,45.6945,-93.9002,0,death
+3/17/2020,US,Mississippi,32.7416,-89.6787,0,death
+3/17/2020,US,Missouri,38.4561,-92.2884,0,death
+3/17/2020,US,Montana,46.9219,-110.4544,0,death
+3/17/2020,US,Nebraska,41.1254,-98.2681,0,death
+3/17/2020,US,Nevada,38.3135,-117.0554,0,death
+3/17/2020,US,New Hampshire,43.4525,-71.5639,0,death
+3/17/2020,US,New Jersey,40.2989,-74.521,3,death
+3/17/2020,US,New Mexico,34.8405,-106.2485,0,death
+3/17/2020,US,New York,42.1657,-74.9481,12,death
+3/17/2020,US,North Carolina,35.6301,-79.8064,0,death
+3/17/2020,US,North Dakota,47.5289,-99.784,0,death
+3/17/2020,US,N. Mariana Islands,N.MarianaIslands,N.MarianaIslands,0,death
+3/17/2020,US,Ohio,40.3888,-82.7649,0,death
+3/17/2020,US,Oklahoma,35.5653,-96.9289,0,death
+3/17/2020,US,Oregon,44.572,-122.0709,1,death
+3/17/2020,US,Pennsylvania,40.5908,-77.2098,0,death
+3/17/2020,US,Puerto Rico,18.2208,-66.5901,0,death
+3/17/2020,US,Rhode Island,41.6809,-71.5118,0,death
+3/17/2020,US,South Carolina,33.8569,-80.945,1,death
+3/17/2020,US,South Dakota,44.2998,-99.4388,1,death
+3/17/2020,US,Tennessee,35.7478,-86.6923,0,death
+3/17/2020,US,Texas,31.0545,-97.5635,1,death
+3/17/2020,US,U.S. Virgin Islands,U.S.VirginIslands,U.S.VirginIslands,0,death
+3/17/2020,US,Utah,40.15,-111.8624,0,death
+3/17/2020,US,Vermont,44.0459,-72.7107,0,death
+3/17/2020,US,Virginia,37.7693,-78.17,2,death
+3/17/2020,US,Washington,47.4009,-121.4905,54,death
+3/17/2020,US,West Virginia,38.4912,-80.9545,0,death
+3/17/2020,US,Wisconsin,44.2685,-89.6165,0,death
+3/17/2020,US,Wyoming,42.756,-107.3025,0,death
+3/17/2020,US,As of 18 March 2020 (UTC) · History of cases: United States,Asof18March2020(UTC)·Historyofcases:UnitedStates,Asof18March2020(UTC)·Historyofcases:UnitedStates,As of 18 March 2020 (UTC) · History of cases: United States,death
+3/18/2020,China,,30.9756,112.2707,"80,894",confirmed
+3/18/2020,Italy,,43,12,"35,713",confirmed
+3/18/2020,Iran,,32,53,"17,361",confirmed
+3/18/2020,Spain,,40,-4,"14,769",confirmed
+3/18/2020,Germany,,51,9,"12,327",confirmed
+3/18/2020,France,,46.2276,2.2137,"9,134",confirmed
+3/18/2020,"Korea, South",,,,"8,413",confirmed
+3/18/2020,Switzerland,,46.8182,8.2275,"3,115",confirmed
+3/18/2020,United Kingdom,,49.3723,-2.3644,"2,626",confirmed
+3/18/2020,Netherlands,,52.1326,5.2913,"2,059",confirmed
+3/18/2020,Austria,,47.5162,14.5501,"1,646",confirmed
+3/18/2020,Norway,,60.472,8.4689,"1,584",confirmed
+3/18/2020,Belgium,,50.8333,4,"1,486",confirmed
+3/18/2020,Sweden,,63,16,"1,292",confirmed
+3/18/2020,Denmark,,56.2639,9.5018,"1,117",confirmed
+3/18/2020,Japan,,36,138,899,confirmed
+3/18/2020,Malaysia,,2.5,112.5,790,confirmed
+3/18/2020,Cruise Ship,,,,712,confirmed
+3/18/2020,Canada,,49.2827,-123.1207,727,confirmed
+3/18/2020,Portugal,,39.3999,-8.2245,642,confirmed
+3/18/2020,Australia,,-33.8688,151.2093,565,confirmed
+3/18/2020,Czechia,,,,522,confirmed
+3/18/2020,Brazil,,-14.235,-51.9253,509,confirmed
+3/18/2020,Qatar,,25.3548,51.1839,452,confirmed
+3/18/2020,Israel,,31,35,433,confirmed
+3/18/2020,Greece,,39.0742,21.8243,418,confirmed
+3/18/2020,Ireland,,53.1424,-7.6921,366,confirmed
+3/18/2020,Finland,,64,26,359,confirmed
+3/18/2020,Singapore,,1.2833,103.8333,313,confirmed
+3/18/2020,Pakistan,,30.3753,69.3451,307,confirmed
+3/18/2020,Poland,,51.9194,19.1451,287,confirmed
+3/18/2020,Slovenia,,46.1512,14.9955,286,confirmed
+3/18/2020,Romania,,45.9432,24.9668,260,confirmed
+3/18/2020,Estonia,,58.5953,25.0136,258,confirmed
+3/18/2020,Bahrain,,26.0275,50.55,256,confirmed
+3/18/2020,Iceland,,64.9631,-19.0208,250,confirmed
+3/18/2020,Chile,,-35.6751,-71.543,238,confirmed
+3/18/2020,Saudi Arabia,,24,45,238,confirmed
+3/18/2020,Indonesia,,-0.7893,113.9213,227,confirmed
+3/18/2020,Thailand,,15,101,212,confirmed
+3/18/2020,Egypt,,26,30,210,confirmed
+3/18/2020,Luxembourg,,49.8153,6.1296,203,confirmed
+3/18/2020,Philippines,,13,122,202,confirmed
+3/18/2020,Turkey,,38.9637,35.2433,191,confirmed
+3/18/2020,Hong Kong,,22.3193,114.1694,181,confirmed
+3/18/2020,Iraq,,33,44,164,confirmed
+3/18/2020,Ecuador,,-1.8312,-78.1834,155,confirmed
+3/18/2020,India,,21,78,151,confirmed
+3/18/2020,Russia,,60,90,147,confirmed
+3/18/2020,Peru,,-9.19,-75.0152,145,confirmed
+3/18/2020,Kuwait,,29.5,47.75,142,confirmed
+3/18/2020,Lebanon,,33.8547,35.8623,133,confirmed
+3/18/2020,San Marino,,43.9424,12.4578,119,confirmed
+3/18/2020,South Africa,,-30.5595,22.9375,116,confirmed
+3/18/2020,United Arab Emirates,,24,54,113,confirmed
+3/18/2020,Armenia,,40.0691,45.0382,110,confirmed
+3/18/2020,Slovakia,,48.669,19.699,105,confirmed
+3/18/2020,Taiwan,,23.7,121,100,confirmed
+3/18/2020,Colombia,,4.5709,-74.2973,93,confirmed
+3/18/2020,Mexico,,23.6345,-102.5528,93,confirmed
+3/18/2020,Bulgaria,,42.7339,25.4858,92,confirmed
+3/18/2020,Croatia,,45.1,15.2,89,confirmed
+3/18/2020,Serbia,,44.0165,21.0059,89,confirmed
+3/18/2020,Panama,,8.538,-80.7821,86,confirmed
+3/18/2020,Argentina,,-38.4161,-63.6167,79,confirmed
+3/18/2020,Vietnam,,16,108,76,confirmed
+3/18/2020,Algeria,,28.0339,1.6596,75,confirmed
+3/18/2020,Latvia,,56.8796,24.6032,71,confirmed
+3/18/2020,Costa Rica,,9.7489,-83.7534,69,confirmed
+3/18/2020,Brunei,,4.5353,114.7277,68,confirmed
+3/18/2020,Albania,,41.1533,20.1683,59,confirmed
+3/18/2020,Cyprus,,35.1264,33.4299,58,confirmed
+3/18/2020,Hungary,,47.1625,19.5033,58,confirmed
+3/18/2020,Jordan,,31.24,36.51,56,confirmed
+3/18/2020,Morocco,,31.7917,-7.0926,54,confirmed
+3/18/2020,Andorra,,42.5063,1.5218,53,confirmed
+3/18/2020,Belarus,,53.7098,27.9534,51,confirmed
+3/18/2020,Sri Lanka,,7,81,51,confirmed
+3/18/2020,Uruguay,,-32.5228,-55.7658,50,confirmed
+3/18/2020,Malta,,35.9375,14.3754,48,confirmed
+3/18/2020,occupied Palestinian territory,,,,44,confirmed
+3/18/2020,North Macedonia,,41.6086,21.7453,43,confirmed
+3/18/2020,Bosnia and Herzegovina,,43.9159,17.6791,39,confirmed
+3/18/2020,Oman,,21,57,39,confirmed
+3/18/2020,Georgia,,42.3154,43.3569,38,confirmed
+3/18/2020,Cambodia,,11.55,104.9167,37,confirmed
+3/18/2020,Moldova,,47.4116,28.3699,36,confirmed
+3/18/2020,Kazakhstan,,48.0196,66.9237,36,confirmed
+3/18/2020,Senegal,,14.4974,-14.4524,36,confirmed
+3/18/2020,Venezuela,,6.4238,-66.5897,36,confirmed
+3/18/2020,Azerbaijan,,40.1431,47.5769,34,confirmed
+3/18/2020,Lithuania,,55.1694,23.8813,33,confirmed
+3/18/2020,Tunisia,,34,9,29,confirmed
+3/18/2020,Liechtenstein,,47.14,9.55,28,confirmed
+3/18/2020,Afghanistan,,33,65,22,confirmed
+3/18/2020,Dominican Republic,,18.7357,-70.1627,21,confirmed
+3/18/2020,Burkina Faso,,12.2383,-1.5616,20,confirmed
+3/18/2020,New Zealand,,-40.9006,174.886,20,confirmed
+3/18/2020,Cyprus,,,,20,confirmed
+3/18/2020,Uzbekistan,,41.3775,64.5853,18,confirmed
+3/18/2020,China,,30.9756,112.2707,17,confirmed
+3/18/2020,Ukraine,,48.3794,31.1656,16,confirmed
+3/18/2020,Bangladesh,,23.685,90.3563,14,confirmed
+3/18/2020,Cameroon,,3.848,11.5021,13,confirmed
+3/18/2020,Jamaica,,18.1096,-77.2975,13,confirmed
+3/18/2020,Maldives,,3.2028,73.2207,13,confirmed
+3/18/2020,Kosovo,,42.6026,20.903,13,confirmed
+3/18/2020,Bolivia,,-16.2902,-63.5887,12,confirmed
+3/18/2020,Paraguay,,-23.4425,-58.4438,11,confirmed
+3/18/2020,Rwanda,,-1.9403,29.8739,11,confirmed
+3/18/2020,Cuba,,22,-80,10,confirmed
+3/18/2020,Honduras,,15.2,-86.2419,9,confirmed
+3/18/2020,"Cote d'Ivoire",,,,9,confirmed
+3/18/2020,Monaco,,43.7333,7.4167,9,confirmed
+3/18/2020,Guatemala,,15.7835,-90.2308,8,confirmed
+3/18/2020,Montenegro,,42.5,19.3,8,confirmed
+3/18/2020,Nigeria,,9.082,8.6753,8,confirmed
+3/18/2020,DR Congo,,,,7,confirmed
+3/18/2020,Ghana,,7.9465,-1.0232,7,confirmed
+3/18/2020,Kenya,,-0.0236,37.9062,7,confirmed
+3/18/2020,Trinidad and Tobago,,10.6918,-61.2225,7,confirmed
+3/18/2020,Ethiopia,,9.145,40.4897,6,confirmed
+3/18/2020,Mongolia,,46.8625,103.8467,6,confirmed
+3/18/2020,Seychelles,,-4.6796,55.492,6,confirmed
+3/18/2020,Equatorial Guinea,,1.5,10,4,confirmed
+3/18/2020,Guyana,,5,-58.75,4,confirmed
+3/18/2020,Gabon,,-0.8037,11.6094,3,confirmed
+3/18/2020,Kyrgyzstan,,,,3,confirmed
+3/18/2020,Mauritius,,,,3,confirmed
+3/18/2020,Tanzania,,-6.369,34.8888,3,confirmed
+3/18/2020,Barbados,,13.1939,-59.5432,2,confirmed
+3/18/2020,Benin,,9.3077,2.3158,2,confirmed
+3/18/2020,Liberia,,6.4281,-9.4295,2,confirmed
+3/18/2020,Mauritania,,21.0079,10.9408,2,confirmed
+3/18/2020,Namibia,,-22.9576,18.4904,2,confirmed
+3/18/2020,Saint Lucia,,13.9094,-60.9789,2,confirmed
+3/18/2020,Sudan,,12.8628,30.2176,2,confirmed
+3/18/2020,Zambia,,,,2,confirmed
+3/18/2020,Antigua and Barbuda,,17.0608,-61.7964,1,confirmed
+3/18/2020,The Bahamas,,,,1,confirmed
+3/18/2020,Bhutan,,27.5142,90.4336,1,confirmed
+3/18/2020,Central African Republic,,6.6111,20.9394,1,confirmed
+3/18/2020,Republic of the Congo,,,,1,confirmed
+3/18/2020,Djibouti,,,,1,confirmed
+3/18/2020,Eswatini,,-26.5225,31.4659,1,confirmed
+3/18/2020,Gambia,,,,1,confirmed
+3/18/2020,Guinea,,9.9456,-9.6966,1,confirmed
+3/18/2020,Saint Vincent and the Grenadines,,,,1,confirmed
+3/18/2020,Somalia,,5.1521,46.1996,1,confirmed
+3/18/2020,Suriname,,3.9193,-56.0278,1,confirmed
+3/18/2020,Togo,,8.6195,0.8248,1,confirmed
+3/18/2020,Vatican City,,,,1,confirmed
+3/18/2020,Nepal,,28.1667,84.25,1,confirmed
+3/18/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the cases cover several territories, as noted accordingly. ^ Reported confirmed cases. Actual case numbers are probably higher, but impossible to ascertain. ^ ""–"" denotes that no data is currently available for that territory, not that the value is zero. ^ Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Starting 27 Feb, only at-risk people showing symptoms have been tested.[2][3] ^ Includes all dependencies cases in Guam, Puerto Rico and Virgin Islands, in addition to cases identified on the Grand Princess. ^ Includes all cases overseas in regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and in collectivities of French Polynesia, New Caledonia, Saint Barthélemy and Saint Martin. ^ While there are more positive cases in Switzerland, the figure reported here is only the number of confirmed cases. ^ Includes all cases in the British Overseas Territories of Akrotiri and Dhekelia, the Cayman Islands, Gibraltar and Montserrat and the Crown dependencies of Guernsey and Jersey. ^ Includes all constituent countries cases in Aruba, Curaçao and Sint Maarten. ^ The Dutch Government",,,,0,confirmed
+3/18/2020,China,,30.9756,112.2707,"3,237",death
+3/18/2020,Italy,,43,12,"2,978",death
+3/18/2020,Iran,,32,53,"1,135",death
+3/18/2020,Spain,,40,-4,638,death
+3/18/2020,Germany,,51,9,28,death
+3/18/2020,France,,46.2276,2.2137,264,death
+3/18/2020,"Korea, South",,,,84,death
+3/18/2020,Switzerland,,46.8182,8.2275,33,death
+3/18/2020,United Kingdom,,49.3723,-2.3644,104,death
+3/18/2020,Netherlands,,52.1326,5.2913,58,death
+3/18/2020,Austria,,47.5162,14.5501,4,death
+3/18/2020,Norway,,60.472,8.4689,6,death
+3/18/2020,Belgium,,50.8333,4,14,death
+3/18/2020,Sweden,,63,16,10,death
+3/18/2020,Denmark,,56.2639,9.5018,4,death
+3/18/2020,Japan,,36,138,29,death
+3/18/2020,Malaysia,,2.5,112.5,2,death
+3/18/2020,Cruise Ship,,,,7,death
+3/18/2020,Canada,,49.2827,-123.1207,9,death
+3/18/2020,Portugal,,39.3999,-8.2245,2,death
+3/18/2020,Australia,,-33.8688,151.2093,6,death
+3/18/2020,Czechia,,,,0,death
+3/18/2020,Brazil,,-14.235,-51.9253,4,death
+3/18/2020,Qatar,,25.3548,51.1839,0,death
+3/18/2020,Israel,,31,35,0,death
+3/18/2020,Greece,,39.0742,21.8243,5,death
+3/18/2020,Ireland,,53.1424,-7.6921,2,death
+3/18/2020,Finland,,64,26,0,death
+3/18/2020,Singapore,,1.2833,103.8333,0,death
+3/18/2020,Pakistan,,30.3753,69.3451,1,death
+3/18/2020,Poland,,51.9194,19.1451,5,death
+3/18/2020,Slovenia,,46.1512,14.9955,1,death
+3/18/2020,Romania,,45.9432,24.9668,0,death
+3/18/2020,Estonia,,58.5953,25.0136,0,death
+3/18/2020,Bahrain,,26.0275,50.55,1,death
+3/18/2020,Iceland,,64.9631,-19.0208,0,death
+3/18/2020,Chile,,-35.6751,-71.543,0,death
+3/18/2020,Saudi Arabia,,24,45,0,death
+3/18/2020,Indonesia,,-0.7893,113.9213,19,death
+3/18/2020,Thailand,,15,101,1,death
+3/18/2020,Egypt,,26,30,6,death
+3/18/2020,Luxembourg,,49.8153,6.1296,2,death
+3/18/2020,Philippines,,13,122,14,death
+3/18/2020,Turkey,,38.9637,35.2433,2,death
+3/18/2020,Hong Kong,,22.3193,114.1694,4,death
+3/18/2020,Iraq,,33,44,12,death
+3/18/2020,Ecuador,,-1.8312,-78.1834,2,death
+3/18/2020,India,,21,78,3,death
+3/18/2020,Russia,,60,90,0,death
+3/18/2020,Peru,,-9.19,-75.0152,0,death
+3/18/2020,Kuwait,,29.5,47.75,0,death
+3/18/2020,Lebanon,,33.8547,35.8623,4,death
+3/18/2020,San Marino,,43.9424,12.4578,11,death
+3/18/2020,South Africa,,-30.5595,22.9375,0,death
+3/18/2020,United Arab Emirates,,24,54,0,death
+3/18/2020,Armenia,,40.0691,45.0382,0,death
+3/18/2020,Slovakia,,48.669,19.699,0,death
+3/18/2020,Taiwan,,23.7,121,1,death
+3/18/2020,Colombia,,4.5709,-74.2973,0,death
+3/18/2020,Mexico,,23.6345,-102.5528,0,death
+3/18/2020,Bulgaria,,42.7339,25.4858,2,death
+3/18/2020,Croatia,,45.1,15.2,0,death
+3/18/2020,Serbia,,44.0165,21.0059,0,death
+3/18/2020,Panama,,8.538,-80.7821,1,death
+3/18/2020,Argentina,,-38.4161,-63.6167,2,death
+3/18/2020,Vietnam,,16,108,0,death
+3/18/2020,Algeria,,28.0339,1.6596,7,death
+3/18/2020,Latvia,,56.8796,24.6032,0,death
+3/18/2020,Costa Rica,,9.7489,-83.7534,0,death
+3/18/2020,Brunei,,4.5353,114.7277,0,death
+3/18/2020,Albania,,41.1533,20.1683,2,death
+3/18/2020,Cyprus,,35.1264,33.4299,0,death
+3/18/2020,Hungary,,47.1625,19.5033,1,death
+3/18/2020,Jordan,,31.24,36.51,0,death
+3/18/2020,Morocco,,31.7917,-7.0926,2,death
+3/18/2020,Andorra,,42.5063,1.5218,0,death
+3/18/2020,Belarus,,53.7098,27.9534,0,death
+3/18/2020,Sri Lanka,,7,81,0,death
+3/18/2020,Uruguay,,-32.5228,-55.7658,0,death
+3/18/2020,Malta,,35.9375,14.3754,0,death
+3/18/2020,occupied Palestinian territory,,,,0,death
+3/18/2020,North Macedonia,,41.6086,21.7453,0,death
+3/18/2020,Bosnia and Herzegovina,,43.9159,17.6791,0,death
+3/18/2020,Oman,,21,57,0,death
+3/18/2020,Georgia,,42.3154,43.3569,0,death
+3/18/2020,Cambodia,,11.55,104.9167,0,death
+3/18/2020,Moldova,,47.4116,28.3699,1,death
+3/18/2020,Kazakhstan,,48.0196,66.9237,0,death
+3/18/2020,Senegal,,14.4974,-14.4524,0,death
+3/18/2020,Venezuela,,6.4238,-66.5897,0,death
+3/18/2020,Azerbaijan,,40.1431,47.5769,1,death
+3/18/2020,Lithuania,,55.1694,23.8813,0,death
+3/18/2020,Tunisia,,34,9,0,death
+3/18/2020,Liechtenstein,,47.14,9.55,0,death
+3/18/2020,Afghanistan,,33,65,0,death
+3/18/2020,Dominican Republic,,18.7357,-70.1627,1,death
+3/18/2020,Burkina Faso,,12.2383,-1.5616,1,death
+3/18/2020,New Zealand,,-40.9006,174.886,0,death
+3/18/2020,Cyprus,,,,0,death
+3/18/2020,Uzbekistan,,41.3775,64.5853,0,death
+3/18/2020,China,,30.9756,112.2707,0,death
+3/18/2020,Ukraine,,48.3794,31.1656,2,death
+3/18/2020,Bangladesh,,23.685,90.3563,1,death
+3/18/2020,Cameroon,,3.848,11.5021,0,death
+3/18/2020,Jamaica,,18.1096,-77.2975,0,death
+3/18/2020,Maldives,,3.2028,73.2207,0,death
+3/18/2020,Kosovo,,42.6026,20.903,0,death
+3/18/2020,Bolivia,,-16.2902,-63.5887,0,death
+3/18/2020,Paraguay,,-23.4425,-58.4438,0,death
+3/18/2020,Rwanda,,-1.9403,29.8739,0,death
+3/18/2020,Cuba,,22,-80,0,death
+3/18/2020,Honduras,,15.2,-86.2419,0,death
+3/18/2020,"Cote d'Ivoire",,,,0,death
+3/18/2020,Monaco,,43.7333,7.4167,0,death
+3/18/2020,Guatemala,,15.7835,-90.2308,1,death
+3/18/2020,Montenegro,,42.5,19.3,0,death
+3/18/2020,Nigeria,,9.082,8.6753,0,death
+3/18/2020,DR Congo,,,,0,death
+3/18/2020,Ghana,,7.9465,-1.0232,0,death
+3/18/2020,Kenya,,-0.0236,37.9062,0,death
+3/18/2020,Trinidad and Tobago,,10.6918,-61.2225,0,death
+3/18/2020,Ethiopia,,9.145,40.4897,0,death
+3/18/2020,Mongolia,,46.8625,103.8467,0,death
+3/18/2020,Seychelles,,-4.6796,55.492,0,death
+3/18/2020,Equatorial Guinea,,1.5,10,0,death
+3/18/2020,Guyana,,5,-58.75,1,death
+3/18/2020,Gabon,,-0.8037,11.6094,0,death
+3/18/2020,Kyrgyzstan,,,,0,death
+3/18/2020,Mauritius,,,,0,death
+3/18/2020,Tanzania,,-6.369,34.8888,0,death
+3/18/2020,Barbados,,13.1939,-59.5432,0,death
+3/18/2020,Benin,,9.3077,2.3158,0,death
+3/18/2020,Liberia,,6.4281,-9.4295,0,death
+3/18/2020,Mauritania,,21.0079,10.9408,0,death
+3/18/2020,Namibia,,-22.9576,18.4904,0,death
+3/18/2020,Saint Lucia,,13.9094,-60.9789,0,death
+3/18/2020,Sudan,,12.8628,30.2176,1,death
+3/18/2020,Zambia,,,,0,death
+3/18/2020,Antigua and Barbuda,,17.0608,-61.7964,0,death
+3/18/2020,The Bahamas,,,,0,death
+3/18/2020,Bhutan,,27.5142,90.4336,0,death
+3/18/2020,Central African Republic,,6.6111,20.9394,0,death
+3/18/2020,Republic of the Congo,,,,0,death
+3/18/2020,Djibouti,,,,0,death
+3/18/2020,Eswatini,,-26.5225,31.4659,0,death
+3/18/2020,Gambia,,,,0,death
+3/18/2020,Guinea,,9.9456,-9.6966,0,death
+3/18/2020,Saint Vincent and the Grenadines,,,,0,death
+3/18/2020,Somalia,,5.1521,46.1996,0,death
+3/18/2020,Suriname,,3.9193,-56.0278,0,death
+3/18/2020,Togo,,8.6195,0.8248,0,death
+3/18/2020,Vatican City,,,,0,death
+3/18/2020,Nepal,,28.1667,84.25,0,death
+3/18/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the cases cover several territories, as noted accordingly. ^ Reported confirmed cases. Actual case numbers are probably higher, but impossible to ascertain. ^ ""–"" denotes that no data is currently available for that territory, not that the value is zero. ^ Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Starting 27 Feb, only at-risk people showing symptoms have been tested.[2][3] ^ Includes all dependencies cases in Guam, Puerto Rico and Virgin Islands, in addition to cases identified on the Grand Princess. ^ Includes all cases overseas in regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and in collectivities of French Polynesia, New Caledonia, Saint Barthélemy and Saint Martin. ^ While there are more positive cases in Switzerland, the figure reported here is only the number of confirmed cases. ^ Includes all cases in the British Overseas Territories of Akrotiri and Dhekelia, the Cayman Islands, Gibraltar and Montserrat and the Crown dependencies of Guernsey and Jersey. ^ Includes all constituent countries cases in Aruba, Curaçao and Sint Maarten. ^ The Dutch Government",,,,0,death
+3/18/2020,China,,30.9756,112.2707,"69,614",recovered
+3/18/2020,Italy,,43,12,"4,025",recovered
+3/18/2020,Iran,,32,53,"5,710",recovered
+3/18/2020,Spain,,40,-4,"1,081",recovered
+3/18/2020,Germany,,51,9,105,recovered
+3/18/2020,France,,46.2276,2.2137,602,recovered
+3/18/2020,"Korea, South",,,,"1,540",recovered
+3/18/2020,Switzerland,,46.8182,8.2275,15,recovered
+3/18/2020,United Kingdom,,49.3723,-2.3644,65,recovered
+3/18/2020,Netherlands,,52.1326,5.2913,–,recovered
+3/18/2020,Austria,,47.5162,14.5501,9,recovered
+3/18/2020,Norway,,60.472,8.4689,1,recovered
+3/18/2020,Belgium,,50.8333,4,31,recovered
+3/18/2020,Sweden,,63,16,15,recovered
+3/18/2020,Denmark,,56.2639,9.5018,–,recovered
+3/18/2020,Japan,,36,138,144,recovered
+3/18/2020,Malaysia,,2.5,112.5,60,recovered
+3/18/2020,Cruise Ship,,,,527,recovered
+3/18/2020,Canada,,49.2827,-123.1207,12,recovered
+3/18/2020,Portugal,,39.3999,-8.2245,3,recovered
+3/18/2020,Australia,,-33.8688,151.2093,43,recovered
+3/18/2020,Czechia,,,,3,recovered
+3/18/2020,Brazil,,-14.235,-51.9253,2,recovered
+3/18/2020,Qatar,,25.3548,51.1839,4,recovered
+3/18/2020,Israel,,31,35,11,recovered
+3/18/2020,Greece,,39.0742,21.8243,14,recovered
+3/18/2020,Ireland,,53.1424,-7.6921,5,recovered
+3/18/2020,Finland,,64,26,10,recovered
+3/18/2020,Singapore,,1.2833,103.8333,117,recovered
+3/18/2020,Pakistan,,30.3753,69.3451,2,recovered
+3/18/2020,Poland,,51.9194,19.1451,1,recovered
+3/18/2020,Slovenia,,46.1512,14.9955,0,recovered
+3/18/2020,Romania,,45.9432,24.9668,19,recovered
+3/18/2020,Estonia,,58.5953,25.0136,1,recovered
+3/18/2020,Bahrain,,26.0275,50.55,95,recovered
+3/18/2020,Iceland,,64.9631,-19.0208,5,recovered
+3/18/2020,Chile,,-35.6751,-71.543,0,recovered
+3/18/2020,Saudi Arabia,,24,45,6,recovered
+3/18/2020,Indonesia,,-0.7893,113.9213,11,recovered
+3/18/2020,Thailand,,15,101,42,recovered
+3/18/2020,Egypt,,26,30,32,recovered
+3/18/2020,Luxembourg,,49.8153,6.1296,0,recovered
+3/18/2020,Philippines,,13,122,4,recovered
+3/18/2020,Turkey,,38.9637,35.2433,0,recovered
+3/18/2020,Hong Kong,,22.3193,114.1694,92,recovered
+3/18/2020,Iraq,,33,44,41,recovered
+3/18/2020,Ecuador,,-1.8312,-78.1834,0,recovered
+3/18/2020,India,,21,78,14,recovered
+3/18/2020,Russia,,60,90,5,recovered
+3/18/2020,Peru,,-9.19,-75.0152,1,recovered
+3/18/2020,Kuwait,,29.5,47.75,15,recovered
+3/18/2020,Lebanon,,33.8547,35.8623,4,recovered
+3/18/2020,San Marino,,43.9424,12.4578,4,recovered
+3/18/2020,South Africa,,-30.5595,22.9375,0,recovered
+3/18/2020,United Arab Emirates,,24,54,26,recovered
+3/18/2020,Armenia,,40.0691,45.0382,1,recovered
+3/18/2020,Slovakia,,48.669,19.699,0,recovered
+3/18/2020,Taiwan,,23.7,121,22,recovered
+3/18/2020,Colombia,,4.5709,-74.2973,1,recovered
+3/18/2020,Mexico,,23.6345,-102.5528,4,recovered
+3/18/2020,Bulgaria,,42.7339,25.4858,0,recovered
+3/18/2020,Croatia,,45.1,15.2,5,recovered
+3/18/2020,Serbia,,44.0165,21.0059,1,recovered
+3/18/2020,Panama,,8.538,-80.7821,0,recovered
+3/18/2020,Argentina,,-38.4161,-63.6167,3,recovered
+3/18/2020,Vietnam,,16,108,16,recovered
+3/18/2020,Algeria,,28.0339,1.6596,32,recovered
+3/18/2020,Latvia,,56.8796,24.6032,1,recovered
+3/18/2020,Costa Rica,,9.7489,-83.7534,0,recovered
+3/18/2020,Brunei,,4.5353,114.7277,0,recovered
+3/18/2020,Albania,,41.1533,20.1683,0,recovered
+3/18/2020,Cyprus,,35.1264,33.4299,0,recovered
+3/18/2020,Hungary,,47.1625,19.5033,2,recovered
+3/18/2020,Jordan,,31.24,36.51,1,recovered
+3/18/2020,Morocco,,31.7917,-7.0926,1,recovered
+3/18/2020,Andorra,,42.5063,1.5218,1,recovered
+3/18/2020,Belarus,,53.7098,27.9534,5,recovered
+3/18/2020,Sri Lanka,,7,81,3,recovered
+3/18/2020,Uruguay,,-32.5228,-55.7658,0,recovered
+3/18/2020,Malta,,35.9375,14.3754,2,recovered
+3/18/2020,occupied Palestinian territory,,,,0,recovered
+3/18/2020,North Macedonia,,41.6086,21.7453,1,recovered
+3/18/2020,Bosnia and Herzegovina,,43.9159,17.6791,2,recovered
+3/18/2020,Oman,,21,57,13,recovered
+3/18/2020,Georgia,,42.3154,43.3569,1,recovered
+3/18/2020,Cambodia,,11.55,104.9167,1,recovered
+3/18/2020,Moldova,,47.4116,28.3699,1,recovered
+3/18/2020,Kazakhstan,,48.0196,66.9237,0,recovered
+3/18/2020,Senegal,,14.4974,-14.4524,2,recovered
+3/18/2020,Venezuela,,6.4238,-66.5897,0,recovered
+3/18/2020,Azerbaijan,,40.1431,47.5769,10,recovered
+3/18/2020,Lithuania,,55.1694,23.8813,1,recovered
+3/18/2020,Tunisia,,34,9,0,recovered
+3/18/2020,Liechtenstein,,47.14,9.55,0,recovered
+3/18/2020,Afghanistan,,33,65,1,recovered
+3/18/2020,Dominican Republic,,18.7357,-70.1627,0,recovered
+3/18/2020,Burkina Faso,,12.2383,-1.5616,0,recovered
+3/18/2020,New Zealand,,-40.9006,174.886,0,recovered
+3/18/2020,Cyprus,,,,0,recovered
+3/18/2020,Uzbekistan,,41.3775,64.5853,0,recovered
+3/18/2020,China,,30.9756,112.2707,10,recovered
+3/18/2020,Ukraine,,48.3794,31.1656,0,recovered
+3/18/2020,Bangladesh,,23.685,90.3563,3,recovered
+3/18/2020,Cameroon,,3.848,11.5021,0,recovered
+3/18/2020,Jamaica,,18.1096,-77.2975,2,recovered
+3/18/2020,Maldives,,3.2028,73.2207,0,recovered
+3/18/2020,Kosovo,,42.6026,20.903,0,recovered
+3/18/2020,Bolivia,,-16.2902,-63.5887,0,recovered
+3/18/2020,Paraguay,,-23.4425,-58.4438,0,recovered
+3/18/2020,Rwanda,,-1.9403,29.8739,0,recovered
+3/18/2020,Cuba,,22,-80,0,recovered
+3/18/2020,Honduras,,15.2,-86.2419,0,recovered
+3/18/2020,"Cote d'Ivoire",,,,1,recovered
+3/18/2020,Monaco,,43.7333,7.4167,0,recovered
+3/18/2020,Guatemala,,15.7835,-90.2308,0,recovered
+3/18/2020,Montenegro,,42.5,19.3,0,recovered
+3/18/2020,Nigeria,,9.082,8.6753,1,recovered
+3/18/2020,DR Congo,,,,0,recovered
+3/18/2020,Ghana,,7.9465,-1.0232,0,recovered
+3/18/2020,Kenya,,-0.0236,37.9062,0,recovered
+3/18/2020,Trinidad and Tobago,,10.6918,-61.2225,0,recovered
+3/18/2020,Ethiopia,,9.145,40.4897,0,recovered
+3/18/2020,Mongolia,,46.8625,103.8467,0,recovered
+3/18/2020,Seychelles,,-4.6796,55.492,0,recovered
+3/18/2020,Equatorial Guinea,,1.5,10,0,recovered
+3/18/2020,Guyana,,5,-58.75,0,recovered
+3/18/2020,Gabon,,-0.8037,11.6094,0,recovered
+3/18/2020,Kyrgyzstan,,,,0,recovered
+3/18/2020,Mauritius,,,,0,recovered
+3/18/2020,Tanzania,,-6.369,34.8888,0,recovered
+3/18/2020,Barbados,,13.1939,-59.5432,0,recovered
+3/18/2020,Benin,,9.3077,2.3158,0,recovered
+3/18/2020,Liberia,,6.4281,-9.4295,0,recovered
+3/18/2020,Mauritania,,21.0079,10.9408,0,recovered
+3/18/2020,Namibia,,-22.9576,18.4904,0,recovered
+3/18/2020,Saint Lucia,,13.9094,-60.9789,0,recovered
+3/18/2020,Sudan,,12.8628,30.2176,0,recovered
+3/18/2020,Zambia,,,,0,recovered
+3/18/2020,Antigua and Barbuda,,17.0608,-61.7964,0,recovered
+3/18/2020,The Bahamas,,,,0,recovered
+3/18/2020,Bhutan,,27.5142,90.4336,0,recovered
+3/18/2020,Central African Republic,,6.6111,20.9394,0,recovered
+3/18/2020,Republic of the Congo,,,,0,recovered
+3/18/2020,Djibouti,,,,0,recovered
+3/18/2020,Eswatini,,-26.5225,31.4659,0,recovered
+3/18/2020,Gambia,,,,0,recovered
+3/18/2020,Guinea,,9.9456,-9.6966,0,recovered
+3/18/2020,Saint Vincent and the Grenadines,,,,0,recovered
+3/18/2020,Somalia,,5.1521,46.1996,0,recovered
+3/18/2020,Suriname,,3.9193,-56.0278,0,recovered
+3/18/2020,Togo,,8.6195,0.8248,0,recovered
+3/18/2020,Vatican City,,,,0,recovered
+3/18/2020,Nepal,,28.1667,84.25,1,recovered
+3/18/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the cases cover several territories, as noted accordingly. ^ Reported confirmed cases. Actual case numbers are probably higher, but impossible to ascertain. ^ ""–"" denotes that no data is currently available for that territory, not that the value is zero. ^ Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Starting 27 Feb, only at-risk people showing symptoms have been tested.[2][3] ^ Includes all dependencies cases in Guam, Puerto Rico and Virgin Islands, in addition to cases identified on the Grand Princess. ^ Includes all cases overseas in regions of French Guiana, Guadeloupe, Martinique, Mayotte and Réunion, and in collectivities of French Polynesia, New Caledonia, Saint Barthélemy and Saint Martin. ^ While there are more positive cases in Switzerland, the figure reported here is only the number of confirmed cases. ^ Includes all cases in the British Overseas Territories of Akrotiri and Dhekelia, the Cayman Islands, Gibraltar and Montserrat and the Crown dependencies of Guernsey and Jersey. ^ Includes all constituent countries cases in Aruba, Curaçao and Sint Maarten. ^ The Dutch Government",,,,0,recovered
+3/18/2020,US,Alabama,32.3182,-86.9023,46,confirmed
+3/18/2020,US,Alaska,61.3707,-152.4044,6,confirmed
+3/18/2020,US,American Samoa,AmericanSamoa,AmericanSamoa,0,confirmed
+3/18/2020,US,Arizona,33.7298,-111.4312,27,confirmed
+3/18/2020,US,Arkansas,34.9697,-92.3731,30,confirmed
+3/18/2020,US,California,36.1162,-119.6816,785,confirmed
+3/18/2020,US,Colorado,39.0598,-105.3111,186,confirmed
+3/18/2020,US,Connecticut,41.5978,-72.7554,96,confirmed
+3/18/2020,US,Delaware,39.3185,-75.5071,26,confirmed
+3/18/2020,US,District of Columbia,38.8974,-77.0268,31,confirmed
+3/18/2020,US,Florida,27.7663,-81.6868,317,confirmed
+3/18/2020,US,Georgia,33.0406,-83.6431,199,confirmed
+3/18/2020,US,Guam,13.4443,144.7937,3,confirmed
+3/18/2020,US,Hawaii,21.0943,-157.4983,14,confirmed
+3/18/2020,US,Idaho,44.2405,-114.4788,9,confirmed
+3/18/2020,US,Illinois,40.3495,-88.9861,288,confirmed
+3/18/2020,US,Indiana,39.8494,-86.2583,39,confirmed
+3/18/2020,US,Iowa,42.0115,-93.2105,29,confirmed
+3/18/2020,US,Kansas,38.5266,-96.7265,18,confirmed
+3/18/2020,US,Kentucky,37.6681,-84.6701,27,confirmed
+3/18/2020,US,Louisiana,31.1695,-91.8678,257,confirmed
+3/18/2020,US,Maine,44.6939,-69.3819,43,confirmed
+3/18/2020,US,Maryland,39.0639,-76.8021,85,confirmed
+3/18/2020,US,Massachusetts,42.2302,-71.5301,218,confirmed
+3/18/2020,US,Michigan,43.3266,-84.5361,83,confirmed
+3/18/2020,US,Minnesota,45.6945,-93.9002,77,confirmed
+3/18/2020,US,Mississippi,32.7416,-89.6787,36,confirmed
+3/18/2020,US,Missouri,38.4561,-92.2884,18,confirmed
+3/18/2020,US,Montana,46.9219,-110.4544,11,confirmed
+3/18/2020,US,Nebraska,41.1254,-98.2681,24,confirmed
+3/18/2020,US,Nevada,38.3135,-117.0554,55,confirmed
+3/18/2020,US,New Hampshire,43.4525,-71.5639,26,confirmed
+3/18/2020,US,New Jersey,40.2989,-74.521,427,confirmed
+3/18/2020,US,New Mexico,34.8405,-106.2485,28,confirmed
+3/18/2020,US,New York,42.1657,-74.9481,"2,481",confirmed
+3/18/2020,US,North Carolina,35.6301,-79.8064,71,confirmed
+3/18/2020,US,North Dakota,47.5289,-99.784,6,confirmed
+3/18/2020,US,N. Mariana Islands,N.MarianaIslands,N.MarianaIslands,0,confirmed
+3/18/2020,US,Ohio,40.3888,-82.7649,88,confirmed
+3/18/2020,US,Oklahoma,35.5653,-96.9289,31,confirmed
+3/18/2020,US,Oregon,44.572,-122.0709,88,confirmed
+3/18/2020,US,Pennsylvania,40.5908,-77.2098,153,confirmed
+3/18/2020,US,Puerto Rico,18.2208,-66.5901,5,confirmed
+3/18/2020,US,Rhode Island,41.6809,-71.5118,33,confirmed
+3/18/2020,US,South Carolina,33.8569,-80.945,60,confirmed
+3/18/2020,US,South Dakota,44.2998,-99.4388,11,confirmed
+3/18/2020,US,Tennessee,35.7478,-86.6923,98,confirmed
+3/18/2020,US,Texas,31.0545,-97.5635,169,confirmed
+3/18/2020,US,U.S. Virgin Islands,U.S.VirginIslands,U.S.VirginIslands,1,confirmed
+3/18/2020,US,Utah,40.15,-111.8624,53,confirmed
+3/18/2020,US,Vermont,44.0459,-72.7107,19,confirmed
+3/18/2020,US,Virginia,37.7693,-78.17,77,confirmed
+3/18/2020,US,Washington,47.4009,-121.4905,1187,confirmed
+3/18/2020,US,West Virginia,38.4912,-80.9545,1,confirmed
+3/18/2020,US,Wisconsin,44.2685,-89.6165,107,confirmed
+3/18/2020,US,Wyoming,42.756,-107.3025,15,confirmed
+3/18/2020,US,As of 18 March 2020 (UTC) · History of cases: United States,Asof18March2020(UTC)·Historyofcases:UnitedStates,Asof18March2020(UTC)·Historyofcases:UnitedStates,As of 18 March 2020 (UTC) · History of cases: United States,confirmed
+3/18/2020,US,Alabama,32.3182,-86.9023,0,recovered
+3/18/2020,US,Alaska,61.3707,-152.4044,0,recovered
+3/18/2020,US,American Samoa,AmericanSamoa,AmericanSamoa,0,recovered
+3/18/2020,US,Arizona,33.7298,-111.4312,1,recovered
+3/18/2020,US,Arkansas,34.9697,-92.3731,0,recovered
+3/18/2020,US,California,36.1162,-119.6816,6,recovered
+3/18/2020,US,Colorado,39.0598,-105.3111,0,recovered
+3/18/2020,US,Connecticut,41.5978,-72.7554,0,recovered
+3/18/2020,US,Delaware,39.3185,-75.5071,0,recovered
+3/18/2020,US,District of Columbia,38.8974,-77.0268,0,recovered
+3/18/2020,US,Florida,27.7663,-81.6868,0,recovered
+3/18/2020,US,Georgia,33.0406,-83.6431,0,recovered
+3/18/2020,US,Guam,13.4443,144.7937,0,recovered
+3/18/2020,US,Hawaii,21.0943,-157.4983,0,recovered
+3/18/2020,US,Idaho,44.2405,-114.4788,0,recovered
+3/18/2020,US,Illinois,40.3495,-88.9861,2,recovered
+3/18/2020,US,Indiana,39.8494,-86.2583,0,recovered
+3/18/2020,US,Iowa,42.0115,-93.2105,0,recovered
+3/18/2020,US,Kansas,38.5266,-96.7265,0,recovered
+3/18/2020,US,Kentucky,37.6681,-84.6701,0,recovered
+3/18/2020,US,Louisiana,31.1695,-91.8678,0,recovered
+3/18/2020,US,Maine,44.6939,-69.3819,0,recovered
+3/18/2020,US,Maryland,39.0639,-76.8021,4,recovered
+3/18/2020,US,Massachusetts,42.2302,-71.5301,1,recovered
+3/18/2020,US,Michigan,43.3266,-84.5361,0,recovered
+3/18/2020,US,Minnesota,45.6945,-93.9002,0,recovered
+3/18/2020,US,Mississippi,32.7416,-89.6787,0,recovered
+3/18/2020,US,Missouri,38.4561,-92.2884,0,recovered
+3/18/2020,US,Montana,46.9219,-110.4544,0,recovered
+3/18/2020,US,Nebraska,41.1254,-98.2681,0,recovered
+3/18/2020,US,Nevada,38.3135,-117.0554,0,recovered
+3/18/2020,US,New Hampshire,43.4525,-71.5639,0,recovered
+3/18/2020,US,New Jersey,40.2989,-74.521,1,recovered
+3/18/2020,US,New Mexico,34.8405,-106.2485,0,recovered
+3/18/2020,US,New York,42.1657,-74.9481,1,recovered
+3/18/2020,US,North Carolina,35.6301,-79.8064,0,recovered
+3/18/2020,US,North Dakota,47.5289,-99.784,0,recovered
+3/18/2020,US,N. Mariana Islands,N.MarianaIslands,N.MarianaIslands,0,recovered
+3/18/2020,US,Ohio,40.3888,-82.7649,0,recovered
+3/18/2020,US,Oklahoma,35.5653,-96.9289,0,recovered
+3/18/2020,US,Oregon,44.572,-122.0709,0,recovered
+3/18/2020,US,Pennsylvania,40.5908,-77.2098,0,recovered
+3/18/2020,US,Puerto Rico,18.2208,-66.5901,0,recovered
+3/18/2020,US,Rhode Island,41.6809,-71.5118,0,recovered
+3/18/2020,US,South Carolina,33.8569,-80.945,0,recovered
+3/18/2020,US,South Dakota,44.2998,-99.4388,0,recovered
+3/18/2020,US,Tennessee,35.7478,-86.6923,0,recovered
+3/18/2020,US,Texas,31.0545,-97.5635,0,recovered
+3/18/2020,US,U.S. Virgin Islands,U.S.VirginIslands,U.S.VirginIslands,0,recovered
+3/18/2020,US,Utah,40.15,-111.8624,0,recovered
+3/18/2020,US,Vermont,44.0459,-72.7107,0,recovered
+3/18/2020,US,Virginia,37.7693,-78.17,1,recovered
+3/18/2020,US,Washington,47.4009,-121.4905,89,recovered
+3/18/2020,US,West Virginia,38.4912,-80.9545,0,recovered
+3/18/2020,US,Wisconsin,44.2685,-89.6165,1,recovered
+3/18/2020,US,Wyoming,42.756,-107.3025,0,recovered
+3/18/2020,US,As of 18 March 2020 (UTC) · History of cases: United States,Asof18March2020(UTC)·Historyofcases:UnitedStates,Asof18March2020(UTC)·Historyofcases:UnitedStates,As of 18 March 2020 (UTC) · History of cases: United States,recovered
+3/18/2020,US,Alabama,32.3182,-86.9023,0,death
+3/18/2020,US,Alaska,61.3707,-152.4044,0,death
+3/18/2020,US,American Samoa,AmericanSamoa,AmericanSamoa,0,death
+3/18/2020,US,Arizona,33.7298,-111.4312,0,death
+3/18/2020,US,Arkansas,34.9697,-92.3731,0,death
+3/18/2020,US,California,36.1162,-119.6816,16,death
+3/18/2020,US,Colorado,39.0598,-105.3111,2,death
+3/18/2020,US,Connecticut,41.5978,-72.7554,1,death
+3/18/2020,US,Delaware,39.3185,-75.5071,0,death
+3/18/2020,US,District of Columbia,38.8974,-77.0268,0,death
+3/18/2020,US,Florida,27.7663,-81.6868,7,death
+3/18/2020,US,Georgia,33.0406,-83.6431,1,death
+3/18/2020,US,Guam,13.4443,144.7937,0,death
+3/18/2020,US,Hawaii,21.0943,-157.4983,0,death
+3/18/2020,US,Idaho,44.2405,-114.4788,0,death
+3/18/2020,US,Illinois,40.3495,-88.9861,1,death
+3/18/2020,US,Indiana,39.8494,-86.2583,2,death
+3/18/2020,US,Iowa,42.0115,-93.2105,0,death
+3/18/2020,US,Kansas,38.5266,-96.7265,1,death
+3/18/2020,US,Kentucky,37.6681,-84.6701,1,death
+3/18/2020,US,Louisiana,31.1695,-91.8678,6,death
+3/18/2020,US,Maine,44.6939,-69.3819,0,death
+3/18/2020,US,Maryland,39.0639,-76.8021,0,death
+3/18/2020,US,Massachusetts,42.2302,-71.5301,0,death
+3/18/2020,US,Michigan,43.3266,-84.5361,1,death
+3/18/2020,US,Minnesota,45.6945,-93.9002,0,death
+3/18/2020,US,Mississippi,32.7416,-89.6787,0,death
+3/18/2020,US,Missouri,38.4561,-92.2884,0,death
+3/18/2020,US,Montana,46.9219,-110.4544,0,death
+3/18/2020,US,Nebraska,41.1254,-98.2681,0,death
+3/18/2020,US,Nevada,38.3135,-117.0554,1,death
+3/18/2020,US,New Hampshire,43.4525,-71.5639,0,death
+3/18/2020,US,New Jersey,40.2989,-74.521,5,death
+3/18/2020,US,New Mexico,34.8405,-106.2485,0,death
+3/18/2020,US,New York,42.1657,-74.9481,16,death
+3/18/2020,US,North Carolina,35.6301,-79.8064,0,death
+3/18/2020,US,North Dakota,47.5289,-99.784,0,death
+3/18/2020,US,N. Mariana Islands,N.MarianaIslands,N.MarianaIslands,0,death
+3/18/2020,US,Ohio,40.3888,-82.7649,0,death
+3/18/2020,US,Oklahoma,35.5653,-96.9289,0,death
+3/18/2020,US,Oregon,44.572,-122.0709,2,death
+3/18/2020,US,Pennsylvania,40.5908,-77.2098,1,death
+3/18/2020,US,Puerto Rico,18.2208,-66.5901,0,death
+3/18/2020,US,Rhode Island,41.6809,-71.5118,0,death
+3/18/2020,US,South Carolina,33.8569,-80.945,2,death
+3/18/2020,US,South Dakota,44.2998,-99.4388,1,death
+3/18/2020,US,Tennessee,35.7478,-86.6923,0,death
+3/18/2020,US,Texas,31.0545,-97.5635,3,death
+3/18/2020,US,U.S. Virgin Islands,U.S.VirginIslands,U.S.VirginIslands,0,death
+3/18/2020,US,Utah,40.15,-111.8624,0,death
+3/18/2020,US,Vermont,44.0459,-72.7107,0,death
+3/18/2020,US,Virginia,37.7693,-78.17,2,death
+3/18/2020,US,Washington,47.4009,-121.4905,66,death
+3/18/2020,US,West Virginia,38.4912,-80.9545,0,death
+3/18/2020,US,Wisconsin,44.2685,-89.6165,0,death
+3/18/2020,US,Wyoming,42.756,-107.3025,0,death
+3/18/2020,US,As of 18 March 2020 (UTC) · History of cases: United States,Asof18March2020(UTC)·Historyofcases:UnitedStates,Asof18March2020(UTC)·Historyofcases:UnitedStates,As of 18 March 2020 (UTC) · History of cases: United States,death
