@@ -1,6 +1,6 @@
 ﻿Date,State,Confirmed,Deaths,Recovered
 3/17/2020,Alabama,39,0,0
-3/18/2020,Alabama,46,0,0
+3/18/2020,Alabama,51,0,0
 3/17/2020,Alaska,3,0,0
 3/18/2020,Alaska,6,0,0
 3/17/2020,American Samoa,0,0,0
@@ -12,9 +12,9 @@
 3/17/2020,California,454,12,6
 3/18/2020,California,785,16,6
 3/17/2020,Colorado,160,1,0
-3/18/2020,Colorado,186,2,0
+3/18/2020,Colorado,216,2,0
 3/17/2020,Connecticut,68,0,0
-3/18/2020,Connecticut,96,1,0
+3/18/2020,Connecticut,97,1,0
 3/17/2020,Delaware,8,0,0
 3/18/2020,Delaware,26,0,0
 3/17/2020,District of Columbia,22,0,0
@@ -34,13 +34,13 @@
 3/17/2020,Indiana,30,2,0
 3/18/2020,Indiana,39,2,0
 3/17/2020,Iowa,17,0,0
-3/18/2020,Iowa,29,0,0
+3/18/2020,Iowa,38,0,0
 3/17/2020,Kansas,16,1,0
 3/18/2020,Kansas,18,1,0
 3/17/2020,Kentucky,25,1,1
 3/18/2020,Kentucky,27,1,0
 3/17/2020,Louisiana,171,4,0
-3/18/2020,Louisiana,257,6,0
+3/18/2020,Louisiana,280,7,0
 3/17/2020,Maine,3,0,0
 3/18/2020,Maine,43,0,0
 3/17/2020,Maryland,57,0,3
@@ -48,7 +48,7 @@
 3/17/2020,Massachusetts,197,0,1
 3/18/2020,Massachusetts,218,0,1
 3/17/2020,Michigan,65,0,0
-3/18/2020,Michigan,83,1,0
+3/18/2020,Michigan,111,1,0
 3/17/2020,Minnesota,60,0,0
 3/18/2020,Minnesota,77,0,0
 3/17/2020,Mississippi,21,0,0
@@ -70,7 +70,7 @@
 3/17/2020,New Mexico,10,0,0
 3/18/2020,New Mexico,28,0,0
 3/17/2020,New York,"1,374",12,0
-3/18/2020,New York,"2,481",16,1
+3/18/2020,New York,2481,16,1
 3/17/2020,North Carolina,40,0,0
 3/18/2020,North Carolina,71,0,0
 3/17/2020,North Dakota,1,0,0
@@ -82,7 +82,7 @@
 3/17/2020,Oregon,47,1,0
 3/18/2020,Oregon,88,2,0
 3/17/2020,Pennsylvania,96,0,0
-3/18/2020,Pennsylvania,153,1,0
+3/18/2020,Pennsylvania,133,1,0
 3/17/2020,Puerto Rico,3,0,0
 3/18/2020,Puerto Rico,5,0,0
 3/17/2020,Rhode Island,21,0,0

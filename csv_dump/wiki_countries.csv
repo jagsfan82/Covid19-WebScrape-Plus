@@ -1,305 +1,308 @@
 ﻿Date,Country,Confirmed,Deaths,Recovered
 3/17/2020,Afghanistan,21,0,1
-3/18/2020,Afghanistan,22,0,1
+3/18/2020,Afghanistan,22,0,
 3/17/2020,Albania,55,1,0
-3/18/2020,Albania,59,2,0
+3/18/2020,Albania,59,2,
 3/17/2020,Algeria,61,5,10
-3/18/2020,Algeria,75,7,32
+3/18/2020,Algeria,75,7,
 3/17/2020,Andorra,14,0,0
-3/18/2020,Andorra,53,0,1
+3/18/2020,Andorra,53,0,
 3/17/2020,Antigua and Barbuda,1,0,0
-3/18/2020,Antigua and Barbuda,1,0,0
+3/18/2020,Antigua and Barbuda,1,0,
 3/17/2020,Argentina,79,2,3
-3/18/2020,Argentina,79,2,3
+3/18/2020,Argentina,97,2,
 3/17/2020,Armenia,72,0,1
-3/18/2020,Armenia,110,0,1
+3/18/2020,Armenia,110,0,
 3/17/2020,Australia,452,5,27
-3/18/2020,Australia,565,6,43
+3/18/2020,Australia,596,6,2
 3/17/2020,Austria,"1,332",3,9
-3/18/2020,Austria,"1,646",4,9
+3/18/2020,Austria,"1,646",4,
 3/17/2020,Azerbaijan,34,1,6
-3/18/2020,Azerbaijan,34,1,10
+3/18/2020,Azerbaijan,34,1,
 3/17/2020,Bahamas,1,0,0
-3/18/2020,Bahamas,1,0,0
+3/18/2020,Bahamas,1,0,
 3/17/2020,Bahrain,242,1,88
-3/18/2020,Bahrain,256,1,95
+3/18/2020,Bahrain,256,1,
 3/17/2020,Bangladesh,8,0,3
-3/18/2020,Bangladesh,14,1,3
+3/18/2020,Bangladesh,14,1,
 3/17/2020,Barbados,2,0,0
-3/18/2020,Barbados,2,0,0
+3/18/2020,Barbados,2,0,
 3/17/2020,Belarus,36,0,3
-3/18/2020,Belarus,51,0,5
+3/18/2020,Belarus,51,0,
 3/17/2020,Belgium,"1,243",10,14
-3/18/2020,Belgium,"1,486",14,31
+3/18/2020,Belgium,"1,486",14,
 3/17/2020,Benin,1,0,0
-3/18/2020,Benin,2,0,0
+3/18/2020,Benin,2,0,
 3/17/2020,Bhutan,1,0,0
-3/18/2020,Bhutan,1,0,0
+3/18/2020,Bhutan,1,0,
 3/17/2020,Bolivia,12,0,0
-3/18/2020,Bolivia,12,0,0
+3/18/2020,Bolivia,12,0,
 3/17/2020,Bosnia and Herzegovina,34,0,2
-3/18/2020,Bosnia and Herzegovina,39,0,2
+3/18/2020,Bosnia and Herzegovina,39,0,
 3/17/2020,Brazil,346,1,2
-3/18/2020,Brazil,509,4,2
+3/18/2020,Brazil,529,4,
 3/17/2020,Brunei,56,0,0
-3/18/2020,Brunei,68,0,0
+3/18/2020,Brunei,68,0,
 3/17/2020,Bulgaria,81,2,0
-3/18/2020,Bulgaria,92,2,0
+3/18/2020,Bulgaria,92,2,
 3/17/2020,Burkina Faso,15,0,0
-3/18/2020,Burkina Faso,20,1,0
+3/18/2020,Burkina Faso,20,1,
 3/17/2020,Cambodia,33,0,1
-3/18/2020,Cambodia,37,0,1
+3/18/2020,Cambodia,37,0,
 3/17/2020,Cameroon,10,0,0
-3/18/2020,Cameroon,13,0,0
+3/18/2020,Cameroon,13,0,
 3/17/2020,Canada,598,8,11
-3/18/2020,Canada,727,9,12
+3/18/2020,Canada,727,9,3
 3/17/2020,Central African Republic,1,0,0
-3/18/2020,Central African Republic,1,0,0
+3/18/2020,Central African Republic,1,0,
 3/17/2020,Chile,201,0,0
-3/18/2020,Chile,238,0,0
+3/18/2020,Chile,238,0,
 3/17/2020,China,"80,894","3,237","69,614"
-3/18/2020,China,"80,894","3,237","69,614"
+3/18/2020,China,"80,928","3,245",23
 3/17/2020,Colombia,65,0,1
-3/18/2020,Colombia,93,0,1
+3/18/2020,Colombia,93,0,
 3/17/2020,Costa Rica,50,0,0
-3/18/2020,Costa Rica,69,0,0
+3/18/2020,Costa Rica,69,1,
 3/17/2020,Croatia,69,0,5
-3/18/2020,Croatia,89,0,5
+3/18/2020,Croatia,89,0,
 3/17/2020,Cuba,5,0,0
-3/18/2020,Cuba,10,0,0
+3/18/2020,Cuba,10,0,
 3/17/2020,Cyprus,49,0,0
-3/18/2020,Cyprus,58,0,0
+3/18/2020,Cyprus,58,0,
 3/17/2020,Czech Republic,434,0,3
-3/18/2020,Czech Republic,522,0,3
+3/18/2020,Czech Republic,522,0,
 3/17/2020,Denmark,"1,025",4,
 3/18/2020,Denmark,"1,117",4,
 3/17/2020,Diamond Princess,712,7,508
-3/18/2020,Diamond Princess,712,7,527
-3/18/2020,Djibouti,1,0,0
+3/18/2020,Diamond Princess,712,7,
+3/18/2020,Djibouti,1,0,
 3/17/2020,Dominican Republic,21,1,0
-3/18/2020,Dominican Republic,21,1,0
+3/18/2020,Dominican Republic,34,2,
 3/17/2020,DR Congo,3,0,0
-3/18/2020,DR Congo,7,0,0
+3/18/2020,DR Congo,7,0,
 3/17/2020,Ecuador,111,2,0
-3/18/2020,Ecuador,155,2,0
+3/18/2020,Ecuador,155,2,
 3/17/2020,Egypt,196,6,32
-3/18/2020,Egypt,210,6,32
+3/18/2020,Egypt,210,6,
+3/18/2020,El Salvador,1,0,
 3/17/2020,Equatorial Guinea,1,0,0
-3/18/2020,Equatorial Guinea,4,0,0
+3/18/2020,Equatorial Guinea,4,0,
 3/17/2020,Estonia,225,0,1
-3/18/2020,Estonia,258,0,1
+3/18/2020,Estonia,258,0,
 3/17/2020,Eswatini,1,0,0
-3/18/2020,Eswatini,1,0,0
+3/18/2020,Eswatini,1,0,
 3/17/2020,Ethiopia,5,0,0
-3/18/2020,Ethiopia,6,0,0
+3/18/2020,Ethiopia,6,0,
+3/18/2020,Fiji,1,0,
 3/17/2020,Finland,322,0,10
-3/18/2020,Finland,359,0,10
+3/18/2020,Finland,359,0,0
 3/17/2020,France,"7,730",175,602
-3/18/2020,France,"9,134",264,602
+3/18/2020,France,"9,134",264,39
 3/17/2020,Gabon,1,0,0
-3/18/2020,Gabon,3,0,0
+3/18/2020,Gabon,3,0,
 3/17/2020,Gambia,1,0,0
-3/18/2020,Gambia,1,0,0
+3/18/2020,Gambia,1,0,
 3/17/2020,Georgia,35,0,1
-3/18/2020,Georgia,38,0,1
+3/18/2020,Georgia,38,0,
 3/17/2020,Germany,"9,360",26,71
-3/18/2020,Germany,"12,327",28,105
+3/18/2020,Germany,"12,327",28,3
 3/17/2020,Ghana,6,0,0
-3/18/2020,Ghana,7,0,0
+3/18/2020,Ghana,7,0,
 3/17/2020,Greece,387,5,10
-3/18/2020,Greece,418,5,14
+3/18/2020,Greece,418,5,
 3/17/2020,Guatemala,8,1,0
-3/18/2020,Guatemala,8,1,0
+3/18/2020,Guatemala,8,1,
 3/17/2020,Guinea,1,0,0
-3/18/2020,Guinea,1,0,0
+3/18/2020,Guinea,1,0,
 3/17/2020,Guyana,7,1,0
-3/18/2020,Guyana,4,1,0
+3/18/2020,Guyana,4,1,
 3/17/2020,Honduras,6,0,0
-3/18/2020,Honduras,9,0,0
+3/18/2020,Honduras,9,0,
 3/17/2020,Hong Kong,167,4,92
-3/18/2020,Hong Kong,181,4,92
+3/18/2020,Hong Kong,192,4,
 3/17/2020,Hungary,50,1,2
-3/18/2020,Hungary,58,1,2
+3/18/2020,Hungary,58,1,
 3/17/2020,Iceland,247,0,0
-3/18/2020,Iceland,250,0,5
+3/18/2020,Iceland,250,0,0
 3/17/2020,India,147,3,14
-3/18/2020,India,151,3,14
+3/18/2020,India,151,3,
 3/17/2020,Indonesia,172,5,9
-3/18/2020,Indonesia,227,19,11
+3/18/2020,Indonesia,227,19,
 3/17/2020,Iran,"16,169",988,"5,389"
-3/18/2020,Iran,"17,361","1,135","5,710"
+3/18/2020,Iran,"17,361","1,135",140
 3/17/2020,Iraq,154,11,41
-3/18/2020,Iraq,164,12,41
+3/18/2020,Iraq,164,12,
 3/17/2020,Ireland,292,2,5
-3/18/2020,Ireland,366,2,5
+3/18/2020,Ireland,366,2,
 3/17/2020,Israel,324,0,11
-3/18/2020,Israel,433,0,11
+3/18/2020,Israel,433,0,0
 3/17/2020,Italy,"31,506","2,503","2,941"
-3/18/2020,Italy,"35,713","2,978","4,025"
+3/18/2020,Italy,"35,713","2,978",492
 3/17/2020,Ivory Coast,4,0,0
-3/18/2020,Ivory Coast,9,0,1
+3/18/2020,Ivory Coast,9,0,
 3/17/2020,Jamaica,15,0,2
-3/18/2020,Jamaica,13,0,2
+3/18/2020,Jamaica,15,1,
 3/17/2020,Japan,878,28,164
-3/18/2020,Japan,899,29,144
+3/18/2020,Japan,899,29,2
 3/17/2020,Jordan,48,0,1
-3/18/2020,Jordan,56,0,1
+3/18/2020,Jordan,56,0,
 3/17/2020,Kazakhstan,33,0,0
-3/18/2020,Kazakhstan,36,0,0
+3/18/2020,Kazakhstan,36,0,
 3/17/2020,Kenya,4,0,0
-3/18/2020,Kenya,7,0,0
+3/18/2020,Kenya,7,0,
 3/17/2020,Kosovo,13,0,0
-3/18/2020,Kosovo,13,0,0
+3/18/2020,Kosovo,13,0,
 3/17/2020,Kuwait,130,0,12
-3/18/2020,Kuwait,142,0,15
-3/18/2020,Kyrgyzstan,3,0,0
+3/18/2020,Kuwait,142,0,
+3/18/2020,Kyrgyzstan,3,0,
 3/17/2020,Latvia,60,0,1
-3/18/2020,Latvia,71,0,1
+3/18/2020,Latvia,71,0,
 3/17/2020,Lebanon,125,4,4
-3/18/2020,Lebanon,133,4,4
+3/18/2020,Lebanon,133,4,
 3/17/2020,Liberia,2,0,0
-3/18/2020,Liberia,2,0,0
+3/18/2020,Liberia,2,0,
 3/17/2020,Liechtenstein,7,0,0
-3/18/2020,Liechtenstein,28,0,0
+3/18/2020,Liechtenstein,28,0,
 3/17/2020,Lithuania,26,0,1
-3/18/2020,Lithuania,33,0,1
+3/18/2020,Lithuania,33,0,
 3/17/2020,Luxembourg,140,1,0
-3/18/2020,Luxembourg,203,2,0
+3/18/2020,Luxembourg,203,2,
 3/17/2020,Macau,13,0,10
-3/18/2020,Macau,17,0,10
+3/18/2020,Macau,17,0,
 3/17/2020,Malaysia,673,2,49
-3/18/2020,Malaysia,790,2,60
+3/18/2020,Malaysia,790,2,
 3/17/2020,Maldives,13,0,0
-3/18/2020,Maldives,13,0,0
+3/18/2020,Maldives,13,0,
 3/17/2020,Malta,38,0,2
-3/18/2020,Malta,48,0,2
+3/18/2020,Malta,48,0,
 3/17/2020,Mauritania,1,0,0
-3/18/2020,Mauritania,2,0,0
-3/18/2020,Mauritius,3,0,0
+3/18/2020,Mauritania,2,0,
+3/18/2020,Mauritius,3,0,
 3/17/2020,Mexico,82,0,4
-3/18/2020,Mexico,93,0,4
+3/18/2020,Mexico,93,0,
 3/17/2020,Moldova,29,0,1
-3/18/2020,Moldova,36,1,1
+3/18/2020,Moldova,36,1,
 3/17/2020,Monaco,9,0,0
-3/18/2020,Monaco,9,0,0
+3/18/2020,Monaco,9,0,
 3/17/2020,Mongolia,5,0,0
-3/18/2020,Mongolia,6,0,0
+3/18/2020,Mongolia,6,0,
 3/17/2020,Montenegro,2,0,0
-3/18/2020,Montenegro,8,0,0
+3/18/2020,Montenegro,8,0,
 3/17/2020,Morocco,44,2,1
-3/18/2020,Morocco,54,2,1
+3/18/2020,Morocco,54,2,
 3/17/2020,Namibia,2,0,0
-3/18/2020,Namibia,2,0,0
+3/18/2020,Namibia,2,0,
 3/17/2020,Nepal,1,0,1
-3/18/2020,Nepal,1,0,1
+3/18/2020,Nepal,1,0,
 3/17/2020,Netherlands,"1,711",43,
 3/18/2020,Netherlands,"2,059",58,
 3/17/2020,New Zealand,20,0,0
-3/18/2020,New Zealand,20,0,0
+3/18/2020,New Zealand,28,0,0
+3/18/2020,Nicaragua,1,0,
 3/17/2020,Nigeria,3,0,1
-3/18/2020,Nigeria,8,0,1
+3/18/2020,Nigeria,8,0,
 3/17/2020,North Macedonia,32,0,1
-3/18/2020,North Macedonia,43,0,1
+3/18/2020,North Macedonia,43,0,
 3/17/2020,Northern Cyprus,7,0,0
-3/18/2020,Northern Cyprus,20,0,0
+3/18/2020,Northern Cyprus,20,0,
 3/17/2020,Norway,"1,470",3,1
-3/18/2020,Norway,"1,584",6,1
+3/18/2020,Norway,"1,590",6,
 3/17/2020,Oman,24,0,9
-3/18/2020,Oman,39,0,13
+3/18/2020,Oman,39,0,
 3/17/2020,Pakistan,247,1,2
-3/18/2020,Pakistan,307,1,2
+3/18/2020,Pakistan,307,1,
 3/17/2020,Palestine,41,0,0
-3/18/2020,Palestine,44,0,0
+3/18/2020,Palestine,44,0,
 3/17/2020,Panama,86,1,0
-3/18/2020,Panama,86,1,0
+3/18/2020,Panama,109,1,
 3/17/2020,Paraguay,8,0,0
-3/18/2020,Paraguay,11,0,0
+3/18/2020,Paraguay,11,0,
 3/17/2020,Peru,117,0,1
-3/18/2020,Peru,145,0,1
+3/18/2020,Peru,145,0,
 3/17/2020,Philippines,187,14,4
-3/18/2020,Philippines,202,14,4
+3/18/2020,Philippines,202,17,
 3/17/2020,Poland,238,5,1
-3/18/2020,Poland,287,5,1
+3/18/2020,Poland,287,5,
 3/17/2020,Portugal,448,1,3
-3/18/2020,Portugal,642,2,3
+3/18/2020,Portugal,642,2,
 3/17/2020,Qatar,442,0,4
-3/18/2020,Qatar,452,0,4
+3/18/2020,Qatar,452,0,
 3/17/2020,Republic of the Congo,1,0,0
-3/18/2020,Republic of the Congo,1,0,0
+3/18/2020,Republic of the Congo,1,0,
 3/17/2020,Romania,222,0,19
-3/18/2020,Romania,260,0,19
+3/18/2020,Romania,260,0,
 3/17/2020,Russia,114,0,5
-3/18/2020,Russia,147,0,5
+3/18/2020,Russia,147,0,
 3/17/2020,Rwanda,7,0,0
-3/18/2020,Rwanda,11,0,0
+3/18/2020,Rwanda,11,0,
 3/17/2020,Saint Lucia,2,0,0
-3/18/2020,Saint Lucia,2,0,0
+3/18/2020,Saint Lucia,2,0,
 3/17/2020,San Marino,115,9,4
-3/18/2020,San Marino,119,11,4
+3/18/2020,San Marino,119,11,
 3/17/2020,Saudi Arabia,133,0,6
-3/18/2020,Saudi Arabia,238,0,6
+3/18/2020,Saudi Arabia,238,0,
 3/17/2020,Senegal,27,0,2
-3/18/2020,Senegal,36,0,2
+3/18/2020,Senegal,36,0,
 3/17/2020,Serbia,72,0,1
-3/18/2020,Serbia,89,0,1
+3/18/2020,Serbia,89,0,
 3/17/2020,Seychelles,4,0,0
-3/18/2020,Seychelles,6,0,0
+3/18/2020,Seychelles,6,0,
 3/17/2020,Singapore,266,0,114
-3/18/2020,Singapore,313,0,117
+3/18/2020,Singapore,313,0,0
 3/17/2020,Slovakia,97,0,0
-3/18/2020,Slovakia,105,0,0
+3/18/2020,Slovakia,105,0,
 3/17/2020,Slovenia,275,1,0
-3/18/2020,Slovenia,286,1,0
+3/18/2020,Slovenia,286,1,
 3/17/2020,Somalia,1,0,0
-3/18/2020,Somalia,1,0,0
+3/18/2020,Somalia,1,0,
 3/17/2020,South Africa,85,0,0
-3/18/2020,South Africa,116,0,0
+3/18/2020,South Africa,116,0,
 3/17/2020,South Korea,"8,413",84,"1,540"
-3/18/2020,South Korea,"8,413",84,"1,540"
+3/18/2020,South Korea,"8,565",91,18
 3/17/2020,Spain,"11,826",533,"1,028"
-3/18/2020,Spain,"14,769",638,"1,081"
+3/18/2020,Spain,"14,769",638,137
 3/17/2020,Sri Lanka,44,0,1
-3/18/2020,Sri Lanka,51,0,3
+3/18/2020,Sri Lanka,51,0,
 3/17/2020,St. Vincent and the Grenadines,1,0,0
-3/18/2020,St. Vincent and the Grenadines,1,0,0
+3/18/2020,St. Vincent and the Grenadines,1,0,
 3/17/2020,Sudan,1,1,0
-3/18/2020,Sudan,2,1,0
+3/18/2020,Sudan,2,1,
 3/17/2020,Suriname,1,0,0
-3/18/2020,Suriname,1,0,0
+3/18/2020,Suriname,1,0,
 3/17/2020,Sweden,"1,196",7,1
-3/18/2020,Sweden,"1,292",10,15
+3/18/2020,Sweden,"1,231",10,
 3/17/2020,Switzerland,"2,742",21,4
-3/18/2020,Switzerland,"3,115",33,15
+3/18/2020,Switzerland,"2,772",21,
 3/17/2020,Taiwan,77,1,22
-3/18/2020,Taiwan,100,1,22
+3/18/2020,Taiwan,100,1,
 3/17/2020,Tanzania,1,0,0
-3/18/2020,Tanzania,3,0,0
+3/18/2020,Tanzania,3,0,
 3/17/2020,Thailand,177,1,41
-3/18/2020,Thailand,212,1,42
+3/18/2020,Thailand,212,1,
 3/17/2020,Togo,1,0,0
-3/18/2020,Togo,1,0,0
+3/18/2020,Togo,1,0,
 3/17/2020,Trinidad and Tobago,5,0,0
-3/18/2020,Trinidad and Tobago,7,0,0
+3/18/2020,Trinidad and Tobago,7,0,
 3/17/2020,Tunisia,20,0,0
-3/18/2020,Tunisia,29,0,0
+3/18/2020,Tunisia,29,0,
 3/17/2020,Turkey,98,1,0
-3/18/2020,Turkey,191,2,0
+3/18/2020,Turkey,191,2,
 3/17/2020,Ukraine,14,2,0
-3/18/2020,Ukraine,16,2,0
+3/18/2020,Ukraine,16,2,
 3/17/2020,United Arab Emirates,98,0,26
-3/18/2020,United Arab Emirates,113,0,26
+3/18/2020,United Arab Emirates,113,0,
 3/17/2020,United Kingdom,"1,950",60,65
-3/18/2020,United Kingdom,"2,626",104,65
+3/18/2020,United Kingdom,"2,626",104,16
 3/17/2020,United States,"6,518",108,17
-3/18/2020,United States,"9,254",150,106
+3/18/2020,United States,"9,452",150,5
 3/17/2020,Uruguay,29,0,0
-3/18/2020,Uruguay,50,0,0
+3/18/2020,Uruguay,79,0,
 3/17/2020,Uzbekistan,11,0,0
-3/18/2020,Uzbekistan,18,0,0
+3/18/2020,Uzbekistan,18,0,
 3/17/2020,Vatican City,1,0,0
-3/18/2020,Vatican City,1,0,0
+3/18/2020,Vatican City,1,0,
 3/17/2020,Venezuela,33,0,0
-3/18/2020,Venezuela,36,0,0
+3/18/2020,Venezuela,36,0,
 3/17/2020,Vietnam,66,0,16
-3/18/2020,Vietnam,76,0,16
-3/18/2020,Zambia,2,0,0
+3/18/2020,Vietnam,76,0,
+3/18/2020,Zambia,2,0,

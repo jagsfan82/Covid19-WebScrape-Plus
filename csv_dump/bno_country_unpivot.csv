@@ -24,8 +24,8 @@
 3/17/2020,Algeria,Serious,
 3/17/2020,Algeria,Critical,
 3/17/2020,Algeria,Recovered,10
-3/18/2020,Algeria,Confirmed,67
-3/18/2020,Algeria,Deaths,5
+3/18/2020,Algeria,Confirmed,72
+3/18/2020,Algeria,Deaths,6
 3/18/2020,Algeria,Serious,
 3/18/2020,Algeria,Critical,
 3/18/2020,Algeria,Recovered,10
@@ -249,10 +249,10 @@
 3/17/2020,Canada,Serious,
 3/17/2020,Canada,Critical,1
 3/17/2020,Canada,Recovered,11
-3/18/2020,Canada,Confirmed,694
+3/18/2020,Canada,Confirmed,716
 3/18/2020,Canada,Deaths,9
 3/18/2020,Canada,Serious,
-3/18/2020,Canada,Critical,1
+3/18/2020,Canada,Critical,7
 3/18/2020,Canada,Recovered,12
 3/17/2020,Central African Republic,Confirmed,1
 3/17/2020,Central African Republic,Deaths,0
@@ -279,17 +279,17 @@
 3/17/2020,China,Serious,2830
 3/17/2020,China,Critical,
 3/17/2020,China,Recovered,68869
-3/18/2020,China,Confirmed,80894
-3/18/2020,China,Deaths,3237
-3/18/2020,China,Serious,2622
+3/18/2020,China,Confirmed,80928
+3/18/2020,China,Deaths,3245
+3/18/2020,China,Serious,2314
 3/18/2020,China,Critical,
-3/18/2020,China,Recovered,69601
+3/18/2020,China,Recovered,70420
 3/17/2020,Colombia,Confirmed,57
 3/17/2020,Colombia,Deaths,0
 3/17/2020,Colombia,Serious,
 3/17/2020,Colombia,Critical,
 3/17/2020,Colombia,Recovered,
-3/18/2020,Colombia,Confirmed,75
+3/18/2020,Colombia,Confirmed,102
 3/18/2020,Colombia,Deaths,0
 3/18/2020,Colombia,Serious,
 3/18/2020,Colombia,Critical,
@@ -329,8 +329,8 @@
 3/17/2020,Cuba,Serious,
 3/17/2020,Cuba,Critical,
 3/17/2020,Cuba,Recovered,
-3/18/2020,Cuba,Confirmed,7
-3/18/2020,Cuba,Deaths,0
+3/18/2020,Cuba,Confirmed,11
+3/18/2020,Cuba,Deaths,1
 3/18/2020,Cuba,Serious,
 3/18/2020,Cuba,Critical,1
 3/18/2020,Cuba,Recovered,
@@ -404,9 +404,9 @@
 3/17/2020,Ecuador,Serious,2
 3/17/2020,Ecuador,Critical,
 3/17/2020,Ecuador,Recovered,
-3/18/2020,Ecuador,Confirmed,111
-3/18/2020,Ecuador,Deaths,2
-3/18/2020,Ecuador,Serious,2
+3/18/2020,Ecuador,Confirmed,168
+3/18/2020,Ecuador,Deaths,3
+3/18/2020,Ecuador,Serious,6
 3/18/2020,Ecuador,Critical,
 3/18/2020,Ecuador,Recovered,
 3/17/2020,Egypt,Confirmed,196
@@ -419,6 +419,11 @@
 3/18/2020,Egypt,Serious,
 3/18/2020,Egypt,Critical,
 3/18/2020,Egypt,Recovered,26
+3/18/2020,El Salvador,Confirmed,1
+3/18/2020,El Salvador,Deaths,0
+3/18/2020,El Salvador,Serious,
+3/18/2020,El Salvador,Critical,
+3/18/2020,El Salvador,Recovered,
 3/17/2020,Equatorial Guinea,Confirmed,1
 3/17/2020,Equatorial Guinea,Deaths,0
 3/17/2020,Equatorial Guinea,Serious,
@@ -549,6 +554,11 @@
 3/18/2020,Greece,Serious,5
 3/18/2020,Greece,Critical,
 3/18/2020,Greece,Recovered,10
+3/18/2020,Greenland,Confirmed,2
+3/18/2020,Greenland,Deaths,0
+3/18/2020,Greenland,Serious,
+3/18/2020,Greenland,Critical,
+3/18/2020,Greenland,Recovered,
 3/17/2020,Guatemala,Confirmed,6
 3/17/2020,Guatemala,Deaths,1
 3/17/2020,Guatemala,Serious,
@@ -879,7 +889,7 @@
 3/17/2020,Mexico,Serious,
 3/17/2020,Mexico,Critical,1
 3/17/2020,Mexico,Recovered,3
-3/18/2020,Mexico,Confirmed,93
+3/18/2020,Mexico,Confirmed,118
 3/18/2020,Mexico,Deaths,0
 3/18/2020,Mexico,Serious,
 3/18/2020,Mexico,Critical,1
@@ -964,11 +974,16 @@
 3/17/2020,New Zealand,Serious,
 3/17/2020,New Zealand,Critical,
 3/17/2020,New Zealand,Recovered,
-3/18/2020,New Zealand,Confirmed,20
+3/18/2020,New Zealand,Confirmed,28
 3/18/2020,New Zealand,Deaths,0
 3/18/2020,New Zealand,Serious,
 3/18/2020,New Zealand,Critical,
 3/18/2020,New Zealand,Recovered,
+3/18/2020,Nicaragua,Confirmed,1
+3/18/2020,Nicaragua,Deaths,0
+3/18/2020,Nicaragua,Serious,
+3/18/2020,Nicaragua,Critical,
+3/18/2020,Nicaragua,Recovered,
 3/17/2020,Nigeria,Confirmed,3
 3/17/2020,Nigeria,Deaths,0
 3/17/2020,Nigeria,Serious,0
@@ -1244,17 +1259,17 @@
 3/17/2020,South Korea,Serious,
 3/17/2020,South Korea,Critical,
 3/17/2020,South Korea,Recovered,1540
-3/18/2020,South Korea,Confirmed,8413
-3/18/2020,South Korea,Deaths,84
+3/18/2020,South Korea,Confirmed,8565
+3/18/2020,South Korea,Deaths,91
 3/18/2020,South Korea,Serious,
 3/18/2020,South Korea,Critical,
-3/18/2020,South Korea,Recovered,1540
+3/18/2020,South Korea,Recovered,1947
 3/17/2020,Spain,Confirmed,11826
 3/17/2020,Spain,Deaths,533
 3/17/2020,Spain,Serious,563
 3/17/2020,Spain,Critical,
 3/17/2020,Spain,Recovered,1028
-3/18/2020,Spain,Confirmed,14746
+3/18/2020,Spain,Confirmed,14769
 3/18/2020,Spain,Deaths,638
 3/18/2020,Spain,Serious,774
 3/18/2020,Spain,Critical,
@@ -1394,8 +1409,8 @@
 3/17/2020,United States,Serious,60
 3/17/2020,United States,Critical,4
 3/17/2020,United States,Recovered,9
-3/18/2020,United States,Confirmed,8715
-3/18/2020,United States,Deaths,138
+3/18/2020,United States,Confirmed,9025
+3/18/2020,United States,Deaths,139
 3/18/2020,United States,Serious,60
 3/18/2020,United States,Critical,4
 3/18/2020,United States,Recovered,9
@@ -1414,7 +1429,7 @@
 3/17/2020,Uzbekistan,Serious,
 3/17/2020,Uzbekistan,Critical,
 3/17/2020,Uzbekistan,Recovered,
-3/18/2020,Uzbekistan,Confirmed,13
+3/18/2020,Uzbekistan,Confirmed,18
 3/18/2020,Uzbekistan,Deaths,0
 3/18/2020,Uzbekistan,Serious,
 3/18/2020,Uzbekistan,Critical,

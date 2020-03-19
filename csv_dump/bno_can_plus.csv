@@ -1,8 +1,8 @@
 ﻿Date,Province,ConfirmedToDate,NewConfirmed,DaysToDouble_New,NewConfirmed_2DayAvg,DaysToDouble_2DayAvg,DeathsToDate,NewDeaths,DaysToDoubleDeath_New,NewDeaths_2DayAvg,DaysToDoubleDeath_2DayAvg,Recovered,Critical,NewCritical,DaysToDoubleCritical_New,NewCritical_2DayAvg,DaysToDoubleCritical_2DayAvg,ActiveCases,DaysIn,DaysIn5,DaysIn100,DaysIn250,DaysIn1000,DaysInDeaths,DaysInDeaths5,DaysInDeaths100,DaysInDeaths250,DaysInDeaths1000,DaysInCritical,DaysInCritical5,DaysInCritical100,DaysInCritical250,DaysInCritical1000
 3/17/2020,Alberta,97,97,1.0,97,1.0,0,0,1.0,0,1.0,,0,0,1.0,0,1.0,97,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-3/18/2020,Alberta,97,0,,48.5,1.4,0,0,,0,,,0,0,,0,,97,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+3/18/2020,Alberta,119,22,3.1,59.5,1.1,0,0,,0,,,0,0,,0,,119,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0
 3/17/2020,British Columbia,186,186,1.0,186,1.0,7,7,1.0,7,1.0,6,1,1,1.0,1,1.0,173,1,1,1,0,0,1,1,0,0,0,1,0,0,0,0
-3/18/2020,British Columbia,231,45,2.9,115.5,1.1,7,0,,3.5,1.4,6,1,1,0.7,1,0.7,218,2,2,2,0,0,2,2,0,0,0,2,0,0,0,0
+3/18/2020,British Columbia,231,45,2.9,115.5,1.1,7,0,,3.5,1.4,6,7,7,0.1,4,0.2,218,2,2,2,0,0,2,2,0,0,0,2,1,0,0,0
 3/17/2020,Manitoba,15,15,1.0,15,1.0,0,0,1.0,0,1.0,,0,0,1.0,0,1.0,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 3/18/2020,Manitoba,17,2,5.3,8.5,1.2,0,0,,0,,,0,0,,0,,17,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
 3/17/2020,New Brunswick,8,8,1.0,8,1.0,0,0,1.0,0,1.0,,0,0,1.0,0,1.0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0

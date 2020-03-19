@@ -154,7 +154,7 @@
 3/17/2020,Hawaii,Serious,
 3/17/2020,Hawaii,Critical,
 3/17/2020,Hawaii,Recovered,
-3/18/2020,Hawaii,Confirmed,14
+3/18/2020,Hawaii,Confirmed,16
 3/18/2020,Hawaii,Deaths,0
 3/18/2020,Hawaii,Serious,
 3/18/2020,Hawaii,Critical,
@@ -214,7 +214,7 @@
 3/17/2020,Kentucky,Serious,
 3/17/2020,Kentucky,Critical,
 3/17/2020,Kentucky,Recovered,
-3/18/2020,Kentucky,Confirmed,26
+3/18/2020,Kentucky,Confirmed,35
 3/18/2020,Kentucky,Deaths,1
 3/18/2020,Kentucky,Serious,
 3/18/2020,Kentucky,Critical,
@@ -244,8 +244,8 @@
 3/17/2020,Maryland,Serious,
 3/17/2020,Maryland,Critical,
 3/17/2020,Maryland,Recovered,0
-3/18/2020,Maryland,Confirmed,57
-3/18/2020,Maryland,Deaths,0
+3/18/2020,Maryland,Confirmed,85
+3/18/2020,Maryland,Deaths,1
 3/18/2020,Maryland,Serious,
 3/18/2020,Maryland,Critical,
 3/18/2020,Maryland,Recovered,0
@@ -274,7 +274,7 @@
 3/17/2020,Minnesota,Serious,
 3/17/2020,Minnesota,Critical,1
 3/17/2020,Minnesota,Recovered,
-3/18/2020,Minnesota,Confirmed,60
+3/18/2020,Minnesota,Confirmed,77
 3/18/2020,Minnesota,Deaths,0
 3/18/2020,Minnesota,Serious,
 3/18/2020,Minnesota,Critical,1
@@ -294,8 +294,8 @@
 3/17/2020,Missouri,Serious,
 3/17/2020,Missouri,Critical,
 3/17/2020,Missouri,Recovered,
-3/18/2020,Missouri,Confirmed,13
-3/18/2020,Missouri,Deaths,0
+3/18/2020,Missouri,Confirmed,24
+3/18/2020,Missouri,Deaths,1
 3/18/2020,Missouri,Serious,
 3/18/2020,Missouri,Critical,
 3/18/2020,Missouri,Recovered,
@@ -304,7 +304,7 @@
 3/17/2020,Montana,Serious,
 3/17/2020,Montana,Critical,
 3/17/2020,Montana,Recovered,
-3/18/2020,Montana,Confirmed,9
+3/18/2020,Montana,Confirmed,12
 3/18/2020,Montana,Deaths,0
 3/18/2020,Montana,Serious,
 3/18/2020,Montana,Critical,
@@ -424,7 +424,7 @@
 3/17/2020,Oregon,Serious,
 3/17/2020,Oregon,Critical,
 3/17/2020,Oregon,Recovered,
-3/18/2020,Oregon,Confirmed,65
+3/18/2020,Oregon,Confirmed,75
 3/18/2020,Oregon,Deaths,1
 3/18/2020,Oregon,Serious,
 3/18/2020,Oregon,Critical,
@@ -534,7 +534,7 @@
 3/17/2020,Virginia,Serious,
 3/17/2020,Virginia,Critical,
 3/17/2020,Virginia,Recovered,
-3/18/2020,Virginia,Confirmed,67
+3/18/2020,Virginia,Confirmed,77
 3/18/2020,Virginia,Deaths,2
 3/18/2020,Virginia,Serious,
 3/18/2020,Virginia,Critical,
