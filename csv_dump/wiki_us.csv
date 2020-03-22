@@ -1,337 +1,323 @@
 ﻿Date,State,Confirmed,Deaths,Recovered
+3/22/2020,2020-01-24,​ ​ ​ ​ ​,,2(+100%)
+3/22/2020,2020-01-25,​ ​ ​ ​ ​,,3(+50%)
+3/22/2020,2020-01-26,​ ​ ​ ​ ​,,5(+67%)
+3/22/2020,2020-01-30,​ ​ ​ ​ ​,,6(+20%)
+3/22/2020,2020-01-31,​ ​ ​ ​ ​,,7(+17%)
+3/22/2020,2020-02-01,​ ​ ​ ​ ​,,8(+14%)
+3/22/2020,2020-02-02,​ ​ ​ ​ ​,,11(+38%)
+3/22/2020,2020-02-05,​ ​ ​ ​ ​,,12(+9%)
+3/22/2020,2020-02-20,​ ​ ​ ​ ​,,14(+17%)
+3/22/2020,2020-02-21,​ ​ ​ ​ ​,2(+100%),20(+96%)
+3/22/2020,2020-02-26,​ ​ ​ ​ ​,,15(+7%)
+3/22/2020,2020-02-27,​ ​ ​ ​ ​,,15(=)
+3/22/2020,2020-02-28,​ ​ ​ ​ ​,,19(+27%)
+3/22/2020,2020-02-29,​ ​ ​ ​ ​,1,24(+26%)
+3/22/2020,2020-03-01,​ ​ ​ ​ ​,2(+100%),42(+75%)
+3/22/2020,2020-03-02,​ ​ ​ ​ ​,6(+200%),57(+36%)
+3/22/2020,2020-03-03,​ ​ ​ ​ ​,9(+50%),85(+49%)
+3/22/2020,2020-03-04,​ ​ ​ ​ ​,12(+3) (+50%),111(+31%)
+3/22/2020,2020-03-05,​ ​ ​ ​ ​,12(=),175(+58%)
+3/22/2020,2020-03-06,​ ​ ​ ​ ​,18(+6) (+50%),252(+44%)
+3/22/2020,2020-03-07,​ ​ ​ ​ ​,19(+1) (+6%),353(+40%)
+3/22/2020,2020-03-08,​ ​ ​ ​ ​,22(+3) (+16%),497(+41%)
+3/22/2020,2020-03-09,​ ​ ​ ​ ​,26(+4) (+18%),645(+30%)
+3/22/2020,2020-03-10,​ ​ ​ ​ ​,31(+5) (+19%),936(+45%)
+3/22/2020,2020-03-11,​ ​ ​ ​ ​,38(+7) (+23%),"1,205(+29%)"
+3/22/2020,2020-03-12,​ ​ ​ ​ ​,42(+4) (+11%),"1,598(+33%)"
+3/22/2020,2020-03-13,​ ​ ​ ​ ​,49(+7) (+17%),"2,163(+35%)"
+3/22/2020,2020-03-14,​ ​ ​ ​ ​,56(+7) (+14%),"2,825(+31%)"
+3/22/2020,2020-03-15,​ ​ ​ ​ ​,62(+6) (+11%),"3,497(+24%)"
+3/22/2020,2020-03-16,​ ​ ​ ​ ​,75(+13) (+21%),"4,372(+25%)"
+3/22/2020,2020-03-17,​ ​ ​ ​ ​,96(+21) (+28%),"5,656(+29%)"
+3/22/2020,2020-03-18,​ ​ ​ ​ ​,122(+26) (+23%),"8,074(+43%)"
+3/22/2020,2020-03-19,​ ​ ​ ​ ​,174(+52) (+43%),"12,018(+49%)"
+3/22/2020,2020-03-20,​ ​ ​ ​ ​,229(+55) (+32%),"17,438(+45%)"
+3/22/2020,2020-03-21,​ ​ ​ ​ ​,293(+64) (+28%),"23,709(+36%)"
+3/22/2020,2020-03-22,​ ​ ​ ​ ​,293(=),"28,521(+20%)"
+3/22/2020,⋮,​ ​ ​ ​ ​,,1(=)
+3/22/2020,⋮,​ ​ ​ ​ ​,,5(=)
+3/22/2020,⋮,​ ​ ​ ​ ​,,11(=)
+3/22/2020,⋮,​ ​ ​ ​ ​,,12(=)
+3/22/2020,⋮,​ ​ ​ ​ ​,,14(=)
 3/17/2020,Alabama,39,0,0
 3/18/2020,Alabama,51,0,0
 3/19/2020,Alabama,78,0,0
 3/20/2020,Alabama,106,0,0
 3/21/2020,Alabama,124,0,0
-3/22/2020,Alabama,124,0,0
 3/17/2020,Alaska,3,0,0
 3/18/2020,Alaska,6,0,0
 3/19/2020,Alaska,9,0,0
 3/20/2020,Alaska,12,0,0
 3/21/2020,Alaska,12,0,0
-3/22/2020,Alaska,12,0,0
 3/17/2020,American Samoa,0,0,0
 3/18/2020,American Samoa,0,0,0
 3/19/2020,American Samoa,0,0,0
 3/20/2020,American Samoa,0,0,0
 3/21/2020,American Samoa,0,0,0
-3/22/2020,American Samoa,0,0,0
 3/17/2020,Arizona,13,0,1
 3/18/2020,Arizona,27,0,1
 3/19/2020,Arizona,45,0,1
 3/20/2020,Arizona,79,0,1
 3/21/2020,Arizona,79,0,1
-3/22/2020,Arizona,79,0,1
 3/17/2020,Arkansas,22,0,0
 3/18/2020,Arkansas,30,0,0
 3/19/2020,Arkansas,62,0,0
 3/20/2020,Arkansas,96,0,0
 3/21/2020,Arkansas,96,0,0
-3/22/2020,Arkansas,96,0,0
 3/17/2020,California,454,12,6
 3/18/2020,California,785,16,6
 3/19/2020,California,971,19,6
 3/20/2020,California,"1,249",24,6
 3/21/2020,California,"1,224",23,
-3/22/2020,California,"1,224",23,
 3/17/2020,Colorado,160,1,0
 3/18/2020,Colorado,216,2,0
 3/19/2020,Colorado,277,4,0
 3/20/2020,Colorado,363,4,0
 3/21/2020,Colorado,475,5,
-3/22/2020,Colorado,475,5,
 3/17/2020,Connecticut,68,0,0
 3/18/2020,Connecticut,97,1,0
 3/19/2020,Connecticut,159,3,0
 3/20/2020,Connecticut,194,4,0
 3/21/2020,Connecticut,194,4,
-3/22/2020,Connecticut,194,4,
 3/17/2020,Delaware,8,0,0
 3/18/2020,Delaware,26,0,0
 3/19/2020,Delaware,30,0,0
 3/20/2020,Delaware,39,0,0
 3/21/2020,Delaware,39,0,0
-3/22/2020,Delaware,39,0,0
 3/17/2020,District of Columbia,22,0,0
 3/18/2020,District of Columbia,31,0,0
 3/19/2020,District of Columbia,71,3,0
 3/20/2020,District of Columbia,81,1,0
 3/21/2020,District of Columbia,98,1,0
-3/22/2020,District of Columbia,98,1,0
 3/17/2020,Florida,173,6,0
 3/18/2020,Florida,317,7,0
 3/19/2020,Florida,432,9,0
 3/20/2020,Florida,563,11,0
 3/21/2020,Florida,757,11,
-3/22/2020,Florida,757,11,
 3/17/2020,Georgia,146,1,0
 3/18/2020,Georgia,199,1,0
 3/19/2020,Georgia,287,10,0
 3/20/2020,Georgia,485,14,0
 3/21/2020,Georgia,555,20,
-3/22/2020,Georgia,555,20,
 3/17/2020,Guam,3,0,0
 3/18/2020,Guam,3,0,0
 3/19/2020,Guam,12,0,0
 3/20/2020,Guam,12,0,0
 3/21/2020,Guam,12,0,0
-3/22/2020,Guam,15,1,0
 3/17/2020,Hawaii,4,0,0
 3/18/2020,Hawaii,14,0,0
 3/19/2020,Hawaii,22,0,0
 3/20/2020,Hawaii,37,0,0
 3/21/2020,Hawaii,37,0,0
-3/22/2020,Hawaii,37,0,0
 3/17/2020,Idaho,5,0,0
 3/18/2020,Idaho,9,0,0
 3/19/2020,Idaho,23,0,0
 3/20/2020,Idaho,36,0,0
 3/21/2020,Idaho,36,0,0
-3/22/2020,Idaho,36,0,0
 3/17/2020,Illinois,166,1,2
 3/18/2020,Illinois,288,1,2
 3/19/2020,Illinois,422,4,2
 3/20/2020,Illinois,585,5,2
 3/21/2020,Illinois,753,6,
-3/22/2020,Illinois,753,6,2
 3/17/2020,Indiana,30,2,0
 3/18/2020,Indiana,39,2,0
 3/19/2020,Indiana,60,2,0
 3/20/2020,Indiana,86,3,0
 3/21/2020,Indiana,126,3,0
-3/22/2020,Indiana,201,4,0
 3/17/2020,Iowa,17,0,0
 3/18/2020,Iowa,38,0,0
 3/19/2020,Iowa,44,0,0
 3/20/2020,Iowa,45,0,0
 3/21/2020,Iowa,45,0,0
-3/22/2020,Iowa,45,0,0
 3/17/2020,Kansas,16,1,0
 3/18/2020,Kansas,18,1,0
 3/19/2020,Kansas,36,1,0
 3/20/2020,Kansas,50,1,0
 3/21/2020,Kansas,50,1,0
-3/22/2020,Kansas,50,1,0
 3/17/2020,Kentucky,25,1,1
 3/18/2020,Kentucky,27,1,0
 3/19/2020,Kentucky,50,2,2
 3/20/2020,Kentucky,64,2,2
 3/21/2020,Kentucky,64,2,2
-3/22/2020,Kentucky,87,3,2
 3/17/2020,Louisiana,171,4,0
 3/18/2020,Louisiana,280,7,0
 3/19/2020,Louisiana,392,10,0
 3/20/2020,Louisiana,537,14,0
 3/21/2020,Louisiana,585,16,
-3/22/2020,Louisiana,585,16,
 3/17/2020,Maine,3,0,0
 3/18/2020,Maine,43,0,0
 3/19/2020,Maine,52,0,0
 3/20/2020,Maine,56,0,0
 3/21/2020,Maine,56,0,0
-3/22/2020,Maine,56,0,0
 3/17/2020,Maryland,57,0,3
 3/18/2020,Maryland,85,0,4
 3/19/2020,Maryland,107,1,4
 3/20/2020,Maryland,149,2,4
 3/21/2020,Maryland,190,2,4
-3/22/2020,Maryland,190,3,4
 3/17/2020,Massachusetts,197,0,1
 3/18/2020,Massachusetts,218,0,1
 3/19/2020,Massachusetts,328,0,1
 3/20/2020,Massachusetts,413,1,1
 3/21/2020,Massachusetts,525,1,
-3/22/2020,Massachusetts,525,1,
 3/17/2020,Michigan,65,0,0
 3/18/2020,Michigan,111,1,0
 3/19/2020,Michigan,334,3,0
 3/20/2020,Michigan,552,3,0
 3/21/2020,Michigan,787,5,
-3/22/2020,Michigan,787,5,
 3/17/2020,Minnesota,60,0,0
 3/18/2020,Minnesota,77,0,0
 3/19/2020,Minnesota,91,0,0
 3/20/2020,Minnesota,115,0,0
 3/21/2020,Minnesota,137,1,24
-3/22/2020,Minnesota,137,1,24
 3/17/2020,Mississippi,21,0,0
 3/18/2020,Mississippi,36,0,0
 3/19/2020,Mississippi,50,1,0
 3/20/2020,Mississippi,80,1,0
 3/21/2020,Mississippi,80,1,0
-3/22/2020,Mississippi,80,1,0
 3/17/2020,Missouri,15,0,0
 3/18/2020,Missouri,18,0,0
 3/19/2020,Missouri,39,1,0
 3/20/2020,Missouri,66,3,0
 3/21/2020,Missouri,66,3,0
-3/22/2020,Missouri,66,3,0
 3/17/2020,Montana,4,0,0
 3/18/2020,Montana,11,0,0
 3/19/2020,Montana,12,0,0
 3/20/2020,Montana,20,0,0
 3/21/2020,Montana,20,0,0
-3/22/2020,Montana,20,0,0
 3/17/2020,N. Mariana Islands,0,0,0
 3/18/2020,N. Mariana Islands,0,0,0
 3/19/2020,N. Mariana Islands,0,0,0
 3/20/2020,N. Mariana Islands,0,0,0
 3/21/2020,N. Mariana Islands,0,0,0
-3/22/2020,N. Mariana Islands,0,0,0
 3/17/2020,Nebraska,14,0,0
 3/18/2020,Nebraska,24,0,0
 3/19/2020,Nebraska,29,0,0
 3/20/2020,Nebraska,37,0,0
 3/21/2020,Nebraska,37,0,0
-3/22/2020,Nebraska,37,0,0
 3/17/2020,Nevada,19,0,0
 3/18/2020,Nevada,55,1,0
 3/19/2020,Nevada,95,1,0
 3/20/2020,Nevada,109,2,0
 3/21/2020,Nevada,109,2,0
-3/22/2020,Nevada,109,2,0
 3/17/2020,New Hampshire,7,0,0
 3/18/2020,New Hampshire,26,0,0
 3/19/2020,New Hampshire,44,0,0
 3/20/2020,New Hampshire,56,0,0
 3/21/2020,New Hampshire,56,0,0
-3/22/2020,New Hampshire,56,0,0
 3/17/2020,New Jersey,178,3,1
 3/18/2020,New Jersey,427,5,1
 3/19/2020,New Jersey,742,9,0
 3/20/2020,New Jersey,890,11,0
 3/21/2020,New Jersey,"1,327",16,
-3/22/2020,New Jersey,"1,327",16,
 3/17/2020,New Mexico,10,0,0
 3/18/2020,New Mexico,28,0,0
 3/19/2020,New Mexico,35,0,0
 3/20/2020,New Mexico,43,0,0
 3/21/2020,New Mexico,43,0,0
-3/22/2020,New Mexico,43,0,0
 3/17/2020,New York,"1,374",12,0
 3/18/2020,New York,2481,16,1
 3/19/2020,New York,"5,711",38,1
 3/20/2020,New York,"8,403",46,0
 3/21/2020,New York,"10,356",56,1
-3/22/2020,New York,"10,356",56,1
 3/17/2020,North Carolina,40,0,0
 3/18/2020,North Carolina,71,0,0
 3/19/2020,North Carolina,129,0,0
 3/20/2020,North Carolina,187,0,0
 3/21/2020,North Carolina,187,0,
-3/22/2020,North Carolina,187,0,
 3/17/2020,North Dakota,1,0,0
 3/18/2020,North Dakota,6,0,0
 3/19/2020,North Dakota,19,0,0
 3/20/2020,North Dakota,26,0,0
 3/21/2020,North Dakota,26,0,0
-3/22/2020,North Dakota,26,0,0
+3/22/2020,"Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases","Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases[c] Sources: Official reports from state health officials","Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases[c] Sources: Official reports from state health officials","Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases[c] Sources: Official reports from state health officials"
 3/17/2020,Ohio,67,0,0
 3/18/2020,Ohio,88,0,0
 3/19/2020,Ohio,119,0,0
 3/20/2020,Ohio,174,3,0
 3/21/2020,Ohio,247,3,0
-3/22/2020,Ohio,247,3,0
 3/17/2020,Oklahoma,17,0,0
 3/18/2020,Oklahoma,31,0,0
 3/19/2020,Oklahoma,46,1,1
 3/20/2020,Oklahoma,49,1,1
 3/21/2020,Oklahoma,53,1,1
-3/22/2020,Oklahoma,53,1,1
 3/17/2020,Oregon,47,1,0
 3/18/2020,Oregon,88,2,0
 3/19/2020,Oregon,88,3,0
 3/20/2020,Oregon,114,3,0
 3/21/2020,Oregon,114,3,0
-3/22/2020,Oregon,114,3,0
 3/17/2020,Pennsylvania,96,0,0
 3/18/2020,Pennsylvania,133,1,0
 3/19/2020,Pennsylvania,206,1,0
 3/20/2020,Pennsylvania,311,1,0
 3/21/2020,Pennsylvania,371,2,
-3/22/2020,Pennsylvania,371,2,
 3/17/2020,Puerto Rico,3,0,0
 3/18/2020,Puerto Rico,5,0,0
 3/19/2020,Puerto Rico,6,0,0
 3/20/2020,Puerto Rico,6,0,0
 3/21/2020,Puerto Rico,6,0,0
-3/22/2020,Puerto Rico,6,0,0
 3/17/2020,Rhode Island,21,0,0
 3/18/2020,Rhode Island,33,0,0
 3/19/2020,Rhode Island,33,0,0
 3/20/2020,Rhode Island,54,0,0
 3/21/2020,Rhode Island,66,0,0
-3/22/2020,Rhode Island,66,0,0
 3/17/2020,South Carolina,28,1,0
 3/18/2020,South Carolina,60,2,0
 3/19/2020,South Carolina,81,3,0
 3/20/2020,South Carolina,126,3,0
 3/21/2020,South Carolina,125,3,0
-3/22/2020,South Carolina,125,3,0
 3/17/2020,South Dakota,10,1,0
 3/18/2020,South Dakota,11,1,0
 3/19/2020,South Dakota,14,1,0
 3/20/2020,South Dakota,14,1,0
 3/21/2020,South Dakota,14,1,0
-3/22/2020,South Dakota,14,1,0
 3/17/2020,Tennessee,73,0,0
 3/18/2020,Tennessee,98,0,0
 3/19/2020,Tennessee,154,0,0
 3/20/2020,Tennessee,281,1,0
 3/21/2020,Tennessee,371,1,
-3/22/2020,Tennessee,371,1,
 3/17/2020,Texas,64,1,0
 3/18/2020,Texas,169,3,0
 3/19/2020,Texas,307,5,0
 3/20/2020,Texas,417,5,4
 3/21/2020,Texas,304,5,
-3/22/2020,Texas,304,5,
 3/17/2020,U.S. Virgin Islands,1,0,0
 3/18/2020,U.S. Virgin Islands,1,0,0
 3/19/2020,U.S. Virgin Islands,3,0,0
 3/20/2020,U.S. Virgin Islands,3,0,0
 3/21/2020,U.S. Virgin Islands,3,0,0
-3/22/2020,U.S. Virgin Islands,3,0,0
 3/17/2020,Utah,41,0,0
 3/18/2020,Utah,53,0,0
 3/19/2020,Utah,80,0,0
 3/20/2020,Utah,112,0,0
 3/21/2020,Utah,112,0,0
-3/22/2020,Utah,112,0,0
 3/17/2020,Vermont,4,0,0
 3/18/2020,Vermont,19,0,0
 3/19/2020,Vermont,22,0,0
 3/20/2020,Vermont,29,2,0
 3/21/2020,Vermont,29,2,0
-3/22/2020,Vermont,29,2,0
 3/17/2020,Virginia,67,2,0
 3/18/2020,Virginia,77,2,1
 3/19/2020,Virginia,105,2,1
 3/20/2020,Virginia,125,2,1
 3/21/2020,Virginia,153,2,1
-3/22/2020,Virginia,153,2,1
 3/17/2020,Washington,"1,012",54,1
 3/18/2020,Washington,1187,66,89
 3/19/2020,Washington,1376,74,89
 3/20/2020,Washington,1524,83,124
 3/21/2020,Washington,"1,793",94,
-3/22/2020,Washington,"1,793",94,
 3/17/2020,West Virginia,1,0,0
 3/18/2020,West Virginia,1,0,0
 3/19/2020,West Virginia,2,0,0
 3/20/2020,West Virginia,7,0,0
 3/21/2020,West Virginia,11,0,0
-3/22/2020,West Virginia,11,0,0
 3/17/2020,Wisconsin,47,0,1
 3/18/2020,Wisconsin,107,0,1
 3/19/2020,Wisconsin,160,0,1
 3/20/2020,Wisconsin,210,3,1
 3/21/2020,Wisconsin,281,4,
-3/22/2020,Wisconsin,281,4,
 3/17/2020,Wyoming,11,0,0
 3/18/2020,Wyoming,15,0,0
 3/19/2020,Wyoming,18,0,0
 3/20/2020,Wyoming,21,0,0
 3/21/2020,Wyoming,21,0,0
-3/22/2020,Wyoming,21,0,0

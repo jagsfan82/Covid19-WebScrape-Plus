@@ -1,4 +1,127 @@
 ﻿Date,State,Type,Cases
+3/22/2020,2020-01-24,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-01-24,Deaths,
+3/22/2020,2020-01-24,Recovered,2(+100%)
+3/22/2020,2020-01-25,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-01-25,Deaths,
+3/22/2020,2020-01-25,Recovered,3(+50%)
+3/22/2020,2020-01-26,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-01-26,Deaths,
+3/22/2020,2020-01-26,Recovered,5(+67%)
+3/22/2020,2020-01-30,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-01-30,Deaths,
+3/22/2020,2020-01-30,Recovered,6(+20%)
+3/22/2020,2020-01-31,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-01-31,Deaths,
+3/22/2020,2020-01-31,Recovered,7(+17%)
+3/22/2020,2020-02-01,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-01,Deaths,
+3/22/2020,2020-02-01,Recovered,8(+14%)
+3/22/2020,2020-02-02,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-02,Deaths,
+3/22/2020,2020-02-02,Recovered,11(+38%)
+3/22/2020,2020-02-05,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-05,Deaths,
+3/22/2020,2020-02-05,Recovered,12(+9%)
+3/22/2020,2020-02-20,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-20,Deaths,
+3/22/2020,2020-02-20,Recovered,14(+17%)
+3/22/2020,2020-02-21,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-21,Deaths,2(+100%)
+3/22/2020,2020-02-21,Recovered,20(+96%)
+3/22/2020,2020-02-26,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-26,Deaths,
+3/22/2020,2020-02-26,Recovered,15(+7%)
+3/22/2020,2020-02-27,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-27,Deaths,
+3/22/2020,2020-02-27,Recovered,15(=)
+3/22/2020,2020-02-28,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-28,Deaths,
+3/22/2020,2020-02-28,Recovered,19(+27%)
+3/22/2020,2020-02-29,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-02-29,Deaths,1
+3/22/2020,2020-02-29,Recovered,24(+26%)
+3/22/2020,2020-03-01,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-01,Deaths,2(+100%)
+3/22/2020,2020-03-01,Recovered,42(+75%)
+3/22/2020,2020-03-02,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-02,Deaths,6(+200%)
+3/22/2020,2020-03-02,Recovered,57(+36%)
+3/22/2020,2020-03-03,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-03,Deaths,9(+50%)
+3/22/2020,2020-03-03,Recovered,85(+49%)
+3/22/2020,2020-03-04,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-04,Deaths,12(+3) (+50%)
+3/22/2020,2020-03-04,Recovered,111(+31%)
+3/22/2020,2020-03-05,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-05,Deaths,12(=)
+3/22/2020,2020-03-05,Recovered,175(+58%)
+3/22/2020,2020-03-06,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-06,Deaths,18(+6) (+50%)
+3/22/2020,2020-03-06,Recovered,252(+44%)
+3/22/2020,2020-03-07,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-07,Deaths,19(+1) (+6%)
+3/22/2020,2020-03-07,Recovered,353(+40%)
+3/22/2020,2020-03-08,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-08,Deaths,22(+3) (+16%)
+3/22/2020,2020-03-08,Recovered,497(+41%)
+3/22/2020,2020-03-09,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-09,Deaths,26(+4) (+18%)
+3/22/2020,2020-03-09,Recovered,645(+30%)
+3/22/2020,2020-03-10,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-10,Deaths,31(+5) (+19%)
+3/22/2020,2020-03-10,Recovered,936(+45%)
+3/22/2020,2020-03-11,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-11,Deaths,38(+7) (+23%)
+3/22/2020,2020-03-11,Recovered,"1,205(+29%)"
+3/22/2020,2020-03-12,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-12,Deaths,42(+4) (+11%)
+3/22/2020,2020-03-12,Recovered,"1,598(+33%)"
+3/22/2020,2020-03-13,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-13,Deaths,49(+7) (+17%)
+3/22/2020,2020-03-13,Recovered,"2,163(+35%)"
+3/22/2020,2020-03-14,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-14,Deaths,56(+7) (+14%)
+3/22/2020,2020-03-14,Recovered,"2,825(+31%)"
+3/22/2020,2020-03-15,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-15,Deaths,62(+6) (+11%)
+3/22/2020,2020-03-15,Recovered,"3,497(+24%)"
+3/22/2020,2020-03-16,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-16,Deaths,75(+13) (+21%)
+3/22/2020,2020-03-16,Recovered,"4,372(+25%)"
+3/22/2020,2020-03-17,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-17,Deaths,96(+21) (+28%)
+3/22/2020,2020-03-17,Recovered,"5,656(+29%)"
+3/22/2020,2020-03-18,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-18,Deaths,122(+26) (+23%)
+3/22/2020,2020-03-18,Recovered,"8,074(+43%)"
+3/22/2020,2020-03-19,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-19,Deaths,174(+52) (+43%)
+3/22/2020,2020-03-19,Recovered,"12,018(+49%)"
+3/22/2020,2020-03-20,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-20,Deaths,229(+55) (+32%)
+3/22/2020,2020-03-20,Recovered,"17,438(+45%)"
+3/22/2020,2020-03-21,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-21,Deaths,293(+64) (+28%)
+3/22/2020,2020-03-21,Recovered,"23,709(+36%)"
+3/22/2020,2020-03-22,Confirmed,​ ​ ​ ​ ​
+3/22/2020,2020-03-22,Deaths,293(=)
+3/22/2020,2020-03-22,Recovered,"28,521(+20%)"
+3/22/2020,⋮,Confirmed,​ ​ ​ ​ ​
+3/22/2020,⋮,Deaths,
+3/22/2020,⋮,Recovered,1(=)
+3/22/2020,⋮,Confirmed,​ ​ ​ ​ ​
+3/22/2020,⋮,Deaths,
+3/22/2020,⋮,Recovered,5(=)
+3/22/2020,⋮,Confirmed,​ ​ ​ ​ ​
+3/22/2020,⋮,Deaths,
+3/22/2020,⋮,Recovered,11(=)
+3/22/2020,⋮,Confirmed,​ ​ ​ ​ ​
+3/22/2020,⋮,Deaths,
+3/22/2020,⋮,Recovered,12(=)
+3/22/2020,⋮,Confirmed,​ ​ ​ ​ ​
+3/22/2020,⋮,Deaths,
+3/22/2020,⋮,Recovered,14(=)
 3/17/2020,Alabama,Confirmed,39
 3/17/2020,Alabama,Deaths,0
 3/17/2020,Alabama,Recovered,0
@@ -14,9 +137,6 @@
 3/21/2020,Alabama,Confirmed,124
 3/21/2020,Alabama,Deaths,0
 3/21/2020,Alabama,Recovered,0
-3/22/2020,Alabama,Confirmed,124
-3/22/2020,Alabama,Deaths,0
-3/22/2020,Alabama,Recovered,0
 3/17/2020,Alaska,Confirmed,3
 3/17/2020,Alaska,Deaths,0
 3/17/2020,Alaska,Recovered,0
@@ -32,9 +152,6 @@
 3/21/2020,Alaska,Confirmed,12
 3/21/2020,Alaska,Deaths,0
 3/21/2020,Alaska,Recovered,0
-3/22/2020,Alaska,Confirmed,12
-3/22/2020,Alaska,Deaths,0
-3/22/2020,Alaska,Recovered,0
 3/17/2020,American Samoa,Confirmed,0
 3/17/2020,American Samoa,Deaths,0
 3/17/2020,American Samoa,Recovered,0
@@ -50,9 +167,6 @@
 3/21/2020,American Samoa,Confirmed,0
 3/21/2020,American Samoa,Deaths,0
 3/21/2020,American Samoa,Recovered,0
-3/22/2020,American Samoa,Confirmed,0
-3/22/2020,American Samoa,Deaths,0
-3/22/2020,American Samoa,Recovered,0
 3/17/2020,Arizona,Confirmed,13
 3/17/2020,Arizona,Deaths,0
 3/17/2020,Arizona,Recovered,1
@@ -68,9 +182,6 @@
 3/21/2020,Arizona,Confirmed,79
 3/21/2020,Arizona,Deaths,0
 3/21/2020,Arizona,Recovered,1
-3/22/2020,Arizona,Confirmed,79
-3/22/2020,Arizona,Deaths,0
-3/22/2020,Arizona,Recovered,1
 3/17/2020,Arkansas,Confirmed,22
 3/17/2020,Arkansas,Deaths,0
 3/17/2020,Arkansas,Recovered,0
@@ -86,9 +197,6 @@
 3/21/2020,Arkansas,Confirmed,96
 3/21/2020,Arkansas,Deaths,0
 3/21/2020,Arkansas,Recovered,0
-3/22/2020,Arkansas,Confirmed,96
-3/22/2020,Arkansas,Deaths,0
-3/22/2020,Arkansas,Recovered,0
 3/17/2020,California,Confirmed,454
 3/17/2020,California,Deaths,12
 3/17/2020,California,Recovered,6
@@ -104,9 +212,6 @@
 3/21/2020,California,Confirmed,"1,224"
 3/21/2020,California,Deaths,23
 3/21/2020,California,Recovered,
-3/22/2020,California,Confirmed,"1,224"
-3/22/2020,California,Deaths,23
-3/22/2020,California,Recovered,
 3/17/2020,Colorado,Confirmed,160
 3/17/2020,Colorado,Deaths,1
 3/17/2020,Colorado,Recovered,0
@@ -122,9 +227,6 @@
 3/21/2020,Colorado,Confirmed,475
 3/21/2020,Colorado,Deaths,5
 3/21/2020,Colorado,Recovered,
-3/22/2020,Colorado,Confirmed,475
-3/22/2020,Colorado,Deaths,5
-3/22/2020,Colorado,Recovered,
 3/17/2020,Connecticut,Confirmed,68
 3/17/2020,Connecticut,Deaths,0
 3/17/2020,Connecticut,Recovered,0
@@ -140,9 +242,6 @@
 3/21/2020,Connecticut,Confirmed,194
 3/21/2020,Connecticut,Deaths,4
 3/21/2020,Connecticut,Recovered,
-3/22/2020,Connecticut,Confirmed,194
-3/22/2020,Connecticut,Deaths,4
-3/22/2020,Connecticut,Recovered,
 3/17/2020,Delaware,Confirmed,8
 3/17/2020,Delaware,Deaths,0
 3/17/2020,Delaware,Recovered,0
@@ -158,9 +257,6 @@
 3/21/2020,Delaware,Confirmed,39
 3/21/2020,Delaware,Deaths,0
 3/21/2020,Delaware,Recovered,0
-3/22/2020,Delaware,Confirmed,39
-3/22/2020,Delaware,Deaths,0
-3/22/2020,Delaware,Recovered,0
 3/17/2020,District of Columbia,Confirmed,22
 3/17/2020,District of Columbia,Deaths,0
 3/17/2020,District of Columbia,Recovered,0
@@ -176,9 +272,6 @@
 3/21/2020,District of Columbia,Confirmed,98
 3/21/2020,District of Columbia,Deaths,1
 3/21/2020,District of Columbia,Recovered,0
-3/22/2020,District of Columbia,Confirmed,98
-3/22/2020,District of Columbia,Deaths,1
-3/22/2020,District of Columbia,Recovered,0
 3/17/2020,Florida,Confirmed,173
 3/17/2020,Florida,Deaths,6
 3/17/2020,Florida,Recovered,0
@@ -194,9 +287,6 @@
 3/21/2020,Florida,Confirmed,757
 3/21/2020,Florida,Deaths,11
 3/21/2020,Florida,Recovered,
-3/22/2020,Florida,Confirmed,757
-3/22/2020,Florida,Deaths,11
-3/22/2020,Florida,Recovered,
 3/17/2020,Georgia,Confirmed,146
 3/17/2020,Georgia,Deaths,1
 3/17/2020,Georgia,Recovered,0
@@ -212,9 +302,6 @@
 3/21/2020,Georgia,Confirmed,555
 3/21/2020,Georgia,Deaths,20
 3/21/2020,Georgia,Recovered,
-3/22/2020,Georgia,Confirmed,555
-3/22/2020,Georgia,Deaths,20
-3/22/2020,Georgia,Recovered,
 3/17/2020,Guam,Confirmed,3
 3/17/2020,Guam,Deaths,0
 3/17/2020,Guam,Recovered,0
@@ -230,9 +317,6 @@
 3/21/2020,Guam,Confirmed,12
 3/21/2020,Guam,Deaths,0
 3/21/2020,Guam,Recovered,0
-3/22/2020,Guam,Confirmed,15
-3/22/2020,Guam,Deaths,1
-3/22/2020,Guam,Recovered,0
 3/17/2020,Hawaii,Confirmed,4
 3/17/2020,Hawaii,Deaths,0
 3/17/2020,Hawaii,Recovered,0
@@ -248,9 +332,6 @@
 3/21/2020,Hawaii,Confirmed,37
 3/21/2020,Hawaii,Deaths,0
 3/21/2020,Hawaii,Recovered,0
-3/22/2020,Hawaii,Confirmed,37
-3/22/2020,Hawaii,Deaths,0
-3/22/2020,Hawaii,Recovered,0
 3/17/2020,Idaho,Confirmed,5
 3/17/2020,Idaho,Deaths,0
 3/17/2020,Idaho,Recovered,0
@@ -266,9 +347,6 @@
 3/21/2020,Idaho,Confirmed,36
 3/21/2020,Idaho,Deaths,0
 3/21/2020,Idaho,Recovered,0
-3/22/2020,Idaho,Confirmed,36
-3/22/2020,Idaho,Deaths,0
-3/22/2020,Idaho,Recovered,0
 3/17/2020,Illinois,Confirmed,166
 3/17/2020,Illinois,Deaths,1
 3/17/2020,Illinois,Recovered,2
@@ -284,9 +362,6 @@
 3/21/2020,Illinois,Confirmed,753
 3/21/2020,Illinois,Deaths,6
 3/21/2020,Illinois,Recovered,
-3/22/2020,Illinois,Confirmed,753
-3/22/2020,Illinois,Deaths,6
-3/22/2020,Illinois,Recovered,2
 3/17/2020,Indiana,Confirmed,30
 3/17/2020,Indiana,Deaths,2
 3/17/2020,Indiana,Recovered,0
@@ -302,9 +377,6 @@
 3/21/2020,Indiana,Confirmed,126
 3/21/2020,Indiana,Deaths,3
 3/21/2020,Indiana,Recovered,0
-3/22/2020,Indiana,Confirmed,201
-3/22/2020,Indiana,Deaths,4
-3/22/2020,Indiana,Recovered,0
 3/17/2020,Iowa,Confirmed,17
 3/17/2020,Iowa,Deaths,0
 3/17/2020,Iowa,Recovered,0
@@ -320,9 +392,6 @@
 3/21/2020,Iowa,Confirmed,45
 3/21/2020,Iowa,Deaths,0
 3/21/2020,Iowa,Recovered,0
-3/22/2020,Iowa,Confirmed,45
-3/22/2020,Iowa,Deaths,0
-3/22/2020,Iowa,Recovered,0
 3/17/2020,Kansas,Confirmed,16
 3/17/2020,Kansas,Deaths,1
 3/17/2020,Kansas,Recovered,0
@@ -338,9 +407,6 @@
 3/21/2020,Kansas,Confirmed,50
 3/21/2020,Kansas,Deaths,1
 3/21/2020,Kansas,Recovered,0
-3/22/2020,Kansas,Confirmed,50
-3/22/2020,Kansas,Deaths,1
-3/22/2020,Kansas,Recovered,0
 3/17/2020,Kentucky,Confirmed,25
 3/17/2020,Kentucky,Deaths,1
 3/17/2020,Kentucky,Recovered,1
@@ -356,9 +422,6 @@
 3/21/2020,Kentucky,Confirmed,64
 3/21/2020,Kentucky,Deaths,2
 3/21/2020,Kentucky,Recovered,2
-3/22/2020,Kentucky,Confirmed,87
-3/22/2020,Kentucky,Deaths,3
-3/22/2020,Kentucky,Recovered,2
 3/17/2020,Louisiana,Confirmed,171
 3/17/2020,Louisiana,Deaths,4
 3/17/2020,Louisiana,Recovered,0
@@ -374,9 +437,6 @@
 3/21/2020,Louisiana,Confirmed,585
 3/21/2020,Louisiana,Deaths,16
 3/21/2020,Louisiana,Recovered,
-3/22/2020,Louisiana,Confirmed,585
-3/22/2020,Louisiana,Deaths,16
-3/22/2020,Louisiana,Recovered,
 3/17/2020,Maine,Confirmed,3
 3/17/2020,Maine,Deaths,0
 3/17/2020,Maine,Recovered,0
@@ -392,9 +452,6 @@
 3/21/2020,Maine,Confirmed,56
 3/21/2020,Maine,Deaths,0
 3/21/2020,Maine,Recovered,0
-3/22/2020,Maine,Confirmed,56
-3/22/2020,Maine,Deaths,0
-3/22/2020,Maine,Recovered,0
 3/17/2020,Maryland,Confirmed,57
 3/17/2020,Maryland,Deaths,0
 3/17/2020,Maryland,Recovered,3
@@ -410,9 +467,6 @@
 3/21/2020,Maryland,Confirmed,190
 3/21/2020,Maryland,Deaths,2
 3/21/2020,Maryland,Recovered,4
-3/22/2020,Maryland,Confirmed,190
-3/22/2020,Maryland,Deaths,3
-3/22/2020,Maryland,Recovered,4
 3/17/2020,Massachusetts,Confirmed,197
 3/17/2020,Massachusetts,Deaths,0
 3/17/2020,Massachusetts,Recovered,1
@@ -428,9 +482,6 @@
 3/21/2020,Massachusetts,Confirmed,525
 3/21/2020,Massachusetts,Deaths,1
 3/21/2020,Massachusetts,Recovered,
-3/22/2020,Massachusetts,Confirmed,525
-3/22/2020,Massachusetts,Deaths,1
-3/22/2020,Massachusetts,Recovered,
 3/17/2020,Michigan,Confirmed,65
 3/17/2020,Michigan,Deaths,0
 3/17/2020,Michigan,Recovered,0
@@ -446,9 +497,6 @@
 3/21/2020,Michigan,Confirmed,787
 3/21/2020,Michigan,Deaths,5
 3/21/2020,Michigan,Recovered,
-3/22/2020,Michigan,Confirmed,787
-3/22/2020,Michigan,Deaths,5
-3/22/2020,Michigan,Recovered,
 3/17/2020,Minnesota,Confirmed,60
 3/17/2020,Minnesota,Deaths,0
 3/17/2020,Minnesota,Recovered,0
@@ -464,9 +512,6 @@
 3/21/2020,Minnesota,Confirmed,137
 3/21/2020,Minnesota,Deaths,1
 3/21/2020,Minnesota,Recovered,24
-3/22/2020,Minnesota,Confirmed,137
-3/22/2020,Minnesota,Deaths,1
-3/22/2020,Minnesota,Recovered,24
 3/17/2020,Mississippi,Confirmed,21
 3/17/2020,Mississippi,Deaths,0
 3/17/2020,Mississippi,Recovered,0
@@ -482,9 +527,6 @@
 3/21/2020,Mississippi,Confirmed,80
 3/21/2020,Mississippi,Deaths,1
 3/21/2020,Mississippi,Recovered,0
-3/22/2020,Mississippi,Confirmed,80
-3/22/2020,Mississippi,Deaths,1
-3/22/2020,Mississippi,Recovered,0
 3/17/2020,Missouri,Confirmed,15
 3/17/2020,Missouri,Deaths,0
 3/17/2020,Missouri,Recovered,0
@@ -500,9 +542,6 @@
 3/21/2020,Missouri,Confirmed,66
 3/21/2020,Missouri,Deaths,3
 3/21/2020,Missouri,Recovered,0
-3/22/2020,Missouri,Confirmed,66
-3/22/2020,Missouri,Deaths,3
-3/22/2020,Missouri,Recovered,0
 3/17/2020,Montana,Confirmed,4
 3/17/2020,Montana,Deaths,0
 3/17/2020,Montana,Recovered,0
@@ -518,9 +557,6 @@
 3/21/2020,Montana,Confirmed,20
 3/21/2020,Montana,Deaths,0
 3/21/2020,Montana,Recovered,0
-3/22/2020,Montana,Confirmed,20
-3/22/2020,Montana,Deaths,0
-3/22/2020,Montana,Recovered,0
 3/17/2020,N. Mariana Islands,Confirmed,0
 3/17/2020,N. Mariana Islands,Deaths,0
 3/17/2020,N. Mariana Islands,Recovered,0
@@ -536,9 +572,6 @@
 3/21/2020,N. Mariana Islands,Confirmed,0
 3/21/2020,N. Mariana Islands,Deaths,0
 3/21/2020,N. Mariana Islands,Recovered,0
-3/22/2020,N. Mariana Islands,Confirmed,0
-3/22/2020,N. Mariana Islands,Deaths,0
-3/22/2020,N. Mariana Islands,Recovered,0
 3/17/2020,Nebraska,Confirmed,14
 3/17/2020,Nebraska,Deaths,0
 3/17/2020,Nebraska,Recovered,0
@@ -554,9 +587,6 @@
 3/21/2020,Nebraska,Confirmed,37
 3/21/2020,Nebraska,Deaths,0
 3/21/2020,Nebraska,Recovered,0
-3/22/2020,Nebraska,Confirmed,37
-3/22/2020,Nebraska,Deaths,0
-3/22/2020,Nebraska,Recovered,0
 3/17/2020,Nevada,Confirmed,19
 3/17/2020,Nevada,Deaths,0
 3/17/2020,Nevada,Recovered,0
@@ -572,9 +602,6 @@
 3/21/2020,Nevada,Confirmed,109
 3/21/2020,Nevada,Deaths,2
 3/21/2020,Nevada,Recovered,0
-3/22/2020,Nevada,Confirmed,109
-3/22/2020,Nevada,Deaths,2
-3/22/2020,Nevada,Recovered,0
 3/17/2020,New Hampshire,Confirmed,7
 3/17/2020,New Hampshire,Deaths,0
 3/17/2020,New Hampshire,Recovered,0
@@ -590,9 +617,6 @@
 3/21/2020,New Hampshire,Confirmed,56
 3/21/2020,New Hampshire,Deaths,0
 3/21/2020,New Hampshire,Recovered,0
-3/22/2020,New Hampshire,Confirmed,56
-3/22/2020,New Hampshire,Deaths,0
-3/22/2020,New Hampshire,Recovered,0
 3/17/2020,New Jersey,Confirmed,178
 3/17/2020,New Jersey,Deaths,3
 3/17/2020,New Jersey,Recovered,1
@@ -608,9 +632,6 @@
 3/21/2020,New Jersey,Confirmed,"1,327"
 3/21/2020,New Jersey,Deaths,16
 3/21/2020,New Jersey,Recovered,
-3/22/2020,New Jersey,Confirmed,"1,327"
-3/22/2020,New Jersey,Deaths,16
-3/22/2020,New Jersey,Recovered,
 3/17/2020,New Mexico,Confirmed,10
 3/17/2020,New Mexico,Deaths,0
 3/17/2020,New Mexico,Recovered,0
@@ -626,9 +647,6 @@
 3/21/2020,New Mexico,Confirmed,43
 3/21/2020,New Mexico,Deaths,0
 3/21/2020,New Mexico,Recovered,0
-3/22/2020,New Mexico,Confirmed,43
-3/22/2020,New Mexico,Deaths,0
-3/22/2020,New Mexico,Recovered,0
 3/17/2020,New York,Confirmed,"1,374"
 3/17/2020,New York,Deaths,12
 3/17/2020,New York,Recovered,0
@@ -644,9 +662,6 @@
 3/21/2020,New York,Confirmed,"10,356"
 3/21/2020,New York,Deaths,56
 3/21/2020,New York,Recovered,1
-3/22/2020,New York,Confirmed,"10,356"
-3/22/2020,New York,Deaths,56
-3/22/2020,New York,Recovered,1
 3/17/2020,North Carolina,Confirmed,40
 3/17/2020,North Carolina,Deaths,0
 3/17/2020,North Carolina,Recovered,0
@@ -662,9 +677,6 @@
 3/21/2020,North Carolina,Confirmed,187
 3/21/2020,North Carolina,Deaths,0
 3/21/2020,North Carolina,Recovered,
-3/22/2020,North Carolina,Confirmed,187
-3/22/2020,North Carolina,Deaths,0
-3/22/2020,North Carolina,Recovered,
 3/17/2020,North Dakota,Confirmed,1
 3/17/2020,North Dakota,Deaths,0
 3/17/2020,North Dakota,Recovered,0
@@ -680,9 +692,9 @@
 3/21/2020,North Dakota,Confirmed,26
 3/21/2020,North Dakota,Deaths,0
 3/21/2020,North Dakota,Recovered,0
-3/22/2020,North Dakota,Confirmed,26
-3/22/2020,North Dakota,Deaths,0
-3/22/2020,North Dakota,Recovered,0
+3/22/2020,"Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases",Confirmed,"Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases[c] Sources: Official reports from state health officials"
+3/22/2020,"Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases",Deaths,"Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases[c] Sources: Official reports from state health officials"
+3/22/2020,"Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases",Recovered,"Number of cases and deaths: Cumulative totals reported to date, excluding repatriated cases[c] Sources: Official reports from state health officials"
 3/17/2020,Ohio,Confirmed,67
 3/17/2020,Ohio,Deaths,0
 3/17/2020,Ohio,Recovered,0
@@ -698,9 +710,6 @@
 3/21/2020,Ohio,Confirmed,247
 3/21/2020,Ohio,Deaths,3
 3/21/2020,Ohio,Recovered,0
-3/22/2020,Ohio,Confirmed,247
-3/22/2020,Ohio,Deaths,3
-3/22/2020,Ohio,Recovered,0
 3/17/2020,Oklahoma,Confirmed,17
 3/17/2020,Oklahoma,Deaths,0
 3/17/2020,Oklahoma,Recovered,0
@@ -716,9 +725,6 @@
 3/21/2020,Oklahoma,Confirmed,53
 3/21/2020,Oklahoma,Deaths,1
 3/21/2020,Oklahoma,Recovered,1
-3/22/2020,Oklahoma,Confirmed,53
-3/22/2020,Oklahoma,Deaths,1
-3/22/2020,Oklahoma,Recovered,1
 3/17/2020,Oregon,Confirmed,47
 3/17/2020,Oregon,Deaths,1
 3/17/2020,Oregon,Recovered,0
@@ -734,9 +740,6 @@
 3/21/2020,Oregon,Confirmed,114
 3/21/2020,Oregon,Deaths,3
 3/21/2020,Oregon,Recovered,0
-3/22/2020,Oregon,Confirmed,114
-3/22/2020,Oregon,Deaths,3
-3/22/2020,Oregon,Recovered,0
 3/17/2020,Pennsylvania,Confirmed,96
 3/17/2020,Pennsylvania,Deaths,0
 3/17/2020,Pennsylvania,Recovered,0
@@ -752,9 +755,6 @@
 3/21/2020,Pennsylvania,Confirmed,371
 3/21/2020,Pennsylvania,Deaths,2
 3/21/2020,Pennsylvania,Recovered,
-3/22/2020,Pennsylvania,Confirmed,371
-3/22/2020,Pennsylvania,Deaths,2
-3/22/2020,Pennsylvania,Recovered,
 3/17/2020,Puerto Rico,Confirmed,3
 3/17/2020,Puerto Rico,Deaths,0
 3/17/2020,Puerto Rico,Recovered,0
@@ -770,9 +770,6 @@
 3/21/2020,Puerto Rico,Confirmed,6
 3/21/2020,Puerto Rico,Deaths,0
 3/21/2020,Puerto Rico,Recovered,0
-3/22/2020,Puerto Rico,Confirmed,6
-3/22/2020,Puerto Rico,Deaths,0
-3/22/2020,Puerto Rico,Recovered,0
 3/17/2020,Rhode Island,Confirmed,21
 3/17/2020,Rhode Island,Deaths,0
 3/17/2020,Rhode Island,Recovered,0
@@ -788,9 +785,6 @@
 3/21/2020,Rhode Island,Confirmed,66
 3/21/2020,Rhode Island,Deaths,0
 3/21/2020,Rhode Island,Recovered,0
-3/22/2020,Rhode Island,Confirmed,66
-3/22/2020,Rhode Island,Deaths,0
-3/22/2020,Rhode Island,Recovered,0
 3/17/2020,South Carolina,Confirmed,28
 3/17/2020,South Carolina,Deaths,1
 3/17/2020,South Carolina,Recovered,0
@@ -806,9 +800,6 @@
 3/21/2020,South Carolina,Confirmed,125
 3/21/2020,South Carolina,Deaths,3
 3/21/2020,South Carolina,Recovered,0
-3/22/2020,South Carolina,Confirmed,125
-3/22/2020,South Carolina,Deaths,3
-3/22/2020,South Carolina,Recovered,0
 3/17/2020,South Dakota,Confirmed,10
 3/17/2020,South Dakota,Deaths,1
 3/17/2020,South Dakota,Recovered,0
@@ -824,9 +815,6 @@
 3/21/2020,South Dakota,Confirmed,14
 3/21/2020,South Dakota,Deaths,1
 3/21/2020,South Dakota,Recovered,0
-3/22/2020,South Dakota,Confirmed,14
-3/22/2020,South Dakota,Deaths,1
-3/22/2020,South Dakota,Recovered,0
 3/17/2020,Tennessee,Confirmed,73
 3/17/2020,Tennessee,Deaths,0
 3/17/2020,Tennessee,Recovered,0
@@ -842,9 +830,6 @@
 3/21/2020,Tennessee,Confirmed,371
 3/21/2020,Tennessee,Deaths,1
 3/21/2020,Tennessee,Recovered,
-3/22/2020,Tennessee,Confirmed,371
-3/22/2020,Tennessee,Deaths,1
-3/22/2020,Tennessee,Recovered,
 3/17/2020,Texas,Confirmed,64
 3/17/2020,Texas,Deaths,1
 3/17/2020,Texas,Recovered,0
@@ -860,9 +845,6 @@
 3/21/2020,Texas,Confirmed,304
 3/21/2020,Texas,Deaths,5
 3/21/2020,Texas,Recovered,
-3/22/2020,Texas,Confirmed,304
-3/22/2020,Texas,Deaths,5
-3/22/2020,Texas,Recovered,
 3/17/2020,U.S. Virgin Islands,Confirmed,1
 3/17/2020,U.S. Virgin Islands,Deaths,0
 3/17/2020,U.S. Virgin Islands,Recovered,0
@@ -878,9 +860,6 @@
 3/21/2020,U.S. Virgin Islands,Confirmed,3
 3/21/2020,U.S. Virgin Islands,Deaths,0
 3/21/2020,U.S. Virgin Islands,Recovered,0
-3/22/2020,U.S. Virgin Islands,Confirmed,3
-3/22/2020,U.S. Virgin Islands,Deaths,0
-3/22/2020,U.S. Virgin Islands,Recovered,0
 3/17/2020,Utah,Confirmed,41
 3/17/2020,Utah,Deaths,0
 3/17/2020,Utah,Recovered,0
@@ -896,9 +875,6 @@
 3/21/2020,Utah,Confirmed,112
 3/21/2020,Utah,Deaths,0
 3/21/2020,Utah,Recovered,0
-3/22/2020,Utah,Confirmed,112
-3/22/2020,Utah,Deaths,0
-3/22/2020,Utah,Recovered,0
 3/17/2020,Vermont,Confirmed,4
 3/17/2020,Vermont,Deaths,0
 3/17/2020,Vermont,Recovered,0
@@ -914,9 +890,6 @@
 3/21/2020,Vermont,Confirmed,29
 3/21/2020,Vermont,Deaths,2
 3/21/2020,Vermont,Recovered,0
-3/22/2020,Vermont,Confirmed,29
-3/22/2020,Vermont,Deaths,2
-3/22/2020,Vermont,Recovered,0
 3/17/2020,Virginia,Confirmed,67
 3/17/2020,Virginia,Deaths,2
 3/17/2020,Virginia,Recovered,0
@@ -932,9 +905,6 @@
 3/21/2020,Virginia,Confirmed,153
 3/21/2020,Virginia,Deaths,2
 3/21/2020,Virginia,Recovered,1
-3/22/2020,Virginia,Confirmed,153
-3/22/2020,Virginia,Deaths,2
-3/22/2020,Virginia,Recovered,1
 3/17/2020,Washington,Confirmed,"1,012"
 3/17/2020,Washington,Deaths,54
 3/17/2020,Washington,Recovered,1
@@ -950,9 +920,6 @@
 3/21/2020,Washington,Confirmed,"1,793"
 3/21/2020,Washington,Deaths,94
 3/21/2020,Washington,Recovered,
-3/22/2020,Washington,Confirmed,"1,793"
-3/22/2020,Washington,Deaths,94
-3/22/2020,Washington,Recovered,
 3/17/2020,West Virginia,Confirmed,1
 3/17/2020,West Virginia,Deaths,0
 3/17/2020,West Virginia,Recovered,0
@@ -968,9 +935,6 @@
 3/21/2020,West Virginia,Confirmed,11
 3/21/2020,West Virginia,Deaths,0
 3/21/2020,West Virginia,Recovered,0
-3/22/2020,West Virginia,Confirmed,11
-3/22/2020,West Virginia,Deaths,0
-3/22/2020,West Virginia,Recovered,0
 3/17/2020,Wisconsin,Confirmed,47
 3/17/2020,Wisconsin,Deaths,0
 3/17/2020,Wisconsin,Recovered,1
@@ -986,9 +950,6 @@
 3/21/2020,Wisconsin,Confirmed,281
 3/21/2020,Wisconsin,Deaths,4
 3/21/2020,Wisconsin,Recovered,
-3/22/2020,Wisconsin,Confirmed,281
-3/22/2020,Wisconsin,Deaths,4
-3/22/2020,Wisconsin,Recovered,
 3/17/2020,Wyoming,Confirmed,11
 3/17/2020,Wyoming,Deaths,0
 3/17/2020,Wyoming,Recovered,0
@@ -1004,6 +965,3 @@
 3/21/2020,Wyoming,Confirmed,21
 3/21/2020,Wyoming,Deaths,0
 3/21/2020,Wyoming,Recovered,0
-3/22/2020,Wyoming,Confirmed,21
-3/22/2020,Wyoming,Deaths,0
-3/22/2020,Wyoming,Recovered,0
