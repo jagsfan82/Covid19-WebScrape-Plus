@@ -1,0 +1,2463 @@
+﻿Date,Key,Confirmed,Deaths,Recovered
+3/19/2020,PA-Adams,1,0,-
+3/19/2020,PA-Allegheny,16,0,-
+3/19/2020,PA-Beaver,2,0,-
+3/19/2020,PA-Berks,1,0,-
+3/19/2020,PA-Bucks,12,0,-
+3/19/2020,PA-Chester,10,0,-
+3/19/2020,PA-Cumberland,11,0,-
+3/19/2020,PA-Delaware,14,0,-
+3/19/2020,PA-Lackawanna,2,0,-
+3/19/2020,PA-Lancaster,2,0,-
+3/19/2020,PA-Lebanon,1,0,-
+3/19/2020,PA-Lehigh,1,0,-
+3/19/2020,PA-Luzerne,1,0,-
+3/19/2020,PA-Monroe,15,0,-
+3/19/2020,PA-Montgomery,47,0,-
+3/19/2020,PA-Northampton,5,1,-
+3/19/2020,PA-Philadelphia,33,0,-
+3/19/2020,PA-Pike,3,0,-
+3/19/2020,PA-Washington,3,0,-
+3/19/2020,PA-Wayne,1,0,-
+3/19/2020,PA-Westmoreland,2,0,-
+3/19/2020,PA-York,2,0,-
+3/19/2020,PA-Adams,1,0,-
+3/19/2020,PA-Allegheny,16,0,-
+3/19/2020,PA-Beaver,2,0,-
+3/19/2020,PA-Berks,1,0,-
+3/19/2020,PA-Bucks,12,0,-
+3/19/2020,PA-Chester,10,0,-
+3/19/2020,PA-Cumberland,11,0,-
+3/19/2020,PA-Delaware,14,0,-
+3/19/2020,PA-Lackawanna,2,0,-
+3/19/2020,PA-Lancaster,2,0,-
+3/19/2020,PA-Lebanon,1,0,-
+3/19/2020,PA-Lehigh,1,0,-
+3/19/2020,PA-Luzerne,1,0,-
+3/19/2020,PA-Monroe,15,0,-
+3/19/2020,PA-Montgomery,47,0,-
+3/19/2020,PA-Northampton,5,1,-
+3/19/2020,PA-Philadelphia,33,0,-
+3/19/2020,PA-Pike,3,0,-
+3/19/2020,PA-Washington,3,0,-
+3/19/2020,PA-Wayne,1,0,-
+3/19/2020,PA-Westmoreland,2,0,-
+3/19/2020,PA-York,2,0,-
+3/19/2020,NJ-Atlantic,3,0,0
+3/19/2020,NJ-Bergen,195,2,1
+3/19/2020,NJ-Burlington,14,0,0
+3/19/2020,NJ-Camden,13,0,0
+3/19/2020,NJ-Cape May,1,0,0
+3/19/2020,NJ-Essex,63,0,0
+3/19/2020,NJ-Gloucester,3,0,0
+3/19/2020,NJ-Hudson,55,0,0
+3/19/2020,NJ-Hunterdon,8,0,0
+3/19/2020,NJ-Mercer,20,0,0
+3/19/2020,NJ-Middlesex,64,0,0
+3/19/2020,NJ-Monmouth,43,1,0
+3/19/2020,NJ-Morris,26,0,0
+3/19/2020,NJ-Ocean,33,0,0
+3/19/2020,NJ-Passaic,18,0,0
+3/19/2020,NJ-Somerset,21,0,0
+3/19/2020,NJ-Union,29,0,0
+3/19/2020,NJ-Warren,3,0,1
+3/19/2020,NJ-Under Investigation,118,6,0
+3/19/2020,NY-Albany,43,0,-
+3/19/2020,NY-Allegany,2,0,-
+3/19/2020,NY-Broome,2,0,-
+3/19/2020,NY-Chenango,2,0,-
+3/19/2020,NY-Clinton,2,0,-
+3/19/2020,NY-Delaware,1,0,-
+3/19/2020,NY-Dutchess,31,0,-
+3/19/2020,NY-Erie,28,0,-
+3/19/2020,NY-Essex,1,0,-
+3/19/2020,NY-Fulton,1,0,-
+3/19/2020,NY-Genesee,1,0,-
+3/19/2020,NY-Greene,2,0,-
+3/19/2020,NY-Hamilton,2,0,-
+3/19/2020,NY-Herkimer,1,0,-
+3/19/2020,NY-Monroe,30,1,-
+3/19/2020,NY-Montgomery,2,0,-
+3/19/2020,NY-Nassau,372,1,-
+3/19/2020,NY-Niagara,4,0,-
+3/19/2020,NY-Oneida,4,0,-
+3/19/2020,NY-Onondaga,6,0,-
+3/19/2020,NY-Ontario,3,0,-
+3/19/2020,NY-Orange,51,0,-
+3/19/2020,NY-Putnam,5,0,-
+3/19/2020,NY-Rensselaer,6,0,-
+3/19/2020,NY-Rockland,53,1,-
+3/19/2020,NY-Saratoga,18,0,-
+3/19/2020,NY-Schenectady,18,0,-
+3/19/2020,NY-Schoharie,1,0,-
+3/19/2020,NY-Suffolk,178,3,-
+3/19/2020,NY-Sullivan,3,0,-
+3/19/2020,NY-Tioga,1,0,-
+3/19/2020,NY-Tompkins,6,0,-
+3/19/2020,NY-Ulster,10,0,-
+3/19/2020,NY-Warren,1,0,-
+3/19/2020,NY-Washington,1,0,-
+3/19/2020,NY-Wayne,1,0,-
+3/19/2020,NY-Westchester,798,0,-
+3/19/2020,NY-Wyoming,2,0,-
+3/19/2020,NY-New York City,3615,22,-
+3/19/2020,MD-Anne Arundel,5,0,0
+3/19/2020,MD-Baltimore,12,0,0
+3/19/2020,MD-Baltimore City,8,0,0
+3/19/2020,MD-Carroll,2,0,0
+3/19/2020,MD-Calvert,1,0,0
+3/19/2020,MD-Charles,2,0,0
+3/19/2020,MD-Frederick,1,0,0
+3/19/2020,MD-Harford,3,0,0
+3/19/2020,MD-Howard,16,0,0
+3/19/2020,MD-Montgomery,33,0,3
+3/19/2020,"MD-Prince George's",23,1,0
+3/19/2020,MD-Talbot,1,0,0
+3/19/2020,MD-Wicomico,1,0,0
+3/19/2020,MD-Worcester,1,0,0
+3/19/2020,DE-Kent,4,-,-
+3/19/2020,DE-New Castle,23,-,-
+3/19/2020,DE-Sussex,3,-,-
+3/19/2020,VA-Alexandria (City),4,0,-
+3/19/2020,VA-Arlington,17,0,-
+3/19/2020,VA-Charles City,1,0,-
+3/19/2020,VA-Charlottesville (City),1,0,-
+3/19/2020,VA-Chesterfield,6,0,-
+3/19/2020,VA-Fairfax,16,0,-
+3/19/2020,VA-Goochland,1,0,-
+3/19/2020,VA-Hanover,1,0,-
+3/19/2020,VA-Harrisonburg (City),1,0,-
+3/19/2020,VA-Henrico,3,0,-
+3/19/2020,VA-James City,14,2,-
+3/19/2020,VA-Loudoun,5,0,-
+3/19/2020,VA-Prince Edward,1,0,-
+3/19/2020,VA-Prince William,11,0,-
+3/19/2020,VA-Richmond (City),3,0,-
+3/19/2020,VA-Spotsylvania,1,0,-
+3/19/2020,VA-Stafford,2,0,-
+3/19/2020,VA-Virginia Beach (City),4,0,-
+3/19/2020,VA-Williamsburg (City),1,0,-
+3/19/2020,VA-York,1,0,-
+3/19/2020,CA-,1037,19,
+3/19/2020,CA-Los Angeles,231,2,
+3/19/2020,CA-Santa Clara,189,6,
+3/19/2020,CA-San Diego,97,0,
+3/19/2020,CA-San Mateo,89,1,
+3/19/2020,CA-San Francisco,70,0,
+3/19/2020,CA-Sacramento,45,3,
+3/19/2020,CA-Orange,53,0,
+3/19/2020,CA-Contra Costa,42,0,
+3/19/2020,CA-Alameda,35,0,
+3/19/2020,CA-Marin,25,0,
+3/19/2020,CA-Riverside,22,3,
+3/19/2020,CA-San Joaquin,17,2,
+3/19/2020,CA-Santa Cruz,14,0,
+3/19/2020,CA-San Luis Obispo,13,0,
+3/19/2020,CA-Ventura,13,0,
+3/19/2020,CA-Solano,10,0,
+3/19/2020,CA-Placer,9,1,
+3/19/2020,CA-Sonoma,9,0,0
+3/19/2020,CA-Santa Barbara,8,0,0
+3/19/2020,CA-Tulare,7,0,
+3/19/2020,CA-Stanislaus,5,0,
+3/19/2020,CA-San Benito,5,1,2
+3/19/2020,CA-San Bernardino,5,0,0
+3/19/2020,CA-Yolo,5,0,
+3/19/2020,CA-Kern,4,0,
+3/19/2020,CA-Fresno,3,0,
+3/19/2020,CA-Calaveras,2,0,
+3/19/2020,CA-Imperial,2,0,
+3/19/2020,CA-Madera,2,0,0
+3/19/2020,CA-Monterey,2,0,0
+3/19/2020,CA-Humboldt,1,0,1
+3/19/2020,CA-Nevada,1,0,0
+3/19/2020,CA-Shasta,1,0,
+3/19/2020,CA-Mendocino,1,0,
+3/19/2020,CA-As of 20 March 2020 (UTC),,,
+3/19/2020,"CA-^ Reported, confirmed cases. Actual case numbers may be higher. Non-repatriated cases only, where both numbers are reported. Some counties may only be reporting active cases. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero.",,,
+3/19/2020,WA-Chelan,2,0,-
+3/19/2020,WA-Clark,4,3,-
+3/19/2020,WA-Columbia,1,0,-
+3/19/2020,WA-Cowlitz,1,0,-
+3/19/2020,WA-Franklin,1,0,-
+3/19/2020,WA-Grant,8,1,-
+3/19/2020,WA-Grays Harbor,1,0,-
+3/19/2020,WA-Island,16,1,-
+3/19/2020,WA-Jefferson,4,0,-
+3/19/2020,WA-King,562,56,-
+3/19/2020,WA-Kitsap,9,0,-
+3/19/2020,WA-Kittitas,4,0,-
+3/19/2020,WA-Klickitat,1,0,-
+3/19/2020,WA-Lewis,1,0,-
+3/19/2020,WA-Lincoln,1,0,-
+3/19/2020,WA-Mason,1,0,-
+3/19/2020,WA-Pierce,56,1,-
+3/19/2020,WA-Skagit,18,0,-
+3/19/2020,WA-Snohomish,310,7,-
+3/19/2020,WA-Spokane,4,0,-
+3/19/2020,WA-Thurston,6,0,-
+3/19/2020,WA-Whatcom,7,1,-
+3/19/2020,WA-Yakima,7,0,-
+3/19/2020,WA-(Unassigned),167,0,-
+3/19/2020,IL-Champaign,1,0,0
+3/19/2020,IL-Clinton,3,0,0
+3/19/2020,IL-Cook,282,2,2
+3/19/2020,IL-Cumberland,1,0,0
+3/19/2020,IL-DuPage,54,0,0
+3/19/2020,IL-Jackson,1,0,0
+3/19/2020,IL-Kane,6,0,0
+3/19/2020,IL-Kankakee,1,0,0
+3/19/2020,IL-Kendall,1,0,0
+3/19/2020,IL-Lake,37,0,0
+3/19/2020,IL-LaSalle,1,0,0
+3/19/2020,IL-Madison,1,0,0
+3/19/2020,IL-McHenry,6,0,0
+3/19/2020,IL-Peoria,3,0,0
+3/19/2020,IL-Sangamon,5,1,0
+3/19/2020,IL-St. Clair,3,0,0
+3/19/2020,IL-Washington,1,0,0
+3/19/2020,IL-Whiteside,1,0,0
+3/19/2020,IL-Will,10,1,0
+3/19/2020,IL-Williamson,1,0,0
+3/19/2020,IL-Winnebago,1,0,0
+3/19/2020,IL-Woodford,2,0,0
+3/19/2020,LA-Acadia,1,0,-
+3/19/2020,LA-Ascension,2,0,-
+3/19/2020,LA-Assumption,1,0,-
+3/19/2020,LA-Bossier,4,0,-
+3/19/2020,LA-Caddo,10,0,-
+3/19/2020,LA-Calcasieu,1,0,-
+3/19/2020,LA-East Baton Rouge,6,0,-
+3/19/2020,LA-Iberia,1,0,-
+3/19/2020,LA-Iberville,1,0,-
+3/19/2020,LA-Jefferson,69,1,-
+3/19/2020,LA-Lafayette,3,0,-
+3/19/2020,LA-Lafourche,4,0,-
+3/19/2020,LA-Livingston,1,0,-
+3/19/2020,LA-Orleans,249,8,-
+3/19/2020,LA-Plaquemines,1,0,-
+3/19/2020,LA-Rapides,1,0,-
+3/19/2020,LA-St. Bernard,4,0,-
+3/19/2020,LA-St. Charles,4,0,-
+3/19/2020,LA-St. James,1,1,-
+3/19/2020,LA-St. John the Baptist,3,0,-
+3/19/2020,LA-St. Landry,2,0,-
+3/19/2020,LA-St. Tammany,10,0,-
+3/19/2020,LA-Terrebonne,4,0,-
+3/19/2020,LA-Washington,2,0,-
+3/19/2020,LA-Webster,1,0,-
+3/19/2020,LA-West Baton Rouge,2,0,-
+3/19/2020,LA-Under Investigation,4,0,-
+3/19/2020,MI-Bay,1,0,-
+3/19/2020,MI-Charlevoix,1,0,-
+3/19/2020,MI-Clinton,1,0,-
+3/19/2020,MI-Eaton,2,0,-
+3/19/2020,MI-Ingham,6,0,-
+3/19/2020,MI-Jackson,1,0,-
+3/19/2020,MI-Kent,7,0,-
+3/19/2020,MI-Leelanau,1,0,-
+3/19/2020,MI-Livingston,1,0,-
+3/19/2020,MI-Macomb,55,0,-
+3/19/2020,MI-Midland,1,0,-
+3/19/2020,MI-Monroe,2,0,-
+3/19/2020,MI-Montcalm,1,0,-
+3/19/2020,MI-Oakland,105,1,-
+3/19/2020,MI-Otsego,1,0,-
+3/19/2020,MI-Ottawa,1,0,-
+3/19/2020,MI-St. Clair,4,0,-
+3/19/2020,MI-Washtenaw,14,0,-
+3/19/2020,MI-Wayne,119,2,-
+3/19/2020,MI-Unclassified,10,0,-
+3/19/2020,CO-Adams,10,0,-
+3/19/2020,CO-Arapahoe,22,0,-
+3/19/2020,CO-Boulder,11,0,-
+3/19/2020,CO-Crowley,1,1,-
+3/19/2020,CO-Clear Creek,2,0,-
+3/19/2020,CO-Denver,49,0,-
+3/19/2020,CO-Douglas,14,0,-
+3/19/2020,CO-Eagle,51,0,-
+3/19/2020,CO-El Paso,15,2,-
+3/19/2020,CO-Garfield,2,0,-
+3/19/2020,CO-Grand,1,0,-
+3/19/2020,CO-Gunnison,13,0,-
+3/19/2020,CO-Jefferson,36,0,-
+3/19/2020,CO-Larimer,5,0,-
+3/19/2020,CO-Mesa,1,0,-
+3/19/2020,CO-Morgan,1,0,-
+3/19/2020,CO-Pitkin,12,0,-
+3/19/2020,CO-Pueblo,1,0,-
+3/19/2020,CO-Rio Blanco,1,0,-
+3/19/2020,CO-Routt,2,0,-
+3/19/2020,CO-Summit,5,0,-
+3/19/2020,CO-Weld,9,1,-
+3/19/2020,CO-Unknown,13,0,-
+3/19/2020,TN-Campbell,1,-,-
+3/19/2020,TN-Cheatham,1,-,-
+3/19/2020,TN-Cumberland,1,-,-
+3/19/2020,TN-Davidson,75,-,-
+3/19/2020,TN-Dyer,1,-,-
+3/19/2020,TN-Hamilton,1,-,-
+3/19/2020,TN-Jefferson,1,-,-
+3/19/2020,TN-Knox,2,-,-
+3/19/2020,TN-Montgomery,1,-,-
+3/19/2020,TN-Robertson,2,-,-
+3/19/2020,TN-Rutherford,1,-,-
+3/19/2020,TN-Sevier,1,-,-
+3/19/2020,TN-Shelby,4,-,-
+3/19/2020,TN-Sullivan,1,-,-
+3/19/2020,TN-Sumner,3,-,-
+3/19/2020,TN-Williamson,30,-,-
+3/19/2020,TN-Wilson,1,-,-
+3/19/2020,TN-Other[a],26,-,-
+3/19/2020,TN-Unknown,1,-,-
+3/19/2020,OR-Benton,2,0,-
+3/19/2020,OR-Clackamas,6,0,-
+3/19/2020,OR-Deschutes,6,0,-
+3/19/2020,OR-Douglas,1,0,-
+3/19/2020,OR-Jackson,2,0,-
+3/19/2020,OR-Klamath,1,0,-
+3/19/2020,OR-Lane,2,1,-
+3/19/2020,OR-Linn,18,0,-
+3/19/2020,OR-Marion,13,0,-
+3/19/2020,OR-Multnomah,7,1,-
+3/19/2020,OR-Polk,1,0,-
+3/19/2020,OR-Umatilla,2,0,-
+3/19/2020,OR-Washington,25,1,-
+3/19/2020,OR-Yamhill,2,0,-
+3/19/2020,SC-Abbeville,1,0,-
+3/19/2020,SC-Anderson,3,0,-
+3/19/2020,SC-Beaufort,7,0,-
+3/19/2020,SC-Calhoun,1,0,-
+3/19/2020,SC-Charleston,5,0,-
+3/19/2020,SC-Dorchester,1,0,-
+3/19/2020,SC-Fairfield,1,0,-
+3/19/2020,SC-Greenville,7,0,-
+3/19/2020,SC-Horry,6,0,-
+3/19/2020,SC-Kershaw,29,0,-
+3/19/2020,SC-Lancaster,3,0,-
+3/19/2020,SC-Lee,1,0,-
+3/19/2020,SC-Lexington,5,1,-
+3/19/2020,SC-Richland,8,0,-
+3/19/2020,SC-Saluda,1,0,-
+3/19/2020,SC-Spartanburg,1,0,-
+3/19/2020,SC-York,1,0,-
+3/19/2020,SC-Daily Sources Latest[1] • Mar 7 [19] • Mar 16 [20] • Mar 17 [21],,,-
+3/19/2020,AL-Baldwin,1,-,-
+3/19/2020,AL-Calhoun,1,-,-
+3/19/2020,AL-Chambers,1,-,-
+3/19/2020,AL-Elmore,5,-,-
+3/19/2020,AL-Lee,10,-,-
+3/19/2020,AL-Jefferson,34,-,-
+3/19/2020,AL-Limestone,1,-,-
+3/19/2020,AL-Madison,5,-,-
+3/19/2020,AL-Montgomery,3,-,-
+3/19/2020,AL-Shelby,9,-,-
+3/19/2020,AL-St. Clair,1,-,-
+3/19/2020,AL-Talladega,1,-,-
+3/19/2020,AL-Tuscaloosa,4,-,-
+3/19/2020,AL-Walker,1,-,-
+3/19/2020,AR-Bradley,,0,-
+3/19/2020,AR-Clark,,0,-
+3/19/2020,AR-Cleburne,,0,-
+3/19/2020,AR-Cleveland,,0,-
+3/19/2020,AR-Craighead,,0,-
+3/19/2020,AR-Desha,,0,-
+3/19/2020,AR-Faulkner,,0,-
+3/19/2020,AR-Garland,,0,-
+3/19/2020,AR-Grant,,0,-
+3/19/2020,AR-Independence,,0,-
+3/19/2020,AR-Jefferson,,0,-
+3/19/2020,AR-Lincoln,,0,-
+3/19/2020,AR-Poinsett,,0,-
+3/19/2020,AR-Pope,,0,-
+3/19/2020,AR-Pulaski,,0,-
+3/19/2020,AR-Saline,,0,-
+3/19/2020,AR-Searcy,,0,-
+3/19/2020,AR-Sevier,,0,-
+3/19/2020,AR-Van Buren,,0,-
+3/19/2020,AR-Washington,,0,-
+3/19/2020,ME-Androscoggin,3,-,1
+3/19/2020,ME-Cumberland,25,-,0
+3/19/2020,ME-Hancock,1,-,0
+3/19/2020,ME-Kennebec,3,-,0
+3/19/2020,ME-Lincoln,3,-,0
+3/19/2020,ME-Oxford,1,-,0
+3/19/2020,ME-Penobscot,1,-,0
+3/19/2020,ME-York,3,-,0
+3/19/2020,ME-Unknown,12,-,0
+3/19/2020,KY-Bourbon,2,1,-
+3/19/2020,KY-Clark,2,,-
+3/19/2020,KY-Daviess County,1,,-
+3/19/2020,KY-Fayette,7,,-
+3/19/2020,KY-Franklin,1,,-
+3/19/2020,KY-Harrison,7,,-
+3/19/2020,KY-Henderson,1,,-
+3/19/2020,KY-Kenton,1,,-
+3/19/2020,KY-Jefferson,10,,-
+3/19/2020,KY-Lyon,1,,-
+3/19/2020,KY-Montgomery,2,,-
+3/19/2020,KY-Nelson,1,,-
+3/19/2020,KY-Warren,1,,-
+3/19/2020,KY-Source:[1][2][3],,,-
+3/19/2020,IA-Adair,1,0,-
+3/19/2020,IA-Allamakee,2,0,-
+3/19/2020,IA-Black Hawk,1,0,-
+3/19/2020,IA-Carroll,1,0,-
+3/19/2020,IA-Dallas,5,0,-
+3/19/2020,IA-Harrison,1,0,-
+3/19/2020,IA-Johnson,21,0,-
+3/19/2020,IA-Polk,3,0,-
+3/19/2020,IA-Pottawattamie,1,0,-
+3/19/2020,IA-Washington,1,0,-
+3/19/2020,IA-Winneshiek,1,0,-
+3/19/2020,WY-Albany,0,0,-
+3/19/2020,WY-Big Horn,0,0,-
+3/19/2020,WY-Campbell,0,0,-
+3/19/2020,WY-Carbon,0,0,-
+3/19/2020,WY-Converse,0,0,-
+3/19/2020,WY-Crook,0,0,-
+3/19/2020,WY-Fremont,8,0,-
+3/19/2020,WY-Goshen,0,0,-
+3/19/2020,WY-Hot Springs,0,0,-
+3/19/2020,WY-Johnson,0,0,-
+3/19/2020,WY-Laramie,3,0,-
+3/19/2020,WY-Lincoln,0,0,-
+3/19/2020,WY-Natrona,0,0,-
+3/19/2020,WY-Niobrara,0,0,-
+3/19/2020,WY-Park,1,0,-
+3/19/2020,WY-Platte,0,0,-
+3/19/2020,WY-Sheridan,4,0,-
+3/19/2020,WY-Sublette,0,0,-
+3/19/2020,WY-Sweetwater,0,0,-
+3/19/2020,WY-Teton,1,0,-
+3/19/2020,WY-Uinta,0,0,-
+3/19/2020,WY-Washakie,0,0,-
+3/19/2020,WY-Weston,0,0,-
+3/19/2020,SD-Beadle,1,,-
+3/19/2020,SD-Bon Homme,1,,-
+3/19/2020,SD-Charles Mix,1,,-
+3/19/2020,SD-Davison,1,1,-
+3/19/2020,SD-McCook,1,,-
+3/19/2020,SD-Minnehaha,5,,-
+3/19/2020,SD-Pennington,1,,-
+3/19/2020,AK-Anchorage,4,-,-
+3/19/2020,AK-Gulf Coast,1,-,-
+3/19/2020,AK-Interior,3,-,-
+3/19/2020,AK-Mat-Su,0,-,-
+3/19/2020,AK-Northern,0,-,-
+3/19/2020,AK-Southeast,1,-,-
+3/19/2020,AK-Southwest,0,-,-
+3/19/2020,PR-San Juan,4,-,0
+3/19/2020,PR-Mayagüez,1,-,0
+3/19/2020,PR-Undisclosed,1,-,0
+3/19/2020,KS-Butler,1,0,-
+3/19/2020,KS-Cherokee,1,0,-
+3/19/2020,KS-Douglas,1,0,-
+3/19/2020,KS-Ford,1,0,-
+3/19/2020,KS-Franklin,1,0,-
+3/19/2020,KS-Jackson,1,0,-
+3/19/2020,KS-Johnson,16,0,-
+3/19/2020,KS-Leavenworth,2,0,-
+3/19/2020,KS-Linn,1,0,-
+3/19/2020,KS-Miami,1,0,-
+3/19/2020,KS-Morris,2,0,-
+3/19/2020,KS-Wyandotte,8,1,-
+3/19/2020,NM-Bernalillo County,,-,-
+3/19/2020,NM-Catron County,,-,-
+3/19/2020,NM-Chaves County,,-,-
+3/19/2020,NM-Cibola County,,-,-
+3/19/2020,NM-Colfax County,,-,-
+3/19/2020,NM-Curry County,,-,-
+3/19/2020,NM-De Baca County,,-,-
+3/19/2020,NM-Dona Ana County,,-,-
+3/19/2020,NM-Eddy County,,-,-
+3/19/2020,NM-Grant County,,-,-
+3/19/2020,NM-Guadalupe County,,-,-
+3/19/2020,NM-Harding County,,-,-
+3/19/2020,NM-Hidalgo County,,-,-
+3/19/2020,NM-Lea County,,-,-
+3/19/2020,NM-Lincoln County,,-,-
+3/19/2020,NM-Los Alamos County,,-,-
+3/19/2020,NM-Luna County,,-,-
+3/19/2020,NM-McKinley County,,-,-
+3/19/2020,NM-Mora County,,-,-
+3/19/2020,NM-Otero County,,-,-
+3/19/2020,NM-Quay County,,-,-
+3/19/2020,NM-Rio Arriba County,,-,-
+3/19/2020,NM-Roosevelt County,,-,-
+3/19/2020,NM-San Juan County,,-,-
+3/19/2020,NM-San Miguel County,,-,-
+3/19/2020,NM-Sandoval County,,-,-
+3/19/2020,NM-Santa Fe County,,-,-
+3/19/2020,NM-Sierra County,,-,-
+3/19/2020,NM-Socorro County,,-,-
+3/19/2020,NM-Taos County,,-,-
+3/19/2020,NM-Torrance County,,-,-
+3/19/2020,NM-Union County,,-,-
+3/19/2020,NM-Valencia County,,-,-
+3/19/2020,MO-Boone,1,-,-
+3/19/2020,MO-Cass,3,-,-
+3/19/2020,MO-Christian,2,-,-
+3/19/2020,MO-Cole,2,-,-
+3/19/2020,MO-Greene,6,-,-
+3/19/2020,MO-Henry,1,-,-
+3/19/2020,MO-Jackson,2,-,-
+3/19/2020,MO-St. Louis City,3,-,-
+3/19/2020,MO-St. Louis County,8,-,-
+3/19/2020,MN-Anoka,5,-,
+3/19/2020,MN-Benton,1,-,
+3/19/2020,MN-Blue Earth,2,-,
+3/19/2020,MN-Carver,3,-,
+3/19/2020,MN-Dakota,7,-,
+3/19/2020,MN-Hennepin,33,-,
+3/19/2020,MN-Martin,3,-,
+3/19/2020,MN-Mower,1,-,
+3/19/2020,MN-Nicollet,2,-,
+3/19/2020,MN-Olmsted,6,-,
+3/19/2020,MN-Ramsey,12,-,
+3/19/2020,MN-Renville,1,-,
+3/19/2020,MN-Rice,1,-,
+3/19/2020,MN-Scott,1,-,
+3/19/2020,MN-Stearns,4,-,
+3/19/2020,MN-Wadena,1,-,
+3/19/2020,MN-Waseca,1,-,
+3/19/2020,MN-Washington,3,-,
+3/19/2020,MN-Wright,2,-,
+3/19/2020,MS-DeSoto,1,-,-
+3/19/2020,MS-Forrest,1,-,-
+3/19/2020,MS-Harrison,3,-,-
+3/19/2020,MS-Holmes,1,-,-
+3/19/2020,MS-Jackson,1,-,-
+3/19/2020,MS-Jones,1,-,-
+3/19/2020,MS-Pearl River,3,-,-
+3/19/2020,MS-Smith,1,-,-
+3/19/2020,MS-Walthall,1,-,-
+3/19/2020,MS-Wilkinson,1,-,-
+3/19/2020,MS-Winston,1,-,-
+3/19/2020,MS-Yazoo,1,-,-
+3/19/2020,OK-Canadian,2,-,-
+3/19/2020,OK-Cleveland,9,-,-
+3/19/2020,OK-Custer,1,-,-
+3/19/2020,OK-Grady,1,-,-
+3/19/2020,OK-Jackson,1,-,-
+3/19/2020,OK-Kay,2,-,-
+3/19/2020,OK-Logan,1,-,-
+3/19/2020,OK-McClain,1,-,-
+3/19/2020,OK-Oklahoma,18,-,-
+3/19/2020,OK-Pawnee,1,-,-
+3/19/2020,OK-Payne,1,-,-
+3/19/2020,OK-Tulsa,5,-,-
+3/19/2020,OK-Washington,1,-,-
+3/19/2020,OH-Ashland,1,-,-
+3/19/2020,OH-Belmont,2,-,-
+3/19/2020,OH-Butler,8,-,-
+3/19/2020,OH-Clark,1,-,-
+3/19/2020,OH-Coshocton,2,-,-
+3/19/2020,OH-Cuyahoga,53,-,-
+3/19/2020,OH-Darke,1,-,-
+3/19/2020,OH-Delaware,2,-,-
+3/19/2020,OH-Franklin,10,-,-
+3/19/2020,OH-Geauga,1,-,-
+3/19/2020,OH-Hamilton,1,-,-
+3/19/2020,OH-Huron,1,-,-
+3/19/2020,OH-Lake,2,-,-
+3/19/2020,OH-Lorain,6,-,-
+3/19/2020,OH-Lucas,1,-,-
+3/19/2020,OH-Mahoning,5,-,-
+3/19/2020,OH-Medina,5,-,-
+3/19/2020,OH-Miami,1,-,-
+3/19/2020,OH-Montgomery,1,-,-
+3/19/2020,OH-Richland,1,-,-
+3/19/2020,OH-Stark,5,-,-
+3/19/2020,OH-Summit,6,-,-
+3/19/2020,OH-Trumbull,2,-,-
+3/19/2020,OH-Tuscarawas,1,-,-
+3/19/2020,OH-Total OH cases,119,-,-
+3/19/2020,CT-Fairfield,102,-,-
+3/19/2020,CT-Hartford,18,-,-
+3/19/2020,CT-Litchfield,7,-,-
+3/19/2020,CT-Middlesex,3,-,-
+3/19/2020,CT-New Haven,23,-,-
+3/19/2020,CT-Tolland,4,-,-
+3/19/2020,CT-Windham,2,-,-
+3/19/2020,FL-Alachua,11,-,-
+3/19/2020,FL-Brevard,3,-,-
+3/19/2020,FL-Broward,96,-,-
+3/19/2020,FL-Charlotte,1,-,-
+3/19/2020,FL-Citrus,3,-,-
+3/19/2020,FL-Clay,4,-,-
+3/19/2020,FL-Collier,18,-,-
+3/19/2020,FL-Miami-Dade,101,-,-
+3/19/2020,FL-Duval,15,-,-
+3/19/2020,FL-Escambia,1,-,-
+3/19/2020,FL-Gadsden,1,-,-
+3/19/2020,FL-Hernando,4,-,-
+3/19/2020,FL-Hillsborough,20,-,-
+3/19/2020,FL-Indian River,1,-,-
+3/19/2020,FL-Jackson,1,-,-
+3/19/2020,FL-Lake,3,-,-
+3/19/2020,FL-Lee,11,-,-
+3/19/2020,FL-Leon,4,-,-
+3/19/2020,FL-Manatee,9,-,-
+3/19/2020,FL-Martin,1,-,-
+3/19/2020,FL-Nassau,1,-,-
+3/19/2020,FL-Okaloosa,5,-,-
+3/19/2020,FL-Orange,19,-,-
+3/19/2020,FL-Osceola,13,-,-
+3/19/2020,FL-Palm Beach,29,-,-
+3/19/2020,FL-Pasco,5,-,-
+3/19/2020,FL-Pinellas,16,-,-
+3/19/2020,FL-Polk,4,-,-
+3/19/2020,FL-St. Johns,4,-,-
+3/19/2020,FL-Santa Rosa,2,-,-
+3/19/2020,FL-Sarasota,6,-,-
+3/19/2020,FL-Seminole,8,-,-
+3/19/2020,FL-Sumter,2,-,-
+3/19/2020,FL-Volusia,9,-,-
+3/19/2020,FL-Walton,1,-,-
+3/19/2020,TX-Bell,1,-,-
+3/19/2020,TX-Bexar,6,-,-
+3/19/2020,TX-Bowie,1,-,-
+3/19/2020,TX-Brazoria,2,-,-
+3/19/2020,TX-Brazos,1,-,-
+3/19/2020,TX-Collin,7,-,-
+3/19/2020,TX-Dallas,20,-,-
+3/19/2020,TX-Denton,4,-,-
+3/19/2020,TX-DeWitt,1,-,-
+3/19/2020,TX-El Paso,3,-,-
+3/19/2020,TX-Fort Bend,9,-,-
+3/19/2020,TX-Galveston,2,-,-
+3/19/2020,TX-Gregg,1,-,-
+3/19/2020,TX-Harris,10,-,-
+3/19/2020,TX-Hays,3,-,-
+3/19/2020,TX-Johnson,2,-,-
+3/19/2020,TX-Lavaca,1,-,-
+3/19/2020,TX-Matagorda,3,-,-
+3/19/2020,TX-McLennan,6,-,-
+3/19/2020,TX-Medina,1,-,-
+3/19/2020,TX-Montgomery,3,-,-
+3/19/2020,TX-Rusk,1,-,-
+3/19/2020,TX-Smith,5,-,-
+3/19/2020,TX-Tarrant,5,-,-
+3/19/2020,TX-Travis,7,-,-
+3/19/2020,TX-Webb,1,-,-
+3/19/2020,TX-Williamson,2,-,-
+3/19/2020,TX-Pending County Assignment,35,-,-
+3/20/2020,PA-Adams,4,0,-
+3/20/2020,PA-Allegheny,28,0,-
+3/20/2020,PA-Beaver,3,0,-
+3/20/2020,PA-Berks,5,0,-
+3/20/2020,PA-Bucks,16,0,-
+3/20/2020,PA-Centre,1,0,-
+3/20/2020,PA-Chester,17,0,-
+3/20/2020,PA-Cumberland,11,0,-
+3/20/2020,PA-Delaware,23,0,-
+3/20/2020,PA-Erie,1,0,-
+3/20/2020,PA-Franklin,1,0,-
+3/20/2020,PA-Lackawanna,4,0,-
+3/20/2020,PA-Lancaster,2,0,-
+3/20/2020,PA-Lebanon,1,0,-
+3/20/2020,PA-Lehigh,2,0,-
+3/20/2020,PA-Luzerne,2,0,-
+3/20/2020,PA-Monroe,19,0,-
+3/20/2020,PA-Montgomery,59,0,-
+3/20/2020,PA-Northampton,10,1,-
+3/20/2020,PA-Philadelphia,42,0,-
+3/20/2020,PA-Pike,2,0,-
+3/20/2020,PA-Potter,1,0,-
+3/20/2020,PA-Washington,3,0,-
+3/20/2020,PA-Wayne,1,0,-
+3/20/2020,PA-Westmoreland,4,0,-
+3/20/2020,PA-York,6,0,-
+3/20/2020,NY-Albany,70,0,0
+3/20/2020,NY-Allegany,2,0,0
+3/20/2020,NY-Broome,2,0,0
+3/20/2020,NY-Chenango,2,0,0
+3/20/2020,NY-Clinton,3,0,0
+3/20/2020,NY-Delaware,1,0,0
+3/20/2020,NY-Dutchess,36,0,0
+3/20/2020,NY-Erie,31,0,0
+3/20/2020,NY-Essex,1,0,0
+3/20/2020,NY-Fulton,1,0,0
+3/20/2020,NY-Genesee,1,0,0
+3/20/2020,NY-Greene,4,0,0
+3/20/2020,NY-Hamilton,2,0,0
+3/20/2020,NY-Herkimer,1,0,0
+3/20/2020,NY-Monroe,32,1,0
+3/20/2020,NY-Montgomery,2,0,0
+3/20/2020,NY-Nassau,754,3,0
+3/20/2020,NY-Niagara,4,0,0
+3/20/2020,NY-Oneida,4,0,0
+3/20/2020,NY-Onondaga,7,0,0
+3/20/2020,NY-Ontario,3,0,0
+3/20/2020,NY-Orange,84,0,0
+3/20/2020,NY-Putnam,5,0,0
+3/20/2020,NY-Rensselaer,6,0,0
+3/20/2020,NY-Rockland,101,1,0
+3/20/2020,NY-Saratoga,21,0,0
+3/20/2020,NY-Schenectady,14,0,0
+3/20/2020,NY-Schoharie,1,0,0
+3/20/2020,NY-Suffolk,374,3,0
+3/20/2020,NY-Sullivan,3,0,0
+3/20/2020,NY-Steuben,3,0,0
+3/20/2020,NY-Tioga,1,0,0
+3/20/2020,NY-Tompkins,11,0,0
+3/20/2020,NY-Ulster,9,0,0
+3/20/2020,NY-Warren,1,0,0
+3/20/2020,NY-Washington,1,0,0
+3/20/2020,NY-Wayne,1,0,0
+3/20/2020,NY-Westchester,1091,0,0
+3/20/2020,NY-Wyoming,2,0,0
+3/20/2020,NY-New York City,5151,26,1
+3/20/2020,IL-Adams,1,0,0
+3/20/2020,IL-Champaign,1,0,0
+3/20/2020,IL-Christian,1,0,0
+3/20/2020,IL-Clinton,3,0,0
+3/20/2020,IL-Cook,416,3,2
+3/20/2020,IL-Cumberland,1,0,0
+3/20/2020,IL-DuPage,57,0,0
+3/20/2020,IL-Jackson,1,0,0
+3/20/2020,IL-Kane,8,0,0
+3/20/2020,IL-Kankakee,1,0,0
+3/20/2020,IL-Kendall,2,0,0
+3/20/2020,IL-Lake,53,0,0
+3/20/2020,IL-LaSalle,1,0,0
+3/20/2020,IL-Madison,1,0,0
+3/20/2020,IL-McHenry,8,0,0
+3/20/2020,IL-McLean,4,0,0
+3/20/2020,IL-Peoria,3,0,0
+3/20/2020,IL-Sangamon,5,1,0
+3/20/2020,IL-St. Clair,3,0,0
+3/20/2020,IL-Washington,1,0,0
+3/20/2020,IL-Whiteside,1,0,0
+3/20/2020,IL-Will,11,1,0
+3/20/2020,IL-Williamson,1,0,0
+3/20/2020,IL-Winnebago,2,0,0
+3/20/2020,IL-Woodford,2,0,0
+3/20/2020,LA-Ascension,3,0,-
+3/20/2020,LA-Assumption,1,0,-
+3/20/2020,LA-Bossier,5,0,-
+3/20/2020,LA-Caddo,12,0,-
+3/20/2020,LA-Calcasieu,3,0,-
+3/20/2020,LA-Catahoula,1,1,-
+3/20/2020,LA-DeSoto,2,0,-
+3/20/2020,LA-East Baton Rouge,7,0,-
+3/20/2020,LA-Iberia,2,0,-
+3/20/2020,LA-Iberville,1,0,-
+3/20/2020,LA-Jefferson,104,2,-
+3/20/2020,LA-Lafayette,6,0,-
+3/20/2020,LA-Lafourche,5,0,-
+3/20/2020,LA-Livingston,1,0,-
+3/20/2020,LA-Orleans,326,10,-
+3/20/2020,LA-Plaquemines,1,0,-
+3/20/2020,LA-Rapides,1,0,-
+3/20/2020,LA-St. Bernard,5,0,-
+3/20/2020,LA-St. Charles,7,0,-
+3/20/2020,LA-St. James,1,1,-
+3/20/2020,LA-St. John the Baptist,6,0,-
+3/20/2020,LA-St. Landry,2,0,-
+3/20/2020,LA-St. Tammany,12,0,-
+3/20/2020,LA-Tangipahoa,1,0,-
+3/20/2020,LA-Terrebonne,7,0,-
+3/20/2020,LA-Washington,2,0,-
+3/20/2020,LA-Webster,1,0,-
+3/20/2020,LA-West Baton Rouge,3,0,-
+3/20/2020,LA-Under Investigation,7,0,-
+3/20/2020,MI-Bay,1,0,-
+3/20/2020,MI-Charlevoix,1,0,-
+3/20/2020,MI-Clinton,1,0,-
+3/20/2020,MI-Eaton,2,0,-
+3/20/2020,MI-Genesee,1,0,-
+3/20/2020,MI-Ingham,7,0,-
+3/20/2020,MI-Jackson,1,0,-
+3/20/2020,MI-Kent,12,0,-
+3/20/2020,MI-Leelanau,1,0,-
+3/20/2020,MI-Livingston,3,0,-
+3/20/2020,MI-Macomb,86,0,-
+3/20/2020,MI-Midland,3,0,-
+3/20/2020,MI-Monroe,3,0,-
+3/20/2020,MI-Montcalm,1,0,-
+3/20/2020,MI-Oakland,184,1,-
+3/20/2020,MI-Otsego,1,0,-
+3/20/2020,MI-Ottawa,1,0,-
+3/20/2020,MI-St. Clair,7,0,-
+3/20/2020,MI-Washtenaw,16,0,-
+3/20/2020,MI-Wayne,216,2,-
+3/20/2020,MI-Out-of-State*,1,0,-
+3/20/2020,"MI-*Patient is not a resident, but is being treated within the state of Michigan.",,,-
+3/20/2020,CO-Adams,12,0,-
+3/20/2020,CO-Arapahoe,29,0,-
+3/20/2020,CO-Boulder,16,0,-
+3/20/2020,CO-Broomfield,2,0,-
+3/20/2020,CO-Crowley,1,1,-
+3/20/2020,CO-Clear Creek,2,0,-
+3/20/2020,CO-Denver,67,0,-
+3/20/2020,CO-Douglas,17,0,-
+3/20/2020,CO-Eagle,61,0,-
+3/20/2020,CO-El Paso,27,2,-
+3/20/2020,CO-Garfield,4,0,-
+3/20/2020,CO-Grand,3,0,-
+3/20/2020,CO-Gunnison,18,0,-
+3/20/2020,CO-Jefferson,37,0,-
+3/20/2020,CO-Larimer,7,0,-
+3/20/2020,CO-Mesa,1,0,-
+3/20/2020,CO-Morgan,2,0,-
+3/20/2020,CO-Park,1,0,-
+3/20/2020,CO-Pitkin,14,0,-
+3/20/2020,CO-Pueblo,3,0,-
+3/20/2020,CO-Rio Blanco,1,0,-
+3/20/2020,CO-Routt,2,0,-
+3/20/2020,CO-Summit,7,0,-
+3/20/2020,CO-Weld,9,1,-
+3/20/2020,CO-Yuma,9,1,-
+3/20/2020,CO-Unknown,20,0,-
+3/20/2020,TN-Anderson,1,-,-
+3/20/2020,TN-Blount,1,-,-
+3/20/2020,TN-Bradley,1,-,-
+3/20/2020,TN-Campbell,1,-,-
+3/20/2020,TN-Cheatham,1,-,-
+3/20/2020,TN-Cumberland,2,-,-
+3/20/2020,TN-Davidson,101,-,-
+3/20/2020,TN-Dickson,2,-,-
+3/20/2020,TN-Dyer,1,-,-
+3/20/2020,TN-Greene,1,-,-
+3/20/2020,TN-Hamblen,1,-,-
+3/20/2020,TN-Hamilton,5,-,-
+3/20/2020,TN-Jefferson,1,-,-
+3/20/2020,TN-Knox,3,-,-
+3/20/2020,TN-Montgomery,1,-,-
+3/20/2020,TN-Maury,1,-,-
+3/20/2020,TN-Robertson,2,-,-
+3/20/2020,TN-Rutherford,1,-,-
+3/20/2020,TN-Sevier,1,-,-
+3/20/2020,TN-Shelby,,-,-
+3/20/2020,TN-Sullivan,1,-,-
+3/20/2020,TN-Sumner,11,-,-
+3/20/2020,TN-Tipton,1,-,-
+3/20/2020,TN-Washington,2,-,-
+3/20/2020,TN-Williamson,35,-,-
+3/20/2020,TN-Wilson,1,-,-
+3/20/2020,TN-Other[b],40,-,-
+3/20/2020,TN-Unknown,1,-,-
+3/20/2020,OR-Benton,2,0,-
+3/20/2020,OR-Clackamas,10,0,-
+3/20/2020,OR-Deschutes,8,0,-
+3/20/2020,OR-Douglas,1,0,-
+3/20/2020,OR-Grant,1,0,-
+3/20/2020,OR-Jackson,2,0,-
+3/20/2020,OR-Klamath,1,0,-
+3/20/2020,OR-Lane,2,1,-
+3/20/2020,OR-Linn,19,0,-
+3/20/2020,OR-Marion,17,0,-
+3/20/2020,OR-Multnomah,12,1,-
+3/20/2020,OR-Polk,1,0,-
+3/20/2020,OR-Umatilla,2,0,-
+3/20/2020,OR-Union,1,0,-
+3/20/2020,OR-Washington,31,1,-
+3/20/2020,OR-Yamhill,4,0,-
+3/20/2020,SC-Abbeville,1,0,-
+3/20/2020,SC-Aiken,1,0,-
+3/20/2020,SC-Anderson,6,0,-
+3/20/2020,SC-Beaufort,8,0,-
+3/20/2020,SC-Berkeley,1,0,-
+3/20/2020,SC-Calhoun,1,0,-
+3/20/2020,SC-Charleston,5,1,-
+3/20/2020,SC-Clarendon,1,0,-
+3/20/2020,SC-Darlington,1,0,-
+3/20/2020,SC-Dorchester,1,0,-
+3/20/2020,SC-Fairfield,1,0,-
+3/20/2020,SC-Florence,1,1,-
+3/20/2020,SC-Greenville,12,0,-
+3/20/2020,SC-Horry,8,0,-
+3/20/2020,SC-Kershaw,36,0,-
+3/20/2020,SC-Lancaster,3,0,-
+3/20/2020,SC-Lee,1,0,-
+3/20/2020,SC-Lexington,8,1,-
+3/20/2020,SC-Orangeburg,2,0,-
+3/20/2020,SC-Pickens,1,0,-
+3/20/2020,SC-Richland,22,0,-
+3/20/2020,SC-Saluda,1,0,-
+3/20/2020,SC-Spartanburg,1,0,-
+3/20/2020,SC-Sumter,1,0,-
+3/20/2020,SC-York,1,0,-
+3/20/2020,SC-Daily Sources Latest DHEC count[1] Mar 7 [18] • Mar 16 [19] • Mar 17 [20] • Mar 18 [21] • Mar 19 [22] • Mar 20 [23][17][16],,,-
+3/20/2020,MD-Anne Arundel,10,0,0
+3/20/2020,MD-Baltimore,13,1,0
+3/20/2020,MD-Baltimore City,11,0,0
+3/20/2020,MD-Calvert,1,0,0
+3/20/2020,MD-Carroll,4,0,0
+3/20/2020,MD-Charles,2,0,0
+3/20/2020,MD-Frederick,1,0,0
+3/20/2020,MD-Harford,5,0,0
+3/20/2020,MD-Howard,18,0,0
+3/20/2020,MD-Montgomery,51,0,3
+3/20/2020,"MD-Prince George's",31,1,0
+3/20/2020,MD-Talbot,1,0,0
+3/20/2020,MD-Wicomico,1,0,0
+3/20/2020,MD-Worcester,1,0,0
+3/20/2020,NJ-Atlantic,3,0,0
+3/20/2020,NJ-Bergen,195,2,1
+3/20/2020,NJ-Burlington,17,0,0
+3/20/2020,NJ-Camden,11,0,0
+3/20/2020,NJ-Cape May,1,0,0
+3/20/2020,NJ-Cumberland,1,0,0
+3/20/2020,NJ-Essex,63,0,0
+3/20/2020,NJ-Gloucester,3,0,0
+3/20/2020,NJ-Hudson,55,0,0
+3/20/2020,NJ-Hunterdon,11,0,0
+3/20/2020,NJ-Mercer,22,0,0
+3/20/2020,NJ-Middlesex,76,0,0
+3/20/2020,NJ-Monmouth,53,1,0
+3/20/2020,NJ-Morris,26,0,0
+3/20/2020,NJ-Ocean,33,0,0
+3/20/2020,NJ-Passaic,18,0,0
+3/20/2020,NJ-Somerset,28,0,0
+3/20/2020,NJ-Union,29,0,0
+3/20/2020,NJ-Warren,3,0,1
+3/20/2020,NJ-Under Investigation,98,8,0
+3/20/2020,DE-Kent,5,-,-
+3/20/2020,DE-New Castle,27,-,-
+3/20/2020,DE-Sussex,6,-,-
+3/20/2020,VA-Accomack,1,0,-
+3/20/2020,VA-Alexandria (City),3,0,-
+3/20/2020,VA-Arlington,17,0,-
+3/20/2020,VA-Botetourt County[32],1,0,-
+3/20/2020,VA-Charles City,1,0,-
+3/20/2020,VA-Charlottesville (City),1,0,-
+3/20/2020,VA-Chesterfield,5,0,-
+3/20/2020,VA-Fairfax,16,0,-
+3/20/2020,VA-Gloucester,1,0,-
+3/20/2020,VA-Goochland,1,0,-
+3/20/2020,VA-Hanover,1,0,-
+3/20/2020,VA-Harrisonburg (City),1,0,-
+3/20/2020,VA-Henrico,3,0,-
+3/20/2020,VA-James City,19,2,-
+3/20/2020,VA-Loudoun,9,0,-
+3/20/2020,VA-Newport News (City),1,0,-
+3/20/2020,VA-Norfolk (City),1,0,-
+3/20/2020,VA-Portsmouth (City),1,0,-
+3/20/2020,VA-Prince Edward,1,0,-
+3/20/2020,VA-Prince William,12,0,-
+3/20/2020,VA-Richmond (City),5,0,-
+3/20/2020,VA-Spotsylvania,1,0,-
+3/20/2020,VA-Stafford,2,0,-
+3/20/2020,VA-Virginia Beach (City),4,0,-
+3/20/2020,VA-Williamsburg (City),4,0,-
+3/20/2020,VA-York,3,0,-
+3/20/2020,WA-Benton,2,1,-
+3/20/2020,WA-Chelan,2,0,-
+3/20/2020,WA-Clallam,1,0,-
+3/20/2020,WA-Clark,6,3,-
+3/20/2020,WA-Columbia,1,0,-
+3/20/2020,WA-Cowlitz,2,0,-
+3/20/2020,WA-Franklin,2,0,-
+3/20/2020,WA-Grant,8,1,-
+3/20/2020,WA-Grays Harbor,1,0,-
+3/20/2020,WA-Island,19,1,-
+3/20/2020,WA-Jefferson,4,0,-
+3/20/2020,WA-King,793,67,-
+3/20/2020,WA-Kitsap,12,0,-
+3/20/2020,WA-Kittitas,4,0,-
+3/20/2020,WA-Klickitat,2,0,-
+3/20/2020,WA-Lewis,1,0,-
+3/20/2020,WA-Lincoln,1,0,-
+3/20/2020,WA-Mason,1,0,-
+3/20/2020,WA-Pierce,83,1,-
+3/20/2020,WA-Skagit,25,0,-
+3/20/2020,WA-Snohomish,385,8,-
+3/20/2020,WA-Spokane,11,0,-
+3/20/2020,WA-Thurston,6,0,-
+3/20/2020,WA-Whatcom,10,1,-
+3/20/2020,WA-Yakima,10,0,-
+3/20/2020,WA-(Unassigned),133,6,-
+3/20/2020,AL-Baldwin,2,-,-
+3/20/2020,AL-Calhoun,1,-,-
+3/20/2020,AL-Chambers,1,-,-
+3/20/2020,AL-Cullman,1,-,-
+3/20/2020,AL-Elmore,6,-,-
+3/20/2020,AL-Jackson,1,-,-
+3/20/2020,AL-Jefferson,50,-,-
+3/20/2020,AL-Lamar,1,-,-
+3/20/2020,AL-Lauderdale,1,-,-
+3/20/2020,AL-Lee,11,-,-
+3/20/2020,AL-Limestone,1,-,-
+3/20/2020,AL-Madison,7,-,-
+3/20/2020,AL-Mobile,2,-,-
+3/20/2020,AL-Montgomery,3,-,-
+3/20/2020,AL-Shelby,10,-,-
+3/20/2020,AL-St. Clair,1,-,-
+3/20/2020,AL-Talladega,1,-,-
+3/20/2020,AL-Tuscaloosa,4,-,-
+3/20/2020,AL-Walker,1,-,-
+3/20/2020,AL-Washington,1,-,-
+3/20/2020,AR-Benton,,0,-
+3/20/2020,AR-Boone,,0,-
+3/20/2020,AR-Bradley,,0,-
+3/20/2020,AR-Clark,,0,-
+3/20/2020,AR-Cleburne,,0,-
+3/20/2020,AR-Cleveland,,0,-
+3/20/2020,AR-Craighead,,0,-
+3/20/2020,AR-Crittenden,,0,-
+3/20/2020,AR-Desha,,0,-
+3/20/2020,AR-Faulkner,,0,-
+3/20/2020,AR-Garland,,0,-
+3/20/2020,AR-Grant,,0,-
+3/20/2020,AR-Greene,,0,-
+3/20/2020,AR-Independence,,0,-
+3/20/2020,AR-Jefferson,,0,-
+3/20/2020,AR-Lincoln,,0,-
+3/20/2020,AR-Poinsett,,0,-
+3/20/2020,AR-Polk,,0,-
+3/20/2020,AR-Pope,,0,-
+3/20/2020,AR-Pulaski,,0,-
+3/20/2020,AR-Saline,,0,-
+3/20/2020,AR-Searcy,,0,-
+3/20/2020,AR-Sevier,,0,-
+3/20/2020,AR-Van Buren,,0,-
+3/20/2020,AR-Washington,,0,-
+3/20/2020,ME-Androscoggin,3,-,1
+3/20/2020,ME-Cumberland,25,-,0
+3/20/2020,ME-Hancock,1,-,0
+3/20/2020,ME-Kennebec,3,-,0
+3/20/2020,ME-Lincoln,3,-,0
+3/20/2020,ME-Oxford,1,-,0
+3/20/2020,ME-Penobscot,1,-,0
+3/20/2020,ME-York,3,-,0
+3/20/2020,ME-Unknown,12,-,0
+3/20/2020,KY-Bourbon,2,1,-
+3/20/2020,KY-Clark,2,,-
+3/20/2020,KY-Daviess County,1,,-
+3/20/2020,KY-Fayette,7,,-
+3/20/2020,KY-Franklin,1,,-
+3/20/2020,KY-Harrison,7,,-
+3/20/2020,KY-Henderson,1,,-
+3/20/2020,KY-Kenton,1,,-
+3/20/2020,KY-Jefferson,10,,-
+3/20/2020,KY-Lyon,1,,-
+3/20/2020,KY-Montgomery,2,,-
+3/20/2020,KY-Nelson,1,,-
+3/20/2020,KY-Warren,1,,-
+3/20/2020,KY-Source:[1][2][3],,,-
+3/20/2020,IA-Adair,1,0,-
+3/20/2020,IA-Allamakee,3,0,-
+3/20/2020,IA-Black Hawk,1,0,-
+3/20/2020,IA-Carroll,1,0,-
+3/20/2020,IA-Dallas,5,0,-
+3/20/2020,IA-Dubuque,1,0,-
+3/20/2020,IA-Harrison,1,0,-
+3/20/2020,IA-Johnson,22,0,-
+3/20/2020,IA-Muscatine,1,0,-
+3/20/2020,IA-Polk,6,0,-
+3/20/2020,IA-Pottawattamie,1,0,-
+3/20/2020,IA-Washington,1,0,-
+3/20/2020,IA-Winneshiek,1,0,-
+3/20/2020,AK-Anchorage,4,-,-
+3/20/2020,AK-Gulf Coast,1,-,-
+3/20/2020,AK-Interior,5,-,-
+3/20/2020,AK-Mat-Su,0,-,-
+3/20/2020,AK-Northern,0,-,-
+3/20/2020,AK-Southeast,2,-,-
+3/20/2020,AK-Southwest,0,-,-
+3/20/2020,CA-Los Angeles,292,2,
+3/20/2020,CA-Santa Clara,196,8,
+3/20/2020,CA-San Diego,131,0,
+3/20/2020,CA-San Mateo,100,1,
+3/20/2020,CA-San Francisco,76,0,
+3/20/2020,CA-Orange,65,0,
+3/20/2020,CA-Sacramento,53,3,
+3/20/2020,CA-Contra Costa,46,1,
+3/20/2020,CA-Alameda,45,0,
+3/20/2020,CA-Marin,38,0,
+3/20/2020,CA-Riverside,28,4,
+3/20/2020,CA-Sonoma,22,1,0
+3/20/2020,CA-San Joaquin,20,2,
+3/20/2020,CA-Ventura,19,0,
+3/20/2020,CA-San Luis Obispo,16,0,
+3/20/2020,CA-Santa Cruz,15,0,
+3/20/2020,CA-Solano,14,0,
+3/20/2020,CA-Placer,9,1,
+3/20/2020,CA-Santa Barbara,9,0,0
+3/20/2020,CA-San Bernardino,9,0,0
+3/20/2020,CA-Tulare,7,0,
+3/20/2020,CA-Fresno,6,0,
+3/20/2020,CA-Stanislaus,5,0,
+3/20/2020,CA-Monterey,5,0,0
+3/20/2020,CA-San Benito,5,1,2
+3/20/2020,CA-Yolo,5,0,
+3/20/2020,CA-Kern,4,0,
+3/20/2020,CA-Imperial,4,0,
+3/20/2020,CA-Madera,3,0,1
+3/20/2020,CA-Calaveras,2,0,
+3/20/2020,CA-Humboldt,1,0,1
+3/20/2020,CA-Nevada,1,0,0
+3/20/2020,CA-Shasta,1,0,
+3/20/2020,CA-Mendocino,1,0,
+3/20/2020,CA-As of 21 March 2020 (UTC),,,
+3/20/2020,"CA-^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero.",,,
+3/20/2020,NM-Bernalillo County,,-,-
+3/20/2020,NM-Catron County,,-,-
+3/20/2020,NM-Chaves County,,-,-
+3/20/2020,NM-Cibola County,,-,-
+3/20/2020,NM-Colfax County,,-,-
+3/20/2020,NM-Curry County,,-,-
+3/20/2020,NM-De Baca County,,-,-
+3/20/2020,NM-Doña Ana County,,-,-
+3/20/2020,NM-Eddy County,,-,-
+3/20/2020,NM-Grant County,,-,-
+3/20/2020,NM-Guadalupe County,,-,-
+3/20/2020,NM-Harding County,,-,-
+3/20/2020,NM-Hidalgo County,,-,-
+3/20/2020,NM-Lea County,,-,-
+3/20/2020,NM-Lincoln County,,-,-
+3/20/2020,NM-Los Alamos County,,-,-
+3/20/2020,NM-Luna County,,-,-
+3/20/2020,NM-McKinley County,,-,-
+3/20/2020,NM-Mora County,,-,-
+3/20/2020,NM-Otero County,,-,-
+3/20/2020,NM-Quay County,,-,-
+3/20/2020,NM-Rio Arriba County,,-,-
+3/20/2020,NM-Roosevelt County,,-,-
+3/20/2020,NM-San Juan County,,-,-
+3/20/2020,NM-San Miguel County,,-,-
+3/20/2020,NM-Sandoval County,,-,-
+3/20/2020,NM-Santa Fe County,,-,-
+3/20/2020,NM-Sierra County,,-,-
+3/20/2020,NM-Socorro County,,-,-
+3/20/2020,NM-Taos County,,-,-
+3/20/2020,NM-Torrance County,,-,-
+3/20/2020,NM-Union County,,-,-
+3/20/2020,NM-Valencia County,,-,-
+3/20/2020,MN-Anoka,5,-,
+3/20/2020,MN-Benton,1,-,
+3/20/2020,MN-Blue Earth,2,-,
+3/20/2020,MN-Carver,3,-,
+3/20/2020,MN-Chisago,1,-,
+3/20/2020,MN-Clay,1,-,
+3/20/2020,MN-Dakota,7,-,
+3/20/2020,MN-Fillmore,2,-,
+3/20/2020,MN-Hennepin,45,-,
+3/20/2020,MN-Martin,4,-,
+3/20/2020,MN-Mower,1,-,
+3/20/2020,MN-Nicollet,2,-,
+3/20/2020,MN-Olmsted,11,-,
+3/20/2020,MN-Ramsey,16,-,
+3/20/2020,MN-Renville,1,-,
+3/20/2020,MN-Rice,1,-,
+3/20/2020,MN-Scott,2,-,
+3/20/2020,MN-Stearns,4,-,
+3/20/2020,MN-Waseca,1,-,
+3/20/2020,MN-Washington,3,-,
+3/20/2020,MN-Wright,2,-,
+3/20/2020,MS-Adams,1,-,-
+3/20/2020,MS-Coahoma,1,-,-
+3/20/2020,MS-DeSoto,2,-,-
+3/20/2020,MS-Franklin,1,-,-
+3/20/2020,MS-Hancock,1,-,-
+3/20/2020,MS-Harrison,1,-,-
+3/20/2020,MS-Hinds,1,-,-
+3/20/2020,MS-Holmes,2,-,-
+3/20/2020,MS-Humphreys,1,-,-
+3/20/2020,MS-Jackson,1,-,-
+3/20/2020,MS-Lafayette,1,-,-
+3/20/2020,MS-Lawrence,1,-,-
+3/20/2020,MS-Leflore,3,-,-
+3/20/2020,MS-Madison,2,-,-
+3/20/2020,MS-Marshall,1,-,-
+3/20/2020,MS-Monroe,1,-,-
+3/20/2020,MS-Pike,1,-,-
+3/20/2020,MS-Rankin,3,-,-
+3/20/2020,MS-Tippah,3,-,-
+3/20/2020,MS-Webster,1,-,-
+3/20/2020,MS-Total,30,-,-
+3/20/2020,OK-Canadian,2,-,-
+3/20/2020,OK-Cleveland,11,-,-
+3/20/2020,OK-Custer,1,-,-
+3/20/2020,OK-Garvin,1,-,-
+3/20/2020,OK-Grady,1,-,-
+3/20/2020,OK-Jackson,1,-,-
+3/20/2020,OK-Kay,3,-,-
+3/20/2020,OK-Logan,1,-,-
+3/20/2020,OK-McClain,1,-,-
+3/20/2020,OK-Oklahoma,19,-,-
+3/20/2020,OK-Pawnee,1,-,-
+3/20/2020,OK-Payne,1,-,-
+3/20/2020,OK-Tulsa,5,-,-
+3/20/2020,OK-Total,49,-,-
+3/20/2020,OH-Ashland,1,-,-
+3/20/2020,OH-Ashtabula,1,-,-
+3/20/2020,OH-Belmont,2,-,-
+3/20/2020,OH-Butler,12,-,-
+3/20/2020,OH-Clark,1,-,-
+3/20/2020,OH-Coshocton,2,-,-
+3/20/2020,OH-Cuyahoga,69,-,-
+3/20/2020,OH-Darke,1,-,-
+3/20/2020,OH-Delaware,2,-,-
+3/20/2020,OH-Franklin,14,-,-
+3/20/2020,OH-Gallia,1,-,-
+3/20/2020,OH-Geauga,1,-,-
+3/20/2020,OH-Hamilton,7,-,-
+3/20/2020,OH-Huron,1,-,-
+3/20/2020,OH-Lake,3,-,-
+3/20/2020,OH-Lorain,10,-,-
+3/20/2020,OH-Lucas,2,-,-
+3/20/2020,OH-Mahoning,7,-,-
+3/20/2020,OH-Marion,1,-,-
+3/20/2020,OH-Medina,6,-,-
+3/20/2020,OH-Miami,1,-,-
+3/20/2020,OH-Montgomery,1,-,-
+3/20/2020,OH-Richland,1,-,-
+3/20/2020,OH-Stark,6,-,-
+3/20/2020,OH-Summit,10,-,-
+3/20/2020,OH-Trumbull,3,-,-
+3/20/2020,OH-Tuscarawas,1,-,-
+3/20/2020,OH-Union,1,-,-
+3/20/2020,OH-Warren,2,-,-
+3/20/2020,OH-Total OH cases,170,-,-
+3/20/2020,CT-Fairfield,122,-,-
+3/20/2020,CT-Hartford,29,-,-
+3/20/2020,CT-Litchfield,8,-,-
+3/20/2020,CT-Middlesex,5,-,-
+3/20/2020,CT-New Haven,23,-,-
+3/20/2020,CT-New London,1,-,-
+3/20/2020,CT-Tolland,4,-,-
+3/20/2020,CT-,194,-,-
+3/20/2020,FL-Alachua,15,-,-
+3/20/2020,FL-Brevard,4,-,-
+3/20/2020,FL-Broward,128,-,-
+3/20/2020,FL-Charlotte,2,-,-
+3/20/2020,FL-Citrus,3,-,-
+3/20/2020,FL-Clay,4,-,-
+3/20/2020,FL-Collier,25,-,-
+3/20/2020,FL-Miami-Dade,123,-,-
+3/20/2020,FL-Duval,17,-,-
+3/20/2020,FL-Escambia,1,-,-
+3/20/2020,FL-Gadsden,1,-,-
+3/20/2020,FL-Hernando,4,-,-
+3/20/2020,FL-Hillsborough,32,-,-
+3/20/2020,FL-Indian River,3,-,-
+3/20/2020,FL-Jackson,1,-,-
+3/20/2020,FL-Lake,14,-,-
+3/20/2020,FL-Lee,13,-,-
+3/20/2020,FL-Leon,4,-,-
+3/20/2020,FL-Manatee,10,-,-
+3/20/2020,FL-Martin,1,-,-
+3/20/2020,FL-Monroe,1,-,-
+3/20/2020,FL-Nassau,1,-,-
+3/20/2020,FL-Okaloosa,7,-,-
+3/20/2020,FL-Orange,23,-,-
+3/20/2020,FL-Osceola,13,-,-
+3/20/2020,FL-Palm Beach,42,-,-
+3/20/2020,FL-Pasco,7,-,-
+3/20/2020,FL-Pinellas,22,-,-
+3/20/2020,FL-Polk,9,-,-
+3/20/2020,FL-Santa Rosa,3,-,-
+3/20/2020,FL-Sarasota,8,-,-
+3/20/2020,FL-Seminole,10,-,-
+3/20/2020,FL-St. Johns,7,-,-
+3/20/2020,FL-Sumter,2,-,-
+3/20/2020,FL-Volusia,10,-,-
+3/20/2020,FL-Walton,3,-,-
+3/20/2020,TX-Bell,2,-,-
+3/20/2020,TX-Bexar,12,-,-
+3/20/2020,TX-Bowie,1,-,-
+3/20/2020,TX-Brazoria,3,-,-
+3/20/2020,TX-Brazos,2,-,-
+3/20/2020,TX-Cameron,1,-,-
+3/20/2020,TX-Collin,12,-,-
+3/20/2020,TX-Crane,1,-,-
+3/20/2020,TX-Dallas,22,-,-
+3/20/2020,TX-Denton,6,-,-
+3/20/2020,TX-DeWitt,1,-,-
+3/20/2020,TX-El Paso,3,-,-
+3/20/2020,TX-Ellis,2,-,-
+3/20/2020,TX-Fannin,1,-,-
+3/20/2020,TX-Fort Bend,11,-,-
+3/20/2020,TX-Galveston,4,-,-
+3/20/2020,TX-Gregg,1,-,-
+3/20/2020,TX-Harris,24,-,-
+3/20/2020,TX-Hays,4,-,-
+3/20/2020,TX-Hockley,1,-,-
+3/20/2020,TX-Johnson,2,-,-
+3/20/2020,TX-Lavaca,1,-,-
+3/20/2020,TX-Lubbock,1,-,-
+3/20/2020,TX-Matagorda,3,-,-
+3/20/2020,TX-McLennan,7,-,-
+3/20/2020,TX-Medina,1,-,-
+3/20/2020,TX-Montgomery,4,-,-
+3/20/2020,TX-Rusk,1,-,-
+3/20/2020,TX-Smith,5,-,-
+3/20/2020,TX-Tarrant,5,-,-
+3/20/2020,TX-Travis,21,-,-
+3/20/2020,TX-Webb,1,-,-
+3/20/2020,TX-Wichita,1,-,-
+3/20/2020,TX-Williamson,8,-,-
+3/20/2020,TX-Pending County Assignment,19,-,-
+3/21/2020,PA-Adams,4,0,-
+3/21/2020,PA-Allegheny,31,1,-
+3/21/2020,PA-Beaver,3,0,-
+3/21/2020,PA-Berks,7,0,-
+3/21/2020,PA-Bucks,24,0,-
+3/21/2020,PA-Butler,1,0,-
+3/21/2020,PA-Centre,1,0,-
+3/21/2020,PA-Chester,19,0,-
+3/21/2020,PA-Cumberland,11,0,-
+3/21/2020,PA-Delaware,33,0,-
+3/21/2020,PA-Erie,1,0,-
+3/21/2020,PA-Franklin,1,0,-
+3/21/2020,PA-Lackawanna,5,0,-
+3/21/2020,PA-Lancaster,4,0,-
+3/21/2020,PA-Lebanon,2,0,-
+3/21/2020,PA-Lehigh,13,0,-
+3/21/2020,PA-Luzerne,6,0,-
+3/21/2020,PA-Monroe,25,0,-
+3/21/2020,PA-Montgomery,71,0,-
+3/21/2020,PA-Montour,1,0,-
+3/21/2020,PA-Northampton,17,1,-
+3/21/2020,PA-Philadelphia,69,0,-
+3/21/2020,PA-Pike,2,0,-
+3/21/2020,PA-Potter,1,0,-
+3/21/2020,PA-Washington,5,0,-
+3/21/2020,PA-Wayne,1,0,-
+3/21/2020,PA-Westmoreland,4,0,-
+3/21/2020,PA-York,9,0,-
+3/21/2020,NY-Albany,70,0,0
+3/21/2020,NY-Allegany,2,0,0
+3/21/2020,NY-Broome,2,0,0
+3/21/2020,NY-Chenango,2,0,0
+3/21/2020,NY-Clinton,3,0,0
+3/21/2020,NY-Delaware,1,0,0
+3/21/2020,NY-Dutchess,36,0,0
+3/21/2020,NY-Erie,47,0,0
+3/21/2020,NY-Essex,1,0,0
+3/21/2020,NY-Fulton,1,0,0
+3/21/2020,NY-Genesee,1,0,0
+3/21/2020,NY-Greene,4,0,0
+3/21/2020,NY-Hamilton,2,0,0
+3/21/2020,NY-Herkimer,1,0,0
+3/21/2020,NY-Monroe,46,1,0
+3/21/2020,NY-Montgomery,2,0,0
+3/21/2020,NY-Nassau,1234,4,0
+3/21/2020,NY-Niagara,9,0,0
+3/21/2020,NY-Oneida,4,0,0
+3/21/2020,NY-Onondaga,13,0,0
+3/21/2020,NY-Ontario,3,0,0
+3/21/2020,NY-Orange,84,0,0
+3/21/2020,NY-Putnam,12,0,0
+3/21/2020,NY-Rensselaer,20,0,0
+3/21/2020,NY-Rockland,262,1,0
+3/21/2020,NY-Saratoga,24,0,0
+3/21/2020,NY-Schenectady,21,0,0
+3/21/2020,NY-Schoharie,2,0,0
+3/21/2020,NY-Suffolk,662,7,0
+3/21/2020,NY-Sullivan,8,0,0
+3/21/2020,NY-Steuben,3,0,0
+3/21/2020,NY-Tioga,1,0,0
+3/21/2020,NY-Tompkins,11,0,0
+3/21/2020,NY-Ulster,12,0,0
+3/21/2020,NY-Warren,1,0,0
+3/21/2020,NY-Washington,1,0,0
+3/21/2020,NY-Wayne,3,0,0
+3/21/2020,NY-Westchester,1385,0,0
+3/21/2020,NY-Wyoming,2,0,0
+3/21/2020,NY-New York City,6211,43,1
+3/21/2020,LA-Ascension,12,0,-
+3/21/2020,LA-Assumption,1,0,-
+3/21/2020,LA-Avoyelles,1,0,-
+3/21/2020,LA-Beauregard,1,0,-
+3/21/2020,LA-Bienville,1,0,-
+3/21/2020,LA-Bossier,5,0,-
+3/21/2020,LA-Caddo,15,0,-
+3/21/2020,LA-Calcasieu,4,0,-
+3/21/2020,LA-Catahoula,1,1,-
+3/21/2020,LA-Claiborne,1,0,-
+3/21/2020,LA-DeSoto,2,0,-
+3/21/2020,LA-East Baton Rouge,18,0,-
+3/21/2020,LA-Evangeline,2,0,-
+3/21/2020,LA-Iberia,2,0,-
+3/21/2020,LA-Iberville,2,0,-
+3/21/2020,LA-Jefferson,166,3,-
+3/21/2020,LA-Lafayette,6,0,-
+3/21/2020,LA-Lafourche,11,0,-
+3/21/2020,LA-Livingston,2,0,-
+3/21/2020,LA-Orleans,418,15,-
+3/21/2020,LA-Ouachita,2,0,-
+3/21/2020,LA-Plaquemines,4,0,-
+3/21/2020,LA-Rapides,2,0,-
+3/21/2020,LA-St. Bernard,6,0,-
+3/21/2020,LA-St. Charles,7,0,-
+3/21/2020,LA-St. James,1,1,-
+3/21/2020,LA-St. John the Baptist,9,0,-
+3/21/2020,LA-St. Landry,3,0,-
+3/21/2020,LA-St. Mary,1,0,-
+3/21/2020,LA-St. Tammany,22,0,-
+3/21/2020,LA-Tangipahoa,3,0,-
+3/21/2020,LA-Terrebonne,11,0,-
+3/21/2020,LA-Washington,2,0,-
+3/21/2020,LA-Webster,1,0,-
+3/21/2020,LA-West Baton Rouge,3,0,-
+3/21/2020,LA-Under Investigation,9,0,-
+3/21/2020,MI-Bay,1,0,-
+3/21/2020,MI-Barry,1,0,-
+3/21/2020,MI-Berrien,2,0,-
+3/21/2020,MI-Calhoun,1,0,-
+3/21/2020,MI-Charlevoix,1,0,-
+3/21/2020,MI-Clare,1,0,-
+3/21/2020,MI-Clinton,2,0,-
+3/21/2020,MI-Eaton,2,0,-
+3/21/2020,MI-Genesee,7,0,-
+3/21/2020,MI-Ingham,11,0,-
+3/21/2020,MI-Jackson,1,0,-
+3/21/2020,MI-Kent,21,1,-
+3/21/2020,MI-Leelanau,1,0,-
+3/21/2020,MI-Livingston,6,0,-
+3/21/2020,MI-Macomb,101,1,-
+3/21/2020,MI-Midland,3,0,-
+3/21/2020,MI-Monroe,3,0,-
+3/21/2020,MI-Montcalm,1,0,-
+3/21/2020,MI-Oakland,229,3,-
+3/21/2020,MI-Otsego,1,0,-
+3/21/2020,MI-Ottawa,2,0,-
+3/21/2020,MI-Saginaw,1,0,-
+3/21/2020,MI-St. Clair,7,0,-
+3/21/2020,MI-Tuscola,1,0,-
+3/21/2020,MI-Washtenaw,29,0,-
+3/21/2020,MI-Wayne,349,3,-
+3/21/2020,MI-Wexford,1,0,-
+3/21/2020,MI-Out-of-State*,1,0,-
+3/21/2020,"MI-*Patient is not a resident, but is being treated within the state of Michigan.",,,-
+3/21/2020,CO-Adams,14,0,-
+3/21/2020,CO-Arapahoe,40,0,-
+3/21/2020,CO-Boulder,30,0,-
+3/21/2020,CO-Broomfield,2,0,-
+3/21/2020,CO-Chaffee,2,0,-
+3/21/2020,CO-Crowley,1,1,-
+3/21/2020,CO-Clear Creek,3,0,-
+3/21/2020,CO-Denver,97,0,-
+3/21/2020,CO-Douglas,27,0,-
+3/21/2020,CO-Eagle,61,1,-
+3/21/2020,CO-Elbert,1,0,-
+3/21/2020,CO-El Paso,74,2,-
+3/21/2020,CO-Garfield,7,0,-
+3/21/2020,CO-Grand,3,0,-
+3/21/2020,CO-Gunnison,21,0,-
+3/21/2020,CO-Hinsdale,1,0,-
+3/21/2020,CO-Jefferson,43,0,-
+3/21/2020,CO-Larimer,19,0,-
+3/21/2020,CO-Mesa,1,0,-
+3/21/2020,CO-Montrose,1,0,-
+3/21/2020,CO-Morgan,2,0,-
+3/21/2020,CO-Park,1,0,-
+3/21/2020,CO-Pitkin,15,0,-
+3/21/2020,CO-Pueblo,3,0,-
+3/21/2020,CO-Rio Blanco,1,0,-
+3/21/2020,CO-Routt,2,0,-
+3/21/2020,CO-Miguel,1,0,-
+3/21/2020,CO-Summit,7,0,-
+3/21/2020,CO-Weld,21,1,-
+3/21/2020,CO-Yuma,9,0,-
+3/21/2020,CO-Unknown,1,0,-
+3/21/2020,OR-Benton,2,0,-
+3/21/2020,OR-Clackamas,11,0,-
+3/21/2020,OR-Deschutes,9,0,-
+3/21/2020,OR-Douglas,1,0,-
+3/21/2020,OR-Grant,1,0,-
+3/21/2020,OR-Jackson,2,0,-
+3/21/2020,OR-Josephine,1,0,-
+3/21/2020,OR-Klamath,1,0,-
+3/21/2020,OR-Lane,3,1,-
+3/21/2020,OR-Linn,19,0,-
+3/21/2020,OR-Marion,19,1,-
+3/21/2020,OR-Multnomah,18,1,-
+3/21/2020,OR-Polk,1,0,-
+3/21/2020,OR-Umatilla,2,0,-
+3/21/2020,OR-Union,1,0,-
+3/21/2020,OR-Washington,42,1,-
+3/21/2020,OR-Yamhill,4,0,-
+3/21/2020,SC-Abbeville,1,0,-
+3/21/2020,SC-Aiken,1,0,-
+3/21/2020,SC-Anderson,10,0,-
+3/21/2020,SC-Beaufort,12,0,-
+3/21/2020,SC-Berkeley,1,0,-
+3/21/2020,SC-Calhoun,1,0,-
+3/21/2020,SC-Charleston,9,1,-
+3/21/2020,SC-Clarendon,1,0,-
+3/21/2020,SC-Colleton,1,0,-
+3/21/2020,SC-Darlington,2,0,-
+3/21/2020,SC-Dillon,1,0,-
+3/21/2020,SC-Dorchester,1,0,-
+3/21/2020,SC-Edgefield,1,0,-
+3/21/2020,SC-Fairfield,1,0,-
+3/21/2020,SC-Florence,1,1,-
+3/21/2020,SC-Greenville,17,0,-
+3/21/2020,SC-Greenwood,2,0,-
+3/21/2020,SC-Horry,9,0,-
+3/21/2020,SC-Kershaw,42,0,-
+3/21/2020,SC-Lancaster,3,0,-
+3/21/2020,SC-Lee,1,0,-
+3/21/2020,SC-Lexington,12,1,-
+3/21/2020,SC-Marlboro,1,0,-
+3/21/2020,SC-Newberry,1,0,-
+3/21/2020,SC-Orangeburg,3,0,-
+3/21/2020,SC-Pickens,1,0,-
+3/21/2020,SC-Richland,28,0,-
+3/21/2020,SC-Saluda,1,0,-
+3/21/2020,SC-Spartanburg,2,0,-
+3/21/2020,SC-Sumter,3,0,-
+3/21/2020,SC-York,2,0,-
+3/21/2020,SC-Daily Sources Latest DHEC count[1] Mar 7 [19] • Mar 8 [20] • Mar 9 [21] • Mar 10 [22] • Mar 11 [23] • Mar 12 [24] • Mar 13 [25] •Mar 14 [26] • Mar 15 [27] • Mar 16 [28] • Mar 17 [29] • Mar 18 [30] • Mar 19 [31] • Mar 20 [32][18][16] •Mar 21 [33],,,-
+3/21/2020,MD-Anne Arundel,15,0,0
+3/21/2020,MD-Baltimore,19,1,0
+3/21/2020,MD-Baltimore City,15,0,0
+3/21/2020,MD-Calvert,1,0,0
+3/21/2020,MD-Carroll,3,0,0
+3/21/2020,MD-Charles,4,0,0
+3/21/2020,MD-Frederick,1,0,0
+3/21/2020,MD-Harford,5,0,0
+3/21/2020,MD-Howard,19,0,0
+3/21/2020,MD-Montgomery,68,0,3
+3/21/2020,"MD-Prince George's",36,1,0
+3/21/2020,MD-Talbot,1,0,0
+3/21/2020,MD-Wicomico,2,0,0
+3/21/2020,MD-Worcester,1,0,0
+3/21/2020,NJ-Atlantic,4,0,0
+3/21/2020,NJ-Bergen,363,2,1
+3/21/2020,NJ-Burlington,21,0,0
+3/21/2020,NJ-Camden,15,0,0
+3/21/2020,NJ-Cape May,2,0,0
+3/21/2020,NJ-Cumberland,1,0,0
+3/21/2020,NJ-Essex,107,0,0
+3/21/2020,NJ-Gloucester,6,0,0
+3/21/2020,NJ-Hudson,97,0,0
+3/21/2020,NJ-Hunterdon,14,0,0
+3/21/2020,NJ-Mercer,30,0,0
+3/21/2020,NJ-Middlesex,116,0,0
+3/21/2020,NJ-Monmouth,92,1,0
+3/21/2020,NJ-Morris,64,0,0
+3/21/2020,NJ-Ocean,62,0,0
+3/21/2020,NJ-Passaic,67,0,0
+3/21/2020,NJ-Somerset,34,0,0
+3/21/2020,NJ-Sussex,6,0,0
+3/21/2020,NJ-Union,81,0,0
+3/21/2020,NJ-Warren,5,0,1
+3/21/2020,NJ-Under Investigation,140,13,0
+3/21/2020,DE-Kent,5,-,-
+3/21/2020,DE-New Castle,27,-,-
+3/21/2020,DE-Sussex,6,-,-
+3/21/2020,VA-Accomack,1,0,-
+3/21/2020,VA-Albemarle County,1,0,-
+3/21/2020,VA-Alexandria (City),5,0,-
+3/21/2020,VA-Arlington,22,0,-
+3/21/2020,VA-Botetourt County,1,0,-
+3/21/2020,VA-Charles City County,1,0,-
+3/21/2020,VA-Charlottesville (City),1,0,-
+3/21/2020,VA-Chesterfield County,7,0,-
+3/21/2020,VA-Fairfax County,22,1,-
+3/21/2020,VA-Franklin County,1,0,-
+3/21/2020,VA-Gloucester County,2,0,-
+3/21/2020,VA-Goochland,1,0,-
+3/21/2020,VA-Hanover,1,0,-
+3/21/2020,VA-Harrisonburg (City),1,0,-
+3/21/2020,VA-Henrico,7,0,-
+3/21/2020,VA-Isle of Wight County,1,0,-
+3/21/2020,VA-James City County,20,2,-
+3/21/2020,VA-Loudoun County,14,0,-
+3/21/2020,VA-Mecklenburg County,1,0,-
+3/21/2020,VA-Newport News (City),2,0,-
+3/21/2020,VA-Norfolk (City),3,0,-
+3/21/2020,VA-Portsmouth (City),1,0,-
+3/21/2020,VA-Prince Edward,1,0,-
+3/21/2020,VA-Prince William County,14,0,-
+3/21/2020,VA-Richmond (City),6,0,-
+3/21/2020,VA-Spotsylvania County,1,0,-
+3/21/2020,VA-Stafford County,2,0,-
+3/21/2020,VA-Suffolk County,1,0,-
+3/21/2020,VA-Virginia Beach (City),4,0,-
+3/21/2020,VA-Williamsburg (City),4,0,-
+3/21/2020,VA-York,3,0,-
+3/21/2020,WA-Benton,7,2,-
+3/21/2020,WA-Chelan,3,0,-
+3/21/2020,WA-Clallam,2,0,-
+3/21/2020,WA-Clark,9,3,-
+3/21/2020,WA-Columbia,1,0,-
+3/21/2020,WA-Cowlitz,2,0,-
+3/21/2020,WA-Franklin,2,0,-
+3/21/2020,WA-Grant,11,1,-
+3/21/2020,WA-Grays Harbor,1,0,-
+3/21/2020,WA-Island,19,1,-
+3/21/2020,WA-Jefferson,4,0,-
+3/21/2020,WA-King,934,74,-
+3/21/2020,WA-Kitsap,15,0,-
+3/21/2020,WA-Kittitas,4,0,-
+3/21/2020,WA-Klickitat,4,0,-
+3/21/2020,WA-Lewis,2,0,-
+3/21/2020,WA-Lincoln,1,0,-
+3/21/2020,WA-Mason,1,0,-
+3/21/2020,WA-Pierce,95,1,-
+3/21/2020,WA-San Juan,1,0,-
+3/21/2020,WA-Skagit,28,0,-
+3/21/2020,WA-Snohomish,447,10,-
+3/21/2020,WA-Spokane,16,0,-
+3/21/2020,WA-Stevens,1,0,-
+3/21/2020,WA-Thurston,9,0,-
+3/21/2020,WA-Whatcom,14,2,-
+3/21/2020,WA-Yakima,13,0,-
+3/21/2020,WA-(Unassigned),147,6,-
+3/21/2020,AL-Baldwin,2,-,-
+3/21/2020,AL-Calhoun,1,-,-
+3/21/2020,AL-Chambers,1,-,-
+3/21/2020,AL-Cullman,2,-,-
+3/21/2020,AL-Elmore,6,-,-
+3/21/2020,AL-Jackson,1,-,-
+3/21/2020,AL-Jefferson,61,-,-
+3/21/2020,AL-Lamar,1,-,-
+3/21/2020,AL-Lauderdale,2,-,-
+3/21/2020,AL-Lee,12,-,-
+3/21/2020,AL-Limestone,1,-,-
+3/21/2020,AL-Madison,9,-,-
+3/21/2020,AL-Marion,1,-,-
+3/21/2020,AL-Mobile,2,-,-
+3/21/2020,AL-Montgomery,3,-,-
+3/21/2020,AL-Shelby,16,-,-
+3/21/2020,AL-St. Clair,1,-,-
+3/21/2020,AL-Talladega,1,-,-
+3/21/2020,AL-Tuscaloosa,6,-,-
+3/21/2020,AL-Walker,1,-,-
+3/21/2020,AL-Washington,1,-,-
+3/21/2020,ME-Androscoggin,3,-,1
+3/21/2020,ME-Cumberland,25,-,0
+3/21/2020,ME-Hancock,1,-,0
+3/21/2020,ME-Kennebec,3,-,0
+3/21/2020,ME-Lincoln,3,-,0
+3/21/2020,ME-Oxford,1,-,0
+3/21/2020,ME-Penobscot,1,-,0
+3/21/2020,ME-York,3,-,0
+3/21/2020,ME-Unknown,12,-,0
+3/21/2020,KY-Anderson,1,,-
+3/21/2020,KY-Bourbon,2,1,-
+3/21/2020,KY-Calloway,1,,-
+3/21/2020,KY-Clark,2,,-
+3/21/2020,KY-Christian,1,,-
+3/21/2020,KY-Daviess,1,,-
+3/21/2020,KY-Fayette,10,,-
+3/21/2020,KY-Franklin,1,,-
+3/21/2020,KY-Hardin,1,,-
+3/21/2020,KY-Harrison,7,,-
+3/21/2020,KY-Henderson,2,,-
+3/21/2020,KY-Kenton,1,,-
+3/21/2020,KY-Jefferson,25,1,-
+3/21/2020,KY-Lyon,1,,-
+3/21/2020,KY-Montgomery,2,,-
+3/21/2020,KY-Nelson,1,,-
+3/21/2020,KY-Oldham,1,,-
+3/21/2020,KY-Pulaski,2,,-
+3/21/2020,KY-Warren,2,,-
+3/21/2020,KY-Source:[1][2][3],,,-
+3/21/2020,IA-Adair,1,0,-
+3/21/2020,IA-Allamakee,3,0,-
+3/21/2020,IA-Black Hawk,1,0,-
+3/21/2020,IA-Carroll,1,0,-
+3/21/2020,IA-Dallas,5,0,-
+3/21/2020,IA-Dubuque,1,0,-
+3/21/2020,IA-Harrison,1,0,-
+3/21/2020,IA-Johnson,22,0,-
+3/21/2020,IA-Muscatine,1,0,-
+3/21/2020,IA-Polk,6,0,-
+3/21/2020,IA-Pottawattamie,1,0,-
+3/21/2020,IA-Washington,1,0,-
+3/21/2020,IA-Winneshiek,1,0,-
+3/21/2020,AK-Anchorage,4,-,-
+3/21/2020,AK-Gulf Coast,1,-,-
+3/21/2020,AK-Interior,6,-,-
+3/21/2020,AK-Mat-Su,0,-,-
+3/21/2020,AK-Northern,0,-,-
+3/21/2020,AK-Southeast,3,-,-
+3/21/2020,AK-Southwest,0,-,-
+3/21/2020,CA-Los Angeles,351,4,
+3/21/2020,CA-Santa Clara,263,8,
+3/21/2020,CA-San Diego,159,0,
+3/21/2020,CA-San Mateo,110,1,
+3/21/2020,CA-San Francisco,84,0,
+3/21/2020,CA-Orange,78,0,
+3/21/2020,CA-Alameda[c],70,0,
+3/21/2020,CA-Sacramento,53,3,
+3/21/2020,CA-Contra Costa,51,1,
+3/21/2020,CA-Marin,38,0,
+3/21/2020,CA-San Joaquin,31,2,
+3/21/2020,CA-Riverside,30,5,
+3/21/2020,CA-Ventura,26,0,
+3/21/2020,CA-Sonoma,22,1,0
+3/21/2020,CA-San Luis Obispo,21,0,
+3/21/2020,CA-Santa Cruz,15,0,
+3/21/2020,CA-Solano,14,0,
+3/21/2020,CA-Santa Barbara,13,0,0
+3/21/2020,CA-Tulare,12,0,
+3/21/2020,CA-Monterey,11,0,0
+3/21/2020,CA-San Bernardino,10,0,0
+3/21/2020,CA-Placer,9,1,
+3/21/2020,CA-Fresno,6,0,
+3/21/2020,CA-Yolo,6,0,
+3/21/2020,CA-Stanislaus,5,0,
+3/21/2020,CA-San Benito,5,1,2
+3/21/2020,CA-Kern,5,0,
+3/21/2020,CA-Imperial,4,0,
+3/21/2020,CA-Madera,3,0,1
+3/21/2020,CA-Calaveras,2,0,
+3/21/2020,CA-Humboldt,1,0,1
+3/21/2020,CA-Nevada,1,0,0
+3/21/2020,CA-Shasta,1,0,
+3/21/2020,CA-Mendocino,1,0,
+3/21/2020,CA-As of 22 March 2020 (UTC),,,
+3/21/2020,"CA-^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero. ^ Including cases in the City of Berkeley compiled by Berkeleyside.",,,
+3/21/2020,NM-Bernalillo County,32,-,-
+3/21/2020,NM-Catron County,0,-,-
+3/21/2020,NM-Chaves County,0,-,-
+3/21/2020,NM-Cibola County,0,-,-
+3/21/2020,NM-Colfax County,0,-,-
+3/21/2020,NM-Curry County,0,-,-
+3/21/2020,NM-De Baca County,0,-,-
+3/21/2020,NM-Doña Ana County,2,-,-
+3/21/2020,NM-Eddy County,0,-,-
+3/21/2020,NM-Grant County,0,-,-
+3/21/2020,NM-Guadalupe County,0,-,-
+3/21/2020,NM-Harding County,0,-,-
+3/21/2020,NM-Hidalgo County,0,-,-
+3/21/2020,NM-Lea County,1,-,-
+3/21/2020,NM-Lincoln County,0,-,-
+3/21/2020,NM-Los Alamos County,0,-,-
+3/21/2020,NM-Luna County,0,-,-
+3/21/2020,NM-McKinley County,1,-,-
+3/21/2020,NM-Mora County,0,-,-
+3/21/2020,NM-Otero County,0,-,-
+3/21/2020,NM-Quay County,0,-,-
+3/21/2020,NM-Rio Arriba County,0,-,-
+3/21/2020,NM-Roosevelt County,0,-,-
+3/21/2020,NM-San Juan County,0,-,-
+3/21/2020,NM-San Miguel County,1,-,-
+3/21/2020,NM-Sandoval County,7,-,-
+3/21/2020,NM-Santa Fe County,8,-,-
+3/21/2020,NM-Sierra County,0,-,-
+3/21/2020,NM-Socorro County,2,-,-
+3/21/2020,NM-Taos County,3,-,-
+3/21/2020,NM-Torrance County,0,-,-
+3/21/2020,NM-Union County,0,-,-
+3/21/2020,NM-Valencia County,0,-,-
+3/21/2020,MN-Anoka,5,-,
+3/21/2020,MN-Benton,1,-,
+3/21/2020,MN-Blue Earth,2,-,
+3/21/2020,MN-Carver,3,-,
+3/21/2020,MN-Chisago,1,-,
+3/21/2020,MN-Clay,1,-,
+3/21/2020,MN-Dakota,7,-,
+3/21/2020,MN-Fillmore,2,-,
+3/21/2020,MN-Hennepin,45,-,
+3/21/2020,MN-Martin,4,-,
+3/21/2020,MN-Mower,1,-,
+3/21/2020,MN-Nicollet,2,-,
+3/21/2020,MN-Olmsted,11,-,
+3/21/2020,MN-Ramsey,16,-,
+3/21/2020,MN-Renville,1,-,
+3/21/2020,MN-Rice,1,-,
+3/21/2020,MN-Scott,2,-,
+3/21/2020,MN-Stearns,4,-,
+3/21/2020,MN-Waseca,1,-,
+3/21/2020,MN-Washington,3,-,
+3/21/2020,MN-Wright,2,-,
+3/21/2020,MS-Attala,1,-,-
+3/21/2020,MS-Clay,1,-,-
+3/21/2020,MS-Coahoma,2,-,-
+3/21/2020,MS-De Soto,9,-,-
+3/21/2020,MS-Forrest,1,-,-
+3/21/2020,MS-Franklin,1,-,-
+3/21/2020,MS-George,1,-,-
+3/21/2020,MS-Grenada,1,-,-
+3/21/2020,MS-Hancock,1,-,-
+3/21/2020,MS-Harrison,2,-,-
+3/21/2020,MS-Hinds,7,-,-
+3/21/2020,MS-Itawamba,3,-,-
+3/21/2020,MS-Lafayette,1,-,-
+3/21/2020,MS-Leake,1,-,-
+3/21/2020,MS-Lee,4,-,-
+3/21/2020,MS-Lincoln,1,-,-
+3/21/2020,MS-Lowndes,4,-,-
+3/21/2020,MS-Madison,4,-,-
+3/21/2020,MS-Marshall,1,-,-
+3/21/2020,MS-Panola,1,-,-
+3/21/2020,MS-Pearl River,2,-,-
+3/21/2020,MS-Pike,1,-,-
+3/21/2020,MS-Rankin,4,-,-
+3/21/2020,MS-Simpson,1,-,-
+3/21/2020,MS-Tunica,1,-,-
+3/21/2020,MS-Union,1,-,-
+3/21/2020,MS-Washington,1,-,-
+3/21/2020,MS-Total,60,-,-
+3/21/2020,OK-Canadian,2,-,-
+3/21/2020,OK-Cleveland,12,-,-
+3/21/2020,OK-Custer,1,-,-
+3/21/2020,OK-Garvin,2,-,-
+3/21/2020,OK-Grady,1,-,-
+3/21/2020,OK-Jackson,1,-,-
+3/21/2020,OK-Kay,3,-,-
+3/21/2020,OK-Logan,1,-,-
+3/21/2020,OK-McClain,1,-,-
+3/21/2020,OK-Oklahoma,20,-,-
+3/21/2020,OK-Pawnee,2,-,-
+3/21/2020,OK-Payne,1,-,-
+3/21/2020,OK-Tulsa,5,-,-
+3/21/2020,OK-Total,53,-,-
+3/21/2020,OH-Ashland,1,-,-
+3/21/2020,OH-Ashtabula,1,-,-
+3/21/2020,OH-Belmont,2,-,-
+3/21/2020,OH-Butler,16,-,-
+3/21/2020,OH-Clark,1,-,-
+3/21/2020,OH-Clermont,2,-,-
+3/21/2020,OH-Coshocton,2,-,-
+3/21/2020,OH-Cuyahoga,92,-,-
+3/21/2020,OH-Darke,1,-,-
+3/21/2020,OH-Defiance,2,-,-
+3/21/2020,OH-Delaware,4,-,-
+3/21/2020,OH-Erie,1,-,-
+3/21/2020,OH-Franklin,21,-,-
+3/21/2020,OH-Gallia,1,-,-
+3/21/2020,OH-Geauga,1,-,-
+3/21/2020,OH-Hamilton,8,-,-
+3/21/2020,OH-Huron,1,-,-
+3/21/2020,OH-Lake,4,-,-
+3/21/2020,OH-Licking,1,-,-
+3/21/2020,OH-Lorain,14,-,-
+3/21/2020,OH-Lucas,4,-,-
+3/21/2020,OH-Mahoning,14,-,-
+3/21/2020,OH-Marion,1,-,-
+3/21/2020,OH-Medina,9,-,-
+3/21/2020,OH-Miami,11,-,-
+3/21/2020,OH-Montgomery,1,-,-
+3/21/2020,OH-Richland,1,-,-
+3/21/2020,OH-Stark,8,-,-
+3/21/2020,OH-Summit,15,-,-
+3/21/2020,OH-Trumbull,3,-,-
+3/21/2020,OH-Tuscarawas,1,-,-
+3/21/2020,OH-Union,1,-,-
+3/21/2020,OH-Warren,2,-,-
+3/21/2020,OH-Total OH cases,247,-,-
+3/21/2020,TX-Bell,3,-,-
+3/21/2020,TX-Bexar,22,-,-
+3/21/2020,TX-Bowie,1,-,-
+3/21/2020,TX-Brazoria,4,-,-
+3/21/2020,TX-Brazos,2,-,-
+3/21/2020,TX-Brown,1,-,-
+3/21/2020,TX-Cameron,1,-,-
+3/21/2020,TX-Castro,1,-,-
+3/21/2020,TX-Collin,13,-,-
+3/21/2020,TX-Crane,1,-,-
+3/21/2020,TX-Dallas,29,-,-
+3/21/2020,TX-Deaf Smith,1,-,-
+3/21/2020,TX-Denton,9,-,-
+3/21/2020,TX-DeWitt,1,-,-
+3/21/2020,TX-El Paso,8,-,-
+3/21/2020,TX-Ellis,2,-,-
+3/21/2020,TX-Fannin,1,-,-
+3/21/2020,TX-Fort Bend,11,-,-
+3/21/2020,TX-Galveston,6,-,-
+3/21/2020,TX-Gregg,1,-,-
+3/21/2020,TX-Harris,25,-,-
+3/21/2020,TX-Hays,5,-,-
+3/21/2020,TX-Hockley,2,-,-
+3/21/2020,TX-Johnson,2,-,-
+3/21/2020,TX-Lavaca,1,-,-
+3/21/2020,TX-Lubbock,2,-,-
+3/21/2020,TX-Matagorda,3,-,-
+3/21/2020,TX-McLennan,7,-,-
+3/21/2020,TX-Medina,1,-,-
+3/21/2020,TX-Midland,1,-,-
+3/21/2020,TX-Montgomery,4,-,-
+3/21/2020,TX-Oldham,1,-,-
+3/21/2020,TX-Potter,2,-,-
+3/21/2020,TX-Rusk,1,-,-
+3/21/2020,TX-Smith,5,-,-
+3/21/2020,TX-Tarrant,8,-,-
+3/21/2020,TX-Travis,22,-,-
+3/21/2020,TX-Webb,2,-,-
+3/21/2020,TX-Wichita,1,-,-
+3/21/2020,TX-Williamson,8,-,-
+3/21/2020,TX-Pending County Assignment,83,-,-
+3/22/2020,PA-Adams,5,0,-
+3/22/2020,PA-Allegheny,40,1,-
+3/22/2020,PA-Beaver,3,0,-
+3/22/2020,PA-Berks,13,0,-
+3/22/2020,PA-Bucks,32,0,-
+3/22/2020,PA-Butler,1,0,-
+3/22/2020,PA-Centre,1,0,-
+3/22/2020,PA-Chester,23,0,-
+3/22/2020,PA-Columbia,1,0,-
+3/22/2020,PA-Cumberland,11,0,-
+3/22/2020,PA-Dauphin,1,0,-
+3/22/2020,PA-Delaware,33,0,-
+3/22/2020,PA-Erie,2,0,-
+3/22/2020,PA-Fayette,1,0,-
+3/22/2020,PA-Franklin,1,0,-
+3/22/2020,PA-Lackawanna,6,0,-
+3/22/2020,PA-Lancaster,6,0,-
+3/22/2020,PA-Lebanon,3,0,-
+3/22/2020,PA-Lehigh,19,0,-
+3/22/2020,PA-Luzerne,7,0,-
+3/22/2020,PA-Mercer,1,0,-
+3/22/2020,PA-Monroe,31,0,-
+3/22/2020,PA-Montgomery,87,0,-
+3/22/2020,PA-Montour,1,0,-
+3/22/2020,PA-Northampton,21,1,-
+3/22/2020,PA-Philadelphia,91,0,-
+3/22/2020,PA-Pike,3,0,-
+3/22/2020,PA-Potter,1,0,-
+3/22/2020,PA-Schuylkill,1,0,-
+3/22/2020,PA-Washington,7,0,-
+3/22/2020,PA-Wayne,2,0,-
+3/22/2020,PA-Westmoreland,4,0,-
+3/22/2020,PA-York,10,0,-
+3/22/2020,LA-Ascension,12,0,-
+3/22/2020,LA-Assumption,1,0,-
+3/22/2020,LA-Avoyelles,1,0,-
+3/22/2020,LA-Beauregard,1,0,-
+3/22/2020,LA-Bienville,1,0,-
+3/22/2020,LA-Bossier,5,0,-
+3/22/2020,LA-Caddo,15,0,-
+3/22/2020,LA-Calcasieu,4,0,-
+3/22/2020,LA-Catahoula,1,1,-
+3/22/2020,LA-Claiborne,1,0,-
+3/22/2020,LA-DeSoto,2,0,-
+3/22/2020,LA-East Baton Rouge,18,0,-
+3/22/2020,LA-Evangeline,2,0,-
+3/22/2020,LA-Iberia,2,0,-
+3/22/2020,LA-Iberville,2,0,-
+3/22/2020,LA-Jefferson,166,3,-
+3/22/2020,LA-Lafayette,6,0,-
+3/22/2020,LA-Lafourche,11,0,-
+3/22/2020,LA-Livingston,2,0,-
+3/22/2020,LA-Orleans,418,15,-
+3/22/2020,LA-Ouachita,2,0,-
+3/22/2020,LA-Plaquemines,4,0,-
+3/22/2020,LA-Rapides,2,0,-
+3/22/2020,LA-St. Bernard,6,0,-
+3/22/2020,LA-St. Charles,7,0,-
+3/22/2020,LA-St. James,1,1,-
+3/22/2020,LA-St. John the Baptist,9,0,-
+3/22/2020,LA-St. Landry,3,0,-
+3/22/2020,LA-St. Mary,1,0,-
+3/22/2020,LA-St. Tammany,22,0,-
+3/22/2020,LA-Tangipahoa,3,0,-
+3/22/2020,LA-Terrebonne,11,0,-
+3/22/2020,LA-Washington,2,0,-
+3/22/2020,LA-Webster,1,0,-
+3/22/2020,LA-West Baton Rouge,3,0,-
+3/22/2020,LA-Under Investigation,9,0,-
+3/22/2020,MI-Bay,1,0,-
+3/22/2020,MI-Barry,1,0,-
+3/22/2020,MI-Berrien,2,0,-
+3/22/2020,MI-Calhoun,1,0,-
+3/22/2020,MI-Charlevoix,1,0,-
+3/22/2020,MI-Clare,1,0,-
+3/22/2020,MI-Clinton,2,0,-
+3/22/2020,MI-Eaton,2,0,-
+3/22/2020,MI-Genesee,7,0,-
+3/22/2020,MI-Ingham,11,0,-
+3/22/2020,MI-Jackson,1,0,-
+3/22/2020,MI-Kent,21,1,-
+3/22/2020,MI-Leelanau,1,0,-
+3/22/2020,MI-Livingston,6,0,-
+3/22/2020,MI-Macomb,101,1,-
+3/22/2020,MI-Midland,3,0,-
+3/22/2020,MI-Monroe,3,0,-
+3/22/2020,MI-Montcalm,1,0,-
+3/22/2020,MI-Oakland,229,3,-
+3/22/2020,MI-Otsego,1,0,-
+3/22/2020,MI-Ottawa,2,0,-
+3/22/2020,MI-Saginaw,1,0,-
+3/22/2020,MI-St. Clair,7,0,-
+3/22/2020,MI-Tuscola,1,0,-
+3/22/2020,MI-Washtenaw,29,0,-
+3/22/2020,MI-Wayne,349,3,-
+3/22/2020,MI-Wexford,1,0,-
+3/22/2020,MI-Out-of-State*,1,0,-
+3/22/2020,"MI-*Patient is not a resident, but is being treated within the state of Michigan.",,,-
+3/22/2020,CO-Adams,14,0,-
+3/22/2020,CO-Arapahoe,40,0,-
+3/22/2020,CO-Boulder,30,0,-
+3/22/2020,CO-Broomfield,2,0,-
+3/22/2020,CO-Chaffee,2,0,-
+3/22/2020,CO-Crowley,1,1,-
+3/22/2020,CO-Clear Creek,3,0,-
+3/22/2020,CO-Denver,97,0,-
+3/22/2020,CO-Douglas,27,0,-
+3/22/2020,CO-Eagle,61,1,-
+3/22/2020,CO-Elbert,1,0,-
+3/22/2020,CO-El Paso,74,3,-
+3/22/2020,CO-Garfield,7,0,-
+3/22/2020,CO-Grand,3,0,-
+3/22/2020,CO-Gunnison,21,0,-
+3/22/2020,CO-Hinsdale,1,0,-
+3/22/2020,CO-Jefferson,43,0,-
+3/22/2020,CO-Larimer,19,0,-
+3/22/2020,CO-Mesa,1,0,-
+3/22/2020,CO-Montrose,1,0,-
+3/22/2020,CO-Morgan,2,0,-
+3/22/2020,CO-Park,1,0,-
+3/22/2020,CO-Pitkin,15,0,-
+3/22/2020,CO-Pueblo,3,0,-
+3/22/2020,CO-Rio Blanco,1,0,-
+3/22/2020,CO-Routt,2,0,-
+3/22/2020,CO-Miguel,1,0,-
+3/22/2020,CO-Summit,7,0,-
+3/22/2020,CO-Weld,21,1,-
+3/22/2020,CO-Yuma,9,0,-
+3/22/2020,CO-Unknown,1,0,-
+3/22/2020,OR-Benton,2,0,-
+3/22/2020,OR-Clackamas,11,0,-
+3/22/2020,OR-Deschutes,9,0,-
+3/22/2020,OR-Douglas,1,0,-
+3/22/2020,OR-Grant,1,0,-
+3/22/2020,OR-Jackson,2,0,-
+3/22/2020,OR-Josephine,1,0,-
+3/22/2020,OR-Klamath,1,0,-
+3/22/2020,OR-Lane,3,1,-
+3/22/2020,OR-Linn,19,0,-
+3/22/2020,OR-Marion,19,1,-
+3/22/2020,OR-Multnomah,18,1,-
+3/22/2020,OR-Polk,1,0,-
+3/22/2020,OR-Umatilla,2,0,-
+3/22/2020,OR-Union,1,0,-
+3/22/2020,OR-Washington,42,1,-
+3/22/2020,OR-Yamhill,4,0,-
+3/22/2020,SC-Abbeville,1,0,-
+3/22/2020,SC-Aiken,1,0,-
+3/22/2020,SC-Anderson,10,0,-
+3/22/2020,SC-Beaufort,13,0,-
+3/22/2020,SC-Berkeley,1,0,-
+3/22/2020,SC-Calhoun,1,0,-
+3/22/2020,SC-Charleston,9,1,-
+3/22/2020,SC-Clarendon,1,0,-
+3/22/2020,SC-Colleton,1,0,-
+3/22/2020,SC-Darlington,2,0,-
+3/22/2020,SC-Dillon,1,0,-
+3/22/2020,SC-Dorchester,1,0,-
+3/22/2020,SC-Edgefield,1,0,-
+3/22/2020,SC-Fairfield,1,0,-
+3/22/2020,SC-Florence,1,1,-
+3/22/2020,SC-Greenville,17,0,-
+3/22/2020,SC-Greenwood,3,0,-
+3/22/2020,SC-Horry,9,0,-
+3/22/2020,SC-Kershaw,43,0,-
+3/22/2020,SC-Lancaster,3,0,-
+3/22/2020,SC-Lee,1,0,-
+3/22/2020,SC-Lexington,12,1,-
+3/22/2020,SC-Marlboro,1,0,-
+3/22/2020,SC-Newberry,1,0,-
+3/22/2020,SC-Orangeburg,3,0,-
+3/22/2020,SC-Pickens,1,0,-
+3/22/2020,SC-Richland,27,0,-
+3/22/2020,SC-Saluda,1,0,-
+3/22/2020,SC-Spartanburg,2,0,-
+3/22/2020,SC-Sumter,3,0,-
+3/22/2020,SC-York,2,0,-
+3/22/2020,SC-Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34],,,-
+3/22/2020,MD-Anne Arundel,15,0,0
+3/22/2020,MD-Baltimore,19,1,0
+3/22/2020,MD-Baltimore City,15,0,0
+3/22/2020,MD-Calvert,1,0,0
+3/22/2020,MD-Carroll,3,0,0
+3/22/2020,MD-Charles,4,0,0
+3/22/2020,MD-Frederick,1,0,0
+3/22/2020,MD-Harford,5,0,0
+3/22/2020,MD-Howard,19,0,0
+3/22/2020,MD-Montgomery,68,1,3
+3/22/2020,"MD-Prince George's",36,1,0
+3/22/2020,MD-Talbot,1,0,0
+3/22/2020,MD-Wicomico,2,0,0
+3/22/2020,MD-Worcester,1,0,0
+3/22/2020,NJ-Atlantic,4,0,0
+3/22/2020,NJ-Bergen,363,2,1
+3/22/2020,NJ-Burlington,21,0,0
+3/22/2020,NJ-Camden,15,0,0
+3/22/2020,NJ-Cape May,2,0,0
+3/22/2020,NJ-Cumberland,1,0,0
+3/22/2020,NJ-Essex,107,0,0
+3/22/2020,NJ-Gloucester,6,0,0
+3/22/2020,NJ-Hudson,97,0,0
+3/22/2020,NJ-Hunterdon,14,0,0
+3/22/2020,NJ-Mercer,30,0,0
+3/22/2020,NJ-Middlesex,116,0,0
+3/22/2020,NJ-Monmouth,92,1,0
+3/22/2020,NJ-Morris,64,0,0
+3/22/2020,NJ-Ocean,62,0,0
+3/22/2020,NJ-Passaic,67,0,0
+3/22/2020,NJ-Somerset,34,0,0
+3/22/2020,NJ-Sussex,6,0,0
+3/22/2020,NJ-Union,81,0,0
+3/22/2020,NJ-Warren,5,0,1
+3/22/2020,NJ-Under Investigation,140,13,0
+3/22/2020,DE-Kent,5,-,-
+3/22/2020,DE-New Castle,27,-,-
+3/22/2020,DE-Sussex,6,-,-
+3/22/2020,VA-Accomack,1,0,-
+3/22/2020,VA-Albemarle County,1,0,-
+3/22/2020,VA-Alexandria (City),5,0,-
+3/22/2020,VA-Arlington,22,0,-
+3/22/2020,VA-Botetourt County,1,0,-
+3/22/2020,VA-Charles City County,1,0,-
+3/22/2020,VA-Charlottesville (City),1,0,-
+3/22/2020,VA-Chesterfield County,7,0,-
+3/22/2020,VA-Fairfax County,22,1,-
+3/22/2020,VA-Franklin County,1,0,-
+3/22/2020,VA-Gloucester County,2,0,-
+3/22/2020,VA-Goochland,1,0,-
+3/22/2020,VA-Hanover,1,0,-
+3/22/2020,VA-Harrisonburg (City),1,0,-
+3/22/2020,VA-Henrico,7,0,-
+3/22/2020,VA-Isle of Wight County,1,0,-
+3/22/2020,VA-James City County,20,2,-
+3/22/2020,VA-Loudoun County,14,0,-
+3/22/2020,VA-Mecklenburg County,1,0,-
+3/22/2020,VA-Newport News (City),2,0,-
+3/22/2020,VA-Norfolk (City),3,0,-
+3/22/2020,VA-Portsmouth (City),1,0,-
+3/22/2020,VA-Prince Edward,1,0,-
+3/22/2020,VA-Prince William County,14,0,-
+3/22/2020,VA-Richmond (City),6,0,-
+3/22/2020,VA-Spotsylvania County,1,0,-
+3/22/2020,VA-Stafford County,2,0,-
+3/22/2020,VA-Suffolk County,1,0,-
+3/22/2020,VA-Virginia Beach (City),4,0,-
+3/22/2020,VA-Williamsburg (City),4,0,-
+3/22/2020,VA-York,3,0,-
+3/22/2020,WA-Benton,7,2,-
+3/22/2020,WA-Chelan,3,0,-
+3/22/2020,WA-Clallam,2,0,-
+3/22/2020,WA-Clark,9,3,-
+3/22/2020,WA-Columbia,1,0,-
+3/22/2020,WA-Cowlitz,2,0,-
+3/22/2020,WA-Franklin,2,0,-
+3/22/2020,WA-Grant,11,1,-
+3/22/2020,WA-Grays Harbor,1,0,-
+3/22/2020,WA-Island,19,1,-
+3/22/2020,WA-Jefferson,4,0,-
+3/22/2020,WA-King,934,74,-
+3/22/2020,WA-Kitsap,15,0,-
+3/22/2020,WA-Kittitas,4,0,-
+3/22/2020,WA-Klickitat,4,0,-
+3/22/2020,WA-Lewis,2,0,-
+3/22/2020,WA-Lincoln,1,0,-
+3/22/2020,WA-Mason,1,0,-
+3/22/2020,WA-Pierce,95,1,-
+3/22/2020,WA-San Juan,1,0,-
+3/22/2020,WA-Skagit,28,0,-
+3/22/2020,WA-Snohomish,447,10,-
+3/22/2020,WA-Spokane,16,0,-
+3/22/2020,WA-Stevens,1,0,-
+3/22/2020,WA-Thurston,9,0,-
+3/22/2020,WA-Whatcom,14,2,-
+3/22/2020,WA-Yakima,13,0,-
+3/22/2020,WA-(Unassigned),147,0,-
+3/22/2020,AL-Baldwin,2,-,-
+3/22/2020,AL-Calhoun,1,-,-
+3/22/2020,AL-Chambers,1,-,-
+3/22/2020,AL-Cullman,2,-,-
+3/22/2020,AL-Elmore,6,-,-
+3/22/2020,AL-Jackson,1,-,-
+3/22/2020,AL-Jefferson,61,-,-
+3/22/2020,AL-Lamar,1,-,-
+3/22/2020,AL-Lauderdale,2,-,-
+3/22/2020,AL-Lee,14,-,-
+3/22/2020,AL-Limestone,1,-,-
+3/22/2020,AL-Madison,12,-,-
+3/22/2020,AL-Marion,1,-,-
+3/22/2020,AL-Mobile,2,-,-
+3/22/2020,AL-Montgomery,3,-,-
+3/22/2020,AL-Shelby,17,-,-
+3/22/2020,AL-St. Clair,1,-,-
+3/22/2020,AL-Talladega,1,-,-
+3/22/2020,AL-Tuscaloosa,7,-,-
+3/22/2020,AL-Walker,1,-,-
+3/22/2020,AL-Washington,1,-,-
+3/22/2020,ME-Androscoggin,3,-,1
+3/22/2020,ME-Cumberland,25,-,0
+3/22/2020,ME-Hancock,1,-,0
+3/22/2020,ME-Kennebec,3,-,0
+3/22/2020,ME-Lincoln,3,-,0
+3/22/2020,ME-Oxford,1,-,0
+3/22/2020,ME-Penobscot,1,-,0
+3/22/2020,ME-York,3,-,0
+3/22/2020,ME-Unknown,12,-,0
+3/22/2020,KY-Anderson,1,1,-
+3/22/2020,KY-Bourbon,2,1,-
+3/22/2020,KY-Calloway,1,,-
+3/22/2020,KY-Clark,2,,-
+3/22/2020,KY-Christian,1,,-
+3/22/2020,KY-Daviess,1,,-
+3/22/2020,KY-Fayette,10,,-
+3/22/2020,KY-Franklin,1,,-
+3/22/2020,KY-Hardin,1,,-
+3/22/2020,KY-Harrison,7,,-
+3/22/2020,KY-Henderson,2,,-
+3/22/2020,KY-Kenton,1,,-
+3/22/2020,KY-Jefferson,25,1,-
+3/22/2020,KY-Lyon,1,,-
+3/22/2020,KY-Montgomery,2,,-
+3/22/2020,KY-Nelson,1,,-
+3/22/2020,KY-Oldham,1,,-
+3/22/2020,KY-Pulaski,2,,-
+3/22/2020,KY-Warren,2,,-
+3/22/2020,KY-Source:[1][2][3],,,-
+3/22/2020,IA-Adair,1,0,-
+3/22/2020,IA-Allamakee,3,0,-
+3/22/2020,IA-Black Hawk,1,0,-
+3/22/2020,IA-Carroll,1,0,-
+3/22/2020,IA-Dallas,5,0,-
+3/22/2020,IA-Dubuque,1,0,-
+3/22/2020,IA-Harrison,1,0,-
+3/22/2020,IA-Johnson,22,0,-
+3/22/2020,IA-Muscatine,1,0,-
+3/22/2020,IA-Polk,6,0,-
+3/22/2020,IA-Pottawattamie,1,0,-
+3/22/2020,IA-Washington,1,0,-
+3/22/2020,IA-Winneshiek,1,0,-
+3/22/2020,AK-Anchorage,4,-,-
+3/22/2020,AK-Gulf Coast,1,-,-
+3/22/2020,AK-Interior,6,-,-
+3/22/2020,AK-Mat-Su,0,-,-
+3/22/2020,AK-Northern,0,-,-
+3/22/2020,AK-Southeast,3,-,-
+3/22/2020,AK-Southwest,0,-,-
+3/22/2020,CA-Los Angeles,351,4,
+3/22/2020,CA-Santa Clara,263,8,
+3/22/2020,CA-San Diego,159,0,
+3/22/2020,CA-San Mateo,110,1,
+3/22/2020,CA-San Francisco,84,0,
+3/22/2020,CA-Orange,78,0,
+3/22/2020,CA-Alameda[c],70,0,
+3/22/2020,CA-Sacramento,53,3,
+3/22/2020,CA-Contra Costa,51,1,
+3/22/2020,CA-Marin,38,0,
+3/22/2020,CA-San Joaquin,31,2,
+3/22/2020,CA-Riverside,30,5,
+3/22/2020,CA-Ventura,26,0,
+3/22/2020,CA-Sonoma,22,1,0
+3/22/2020,CA-San Luis Obispo,21,0,
+3/22/2020,CA-Santa Cruz,15,0,
+3/22/2020,CA-Solano,14,0,
+3/22/2020,CA-Santa Barbara,13,0,0
+3/22/2020,CA-Tulare,12,0,
+3/22/2020,CA-Monterey,11,0,0
+3/22/2020,CA-San Bernardino,10,0,0
+3/22/2020,CA-Placer,12,1,
+3/22/2020,CA-Fresno,6,0,
+3/22/2020,CA-Yolo,6,0,
+3/22/2020,CA-Stanislaus,5,0,
+3/22/2020,CA-San Benito,5,1,2
+3/22/2020,CA-Kern,5,0,
+3/22/2020,CA-Imperial,4,0,
+3/22/2020,CA-Madera,3,0,1
+3/22/2020,CA-Calaveras,2,0,
+3/22/2020,CA-Humboldt,1,0,1
+3/22/2020,CA-Nevada,1,0,0
+3/22/2020,CA-Shasta,1,0,
+3/22/2020,CA-Mendocino,1,0,
+3/22/2020,CA-As of 22 March 2020 (UTC),,,
+3/22/2020,"CA-^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero. ^ Including cases in the City of Berkeley compiled by Berkeleyside.",,,
+3/22/2020,NM-Bernalillo County,32,-,-
+3/22/2020,NM-Catron County,0,-,-
+3/22/2020,NM-Chaves County,0,-,-
+3/22/2020,NM-Cibola County,0,-,-
+3/22/2020,NM-Colfax County,0,-,-
+3/22/2020,NM-Curry County,0,-,-
+3/22/2020,NM-De Baca County,0,-,-
+3/22/2020,NM-Doña Ana County,2,-,-
+3/22/2020,NM-Eddy County,0,-,-
+3/22/2020,NM-Grant County,0,-,-
+3/22/2020,NM-Guadalupe County,0,-,-
+3/22/2020,NM-Harding County,0,-,-
+3/22/2020,NM-Hidalgo County,0,-,-
+3/22/2020,NM-Lea County,1,-,-
+3/22/2020,NM-Lincoln County,0,-,-
+3/22/2020,NM-Los Alamos County,0,-,-
+3/22/2020,NM-Luna County,0,-,-
+3/22/2020,NM-McKinley County,1,-,-
+3/22/2020,NM-Mora County,0,-,-
+3/22/2020,NM-Otero County,0,-,-
+3/22/2020,NM-Quay County,0,-,-
+3/22/2020,NM-Rio Arriba County,0,-,-
+3/22/2020,NM-Roosevelt County,0,-,-
+3/22/2020,NM-San Juan County,0,-,-
+3/22/2020,NM-San Miguel County,1,-,-
+3/22/2020,NM-Sandoval County,7,-,-
+3/22/2020,NM-Santa Fe County,8,-,-
+3/22/2020,NM-Sierra County,0,-,-
+3/22/2020,NM-Socorro County,2,-,-
+3/22/2020,NM-Taos County,3,-,-
+3/22/2020,NM-Torrance County,0,-,-
+3/22/2020,NM-Union County,0,-,-
+3/22/2020,NM-Valencia County,0,-,-
+3/22/2020,MN-Anoka,5,-,
+3/22/2020,MN-Benton,1,-,
+3/22/2020,MN-Blue Earth,2,-,
+3/22/2020,MN-Carver,3,-,
+3/22/2020,MN-Chisago,1,-,
+3/22/2020,MN-Clay,1,-,
+3/22/2020,MN-Dakota,7,-,
+3/22/2020,MN-Fillmore,2,-,
+3/22/2020,MN-Hennepin,45,-,
+3/22/2020,MN-Martin,4,-,
+3/22/2020,MN-Mower,1,-,
+3/22/2020,MN-Nicollet,2,-,
+3/22/2020,MN-Olmsted,11,-,
+3/22/2020,MN-Ramsey,16,-,
+3/22/2020,MN-Renv ille,1,-,
+3/22/2020,MN-Rice,1,-,
+3/22/2020,MN-Saint Louis 1,,-,
+3/22/2020,MN-Scott,2,-,
+3/22/2020,MN-Stearns,4,-,
+3/22/2020,MN-Waseca,1,-,
+3/22/2020,MN-Washington,3,-,
+3/22/2020,MN-Wright,2,-,
+3/22/2020,MS-Adams,1,-,-
+3/22/2020,MS-Attala,1,-,-
+3/22/2020,MS-Bolivar,3,-,-
+3/22/2020,MS-Chickasaw,1,-,-
+3/22/2020,MS-Clay,1,-,-
+3/22/2020,MS-Coahoma,7,-,-
+3/22/2020,MS-Copiah,4,-,-
+3/22/2020,MS-De Soto,18,-,-
+3/22/2020,MS-Forrest,11,-,-
+3/22/2020,MS-Franklin,3,-,-
+3/22/2020,MS-George,1,-,-
+3/22/2020,MS-Grenada,2,-,-
+3/22/2020,MS-Harrison,15,-,-
+3/22/2020,MS-Hinds,20,-,-
+3/22/2020,MS-Holmes,6,-,-
+3/22/2020,MS-Humphreys,1,-,-
+3/22/2020,MS-Itawamba,3,-,-
+3/22/2020,MS-Jackson,5,-,-
+3/22/2020,MS-Jones,1,-,-
+3/22/2020,MS-Lafayette,5,-,-
+3/22/2020,MS-Lawrence,2,-,-
+3/22/2020,MS-Leake,1,-,-
+3/22/2020,MS-Lee,6,-,-
+3/22/2020,MS-Leeflore,8,-,-
+3/22/2020,MS-Lincoln,4,-,-
+3/22/2020,MS-Lowndes,4,-,-
+3/22/2020,MS-Madison,9,-,-
+3/22/2020,MS-Marshall,3,-,-
+3/22/2020,MS-Monroe,2,-,-
+3/22/2020,MS-Montgomery,1,-,-
+3/22/2020,MS-Oktibbeha,2,-,-
+3/22/2020,MS-Panola,2,-,-
+3/22/2020,MS-Pearl River,10,-,-
+3/22/2020,MS-Perry,1,-,-
+3/22/2020,MS-Pike,3,-,-
+3/22/2020,MS-Pontotoc,1,-,-
+3/22/2020,MS-Rankin,7,-,-
+3/22/2020,MS-Scott,1,-,-
+3/22/2020,MS-Simpson,1,-,-
+3/22/2020,MS-Smith,1,-,-
+3/22/2020,MS-Sunflower,2,-,-
+3/22/2020,MS-Tate,1,-,-
+3/22/2020,MS-Tippah,7,-,-
+3/22/2020,MS-Tunica,2,-,-
+3/22/2020,MS-Union,1,-,-
+3/22/2020,MS-Walthall,2,-,-
+3/22/2020,MS-Washington,3,-,-
+3/22/2020,MS-Webster,1,-,-
+3/22/2020,MS-Wilkinson,3,-,-
+3/22/2020,MS-Winston,2,-,-
+3/22/2020,MS-Yazoo,1,-,-
+3/22/2020,MS-Total,207,-,-
+3/22/2020,OK-Canadian,2,-,-
+3/22/2020,OK-Cleveland,13,-,-
+3/22/2020,OK-Custer,1,-,-
+3/22/2020,OK-Garvin,2,-,-
+3/22/2020,OK-Grady,1,-,-
+3/22/2020,OK-Jackson,1,-,-
+3/22/2020,OK-Kay,4,-,-
+3/22/2020,OK-Logan,1,-,-
+3/22/2020,OK-McClain,1,-,-
+3/22/2020,OK-Muskogee,1,-,-
+3/22/2020,OK-Noble,1,-,-
+3/22/2020,OK-Oklahoma,26,-,-
+3/22/2020,OK-Pawnee,3,-,-
+3/22/2020,OK-Tulsa,6,-,-
+3/22/2020,OK-Washington,2,-,-
+3/22/2020,OK-Total,67,-,-
+3/22/2020,OH-Ashland,1,-,-
+3/22/2020,OH-Ashtabula,1,-,-
+3/22/2020,OH-Belmont,2,-,-
+3/22/2020,OH-Butler,16,-,-
+3/22/2020,OH-Clark,1,-,-
+3/22/2020,OH-Clermont,2,-,-
+3/22/2020,OH-Coshocton,2,-,-
+3/22/2020,OH-Cuyahoga,92,-,-
+3/22/2020,OH-Darke,1,-,-
+3/22/2020,OH-Defiance,2,-,-
+3/22/2020,OH-Delaware,4,-,-
+3/22/2020,OH-Erie,1,-,-
+3/22/2020,OH-Franklin,21,-,-
+3/22/2020,OH-Gallia,1,-,-
+3/22/2020,OH-Geauga,1,-,-
+3/22/2020,OH-Hamilton,8,-,-
+3/22/2020,OH-Huron,1,-,-
+3/22/2020,OH-Lake,4,-,-
+3/22/2020,OH-Licking,1,-,-
+3/22/2020,OH-Lorain,14,-,-
+3/22/2020,OH-Lucas,4,-,-
+3/22/2020,OH-Mahoning,14,-,-
+3/22/2020,OH-Marion,1,-,-
+3/22/2020,OH-Medina,9,-,-
+3/22/2020,OH-Miami,11,-,-
+3/22/2020,OH-Montgomery,1,-,-
+3/22/2020,OH-Richland,1,-,-
+3/22/2020,OH-Stark,8,-,-
+3/22/2020,OH-Summit,15,-,-
+3/22/2020,OH-Trumbull,3,-,-
+3/22/2020,OH-Tuscarawas,1,-,-
+3/22/2020,OH-Union,1,-,-
+3/22/2020,OH-Warren,2,-,-
+3/22/2020,OH-Total OH cases,247,-,-
+3/22/2020,TX-Bell,3,-,-
+3/22/2020,TX-Bexar,24,-,-
+3/22/2020,TX-Bowie,1,-,-
+3/22/2020,TX-Brazoria,12,-,-
+3/22/2020,TX-Brazos,2,-,-
+3/22/2020,TX-Brown,1,-,-
+3/22/2020,TX-Cameron,6,-,-
+3/22/2020,TX-Castro,1,-,-
+3/22/2020,TX-Chambers,3,-,-
+3/22/2020,TX-Collin,21,-,-
+3/22/2020,TX-Comal,3,-,-
+3/22/2020,TX-Crane,1,-,-
+3/22/2020,TX-Dallas,30,-,-
+3/22/2020,TX-Deaf Smith,1,-,-
+3/22/2020,TX-Denton,12,-,-
+3/22/2020,TX-DeWitt,1,-,-
+3/22/2020,TX-El Paso,6,-,-
+3/22/2020,TX-Ellis,3,-,-
+3/22/2020,TX-Fannin,1,-,-
+3/22/2020,TX-Fort Bend,11,-,-
+3/22/2020,TX-Galveston,9,-,-
+3/22/2020,TX-Gregg,1,-,-
+3/22/2020,TX-Harris,27,-,-
+3/22/2020,TX-Hays,6,-,-
+3/22/2020,TX-Hockley,2,-,-
+3/22/2020,TX-Johnson,2,-,-
+3/22/2020,TX-Lavaca,1,-,-
+3/22/2020,TX-Lubbock,2,-,-
+3/22/2020,TX-Matagorda,3,-,-
+3/22/2020,TX-McLennan,7,-,-
+3/22/2020,TX-Medina,1,-,-
+3/22/2020,TX-Midland,1,-,-
+3/22/2020,TX-Montgomery,4,-,-
+3/22/2020,TX-Nueces,1,-,-
+3/22/2020,TX-Oldham,1,-,-
+3/22/2020,TX-Potter,2,-,-
+3/22/2020,TX-Rusk,1,-,-
+3/22/2020,TX-Smith,5,-,-
+3/22/2020,TX-Tarrant,8,-,-
+3/22/2020,TX-Travis,22,-,-
+3/22/2020,TX-Webb,4,-,-
+3/22/2020,TX-Wichita,3,-,-
+3/22/2020,TX-Williamson,9,-,-
+3/22/2020,TX-Pending County Assignment,69,-,-

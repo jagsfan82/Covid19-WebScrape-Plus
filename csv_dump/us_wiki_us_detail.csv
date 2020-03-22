@@ -1,0 +1,16 @@
+﻿Date,StateCode,State,County,Confirmed,Deaths,Recovered
+3/19/2020,MD,Maryland,Anne Arundel,5,0,0
+3/19/2020,MD,Maryland,Baltimore,12,0,0
+3/19/2020,MD,Maryland,Baltimore City,8,0,0
+3/19/2020,MD,Maryland,Carroll,2,0,0
+3/19/2020,MD,Maryland,Calvert,1,0,0
+3/19/2020,MD,Maryland,Charles,2,0,0
+3/19/2020,MD,Maryland,Frederick,1,0,0
+3/19/2020,MD,Maryland,Harford,3,0,0
+3/19/2020,MD,Maryland,Howard,16,0,0
+3/19/2020,MD,Maryland,Montgomery,33,0,3
+3/19/2020,MD,Maryland,"Prince George's",23,1,0
+3/19/2020,MD,Maryland,Talbot,1,0,0
+3/19/2020,MD,Maryland,Wicomico,1,0,0
+3/19/2020,MD,Maryland,Worcester,1,0,0
+3/19/2020,MD,Maryland,Total,109,1,3
