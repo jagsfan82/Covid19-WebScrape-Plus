@@ -14,7 +14,7 @@
 3/21/2020,Afghanistan,Confirmed,24
 3/21/2020,Afghanistan,Deaths,0
 3/21/2020,Afghanistan,Recovered,1
-3/22/2020,Afghanistan,Confirmed,34
+3/22/2020,Afghanistan,Confirmed,40
 3/22/2020,Afghanistan,Deaths,1
 3/22/2020,Afghanistan,Recovered,1
 3/17/20,Albania,Confirmed,55
@@ -33,7 +33,7 @@
 3/21/2020,Albania,Deaths,2
 3/21/2020,Albania,Recovered,2
 3/22/2020,Albania,Confirmed,89
-3/22/2020,Albania,Deaths,2
+3/22/2020,Albania,Deaths,3
 3/22/2020,Albania,Recovered,2
 3/17/20,Algeria,Confirmed,61
 3/17/20,Algeria,Deaths,5
@@ -164,8 +164,8 @@
 3/21/2020,Austria,Confirmed,"2,992"
 3/21/2020,Austria,Deaths,8
 3/21/2020,Austria,Recovered,9
-3/22/2020,Austria,Confirmed,"3,026"
-3/22/2020,Austria,Deaths,9
+3/22/2020,Austria,Confirmed,"3,580"
+3/22/2020,Austria,Deaths,16
 3/22/2020,Austria,Recovered,9
 3/17/20,Azerbaijan,Confirmed,34
 3/17/20,Azerbaijan,Deaths,1
@@ -362,7 +362,7 @@
 3/21/2020,Bosnia and Herzegovina,Confirmed,94
 3/21/2020,Bosnia and Herzegovina,Deaths,1
 3/21/2020,Bosnia and Herzegovina,Recovered,2
-3/22/2020,Bosnia and Herzegovina,Confirmed,94
+3/22/2020,Bosnia and Herzegovina,Confirmed,126
 3/22/2020,Bosnia and Herzegovina,Deaths,1
 3/22/2020,Bosnia and Herzegovina,Recovered,2
 3/17/20,Brazil,Confirmed,346
@@ -380,8 +380,8 @@
 3/21/2020,Brazil,Confirmed,"1,178"
 3/21/2020,Brazil,Deaths,18
 3/21/2020,Brazil,Recovered,2
-3/22/2020,Brazil,Confirmed,"1,201"
-3/22/2020,Brazil,Deaths,18
+3/22/2020,Brazil,Confirmed,"1,546"
+3/22/2020,Brazil,Deaths,25
 3/22/2020,Brazil,Recovered,2
 3/17/20,Brunei,Confirmed,56
 3/17/20,Brunei,Deaths,0
@@ -416,7 +416,7 @@
 3/21/2020,Bulgaria,Confirmed,163
 3/21/2020,Bulgaria,Deaths,3
 3/21/2020,Bulgaria,Recovered,3
-3/22/2020,Bulgaria,Confirmed,185
+3/22/2020,Bulgaria,Confirmed,187
 3/22/2020,Bulgaria,Deaths,3
 3/22/2020,Bulgaria,Recovered,3
 3/17/20,Burkina Faso,Confirmed,15
@@ -488,7 +488,7 @@
 3/21/2020,Canada,Confirmed,"1,388"
 3/21/2020,Canada,Deaths,19
 3/21/2020,Canada,Recovered,14
-3/22/2020,Canada,Confirmed,"1,426"
+3/22/2020,Canada,Confirmed,"1,435"
 3/22/2020,Canada,Deaths,21
 3/22/2020,Canada,Recovered,18
 3/20/2020,Cape Verde,Confirmed,1
@@ -596,7 +596,7 @@
 3/21/2020,Costa Rica,Confirmed,117
 3/21/2020,Costa Rica,Deaths,2
 3/21/2020,Costa Rica,Recovered,2
-3/22/2020,Costa Rica,Confirmed,117
+3/22/2020,Costa Rica,Confirmed,134
 3/22/2020,Costa Rica,Deaths,2
 3/22/2020,Costa Rica,Recovered,2
 3/17/20,Croatia,Confirmed,69
@@ -669,7 +669,7 @@
 3/21/2020,Czech Republic,Deaths,0
 3/21/2020,Czech Republic,Recovered,6
 3/22/2020,Czech Republic,Confirmed,"1,120"
-3/22/2020,Czech Republic,Deaths,0
+3/22/2020,Czech Republic,Deaths,1
 3/22/2020,Czech Republic,Recovered,6
 3/17/20,Denmark,Confirmed,"1,025"
 3/17/20,Denmark,Deaths,4
@@ -722,6 +722,9 @@
 3/22/2020,Djibouti,Confirmed,1
 3/22/2020,Djibouti,Deaths,0
 3/22/2020,Djibouti,Recovered,0
+3/22/2020,Dominica,Confirmed,1
+3/22/2020,Dominica,Deaths,0
+3/22/2020,Dominica,Recovered,0
 3/17/20,Dominican Republic,Confirmed,21
 3/17/20,Dominican Republic,Deaths,1
 3/17/20,Dominican Republic,Recovered,0
@@ -755,7 +758,7 @@
 3/21/2020,DR Congo,Confirmed,23
 3/21/2020,DR Congo,Deaths,1
 3/21/2020,DR Congo,Recovered,0
-3/22/2020,DR Congo,Confirmed,23
+3/22/2020,DR Congo,Confirmed,30
 3/22/2020,DR Congo,Deaths,1
 3/22/2020,DR Congo,Recovered,0
 3/21/2020,East Timor,Confirmed,1
@@ -797,9 +800,9 @@
 3/21/2020,Egypt,Confirmed,294
 3/21/2020,Egypt,Deaths,10
 3/21/2020,Egypt,Recovered,41
-3/22/2020,Egypt,Confirmed,294
-3/22/2020,Egypt,Deaths,10
-3/22/2020,Egypt,Recovered,41
+3/22/2020,Egypt,Confirmed,327
+3/22/2020,Egypt,Deaths,14
+3/22/2020,Egypt,Recovered,56
 3/18/20,El Salvador,Confirmed,1
 3/18/20,El Salvador,Deaths,0
 3/18/20,El Salvador,Recovered,
@@ -1031,7 +1034,7 @@
 3/21/2020,Ghana,Confirmed,21
 3/21/2020,Ghana,Deaths,1
 3/21/2020,Ghana,Recovered,0
-3/22/2020,Ghana,Confirmed,21
+3/22/2020,Ghana,Confirmed,23
 3/22/2020,Ghana,Deaths,1
 3/22/2020,Ghana,Recovered,0
 3/17/20,Greece,Confirmed,387
@@ -1070,7 +1073,7 @@
 3/21/2020,Guatemala,Confirmed,17
 3/21/2020,Guatemala,Deaths,1
 3/21/2020,Guatemala,Recovered,0
-3/22/2020,Guatemala,Confirmed,17
+3/22/2020,Guatemala,Confirmed,19
 3/22/2020,Guatemala,Deaths,1
 3/22/2020,Guatemala,Recovered,0
 3/20/2020,Guernsey,Confirmed,2
@@ -1200,7 +1203,7 @@
 3/21/2020,Iceland,Deaths,0
 3/21/2020,Iceland,Recovered,22
 3/22/2020,Iceland,Confirmed,568
-3/22/2020,Iceland,Deaths,0
+3/22/2020,Iceland,Deaths,1
 3/22/2020,Iceland,Recovered,36
 3/17/20,India,Confirmed,147
 3/17/20,India,Deaths,3
@@ -1289,8 +1292,8 @@
 3/21/2020,Ireland,Confirmed,785
 3/21/2020,Ireland,Deaths,3
 3/21/2020,Ireland,Recovered,5
-3/22/2020,Ireland,Confirmed,785
-3/22/2020,Ireland,Deaths,3
+3/22/2020,Ireland,Confirmed,906
+3/22/2020,Ireland,Deaths,4
 3/22/2020,Ireland,Recovered,5
 3/20/2020,Isle of Man,Confirmed,2
 3/20/2020,Isle of Man,Deaths,0
@@ -1316,9 +1319,9 @@
 3/21/2020,Israel,Confirmed,883
 3/21/2020,Israel,Deaths,1
 3/21/2020,Israel,Recovered,15
-3/22/2020,Israel,Confirmed,945
+3/22/2020,Israel,Confirmed,"1,071"
 3/22/2020,Israel,Deaths,1
-3/22/2020,Israel,Recovered,36
+3/22/2020,Israel,Recovered,37
 3/17/20,Italy,Confirmed,31506
 3/17/20,Italy,Deaths,2503
 3/17/20,Italy,Recovered,2941
@@ -1727,7 +1730,7 @@
 3/21/2020,Mauritius,Confirmed,14
 3/21/2020,Mauritius,Deaths,1
 3/21/2020,Mauritius,Recovered,0
-3/22/2020,Mauritius,Confirmed,24
+3/22/2020,Mauritius,Confirmed,28
 3/22/2020,Mauritius,Deaths,2
 3/22/2020,Mauritius,Recovered,0
 3/17/20,Mexico,Confirmed,82
@@ -1781,7 +1784,7 @@
 3/21/2020,Monaco,Confirmed,11
 3/21/2020,Monaco,Deaths,0
 3/21/2020,Monaco,Recovered,1
-3/22/2020,Monaco,Confirmed,11
+3/22/2020,Monaco,Confirmed,23
 3/22/2020,Monaco,Deaths,0
 3/22/2020,Monaco,Recovered,1
 3/17/20,Mongolia,Confirmed,5
@@ -1817,7 +1820,7 @@
 3/21/2020,Montenegro,Confirmed,14
 3/21/2020,Montenegro,Deaths,0
 3/21/2020,Montenegro,Recovered,0
-3/22/2020,Montenegro,Confirmed,16
+3/22/2020,Montenegro,Confirmed,21
 3/22/2020,Montenegro,Deaths,0
 3/22/2020,Montenegro,Recovered,0
 3/17/20,Morocco,Confirmed,44
@@ -1835,8 +1838,8 @@
 3/21/2020,Morocco,Confirmed,96
 3/21/2020,Morocco,Deaths,3
 3/21/2020,Morocco,Recovered,3
-3/22/2020,Morocco,Confirmed,109
-3/22/2020,Morocco,Deaths,3
+3/22/2020,Morocco,Confirmed,115
+3/22/2020,Morocco,Deaths,4
 3/22/2020,Morocco,Recovered,3
 3/22/2020,Mozambique,Confirmed,1
 3/22/2020,Mozambique,Deaths,0
@@ -1988,7 +1991,7 @@
 3/21/2020,Northern Cyprus,Confirmed,35
 3/21/2020,Northern Cyprus,Deaths,0
 3/21/2020,Northern Cyprus,Recovered,3
-3/22/2020,Northern Cyprus,Confirmed,35
+3/22/2020,Northern Cyprus,Confirmed,38
 3/22/2020,Northern Cyprus,Deaths,0
 3/22/2020,Northern Cyprus,Recovered,3
 3/17/20,Norway,Confirmed,"1,470"
@@ -2006,7 +2009,7 @@
 3/21/2020,Norway,Confirmed,"2,164"
 3/21/2020,Norway,Deaths,7
 3/21/2020,Norway,Recovered,
-3/22/2020,Norway,Confirmed,"2,372"
+3/22/2020,Norway,Confirmed,"2,383"
 3/22/2020,Norway,Deaths,7
 3/22/2020,Norway,Recovered,
 3/17/20,Oman,Confirmed,24
@@ -2042,8 +2045,8 @@
 3/21/2020,Pakistan,Confirmed,729
 3/21/2020,Pakistan,Deaths,3
 3/21/2020,Pakistan,Recovered,5
-3/22/2020,Pakistan,Confirmed,760
-3/22/2020,Pakistan,Deaths,4
+3/22/2020,Pakistan,Confirmed,776
+3/22/2020,Pakistan,Deaths,5
 3/22/2020,Pakistan,Recovered,5
 3/17/20,Palestine,Confirmed,41
 3/17/20,Palestine,Deaths,0
@@ -2159,7 +2162,7 @@
 3/21/2020,Poland,Confirmed,536
 3/21/2020,Poland,Deaths,5
 3/21/2020,Poland,Recovered,1
-3/22/2020,Poland,Confirmed,563
+3/22/2020,Poland,Confirmed,634
 3/22/2020,Poland,Deaths,7
 3/22/2020,Poland,Recovered,1
 3/17/20,Portugal,Confirmed,448
@@ -2195,9 +2198,9 @@
 3/21/2020,Qatar,Confirmed,481
 3/21/2020,Qatar,Deaths,0
 3/21/2020,Qatar,Recovered,27
-3/22/2020,Qatar,Confirmed,481
+3/22/2020,Qatar,Confirmed,494
 3/22/2020,Qatar,Deaths,0
-3/22/2020,Qatar,Recovered,27
+3/22/2020,Qatar,Recovered,33
 3/17/20,Republic of the Congo,Confirmed,1
 3/17/20,Republic of the Congo,Deaths,0
 3/17/20,Republic of the Congo,Recovered,0
@@ -2267,7 +2270,7 @@
 3/21/2020,Rwanda,Confirmed,17
 3/21/2020,Rwanda,Deaths,0
 3/21/2020,Rwanda,Recovered,0
-3/22/2020,Rwanda,Confirmed,17
+3/22/2020,Rwanda,Confirmed,19
 3/22/2020,Rwanda,Deaths,0
 3/22/2020,Rwanda,Recovered,0
 3/17/20,Saint Lucia,Confirmed,2
@@ -2339,7 +2342,7 @@
 3/21/2020,Senegal,Confirmed,47
 3/21/2020,Senegal,Deaths,0
 3/21/2020,Senegal,Recovered,5
-3/22/2020,Senegal,Confirmed,56
+3/22/2020,Senegal,Confirmed,67
 3/22/2020,Senegal,Deaths,0
 3/22/2020,Senegal,Recovered,5
 3/17/20,Serbia,Confirmed,72
@@ -2430,7 +2433,7 @@
 3/21/2020,Slovenia,Deaths,1
 3/21/2020,Slovenia,Recovered,
 3/22/2020,Slovenia,Confirmed,414
-3/22/2020,Slovenia,Deaths,1
+3/22/2020,Slovenia,Deaths,2
 3/22/2020,Slovenia,Recovered,
 3/17/20,Somalia,Confirmed,1
 3/17/20,Somalia,Deaths,0
@@ -2591,8 +2594,8 @@
 3/21/2020,Sweden,Confirmed,"1,770"
 3/21/2020,Sweden,Deaths,20
 3/21/2020,Sweden,Recovered,16
-3/22/2020,Sweden,Confirmed,"1,925"
-3/22/2020,Sweden,Deaths,21
+3/22/2020,Sweden,Confirmed,"1,934"
+3/22/2020,Sweden,Deaths,23
 3/22/2020,Sweden,Recovered,16
 3/17/20,Switzerland,Confirmed,"2,742"
 3/17/20,Switzerland,Deaths,21
@@ -2762,7 +2765,7 @@
 3/21/2020,Ukraine,Confirmed,47
 3/21/2020,Ukraine,Deaths,3
 3/21/2020,Ukraine,Recovered,1
-3/22/2020,Ukraine,Confirmed,47
+3/22/2020,Ukraine,Confirmed,73
 3/22/2020,Ukraine,Deaths,3
 3/22/2020,Ukraine,Recovered,1
 3/17/20,United Arab Emirates,Confirmed,98
@@ -2798,9 +2801,9 @@
 3/21/2020,United Kingdom,Confirmed,"5,027"
 3/21/2020,United Kingdom,Deaths,234
 3/21/2020,United Kingdom,Recovered,98
-3/22/2020,United Kingdom,Confirmed,"5,683"
-3/22/2020,United Kingdom,Deaths,281
-3/22/2020,United Kingdom,Recovered,98
+3/22/2020,United Kingdom,Confirmed,"5,702"
+3/22/2020,United Kingdom,Deaths,282
+3/22/2020,United Kingdom,Recovered,140
 3/17/20,United States,Confirmed,"6,518"
 3/17/20,United States,Deaths,108
 3/17/20,United States,Recovered,17
@@ -2816,8 +2819,8 @@
 3/21/2020,United States,Confirmed,"27,111"
 3/21/2020,United States,Deaths,340
 3/21/2020,United States,Recovered,176
-3/22/2020,United States,Confirmed,"32,412"
-3/22/2020,United States,Deaths,414
+3/22/2020,United States,Confirmed,"33,382"
+3/22/2020,United States,Deaths,417
 3/22/2020,United States,Recovered,178
 3/17/20,Uruguay,Confirmed,29
 3/17/20,Uruguay,Deaths,0
@@ -2888,7 +2891,7 @@
 3/21/2020,Venezuela,Confirmed,70
 3/21/2020,Venezuela,Deaths,0
 3/21/2020,Venezuela,Recovered,15
-3/22/2020,Venezuela,Confirmed,70
+3/22/2020,Venezuela,Confirmed,77
 3/22/2020,Venezuela,Deaths,0
 3/22/2020,Venezuela,Recovered,15
 3/17/20,Vietnam,Confirmed,66

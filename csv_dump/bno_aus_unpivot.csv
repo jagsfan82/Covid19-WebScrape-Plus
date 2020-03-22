@@ -114,7 +114,7 @@
 3/21/2020,New South Wales,Serious,5
 3/21/2020,New South Wales,Critical,
 3/21/2020,New South Wales,Recovered,4
-3/22/2020,New South Wales,Confirmed,533
+3/22/2020,New South Wales,Confirmed,669
 3/22/2020,New South Wales,Deaths,6
 3/22/2020,New South Wales,Serious,5
 3/22/2020,New South Wales,Critical,
@@ -234,7 +234,7 @@
 3/21/2020,Tasmania,Serious,
 3/21/2020,Tasmania,Critical,
 3/21/2020,Tasmania,Recovered,3
-3/22/2020,Tasmania,Confirmed,17
+3/22/2020,Tasmania,Confirmed,22
 3/22/2020,Tasmania,Deaths,
 3/22/2020,Tasmania,Serious,
 3/22/2020,Tasmania,Critical,
@@ -264,11 +264,6 @@
 3/21/2020,TBD,Serious,
 3/21/2020,TBD,Critical,
 3/21/2020,TBD,Recovered,
-3/22/2020,TBD,Confirmed,
-3/22/2020,TBD,Deaths,
-3/22/2020,TBD,Serious,
-3/22/2020,TBD,Critical,
-3/22/2020,TBD,Recovered,
 3/17/20,Victoria,Confirmed,94
 3/17/20,Victoria,Deaths,
 3/17/20,Victoria,Serious,
@@ -298,7 +293,7 @@
 3/22/2020,Victoria,Deaths,
 3/22/2020,Victoria,Serious,
 3/22/2020,Victoria,Critical,
-3/22/2020,Victoria,Recovered,51
+3/22/2020,Victoria,Recovered,70
 3/17/20,Western Australia,Confirmed,31
 3/17/20,Western Australia,Deaths,1
 3/17/20,Western Australia,Serious,

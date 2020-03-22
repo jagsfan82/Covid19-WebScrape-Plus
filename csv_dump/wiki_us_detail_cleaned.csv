@@ -2033,54 +2033,36 @@
 3/22/2020,SC-Abbeville,1,0,-
 3/22/2020,SC-Aiken,1,0,-
 3/22/2020,SC-Anderson,10,0,-
-3/22/2020,SC-Beaufort,13,0,-
-3/22/2020,SC-Berkeley,1,0,-
+3/22/2020,SC-Beaufort,14,0,-
+3/22/2020,SC-Berkeley,2,0,-
 3/22/2020,SC-Calhoun,1,0,-
-3/22/2020,SC-Charleston,9,1,-
+3/22/2020,SC-Charleston,13,1,-
 3/22/2020,SC-Clarendon,1,0,-
 3/22/2020,SC-Colleton,1,0,-
-3/22/2020,SC-Darlington,2,0,-
+3/22/2020,SC-Darlington,5,0,-
 3/22/2020,SC-Dillon,1,0,-
 3/22/2020,SC-Dorchester,1,0,-
 3/22/2020,SC-Edgefield,1,0,-
 3/22/2020,SC-Fairfield,1,0,-
 3/22/2020,SC-Florence,1,1,-
-3/22/2020,SC-Greenville,17,0,-
+3/22/2020,SC-Greenville,19,0,-
 3/22/2020,SC-Greenwood,3,0,-
-3/22/2020,SC-Horry,9,0,-
-3/22/2020,SC-Kershaw,43,0,-
-3/22/2020,SC-Lancaster,3,0,-
+3/22/2020,SC-Hampton,1,0,-
+3/22/2020,SC-Horry,11,0,-
+3/22/2020,SC-Jasper,1,0,-
+3/22/2020,SC-Kershaw,44,0,-
+3/22/2020,SC-Lancaster,5,0,-
 3/22/2020,SC-Lee,1,0,-
 3/22/2020,SC-Lexington,12,1,-
 3/22/2020,SC-Marlboro,1,0,-
 3/22/2020,SC-Newberry,1,0,-
 3/22/2020,SC-Orangeburg,3,0,-
-3/22/2020,SC-Pickens,1,0,-
-3/22/2020,SC-Richland,27,0,-
+3/22/2020,SC-Richland,29,0,-
 3/22/2020,SC-Saluda,1,0,-
 3/22/2020,SC-Spartanburg,2,0,-
 3/22/2020,SC-Sumter,3,0,-
-3/22/2020,SC-York,2,0,-
-3/22/2020,SC-Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34],,,-
-3/22/2020,MD-Anne Arundel,18,0,0
-3/22/2020,MD-Baltimore,24,1,0
-3/22/2020,MD-Baltimore City,28,0,0
-3/22/2020,MD-Calvert,2,0,0
-3/22/2020,MD-Caroline,1,0,0
-3/22/2020,MD-Carroll,4,0,0
-3/22/2020,MD-Cecil,1,0,0
-3/22/2020,MD-Charles,5,0,0
-3/22/2020,MD-Frederick,1,0,0
-3/22/2020,MD-Harford,5,0,0
-3/22/2020,MD-Howard,24,0,0
-3/22/2020,MD-Montgomery,83,1,3
-3/22/2020,"MD-Prince George's",40,1,0
-3/22/2020,"MD-St. Mary's",1,0,0
-3/22/2020,MD-Somerset,1,0,0
-3/22/2020,MD-Talbot,1,0,0
-3/22/2020,MD-Washington,1,0,0
-3/22/2020,MD-Wicomico,2,0,0
-3/22/2020,MD-Worcester,2,0,0
+3/22/2020,SC-York,4,0,-
+3/22/2020,SC-Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34] • Mar 22 [35],,,-
 3/22/2020,NJ-Atlantic,4,0,0
 3/22/2020,NJ-Bergen,363,2,1
 3/22/2020,NJ-Burlington,21,0,0
@@ -2106,64 +2088,73 @@
 3/22/2020,DE-New Castle,33,-,-
 3/22/2020,DE-Sussex,9,-,-
 3/22/2020,VA-Accomack,1,0,-
-3/22/2020,VA-Albemarle County,1,0,-
+3/22/2020,VA-Albemarle,2,0,-
 3/22/2020,VA-Alexandria (City),5,0,-
-3/22/2020,VA-Arlington,22,0,-
-3/22/2020,VA-Botetourt County,1,0,-
-3/22/2020,VA-Charles City County,1,0,-
-3/22/2020,VA-Charlottesville (City),1,0,-
-3/22/2020,VA-Chesterfield County,7,0,-
-3/22/2020,VA-Fairfax County,22,1,-
-3/22/2020,VA-Franklin County,1,0,-
-3/22/2020,VA-Gloucester County,2,0,-
-3/22/2020,VA-Goochland,1,0,-
+3/22/2020,VA-Amherst,1,0,-
+3/22/2020,VA-Arlington,26,0,-
+3/22/2020,VA-Bedford,1,0,-
+3/22/2020,VA-Botetourt,1,0,-
+3/22/2020,VA-Charles City,1,0,-
+3/22/2020,VA-Charlottesville (City),4,0,-
+3/22/2020,VA-Chesterfield,8,0,-
+3/22/2020,VA-Culpeper,2,0,-
+3/22/2020,VA-Fairfax,31,1,-
+3/22/2020,VA-Fluvanna,1,0,-
+3/22/2020,VA-Franklin,1,0,-
+3/22/2020,VA-Gloucester,2,0,-
+3/22/2020,VA-Goochland,2,0,-
 3/22/2020,VA-Hanover,1,0,-
 3/22/2020,VA-Harrisonburg (City),1,0,-
-3/22/2020,VA-Henrico,7,0,-
-3/22/2020,VA-Isle of Wight County,1,0,-
-3/22/2020,VA-James City County,20,2,-
-3/22/2020,VA-Loudoun County,14,0,-
-3/22/2020,VA-Mecklenburg County,1,0,-
-3/22/2020,VA-Newport News (City),2,0,-
+3/22/2020,VA-Henrico,8,0,-
+3/22/2020,VA-Isle of Wight,1,0,-
+3/22/2020,VA-James City,32,3,-
+3/22/2020,VA-Lee,2,0,-
+3/22/2020,VA-Louisa,1,0,-
+3/22/2020,VA-Loudoun,15,0,-
+3/22/2020,VA-Mecklenburg,1,0,-
+3/22/2020,VA-Newport News (City),2,1,-
 3/22/2020,VA-Norfolk (City),3,0,-
 3/22/2020,VA-Portsmouth (City),1,0,-
 3/22/2020,VA-Prince Edward,1,0,-
-3/22/2020,VA-Prince William County,14,0,-
+3/22/2020,VA-Prince William,18,0,-
 3/22/2020,VA-Richmond (City),6,0,-
-3/22/2020,VA-Spotsylvania County,1,0,-
-3/22/2020,VA-Stafford County,2,0,-
-3/22/2020,VA-Suffolk County,1,0,-
-3/22/2020,VA-Virginia Beach (City),4,0,-
-3/22/2020,VA-Williamsburg (City),4,0,-
-3/22/2020,VA-York,3,0,-
+3/22/2020,VA-Rockingham,2,0,-
+3/22/2020,VA-Spotsylvania,2,0,-
+3/22/2020,VA-Stafford,5,0,-
+3/22/2020,VA-Suffolk (city),1,0,-
+3/22/2020,VA-Virginia Beach (City),17,0,-
+3/22/2020,VA-Williamsburg (City),5,1,-
+3/22/2020,VA-York,5,0,-
 3/22/2020,WA-Benton,7,2,-
 3/22/2020,WA-Chelan,3,0,-
-3/22/2020,WA-Clallam,2,0,-
-3/22/2020,WA-Clark,9,3,-
+3/22/2020,WA-Clallam,4,0,-
+3/22/2020,WA-Clark,10,3,-
 3/22/2020,WA-Columbia,1,0,-
-3/22/2020,WA-Cowlitz,2,0,-
-3/22/2020,WA-Franklin,2,0,-
-3/22/2020,WA-Grant,11,1,-
+3/22/2020,WA-Cowlitz,3,0,-
+3/22/2020,WA-Franklin,3,0,-
+3/22/2020,WA-Grant,18,1,-
 3/22/2020,WA-Grays Harbor,1,0,-
-3/22/2020,WA-Island,19,1,-
-3/22/2020,WA-Jefferson,4,0,-
-3/22/2020,WA-King,934,74,-
-3/22/2020,WA-Kitsap,15,0,-
+3/22/2020,WA-Island,21,1,-
+3/22/2020,WA-Jefferson,6,0,-
+3/22/2020,WA-King,1040,75,-
+3/22/2020,WA-Kitsap,18,0,-
 3/22/2020,WA-Kittitas,4,0,-
 3/22/2020,WA-Klickitat,4,0,-
 3/22/2020,WA-Lewis,2,0,-
 3/22/2020,WA-Lincoln,1,0,-
 3/22/2020,WA-Mason,1,0,-
-3/22/2020,WA-Pierce,95,1,-
+3/22/2020,WA-Pierce,107,1,-
 3/22/2020,WA-San Juan,1,0,-
-3/22/2020,WA-Skagit,28,0,-
-3/22/2020,WA-Snohomish,447,10,-
-3/22/2020,WA-Spokane,16,0,-
+3/22/2020,WA-Skagit,33,0,-
+3/22/2020,WA-Snohomish,480,10,-
+3/22/2020,WA-Spokane,20,0,-
 3/22/2020,WA-Stevens,1,0,-
-3/22/2020,WA-Thurston,9,0,-
+3/22/2020,WA-Thurston,11,0,-
+3/22/2020,WA-Walla Walla,1,0,-
 3/22/2020,WA-Whatcom,14,2,-
-3/22/2020,WA-Yakima,13,0,-
-3/22/2020,WA-(Unassigned),147,0,-
+3/22/2020,WA-Whitman,1,0,-
+3/22/2020,WA-Yakima,16,0,-
+3/22/2020,WA-(Unassigned),165,0,-
 3/22/2020,AL-Baldwin,2,-,-
 3/22/2020,AL-Calhoun,1,-,-
 3/22/2020,AL-Chambers,1,-,-
@@ -2285,14 +2276,14 @@
 3/22/2020,CA-Mendocino,1,0,
 3/22/2020,CA-As of 22 March 2020 (UTC),,,
 3/22/2020,"CA-^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero. ^ Including cases in the City of Berkeley compiled by Berkeleyside.",,,
-3/22/2020,NM-Bernalillo County,32,-,-
+3/22/2020,NM-Bernalillo County,34,-,-
 3/22/2020,NM-Catron County,0,-,-
 3/22/2020,NM-Chaves County,0,-,-
 3/22/2020,NM-Cibola County,0,-,-
 3/22/2020,NM-Colfax County,0,-,-
 3/22/2020,NM-Curry County,0,-,-
 3/22/2020,NM-De Baca County,0,-,-
-3/22/2020,NM-Doña Ana County,2,-,-
+3/22/2020,NM-Doña Ana County,4,-,-
 3/22/2020,NM-Eddy County,0,-,-
 3/22/2020,NM-Grant County,0,-,-
 3/22/2020,NM-Guadalupe County,0,-,-
@@ -2302,16 +2293,16 @@
 3/22/2020,NM-Lincoln County,0,-,-
 3/22/2020,NM-Los Alamos County,0,-,-
 3/22/2020,NM-Luna County,0,-,-
-3/22/2020,NM-McKinley County,1,-,-
+3/22/2020,NM-McKinley County,2,-,-
 3/22/2020,NM-Mora County,0,-,-
 3/22/2020,NM-Otero County,0,-,-
 3/22/2020,NM-Quay County,0,-,-
 3/22/2020,NM-Rio Arriba County,0,-,-
 3/22/2020,NM-Roosevelt County,0,-,-
-3/22/2020,NM-San Juan County,0,-,-
+3/22/2020,NM-San Juan County,1,-,-
 3/22/2020,NM-San Miguel County,1,-,-
 3/22/2020,NM-Sandoval County,7,-,-
-3/22/2020,NM-Santa Fe County,8,-,-
+3/22/2020,NM-Santa Fe County,10,-,-
 3/22/2020,NM-Sierra County,0,-,-
 3/22/2020,NM-Socorro County,2,-,-
 3/22/2020,NM-Taos County,3,-,-
@@ -2409,39 +2400,45 @@
 3/22/2020,OK-Washington,2,-,-
 3/22/2020,OK-Total,67,-,-
 3/22/2020,OH-Ashland,1,-,-
-3/22/2020,OH-Ashtabula,1,-,-
+3/22/2020,OH-Ashtabula,2,-,-
 3/22/2020,OH-Belmont,2,-,-
-3/22/2020,OH-Butler,16,-,-
+3/22/2020,OH-Butler,17,-,-
+3/22/2020,OH-Carroll,1,-,-
 3/22/2020,OH-Clark,1,-,-
-3/22/2020,OH-Clermont,2,-,-
+3/22/2020,OH-Clermont,5,-,-
+3/22/2020,OH-Clinton,1,-,-
+3/22/2020,OH-Columbiana,2,-,-
 3/22/2020,OH-Coshocton,2,-,-
-3/22/2020,OH-Cuyahoga,92,-,-
+3/22/2020,OH-Cuyahoga,125,-,-
 3/22/2020,OH-Darke,1,-,-
 3/22/2020,OH-Defiance,2,-,-
-3/22/2020,OH-Delaware,4,-,-
+3/22/2020,OH-Delaware,6,-,-
 3/22/2020,OH-Erie,1,-,-
-3/22/2020,OH-Franklin,21,-,-
+3/22/2020,OH-Franklin,34,-,-
 3/22/2020,OH-Gallia,1,-,-
-3/22/2020,OH-Geauga,1,-,-
-3/22/2020,OH-Hamilton,8,-,-
+3/22/2020,OH-Geauga,2,-,-
+3/22/2020,OH-Greene,1,-,-
+3/22/2020,OH-Hamilton,19,-,-
 3/22/2020,OH-Huron,1,-,-
-3/22/2020,OH-Lake,4,-,-
+3/22/2020,OH-Lake,6,-,-
 3/22/2020,OH-Licking,1,-,-
-3/22/2020,OH-Lorain,14,-,-
-3/22/2020,OH-Lucas,4,-,-
-3/22/2020,OH-Mahoning,14,-,-
+3/22/2020,OH-Lorain,19,-,-
+3/22/2020,OH-Lucas,5,-,-
+3/22/2020,OH-Mahoning,18,-,-
 3/22/2020,OH-Marion,1,-,-
-3/22/2020,OH-Medina,9,-,-
-3/22/2020,OH-Miami,11,-,-
-3/22/2020,OH-Montgomery,1,-,-
+3/22/2020,OH-Medina,10,-,-
+3/22/2020,OH-Miami,13,-,-
+3/22/2020,OH-Montgomery,5,-,-
+3/22/2020,OH-Portage,1,-,-
 3/22/2020,OH-Richland,1,-,-
-3/22/2020,OH-Stark,8,-,-
-3/22/2020,OH-Summit,15,-,-
+3/22/2020,OH-Stark,10,-,-
+3/22/2020,OH-Summit,23,-,-
 3/22/2020,OH-Trumbull,3,-,-
-3/22/2020,OH-Tuscarawas,1,-,-
+3/22/2020,OH-Tuscarawas,2,-,-
 3/22/2020,OH-Union,1,-,-
-3/22/2020,OH-Warren,2,-,-
-3/22/2020,OH-Total OH cases,247,-,-
+3/22/2020,OH-Warren,3,-,-
+3/22/2020,OH-Wood,1,-,-
+3/22/2020,OH-Total OH cases,351,-,-
 3/22/2020,TX-Bell,3,-,-
 3/22/2020,TX-Bexar,24,-,-
 3/22/2020,TX-Bowie,1,-,-
