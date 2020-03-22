@@ -1948,35 +1948,40 @@
 3/22/2020,LA,Louisiana,Webster,1,0,-
 3/22/2020,LA,Louisiana,West Baton Rouge,3,0,-
 3/22/2020,LA,Louisiana,Under Investigation,9,0,-
-3/22/2020,MI,Michigan,Bay,1,0,-
+3/22/2020,MI,Michigan,Allegan,1,0,-
 3/22/2020,MI,Michigan,Barry,1,0,-
-3/22/2020,MI,Michigan,Berrien,2,0,-
-3/22/2020,MI,Michigan,Calhoun,1,0,-
-3/22/2020,MI,Michigan,Charlevoix,1,0,-
+3/22/2020,MI,Michigan,Bay,1,0,-
+3/22/2020,MI,Michigan,Berrien,3,0,-
+3/22/2020,MI,Michigan,Calhoun,2,0,-
+3/22/2020,MI,Michigan,Charlevoix,2,0,-
 3/22/2020,MI,Michigan,Clare,1,0,-
 3/22/2020,MI,Michigan,Clinton,2,0,-
 3/22/2020,MI,Michigan,Eaton,2,0,-
-3/22/2020,MI,Michigan,Genesee,7,0,-
+3/22/2020,MI,Michigan,Emmet,1,0,-
+3/22/2020,MI,Michigan,Genesee,14,0,-
+3/22/2020,MI,Michigan,Gladwin,1,0,-
+3/22/2020,MI,Michigan,Grand Traverse,1,0,-
 3/22/2020,MI,Michigan,Ingham,11,0,-
 3/22/2020,MI,Michigan,Jackson,1,0,-
-3/22/2020,MI,Michigan,Kent,21,1,-
+3/22/2020,MI,Michigan,Kent,20,1,-
 3/22/2020,MI,Michigan,Leelanau,1,0,-
-3/22/2020,MI,Michigan,Livingston,6,0,-
-3/22/2020,MI,Michigan,Macomb,101,1,-
-3/22/2020,MI,Michigan,Midland,3,0,-
-3/22/2020,MI,Michigan,Monroe,3,0,-
+3/22/2020,MI,Michigan,Livingston,8,0,-
+3/22/2020,MI,Michigan,Macomb,140,1,-
+3/22/2020,MI,Michigan,Midland,5,0,-
+3/22/2020,MI,Michigan,Monroe,6,0,-
 3/22/2020,MI,Michigan,Montcalm,1,0,-
-3/22/2020,MI,Michigan,Oakland,229,3,-
+3/22/2020,MI,Michigan,Oakland,277,1,-
 3/22/2020,MI,Michigan,Otsego,1,0,-
-3/22/2020,MI,Michigan,Ottawa,2,0,-
-3/22/2020,MI,Michigan,Saginaw,1,0,-
+3/22/2020,MI,Michigan,Ottawa,6,0,-
+3/22/2020,MI,Michigan,Roscommon,1,0,-
+3/22/2020,MI,Michigan,Saginaw,2,0,-
 3/22/2020,MI,Michigan,St. Clair,7,0,-
 3/22/2020,MI,Michigan,Tuscola,1,0,-
-3/22/2020,MI,Michigan,Washtenaw,29,0,-
-3/22/2020,MI,Michigan,Wayne,349,3,-
+3/22/2020,MI,Michigan,Washtenaw,35,0,-
+3/22/2020,MI,Michigan,Wayne,477,5,-
 3/22/2020,MI,Michigan,Wexford,1,0,-
-3/22/2020,MI,Michigan,Out-of-State*,1,0,-
-3/22/2020,MI,Michigan,"*Patient is not a resident, but is being treated within the state of Michigan.","*Patient is not a resident, but is being treated within the state of Michigan.","*Patient is not a resident, but is being treated within the state of Michigan.",-
+3/22/2020,MI,Michigan,Out-of-State*,2,0,-
+3/22/2020,MI,Michigan,"*Patients are not residents, but are being treated within the state of Michigan.","*Patients are not residents, but are being treated within the state of Michigan.","*Patients are not residents, but are being treated within the state of Michigan.",-
 3/22/2020,CO,Colorado,Adams,14,0,-
 3/22/2020,CO,Colorado,Arapahoe,40,0,-
 3/22/2020,CO,Colorado,Boulder,30,0,-
@@ -2008,23 +2013,23 @@
 3/22/2020,CO,Colorado,Weld,21,1,-
 3/22/2020,CO,Colorado,Yuma,9,0,-
 3/22/2020,CO,Colorado,Unknown,1,0,-
-3/22/2020,OR,Oregon,Benton,2,0,-
-3/22/2020,OR,Oregon,Clackamas,11,0,-
-3/22/2020,OR,Oregon,Deschutes,9,0,-
+3/22/2020,OR,Oregon,Benton,4,0,-
+3/22/2020,OR,Oregon,Clackamas,12,0,-
+3/22/2020,OR,Oregon,Deschutes,10,0,-
 3/22/2020,OR,Oregon,Douglas,1,0,-
 3/22/2020,OR,Oregon,Grant,1,0,-
 3/22/2020,OR,Oregon,Jackson,2,0,-
 3/22/2020,OR,Oregon,Josephine,1,0,-
 3/22/2020,OR,Oregon,Klamath,1,0,-
-3/22/2020,OR,Oregon,Lane,3,1,-
+3/22/2020,OR,Oregon,Lane,4,1,-
 3/22/2020,OR,Oregon,Linn,19,0,-
-3/22/2020,OR,Oregon,Marion,19,1,-
-3/22/2020,OR,Oregon,Multnomah,18,1,-
+3/22/2020,OR,Oregon,Marion,22,1,-
+3/22/2020,OR,Oregon,Multnomah,19,1,-
 3/22/2020,OR,Oregon,Polk,1,0,-
 3/22/2020,OR,Oregon,Umatilla,2,0,-
 3/22/2020,OR,Oregon,Union,1,0,-
-3/22/2020,OR,Oregon,Washington,42,1,-
-3/22/2020,OR,Oregon,Yamhill,4,0,-
+3/22/2020,OR,Oregon,Washington,55,1,-
+3/22/2020,OR,Oregon,Yamhill,6,0,-
 3/22/2020,SC,South Carolina,Abbeville,1,0,-
 3/22/2020,SC,South Carolina,Aiken,1,0,-
 3/22/2020,SC,South Carolina,Anderson,10,0,-
@@ -2098,8 +2103,8 @@
 3/22/2020,NJ,New Jersey,Warren,5,1,1
 3/22/2020,NJ,New Jersey,Under Investigation,140,13,0
 3/22/2020,DE,Delaware,Kent,5,-,-
-3/22/2020,DE,Delaware,New Castle,27,-,-
-3/22/2020,DE,Delaware,Sussex,6,-,-
+3/22/2020,DE,Delaware,New Castle,33,-,-
+3/22/2020,DE,Delaware,Sussex,9,-,-
 3/22/2020,VA,Virginia,Accomack,1,0,-
 3/22/2020,VA,Virginia,Albemarle County,1,0,-
 3/22/2020,VA,Virginia,Alexandria (City),5,0,-
@@ -2210,18 +2215,29 @@
 3/22/2020,KY,Kentucky,Warren,2,,-
 3/22/2020,KY,Kentucky,Source:[1][2][3],Source:[1][2][3],Source:[1][2][3],-
 3/22/2020,IA,Iowa,Adair,1,0,-
-3/22/2020,IA,Iowa,Allamakee,3,0,-
-3/22/2020,IA,Iowa,Black Hawk,1,0,-
+3/22/2020,IA,Iowa,Allamakee,5,0,-
+3/22/2020,IA,Iowa,Black Hawk,3,0,-
 3/22/2020,IA,Iowa,Carroll,1,0,-
-3/22/2020,IA,Iowa,Dallas,5,0,-
-3/22/2020,IA,Iowa,Dubuque,1,0,-
-3/22/2020,IA,Iowa,Harrison,1,0,-
-3/22/2020,IA,Iowa,Johnson,22,0,-
-3/22/2020,IA,Iowa,Muscatine,1,0,-
-3/22/2020,IA,Iowa,Polk,6,0,-
-3/22/2020,IA,Iowa,Pottawattamie,1,0,-
-3/22/2020,IA,Iowa,Washington,1,0,-
+3/22/2020,IA,Iowa,Cerro Gordo,2,0,-
+3/22/2020,IA,Iowa,Dallas,6,0,-
+3/22/2020,IA,Iowa,Dubuque,4,0,-
+3/22/2020,IA,Iowa,Fayette,1,0,-
+3/22/2020,IA,Iowa,Harrison,3,0,-
+3/22/2020,IA,Iowa,Henry,1,0,-
+3/22/2020,IA,Iowa,Johnson,32,0,-
+3/22/2020,IA,Iowa,Kossuth,1,0,-
+3/22/2020,IA,Iowa,Linn,4,0,-
+3/22/2020,IA,Iowa,Muscatine,2,0,-
+3/22/2020,IA,Iowa,Polk,10,0,-
+3/22/2020,IA,Iowa,Pottawattamie,2,0,-
+3/22/2020,IA,Iowa,Poweshiek,1,0,-
+3/22/2020,IA,Iowa,Scott,1,0,-
+3/22/2020,IA,Iowa,Sioux,1,0,-
+3/22/2020,IA,Iowa,Story,1,0,-
+3/22/2020,IA,Iowa,Tama,3,0,-
+3/22/2020,IA,Iowa,Washington,3,0,-
 3/22/2020,IA,Iowa,Winneshiek,1,0,-
+3/22/2020,IA,Iowa,Woodbury,1,0,-
 3/22/2020,AK,Alaska,Anchorage,4,-,-
 3/22/2020,AK,Alaska,Gulf Coast,1,-,-
 3/22/2020,AK,Alaska,Interior,6,-,-
@@ -2259,6 +2275,10 @@
 3/22/2020,CA,California,Kern,5,0,–
 3/22/2020,CA,California,Madera,3,0,1
 3/22/2020,CA,California,Calaveras,2,0,–
+3/22/2020,CA,California,El Dorado,1,0,1
+3/22/2020,CA,California,Siskiyou,2,0,–
+3/22/2020,CA,California,Yuba,2,0,–
+3/22/2020,CA,California,Butte,1,0,–
 3/22/2020,CA,California,Humboldt,1,0,1
 3/22/2020,CA,California,Nevada,1,0,0
 3/22/2020,CA,California,Shasta,1,0,–
@@ -2401,7 +2421,7 @@
 3/22/2020,OH,Ohio,Delaware,4,-,-
 3/22/2020,OH,Ohio,Erie,1,-,-
 3/22/2020,OH,Ohio,Franklin,21,-,-
-3/22/2020,OH,Ohio,Gallia,1[15],-,-
+3/22/2020,OH,Ohio,Gallia,1[16],-,-
 3/22/2020,OH,Ohio,Geauga,1,-,-
 3/22/2020,OH,Ohio,Hamilton,8,-,-
 3/22/2020,OH,Ohio,Huron,1,-,-

@@ -24,7 +24,7 @@
 3/21/2020,Alabama,Serious,
 3/21/2020,Alabama,Critical,
 3/21/2020,Alabama,Recovered,
-3/22/2020,Alabama,Confirmed,131
+3/22/2020,Alabama,Confirmed,138
 3/22/2020,Alabama,Deaths,0
 3/22/2020,Alabama,Serious,
 3/22/2020,Alabama,Critical,
@@ -114,8 +114,8 @@
 3/21/2020,Arizona,Serious,
 3/21/2020,Arizona,Critical,
 3/21/2020,Arizona,Recovered,1
-3/22/2020,Arizona,Confirmed,104
-3/22/2020,Arizona,Deaths,1
+3/22/2020,Arizona,Confirmed,152
+3/22/2020,Arizona,Deaths,2
 3/22/2020,Arizona,Serious,
 3/22/2020,Arizona,Critical,
 3/22/2020,Arizona,Recovered,1
@@ -144,7 +144,7 @@
 3/21/2020,Arkansas,Serious,
 3/21/2020,Arkansas,Critical,
 3/21/2020,Arkansas,Recovered,
-3/22/2020,Arkansas,Confirmed,118
+3/22/2020,Arkansas,Confirmed,165
 3/22/2020,Arkansas,Deaths,0
 3/22/2020,Arkansas,Serious,
 3/22/2020,Arkansas,Critical,
@@ -174,7 +174,7 @@
 3/21/2020,California,Serious,
 3/21/2020,California,Critical,1
 3/21/2020,California,Recovered,1
-3/22/2020,California,Confirmed,1497
+3/22/2020,California,Confirmed,1531
 3/22/2020,California,Deaths,27
 3/22/2020,California,Serious,
 3/22/2020,California,Critical,1
@@ -204,7 +204,7 @@
 3/21/2020,Colorado,Serious,
 3/21/2020,Colorado,Critical,
 3/21/2020,Colorado,Recovered,
-3/22/2020,Colorado,Confirmed,363
+3/22/2020,Colorado,Confirmed,475
 3/22/2020,Colorado,Deaths,5
 3/22/2020,Colorado,Serious,
 3/22/2020,Colorado,Critical,
@@ -235,7 +235,7 @@
 3/21/2020,Connecticut,Critical,
 3/21/2020,Connecticut,Recovered,
 3/22/2020,Connecticut,Confirmed,223
-3/22/2020,Connecticut,Deaths,4
+3/22/2020,Connecticut,Deaths,5
 3/22/2020,Connecticut,Serious,
 3/22/2020,Connecticut,Critical,
 3/22/2020,Connecticut,Recovered,
@@ -264,7 +264,7 @@
 3/21/2020,Delaware,Serious,
 3/21/2020,Delaware,Critical,
 3/21/2020,Delaware,Recovered,
-3/22/2020,Delaware,Confirmed,45
+3/22/2020,Delaware,Confirmed,47
 3/22/2020,Delaware,Deaths,0
 3/22/2020,Delaware,Serious,
 3/22/2020,Delaware,Critical,
@@ -354,8 +354,8 @@
 3/21/2020,Florida,Serious,
 3/21/2020,Florida,Critical,
 3/21/2020,Florida,Recovered,
-3/22/2020,Florida,Confirmed,763
-3/22/2020,Florida,Deaths,12
+3/22/2020,Florida,Confirmed,830
+3/22/2020,Florida,Deaths,13
 3/22/2020,Florida,Serious,
 3/22/2020,Florida,Critical,
 3/22/2020,Florida,Recovered,
@@ -384,8 +384,8 @@
 3/21/2020,Georgia,Serious,
 3/21/2020,Georgia,Critical,
 3/21/2020,Georgia,Recovered,
-3/22/2020,Georgia,Confirmed,555
-3/22/2020,Georgia,Deaths,20
+3/22/2020,Georgia,Confirmed,600
+3/22/2020,Georgia,Deaths,23
 3/22/2020,Georgia,Serious,
 3/22/2020,Georgia,Critical,
 3/22/2020,Georgia,Recovered,
@@ -444,7 +444,7 @@
 3/21/2020,Guam,Serious,
 3/21/2020,Guam,Critical,
 3/21/2020,Guam,Recovered,
-3/22/2020,Guam,Confirmed,15
+3/22/2020,Guam,Confirmed,27
 3/22/2020,Guam,Deaths,1
 3/22/2020,Guam,Serious,
 3/22/2020,Guam,Critical,
@@ -534,8 +534,8 @@
 3/21/2020,Illinois,Serious,
 3/21/2020,Illinois,Critical,
 3/21/2020,Illinois,Recovered,2
-3/22/2020,Illinois,Confirmed,753
-3/22/2020,Illinois,Deaths,6
+3/22/2020,Illinois,Confirmed,1049
+3/22/2020,Illinois,Deaths,9
 3/22/2020,Illinois,Serious,
 3/22/2020,Illinois,Critical,
 3/22/2020,Illinois,Recovered,2
@@ -564,8 +564,8 @@
 3/21/2020,Indiana,Serious,
 3/21/2020,Indiana,Critical,
 3/21/2020,Indiana,Recovered,
-3/22/2020,Indiana,Confirmed,126
-3/22/2020,Indiana,Deaths,4
+3/22/2020,Indiana,Confirmed,201
+3/22/2020,Indiana,Deaths,6
 3/22/2020,Indiana,Serious,
 3/22/2020,Indiana,Critical,
 3/22/2020,Indiana,Recovered,
@@ -594,7 +594,7 @@
 3/21/2020,Iowa,Serious,
 3/21/2020,Iowa,Critical,
 3/21/2020,Iowa,Recovered,
-3/22/2020,Iowa,Confirmed,68
+3/22/2020,Iowa,Confirmed,90
 3/22/2020,Iowa,Deaths,0
 3/22/2020,Iowa,Serious,
 3/22/2020,Iowa,Critical,
@@ -654,7 +654,7 @@
 3/21/2020,Kentucky,Serious,
 3/21/2020,Kentucky,Critical,
 3/21/2020,Kentucky,Recovered,
-3/22/2020,Kentucky,Confirmed,54
+3/22/2020,Kentucky,Confirmed,99
 3/22/2020,Kentucky,Deaths,2
 3/22/2020,Kentucky,Serious,
 3/22/2020,Kentucky,Critical,
@@ -684,7 +684,7 @@
 3/21/2020,Louisiana,Serious,
 3/21/2020,Louisiana,Critical,
 3/21/2020,Louisiana,Recovered,
-3/22/2020,Louisiana,Confirmed,763
+3/22/2020,Louisiana,Confirmed,837
 3/22/2020,Louisiana,Deaths,20
 3/22/2020,Louisiana,Serious,
 3/22/2020,Louisiana,Critical,
@@ -714,7 +714,7 @@
 3/21/2020,Maine,Serious,
 3/21/2020,Maine,Critical,
 3/21/2020,Maine,Recovered,3
-3/22/2020,Maine,Confirmed,70
+3/22/2020,Maine,Confirmed,89
 3/22/2020,Maine,Deaths,0
 3/22/2020,Maine,Serious,
 3/22/2020,Maine,Critical,
@@ -744,7 +744,7 @@
 3/21/2020,Maryland,Serious,
 3/21/2020,Maryland,Critical,
 3/21/2020,Maryland,Recovered,0
-3/22/2020,Maryland,Confirmed,190
+3/22/2020,Maryland,Confirmed,244
 3/22/2020,Maryland,Deaths,2
 3/22/2020,Maryland,Serious,
 3/22/2020,Maryland,Critical,
@@ -804,7 +804,7 @@
 3/21/2020,Michigan,Serious,
 3/21/2020,Michigan,Critical,
 3/21/2020,Michigan,Recovered,
-3/22/2020,Michigan,Confirmed,787
+3/22/2020,Michigan,Confirmed,1035
 3/22/2020,Michigan,Deaths,8
 3/22/2020,Michigan,Serious,
 3/22/2020,Michigan,Critical,
@@ -864,7 +864,7 @@
 3/21/2020,Mississippi,Serious,
 3/21/2020,Mississippi,Critical,
 3/21/2020,Mississippi,Recovered,
-3/22/2020,Mississippi,Confirmed,140
+3/22/2020,Mississippi,Confirmed,207
 3/22/2020,Mississippi,Deaths,1
 3/22/2020,Mississippi,Serious,
 3/22/2020,Mississippi,Critical,
@@ -1044,8 +1044,8 @@
 3/21/2020,New Jersey,Serious,
 3/21/2020,New Jersey,Critical,
 3/21/2020,New Jersey,Recovered,
-3/22/2020,New Jersey,Confirmed,1336
-3/22/2020,New Jersey,Deaths,16
+3/22/2020,New Jersey,Confirmed,1914
+3/22/2020,New Jersey,Deaths,20
 3/22/2020,New Jersey,Serious,
 3/22/2020,New Jersey,Critical,
 3/22/2020,New Jersey,Recovered,
@@ -1104,8 +1104,8 @@
 3/21/2020,New York,Serious,60
 3/21/2020,New York,Critical,
 3/21/2020,New York,Recovered,
-3/22/2020,New York,Confirmed,15168
-3/22/2020,New York,Deaths,80
+3/22/2020,New York,Confirmed,15777
+3/22/2020,New York,Deaths,114
 3/22/2020,New York,Serious,60
 3/22/2020,New York,Critical,
 3/22/2020,New York,Recovered,
@@ -1224,7 +1224,7 @@
 3/21/2020,Ohio,Serious,
 3/21/2020,Ohio,Critical,
 3/21/2020,Ohio,Recovered,
-3/22/2020,Ohio,Confirmed,247
+3/22/2020,Ohio,Confirmed,351
 3/22/2020,Ohio,Deaths,3
 3/22/2020,Ohio,Serious,
 3/22/2020,Ohio,Critical,

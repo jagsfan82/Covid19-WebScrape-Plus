@@ -29,11 +29,11 @@
 3/21/2020,Afghanistan,Recovered,1
 3/21/2020,Afghanistan,Critical,0
 3/21/2020,Afghanistan,Per1M,0.6
-3/22/2020,Afghanistan,Confirmed,34
+3/22/2020,Afghanistan,Confirmed,40
 3/22/2020,Afghanistan,Deaths,1
 3/22/2020,Afghanistan,Recovered,1
 3/22/2020,Afghanistan,Critical,0
-3/22/2020,Afghanistan,Per1M,0.9
+3/22/2020,Afghanistan,Per1M,1
 3/17/20,Albania,Confirmed,59
 3/17/20,Albania,Deaths,2
 3/17/20,Albania,Recovered,0
@@ -1334,11 +1334,11 @@
 3/21/2020,Costa Rica,Recovered,2
 3/21/2020,Costa Rica,Critical,2
 3/21/2020,Costa Rica,Per1M,23
-3/22/2020,Costa Rica,Confirmed,117
+3/22/2020,Costa Rica,Confirmed,134
 3/22/2020,Costa Rica,Deaths,2
 3/22/2020,Costa Rica,Recovered,2
 3/22/2020,Costa Rica,Critical,2
-3/22/2020,Costa Rica,Per1M,23
+3/22/2020,Costa Rica,Per1M,26
 3/17/20,Croatia,Confirmed,89
 3/17/20,Croatia,Deaths,0
 3/17/20,Croatia,Recovered,5
@@ -1510,7 +1510,7 @@
 3/21/2020,Czechia,Critical,7
 3/21/2020,Czechia,Per1M,93
 3/22/2020,Czechia,Confirmed,1120
-3/22/2020,Czechia,Deaths,0
+3/22/2020,Czechia,Deaths,1
 3/22/2020,Czechia,Recovered,6
 3/22/2020,Czechia,Critical,19
 3/22/2020,Czechia,Per1M,105
@@ -2064,11 +2064,11 @@
 3/21/2020,France,Recovered,1587
 3/21/2020,France,Critical,1525
 3/21/2020,France,Per1M,222
-3/22/2020,France,Confirmed,14459
-3/22/2020,France,Deaths,562
-3/22/2020,France,Recovered,1587
-3/22/2020,France,Critical,1525
-3/22/2020,France,Per1M,222
+3/22/2020,France,Confirmed,16018
+3/22/2020,France,Deaths,674
+3/22/2020,France,Recovered,2200
+3/22/2020,France,Critical,1746
+3/22/2020,France,Per1M,245
 3/17/20,French Guiana,Confirmed,15
 3/17/20,French Guiana,Deaths,0
 3/17/20,French Guiana,Recovered,0
@@ -2274,11 +2274,11 @@
 3/21/2020,Germany,Recovered,209
 3/21/2020,Germany,Critical,2
 3/21/2020,Germany,Per1M,267
-3/22/2020,Germany,Confirmed,24806
-3/22/2020,Germany,Deaths,93
+3/22/2020,Germany,Confirmed,24852
+3/22/2020,Germany,Deaths,94
 3/22/2020,Germany,Recovered,266
 3/22/2020,Germany,Critical,2
-3/22/2020,Germany,Per1M,296
+3/22/2020,Germany,Per1M,297
 3/17/20,Ghana,Confirmed,7
 3/17/20,Ghana,Deaths,0
 3/17/20,Ghana,Recovered,0
@@ -2419,6 +2419,11 @@
 3/22/2020,Greenland,Recovered,0
 3/22/2020,Greenland,Critical,0
 3/22/2020,Greenland,Per1M,35
+3/22/2020,Grenada,Confirmed,1
+3/22/2020,Grenada,Deaths,0
+3/22/2020,Grenada,Recovered,0
+3/22/2020,Grenada,Critical,0
+3/22/2020,Grenada,Per1M,9
 3/17/20,Guadeloupe,Confirmed,33
 3/17/20,Guadeloupe,Deaths,0
 3/17/20,Guadeloupe,Recovered,0
@@ -2924,11 +2929,11 @@
 3/21/2020,Ireland,Recovered,5
 3/21/2020,Ireland,Critical,13
 3/21/2020,Ireland,Per1M,159
-3/22/2020,Ireland,Confirmed,785
-3/22/2020,Ireland,Deaths,3
+3/22/2020,Ireland,Confirmed,906
+3/22/2020,Ireland,Deaths,4
 3/22/2020,Ireland,Recovered,5
-3/22/2020,Ireland,Critical,13
-3/22/2020,Ireland,Per1M,159
+3/22/2020,Ireland,Critical,29
+3/22/2020,Ireland,Per1M,183
 3/19/2020,Isle of Man,Confirmed,2
 3/19/2020,Isle of Man,Deaths,0
 3/19/2020,Isle of Man,Recovered,0
@@ -2979,11 +2984,11 @@
 3/21/2020,Israel,Recovered,36
 3/21/2020,Israel,Critical,15
 3/21/2020,Israel,Per1M,102
-3/22/2020,Israel,Confirmed,945
+3/22/2020,Israel,Confirmed,1071
 3/22/2020,Israel,Deaths,1
 3/22/2020,Israel,Recovered,37
-3/22/2020,Israel,Critical,20
-3/22/2020,Israel,Per1M,109
+3/22/2020,Israel,Critical,18
+3/22/2020,Israel,Per1M,124
 3/17/20,Italy,Confirmed,35713
 3/17/20,Italy,Deaths,2978
 3/17/20,Italy,Recovered,2941
@@ -3154,11 +3159,11 @@
 3/21/2020,Jordan,Recovered,1
 3/21/2020,Jordan,Critical,0
 3/21/2020,Jordan,Per1M,10
-3/22/2020,Jordan,Confirmed,100
+3/22/2020,Jordan,Confirmed,112
 3/22/2020,Jordan,Deaths,0
 3/22/2020,Jordan,Recovered,1
 3/22/2020,Jordan,Critical,0
-3/22/2020,Jordan,Per1M,10
+3/22/2020,Jordan,Per1M,11
 3/17/20,Kazakhstan,Confirmed,36
 3/17/20,Kazakhstan,Deaths,0
 3/17/20,Kazakhstan,Recovered,0
@@ -3261,7 +3266,7 @@
 3/21/2020,Kuwait,Per1M,41
 3/22/2020,Kuwait,Confirmed,188
 3/22/2020,Kuwait,Deaths,0
-3/22/2020,Kuwait,Recovered,27
+3/22/2020,Kuwait,Recovered,30
 3/22/2020,Kuwait,Critical,5
 3/22/2020,Kuwait,Per1M,44
 3/18/20,Kyrgyzstan,Confirmed,3
@@ -3894,11 +3899,11 @@
 3/21/2020,Monaco,Recovered,1
 3/21/2020,Monaco,Critical,0
 3/21/2020,Monaco,Per1M,459
-3/22/2020,Monaco,Confirmed,18
+3/22/2020,Monaco,Confirmed,23
 3/22/2020,Monaco,Deaths,0
 3/22/2020,Monaco,Recovered,1
 3/22/2020,Monaco,Critical,0
-3/22/2020,Monaco,Per1M,459
+3/22/2020,Monaco,Per1M,586
 3/17/20,Mongolia,Confirmed,6
 3/17/20,Mongolia,Deaths,0
 3/17/20,Mongolia,Recovered,0
@@ -3964,11 +3969,11 @@
 3/21/2020,Montenegro,Recovered,0
 3/21/2020,Montenegro,Critical,0
 3/21/2020,Montenegro,Per1M,25
-3/22/2020,Montenegro,Confirmed,16
+3/22/2020,Montenegro,Confirmed,21
 3/22/2020,Montenegro,Deaths,0
 3/22/2020,Montenegro,Recovered,0
 3/22/2020,Montenegro,Critical,0
-3/22/2020,Montenegro,Per1M,25
+3/22/2020,Montenegro,Per1M,33
 3/18/20,Montserrat,Confirmed,1
 3/18/20,Montserrat,Deaths,0
 3/18/20,Montserrat,Recovered,0
@@ -4830,7 +4835,7 @@
 3/21/2020,Romania,Critical,14
 3/21/2020,Romania,Per1M,19
 3/22/2020,Romania,Confirmed,433
-3/22/2020,Romania,Deaths,2
+3/22/2020,Romania,Deaths,3
 3/22/2020,Romania,Recovered,64
 3/22/2020,Romania,Critical,14
 3/22/2020,Romania,Per1M,23
@@ -5109,11 +5114,11 @@
 3/21/2020,Senegal,Recovered,5
 3/21/2020,Senegal,Critical,0
 3/21/2020,Senegal,Per1M,3
-3/22/2020,Senegal,Confirmed,56
+3/22/2020,Senegal,Confirmed,67
 3/22/2020,Senegal,Deaths,0
 3/22/2020,Senegal,Recovered,5
 3/22/2020,Senegal,Critical,0
-3/22/2020,Senegal,Per1M,3
+3/22/2020,Senegal,Per1M,4
 3/17/20,Serbia,Confirmed,89
 3/17/20,Serbia,Deaths,0
 3/17/20,Serbia,Recovered,1
@@ -5384,11 +5389,11 @@
 3/21/2020,South Africa,Recovered,2
 3/21/2020,South Africa,Critical,0
 3/21/2020,South Africa,Per1M,4
-3/22/2020,South Africa,Confirmed,240
+3/22/2020,South Africa,Confirmed,274
 3/22/2020,South Africa,Deaths,0
 3/22/2020,South Africa,Recovered,2
 3/22/2020,South Africa,Critical,0
-3/22/2020,South Africa,Per1M,4
+3/22/2020,South Africa,Per1M,5
 3/17/20,Spain,Confirmed,14769
 3/17/20,Spain,Deaths,638
 3/17/20,Spain,Recovered,1028
@@ -5669,6 +5674,11 @@
 3/22/2020,Switzerland,Recovered,131
 3/22/2020,Switzerland,Critical,141
 3/22/2020,Switzerland,Per1M,864
+3/22/2020,Syria,Confirmed,1
+3/22/2020,Syria,Deaths,0
+3/22/2020,Syria,Recovered,0
+3/22/2020,Syria,Critical,0
+3/22/2020,Syria,Per1M,0.06
 3/17/20,Taiwan,Confirmed,100
 3/17/20,Taiwan,Deaths,1
 3/17/20,Taiwan,Recovered,20
@@ -5919,11 +5929,11 @@
 3/21/2020,Turkey,Recovered,0
 3/21/2020,Turkey,Critical,0
 3/21/2020,Turkey,Per1M,11
-3/22/2020,Turkey,Confirmed,947
-3/22/2020,Turkey,Deaths,21
+3/22/2020,Turkey,Confirmed,1236
+3/22/2020,Turkey,Deaths,30
 3/22/2020,Turkey,Recovered,0
 3/22/2020,Turkey,Critical,0
-3/22/2020,Turkey,Per1M,11
+3/22/2020,Turkey,Per1M,15
 3/17/20,U.S. Virgin Islands,Confirmed,2
 3/17/20,U.S. Virgin Islands,Deaths,0
 3/17/20,U.S. Virgin Islands,Recovered,0
@@ -6069,7 +6079,7 @@
 3/21/2020,Ukraine,Recovered,1
 3/21/2020,Ukraine,Critical,0
 3/21/2020,Ukraine,Per1M,1
-3/22/2020,Ukraine,Confirmed,47
+3/22/2020,Ukraine,Confirmed,63
 3/22/2020,Ukraine,Deaths,3
 3/22/2020,Ukraine,Recovered,1
 3/22/2020,Ukraine,Critical,0
@@ -6139,11 +6149,11 @@
 3/21/2020,USA,Recovered,178
 3/21/2020,USA,Critical,64
 3/21/2020,USA,Per1M,81
-3/22/2020,USA,Confirmed,38167
-3/22/2020,USA,Deaths,396
+3/22/2020,USA,Confirmed,32356
+3/22/2020,USA,Deaths,414
 3/22/2020,USA,Recovered,178
-3/22/2020,USA,Critical,708
-3/22/2020,USA,Per1M,115
+3/22/2020,USA,Critical,795
+3/22/2020,USA,Per1M,98
 3/17/20,Uzbekistan,Confirmed,18
 3/17/20,Uzbekistan,Deaths,0
 3/17/20,Uzbekistan,Recovered,0
