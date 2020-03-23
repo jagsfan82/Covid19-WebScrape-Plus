@@ -24,11 +24,11 @@
 3/21/2020,Alberta,Serious,
 3/21/2020,Alberta,Critical,
 3/21/2020,Alberta,Recovered,2
-3/22/2020,Alberta,Confirmed,226
+3/22/2020,Alberta,Confirmed,259
 3/22/2020,Alberta,Deaths,1
 3/22/2020,Alberta,Serious,
 3/22/2020,Alberta,Critical,
-3/22/2020,Alberta,Recovered,2
+3/22/2020,Alberta,Recovered,3
 3/17/20,British Columbia,Confirmed,186
 3/17/20,British Columbia,Deaths,7
 3/17/20,British Columbia,Serious,
@@ -84,7 +84,7 @@
 3/21/2020,Manitoba,Serious,
 3/21/2020,Manitoba,Critical,
 3/21/2020,Manitoba,Recovered,
-3/22/2020,Manitoba,Confirmed,19
+3/22/2020,Manitoba,Confirmed,20
 3/22/2020,Manitoba,Deaths,0
 3/22/2020,Manitoba,Serious,
 3/22/2020,Manitoba,Critical,
@@ -264,8 +264,8 @@
 3/21/2020,Ontario,Serious,
 3/21/2020,Ontario,Critical,
 3/21/2020,Ontario,Recovered,6
-3/22/2020,Ontario,Confirmed,424
-3/22/2020,Ontario,Deaths,3
+3/22/2020,Ontario,Confirmed,425
+3/22/2020,Ontario,Deaths,5
 3/22/2020,Ontario,Serious,
 3/22/2020,Ontario,Critical,
 3/22/2020,Ontario,Recovered,8
@@ -384,7 +384,7 @@
 3/21/2020,Yukon,Serious,
 3/21/2020,Yukon,Critical,
 3/21/2020,Yukon,Recovered,
-3/22/2020,Yukon,Confirmed,0
+3/22/2020,Yukon,Confirmed,2
 3/22/2020,Yukon,Deaths,0
 3/22/2020,Yukon,Serious,
 3/22/2020,Yukon,Critical,

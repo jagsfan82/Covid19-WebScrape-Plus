@@ -990,31 +990,31 @@
 3/20/2020,AL,Alabama,Tuscaloosa,4,-,-
 3/20/2020,AL,Alabama,Walker,1,-,-
 3/20/2020,AL,Alabama,Washington,1,-,-
-3/20/2020,AR,Arkansas,Benton,1 - 4,0,-
-3/20/2020,AR,Arkansas,Boone,1 - 4,0,-
-3/20/2020,AR,Arkansas,Bradley,1 - 4,0,-
-3/20/2020,AR,Arkansas,Clark,1 - 4,0,-
-3/20/2020,AR,Arkansas,Cleburne,11 - 17,0,-
-3/20/2020,AR,Arkansas,Cleveland,1 - 4,0,-
-3/20/2020,AR,Arkansas,Craighead,1 - 4,0,-
-3/20/2020,AR,Arkansas,Crittenden,1 - 4,0,-
-3/20/2020,AR,Arkansas,Desha,1 - 4,0,-
-3/20/2020,AR,Arkansas,Faulkner,1 - 4,0,-
-3/20/2020,AR,Arkansas,Garland,5 - 10,0,-
-3/20/2020,AR,Arkansas,Grant,1 - 4,0,-
-3/20/2020,AR,Arkansas,Greene,1 - 4,0,-
-3/20/2020,AR,Arkansas,Independence,1 - 4,0,-
-3/20/2020,AR,Arkansas,Jefferson,11 - 17,0,-
-3/20/2020,AR,Arkansas,Lincoln,1 - 4,0,-
-3/20/2020,AR,Arkansas,Poinsett,1 - 4,0,-
-3/20/2020,AR,Arkansas,Polk,1 - 4,0,-
-3/20/2020,AR,Arkansas,Pope,1 - 4,0,-
+3/20/2020,AR,Arkansas,Benton,4-Jan,0,-
+3/20/2020,AR,Arkansas,Boone,4-Jan,0,-
+3/20/2020,AR,Arkansas,Bradley,4-Jan,0,-
+3/20/2020,AR,Arkansas,Clark,4-Jan,0,-
+3/20/2020,AR,Arkansas,Cleburne,17-Nov,0,-
+3/20/2020,AR,Arkansas,Cleveland,4-Jan,0,-
+3/20/2020,AR,Arkansas,Craighead,4-Jan,0,-
+3/20/2020,AR,Arkansas,Crittenden,4-Jan,0,-
+3/20/2020,AR,Arkansas,Desha,4-Jan,0,-
+3/20/2020,AR,Arkansas,Faulkner,4-Jan,0,-
+3/20/2020,AR,Arkansas,Garland,10-May,0,-
+3/20/2020,AR,Arkansas,Grant,4-Jan,0,-
+3/20/2020,AR,Arkansas,Greene,4-Jan,0,-
+3/20/2020,AR,Arkansas,Independence,4-Jan,0,-
+3/20/2020,AR,Arkansas,Jefferson,17-Nov,0,-
+3/20/2020,AR,Arkansas,Lincoln,4-Jan,0,-
+3/20/2020,AR,Arkansas,Poinsett,4-Jan,0,-
+3/20/2020,AR,Arkansas,Polk,4-Jan,0,-
+3/20/2020,AR,Arkansas,Pope,4-Jan,0,-
 3/20/2020,AR,Arkansas,Pulaski,18 - 24,0,-
-3/20/2020,AR,Arkansas,Saline,1 - 4,0,-
-3/20/2020,AR,Arkansas,Searcy,1 - 4,0,-
-3/20/2020,AR,Arkansas,Sevier,1 - 4,0,-
-3/20/2020,AR,Arkansas,Van Buren,1 - 4,0,-
-3/20/2020,AR,Arkansas,Washington,1 - 4,0,-
+3/20/2020,AR,Arkansas,Saline,4-Jan,0,-
+3/20/2020,AR,Arkansas,Searcy,4-Jan,0,-
+3/20/2020,AR,Arkansas,Sevier,4-Jan,0,-
+3/20/2020,AR,Arkansas,Van Buren,4-Jan,0,-
+3/20/2020,AR,Arkansas,Washington,4-Jan,0,-
 3/20/2020,ME,Maine,Androscoggin,3,-,1
 3/20/2020,ME,Maine,Cumberland,25,-,0
 3/20/2020,ME,Maine,Hancock,1,-,0
@@ -1879,39 +1879,1429 @@
 3/21/2020,TX,Texas,Wichita,1,-,-
 3/21/2020,TX,Texas,Williamson,8,-,-
 3/21/2020,TX,Texas,Pending County Assignment,83,-,-
-3/22/2020,PA,Pennsylvania,Adams,5,0,-
-3/22/2020,PA,Pennsylvania,Allegheny,40,1,-
-3/22/2020,PA,Pennsylvania,Beaver,3,0,-
-3/22/2020,PA,Pennsylvania,Berks,13,0,-
-3/22/2020,PA,Pennsylvania,Bucks,32,0,-
-3/22/2020,PA,Pennsylvania,Butler,1,0,-
-3/22/2020,PA,Pennsylvania,Centre,1,0,-
-3/22/2020,PA,Pennsylvania,Chester,23,0,-
-3/22/2020,PA,Pennsylvania,Columbia,1,0,-
-3/22/2020,PA,Pennsylvania,Cumberland,11,0,-
-3/22/2020,PA,Pennsylvania,Dauphin,1,0,-
-3/22/2020,PA,Pennsylvania,Delaware,33,0,-
-3/22/2020,PA,Pennsylvania,Erie,2,0,-
-3/22/2020,PA,Pennsylvania,Fayette,1,0,-
-3/22/2020,PA,Pennsylvania,Franklin,1,0,-
-3/22/2020,PA,Pennsylvania,Lackawanna,6,0,-
-3/22/2020,PA,Pennsylvania,Lancaster,6,0,-
-3/22/2020,PA,Pennsylvania,Lebanon,3,0,-
-3/22/2020,PA,Pennsylvania,Lehigh,19,0,-
-3/22/2020,PA,Pennsylvania,Luzerne,7,0,-
-3/22/2020,PA,Pennsylvania,Mercer,1,0,-
-3/22/2020,PA,Pennsylvania,Monroe,31,0,-
-3/22/2020,PA,Pennsylvania,Montgomery,87,0,-
-3/22/2020,PA,Pennsylvania,Montour,1,0,-
-3/22/2020,PA,Pennsylvania,Northampton,21,1,-
-3/22/2020,PA,Pennsylvania,Philadelphia,91,0,-
-3/22/2020,PA,Pennsylvania,Pike,3,0,-
-3/22/2020,PA,Pennsylvania,Potter,1,0,-
-3/22/2020,PA,Pennsylvania,Schuylkill,1,0,-
-3/22/2020,PA,Pennsylvania,Washington,7,0,-
-3/22/2020,PA,Pennsylvania,Wayne,2,0,-
-3/22/2020,PA,Pennsylvania,Westmoreland,4,0,-
-3/22/2020,PA,Pennsylvania,York,10,0,-
+3/21/2020,GA,Georgia,Fulton,99,-,-
+3/20/2020,GA,Georgia,Fulton,88,-,-
+3/19/2020,GA,Georgia,Fulton,66,-,-
+3/21/2020,GA,Georgia,Bartow,56,-,-
+3/20/2020,GA,Georgia,Bartow,54,-,-
+3/21/2020,GA,Georgia,Cobb,50,-,-
+3/18/2020,GA,Georgia,Fulton,49,-,-
+3/20/2020,GA,Georgia,Cobb,47,-,-
+3/21/2020,GA,Georgia,Dougherty,47,-,-
+3/20/2020,GA,Georgia,Dougherty,44,-,-
+3/21/2020,GA,Georgia,DeKalb,41,-,-
+3/19/2020,GA,Georgia,Cobb,37,-,-
+3/21/2020,GA,Georgia,Unknown,37,-,-
+3/20/2020,GA,Georgia,DeKalb,36,-,-
+3/17/2020,GA,Georgia,Fulton,33,-,-
+3/20/2020,GA,Georgia,Unknown,31,-,-
+3/18/2020,GA,Georgia,Cobb,28,-,-
+3/16/2020,GA,Georgia,Fulton,27,-,-
+3/19/2020,GA,Georgia,Bartow,26,-,-
+3/17/2020,GA,Georgia,Cobb,25,-,-
+3/20/2020,GA,Georgia,Gwinnett,23,-,-
+3/16/2020,GA,Georgia,Cobb,22,-,-
+3/19/2020,GA,Georgia,DeKalb,22,-,-
+3/19/2020,GA,Georgia,Dougherty,20,-,-
+3/15/2020,GA,Georgia,Fulton,20,-,-
+3/18/2020,GA,Georgia,Bartow,19,-,-
+3/15/2020,GA,Georgia,Cobb,19,-,-
+3/18/2020,GA,Georgia,DeKalb,18,-,-
+3/21/2020,GA,Georgia,Cherokee,17,-,-
+3/19/2020,GA,Georgia,Cherokee,16,-,-
+3/13/2020,GA,Georgia,Cobb,15,-,-
+3/17/2020,GA,Georgia,DeKalb,15,-,-
+3/21/2020,GA,Georgia,Carroll,14,-,-
+3/21/2020,GA,Georgia,Lee,14,-,-
+3/21/2020,GA,Georgia,Clayton,13,-,-
+3/13/2020,GA,Georgia,Fulton,13,-,-
+3/20/2020,GA,Georgia,Lee,13,-,-
+3/19/2020,GA,Georgia,Gwinnett,12,-,-
+3/17/2020,GA,Georgia,Bartow,10,-,-
+3/20/2020,GA,Georgia,Clarke,10,-,-
+3/20/2020,GA,Georgia,Clayton,10,-,-
+3/15/2020,GA,Georgia,DeKalb,10,-,-
+3/21/2020,GA,Georgia,Richmond,10,-,-
+3/15/2020,GA,Georgia,Bartow,9,-,-
+3/18/2020,GA,Georgia,Cherokee,9,-,-
+3/21/2020,GA,Georgia,Clarke,9,-,-
+3/19/2020,GA,Georgia,Fayette,9,-,-
+3/21/2020,GA,Georgia,Hall,9,-,-
+3/19/2020,GA,Georgia,Clarke,8,-,-
+3/21/2020,GA,Georgia,Coweta,8,-,-
+3/13/2020,GA,Georgia,DeKalb,8,-,-
+3/18/2020,GA,Georgia,Fayette,8,-,-
+3/21/2020,GA,Georgia,Floyd,8,-,-
+3/12/2020,GA,Georgia,Fulton,8,-,-
+3/20/2020,GA,Georgia,Richmond,8,-,-
+3/13/2020,GA,Georgia,Bartow,7,-,-
+3/20/2020,GA,Georgia,Carroll,7,-,-
+3/16/2020,GA,Georgia,Cherokee,7,-,-
+3/14/2020,GA,Georgia,Dougherty,7,-,-
+3/18/2020,GA,Georgia,Dougherty,7,-,-
+3/20/2020,GA,Georgia,Floyd,7,-,-
+3/11/2020,GA,Georgia,Fulton,7,-,-
+3/17/2020,GA,Georgia,Gwinnett,7,-,-
+3/21/2020,GA,Georgia,Henry,7,-,-
+3/20/2020,GA,Georgia,Lowndes,7,-,-
+3/15/2020,GA,Georgia,Cherokee,6,-,-
+3/18/2020,GA,Georgia,Clayton,6,-,-
+3/11/2020,GA,Georgia,Cobb,6,-,-
+3/20/2020,GA,Georgia,Coweta,6,-,-
+3/15/2020,GA,Georgia,Dougherty,6,-,-
+3/17/2020,GA,Georgia,Floyd,6,-,-
+3/10/2020,GA,Georgia,Fulton,6,-,-
+3/20/2020,GA,Georgia,Hall,6,-,-
+3/20/2020,GA,Georgia,Henry,6,-,-
+3/19/2020,GA,Georgia,Lowndes,6,-,-
+3/19/2020,GA,Georgia,Unknown,6,-,-
+3/13/2020,GA,Georgia,Cherokee,5,-,-
+3/18/2020,GA,Georgia,Clarke,5,-,-
+3/16/2020,GA,Georgia,Clayton,5,-,-
+3/15/2020,GA,Georgia,Fayette,5,-,-
+3/8/2020,GA,Georgia,Fulton,5,-,-
+3/16/2020,GA,Georgia,Gwinnett,5,-,-
+3/19/2020,GA,Georgia,Hall,5,-,-
+3/18/2020,GA,Georgia,Lowndes,5,-,-
+3/21/2020,GA,Georgia,Chatham,4,-,-
+3/17/2020,GA,Georgia,Clayton,4,-,-
+3/10/2020,GA,Georgia,Cobb,4,-,-
+3/21/2020,GA,Georgia,Douglas,4,-,-
+3/13/2020,GA,Georgia,Fayette,4,-,-
+3/15/2020,GA,Georgia,Floyd,4,-,-
+3/21/2020,GA,Georgia,Forsyth,4,-,-
+3/7/2020,GA,Georgia,Fulton,4,-,-
+3/19/2020,GA,Georgia,Gordon,4,-,-
+3/21/2020,GA,Georgia,Gordon,4,-,-
+3/15/2020,GA,Georgia,Gwinnett,4,-,-
+3/17/2020,GA,Georgia,Lowndes,4,-,-
+3/20/2020,GA,Georgia,Newton,4,-,-
+3/21/2020,GA,Georgia,Paulding,4,-,-
+3/21/2020,GA,Georgia,Polk,4,-,-
+3/21/2020,GA,Georgia,Troup,4,-,-
+3/16/2020,GA,Georgia,Clarke,3,-,-
+3/9/2020,GA,Georgia,Cobb,3,-,-
+3/21/2020,GA,Georgia,Columbia,3,-,-
+3/17/2020,GA,Georgia,Coweta,3,-,-
+3/12/2020,GA,Georgia,DeKalb,3,-,-
+3/12/2020,GA,Georgia,Floyd,3,-,-
+3/19/2020,GA,Georgia,Forsyth,3,-,-
+3/18/2020,GA,Georgia,Gordon,3,-,-
+3/20/2020,GA,Georgia,Gordon,3,-,-
+3/18/2020,GA,Georgia,Hall,3,-,-
+3/19/2020,GA,Georgia,Henry,3,-,-
+3/19/2020,GA,Georgia,Lee,3,-,-
+3/16/2020,GA,Georgia,Lowndes,3,-,-
+3/18/2020,GA,Georgia,Newton,3,-,-
+3/18/2020,GA,Georgia,Paulding,3,-,-
+3/20/2020,GA,Georgia,Polk,3,-,-
+3/21/2020,GA,Georgia,Baldwin,2,-,-
+3/11/2020,GA,Georgia,Bartow,2,-,-
+3/20/2020,GA,Georgia,Chatham,2,-,-
+3/15/2020,GA,Georgia,Clarke,2,-,-
+3/15/2020,GA,Georgia,Clayton,2,-,-
+3/8/2020,GA,Georgia,Cobb,2,-,-
+3/13/2020,GA,Georgia,Coweta,2,-,-
+3/11/2020,GA,Georgia,DeKalb,2,-,-
+3/19/2020,GA,Georgia,Early,2,-,-
+3/12/2020,GA,Georgia,Fayette,2,-,-
+3/11/2020,GA,Georgia,Floyd,2,-,-
+3/18/2020,GA,Georgia,Forsyth,2,-,-
+3/2/2020,GA,Georgia,Fulton,2,-,-
+3/19/2020,GA,Georgia,Glynn,2,-,-
+3/14/2020,GA,Georgia,Gordon,2,-,-
+3/9/2020,GA,Georgia,Gwinnett,2,-,-
+3/16/2020,GA,Georgia,Henry,2,-,-
+3/20/2020,GA,Georgia,Houston,2,-,-
+3/19/2020,GA,Georgia,Laurens,2,-,-
+3/15/2020,GA,Georgia,Lee,2,-,-
+3/18/2020,GA,Georgia,Lee,2,-,-
+3/15/2020,GA,Georgia,Lowndes,2,-,-
+3/21/2020,GA,Georgia,Muscogee,2,-,-
+3/21/2020,GA,Georgia,Peach,2,-,-
+3/20/2020,GA,Georgia,Pickens,2,-,-
+3/19/2020,GA,Georgia,Richmond,2,-,-
+3/21/2020,GA,Georgia,Rockdale,2,-,-
+3/20/2020,GA,Georgia,Spalding,2,-,-
+3/20/2020,GA,Georgia,Sumter,2,-,-
+3/20/2020,GA,Georgia,Terrell,2,-,-
+3/21/2020,GA,Georgia,Tift,2,-,-
+3/17/2020,GA,Georgia,Troup,2,-,-
+3/20/2020,GA,Georgia,Troup,2,-,-
+3/20/2020,GA,Georgia,Worth,2,-,-
+3/17/2020,GA,Georgia,Barrow,1,-,-
+3/19/2020,GA,Georgia,Bibb,1,-,-
+3/11/2020,GA,Georgia,Charlton,1,-,-
+3/8/2020,GA,Georgia,Cherokee,1,-,-
+3/7/2020,GA,Georgia,Cobb,1,-,-
+3/17/2020,GA,Georgia,Columbia,1,-,-
+3/12/2020,GA,Georgia,Coweta,1,-,-
+3/20/2020,GA,Georgia,Dawson,1,-,-
+3/9/2020,GA,Georgia,DeKalb,1,-,-
+3/20/2020,GA,Georgia,Douglas,1,-,-
+3/20/2020,GA,Georgia,Effingham,1,-,-
+3/9/2020,GA,Georgia,Fayette,1,-,-
+3/6/2020,GA,Georgia,Floyd,1,-,-
+3/16/2020,GA,Georgia,Forsyth,1,-,-
+3/12/2020,GA,Georgia,Gordon,1,-,-
+3/7/2020,GA,Georgia,Gwinnett,1,-,-
+3/16/2020,GA,Georgia,Hall,1,-,-
+3/20/2020,GA,Georgia,Heard,1,-,-
+3/14/2020,GA,Georgia,Henry,1,-,-
+3/18/2020,GA,Georgia,Houston,1,-,-
+3/21/2020,GA,Georgia,Houston,1,-,-
+3/20/2020,GA,Georgia,Lamar,1,-,-
+3/21/2020,GA,Georgia,Lamar,1,-,-
+3/11/2020,GA,Georgia,Lee,1,-,-
+3/21/2020,GA,Georgia,Lincoln,1,-,-
+3/11/2020,GA,Georgia,Lowndes,1,-,-
+3/20/2020,GA,Georgia,Miller,1,-,-
+3/20/2020,GA,Georgia,Monroe,1,-,-
+3/19/2020,GA,Georgia,Muscogee,1,-,-
+3/15/2020,GA,Georgia,Newton,1,-,-
+3/20/2020,GA,Georgia,Oconee,1,-,-
+3/16/2020,GA,Georgia,Paulding,1,-,-
+3/19/2020,GA,Georgia,Peach,1,-,-
+3/7/2020,GA,Georgia,Polk,1,-,-
+3/17/2020,GA,Georgia,Richmond,1,-,-
+3/17/2020,GA,Georgia,Rockdale,1,-,-
+3/19/2020,GA,Georgia,Rockdale,1,-,-
+3/20/2020,GA,Georgia,Tift,1,-,-
+3/16/2020,GA,Georgia,Troup,1,-,-
+3/20/2020,GA,Georgia,Turner,1,-,-
+3/18/2020,GA,Georgia,Whitfield,1,-,-
+3/18/2020,GA,Georgia,Rockdale,0,-,-
+3/2/2020,GA,Georgia,Baldwin,,-,-
+3/3/2020,GA,Georgia,Baldwin,,-,-
+3/4/2020,GA,Georgia,Baldwin,,-,-
+3/5/2020,GA,Georgia,Baldwin,,-,-
+3/6/2020,GA,Georgia,Baldwin,,-,-
+3/7/2020,GA,Georgia,Baldwin,,-,-
+3/8/2020,GA,Georgia,Baldwin,,-,-
+3/9/2020,GA,Georgia,Baldwin,,-,-
+3/10/2020,GA,Georgia,Baldwin,,-,-
+3/11/2020,GA,Georgia,Baldwin,,-,-
+3/12/2020,GA,Georgia,Baldwin,,-,-
+3/13/2020,GA,Georgia,Baldwin,,-,-
+3/14/2020,GA,Georgia,Baldwin,,-,-
+3/15/2020,GA,Georgia,Baldwin,,-,-
+3/16/2020,GA,Georgia,Baldwin,,-,-
+3/17/2020,GA,Georgia,Baldwin,,-,-
+3/18/2020,GA,Georgia,Baldwin,,-,-
+3/19/2020,GA,Georgia,Baldwin,,-,-
+3/20/2020,GA,Georgia,Baldwin,,-,-
+3/2/2020,GA,Georgia,Barrow,,-,-
+3/3/2020,GA,Georgia,Barrow,,-,-
+3/4/2020,GA,Georgia,Barrow,,-,-
+3/5/2020,GA,Georgia,Barrow,,-,-
+3/6/2020,GA,Georgia,Barrow,,-,-
+3/7/2020,GA,Georgia,Barrow,,-,-
+3/8/2020,GA,Georgia,Barrow,,-,-
+3/9/2020,GA,Georgia,Barrow,,-,-
+3/10/2020,GA,Georgia,Barrow,,-,-
+3/11/2020,GA,Georgia,Barrow,,-,-
+3/12/2020,GA,Georgia,Barrow,,-,-
+3/13/2020,GA,Georgia,Barrow,,-,-
+3/14/2020,GA,Georgia,Barrow,,-,-
+3/15/2020,GA,Georgia,Barrow,,-,-
+3/16/2020,GA,Georgia,Barrow,,-,-
+3/18/2020,GA,Georgia,Barrow,,-,-
+3/19/2020,GA,Georgia,Barrow,,-,-
+3/20/2020,GA,Georgia,Barrow,,-,-
+3/21/2020,GA,Georgia,Barrow,,-,-
+3/2/2020,GA,Georgia,Bartow,,-,-
+3/3/2020,GA,Georgia,Bartow,,-,-
+3/4/2020,GA,Georgia,Bartow,,-,-
+3/5/2020,GA,Georgia,Bartow,,-,-
+3/6/2020,GA,Georgia,Bartow,,-,-
+3/7/2020,GA,Georgia,Bartow,,-,-
+3/8/2020,GA,Georgia,Bartow,,-,-
+3/9/2020,GA,Georgia,Bartow,,-,-
+3/10/2020,GA,Georgia,Bartow,,-,-
+3/12/2020,GA,Georgia,Bartow,,-,-
+3/14/2020,GA,Georgia,Bartow,,-,-
+3/16/2020,GA,Georgia,Bartow,,-,-
+3/2/2020,GA,Georgia,Bibb,,-,-
+3/3/2020,GA,Georgia,Bibb,,-,-
+3/4/2020,GA,Georgia,Bibb,,-,-
+3/5/2020,GA,Georgia,Bibb,,-,-
+3/6/2020,GA,Georgia,Bibb,,-,-
+3/7/2020,GA,Georgia,Bibb,,-,-
+3/8/2020,GA,Georgia,Bibb,,-,-
+3/9/2020,GA,Georgia,Bibb,,-,-
+3/10/2020,GA,Georgia,Bibb,,-,-
+3/11/2020,GA,Georgia,Bibb,,-,-
+3/12/2020,GA,Georgia,Bibb,,-,-
+3/13/2020,GA,Georgia,Bibb,,-,-
+3/14/2020,GA,Georgia,Bibb,,-,-
+3/15/2020,GA,Georgia,Bibb,,-,-
+3/16/2020,GA,Georgia,Bibb,,-,-
+3/17/2020,GA,Georgia,Bibb,,-,-
+3/18/2020,GA,Georgia,Bibb,,-,-
+3/20/2020,GA,Georgia,Bibb,,-,-
+3/21/2020,GA,Georgia,Bibb,,-,-
+3/2/2020,GA,Georgia,Carroll,,-,-
+3/3/2020,GA,Georgia,Carroll,,-,-
+3/4/2020,GA,Georgia,Carroll,,-,-
+3/5/2020,GA,Georgia,Carroll,,-,-
+3/6/2020,GA,Georgia,Carroll,,-,-
+3/7/2020,GA,Georgia,Carroll,,-,-
+3/8/2020,GA,Georgia,Carroll,,-,-
+3/9/2020,GA,Georgia,Carroll,,-,-
+3/10/2020,GA,Georgia,Carroll,,-,-
+3/11/2020,GA,Georgia,Carroll,,-,-
+3/12/2020,GA,Georgia,Carroll,,-,-
+3/13/2020,GA,Georgia,Carroll,,-,-
+3/14/2020,GA,Georgia,Carroll,,-,-
+3/15/2020,GA,Georgia,Carroll,,-,-
+3/16/2020,GA,Georgia,Carroll,,-,-
+3/17/2020,GA,Georgia,Carroll,,-,-
+3/18/2020,GA,Georgia,Carroll,,-,-
+3/19/2020,GA,Georgia,Carroll,,-,-
+3/2/2020,GA,Georgia,Charlton,,-,-
+3/3/2020,GA,Georgia,Charlton,,-,-
+3/4/2020,GA,Georgia,Charlton,,-,-
+3/5/2020,GA,Georgia,Charlton,,-,-
+3/6/2020,GA,Georgia,Charlton,,-,-
+3/7/2020,GA,Georgia,Charlton,,-,-
+3/8/2020,GA,Georgia,Charlton,,-,-
+3/9/2020,GA,Georgia,Charlton,,-,-
+3/10/2020,GA,Georgia,Charlton,,-,-
+3/12/2020,GA,Georgia,Charlton,,-,-
+3/13/2020,GA,Georgia,Charlton,,-,-
+3/14/2020,GA,Georgia,Charlton,,-,-
+3/15/2020,GA,Georgia,Charlton,,-,-
+3/16/2020,GA,Georgia,Charlton,,-,-
+3/17/2020,GA,Georgia,Charlton,,-,-
+3/18/2020,GA,Georgia,Charlton,,-,-
+3/19/2020,GA,Georgia,Charlton,,-,-
+3/20/2020,GA,Georgia,Charlton,,-,-
+3/21/2020,GA,Georgia,Charlton,,-,-
+3/2/2020,GA,Georgia,Chatham,,-,-
+3/3/2020,GA,Georgia,Chatham,,-,-
+3/4/2020,GA,Georgia,Chatham,,-,-
+3/5/2020,GA,Georgia,Chatham,,-,-
+3/6/2020,GA,Georgia,Chatham,,-,-
+3/7/2020,GA,Georgia,Chatham,,-,-
+3/8/2020,GA,Georgia,Chatham,,-,-
+3/9/2020,GA,Georgia,Chatham,,-,-
+3/10/2020,GA,Georgia,Chatham,,-,-
+3/11/2020,GA,Georgia,Chatham,,-,-
+3/12/2020,GA,Georgia,Chatham,,-,-
+3/13/2020,GA,Georgia,Chatham,,-,-
+3/14/2020,GA,Georgia,Chatham,,-,-
+3/15/2020,GA,Georgia,Chatham,,-,-
+3/16/2020,GA,Georgia,Chatham,,-,-
+3/17/2020,GA,Georgia,Chatham,,-,-
+3/18/2020,GA,Georgia,Chatham,,-,-
+3/19/2020,GA,Georgia,Chatham,,-,-
+3/2/2020,GA,Georgia,Cherokee,,-,-
+3/3/2020,GA,Georgia,Cherokee,,-,-
+3/4/2020,GA,Georgia,Cherokee,,-,-
+3/5/2020,GA,Georgia,Cherokee,,-,-
+3/6/2020,GA,Georgia,Cherokee,,-,-
+3/7/2020,GA,Georgia,Cherokee,,-,-
+3/9/2020,GA,Georgia,Cherokee,,-,-
+3/10/2020,GA,Georgia,Cherokee,,-,-
+3/11/2020,GA,Georgia,Cherokee,,-,-
+3/12/2020,GA,Georgia,Cherokee,,-,-
+3/14/2020,GA,Georgia,Cherokee,,-,-
+3/17/2020,GA,Georgia,Cherokee,,-,-
+3/20/2020,GA,Georgia,Cherokee,,-,-
+3/2/2020,GA,Georgia,Clarke,,-,-
+3/3/2020,GA,Georgia,Clarke,,-,-
+3/4/2020,GA,Georgia,Clarke,,-,-
+3/5/2020,GA,Georgia,Clarke,,-,-
+3/6/2020,GA,Georgia,Clarke,,-,-
+3/7/2020,GA,Georgia,Clarke,,-,-
+3/8/2020,GA,Georgia,Clarke,,-,-
+3/9/2020,GA,Georgia,Clarke,,-,-
+3/10/2020,GA,Georgia,Clarke,,-,-
+3/11/2020,GA,Georgia,Clarke,,-,-
+3/12/2020,GA,Georgia,Clarke,,-,-
+3/13/2020,GA,Georgia,Clarke,,-,-
+3/14/2020,GA,Georgia,Clarke,,-,-
+3/17/2020,GA,Georgia,Clarke,,-,-
+3/2/2020,GA,Georgia,Clayton,,-,-
+3/3/2020,GA,Georgia,Clayton,,-,-
+3/4/2020,GA,Georgia,Clayton,,-,-
+3/5/2020,GA,Georgia,Clayton,,-,-
+3/6/2020,GA,Georgia,Clayton,,-,-
+3/7/2020,GA,Georgia,Clayton,,-,-
+3/8/2020,GA,Georgia,Clayton,,-,-
+3/9/2020,GA,Georgia,Clayton,,-,-
+3/10/2020,GA,Georgia,Clayton,,-,-
+3/11/2020,GA,Georgia,Clayton,,-,-
+3/12/2020,GA,Georgia,Clayton,,-,-
+3/13/2020,GA,Georgia,Clayton,,-,-
+3/14/2020,GA,Georgia,Clayton,,-,-
+3/19/2020,GA,Georgia,Clayton,,-,-
+3/2/2020,GA,Georgia,Cobb,,-,-
+3/3/2020,GA,Georgia,Cobb,,-,-
+3/4/2020,GA,Georgia,Cobb,,-,-
+3/5/2020,GA,Georgia,Cobb,,-,-
+3/6/2020,GA,Georgia,Cobb,,-,-
+3/12/2020,GA,Georgia,Cobb,,-,-
+3/14/2020,GA,Georgia,Cobb,,-,-
+3/2/2020,GA,Georgia,Columbia,,-,-
+3/3/2020,GA,Georgia,Columbia,,-,-
+3/4/2020,GA,Georgia,Columbia,,-,-
+3/5/2020,GA,Georgia,Columbia,,-,-
+3/6/2020,GA,Georgia,Columbia,,-,-
+3/7/2020,GA,Georgia,Columbia,,-,-
+3/8/2020,GA,Georgia,Columbia,,-,-
+3/9/2020,GA,Georgia,Columbia,,-,-
+3/10/2020,GA,Georgia,Columbia,,-,-
+3/11/2020,GA,Georgia,Columbia,,-,-
+3/12/2020,GA,Georgia,Columbia,,-,-
+3/13/2020,GA,Georgia,Columbia,,-,-
+3/14/2020,GA,Georgia,Columbia,,-,-
+3/15/2020,GA,Georgia,Columbia,,-,-
+3/16/2020,GA,Georgia,Columbia,,-,-
+3/18/2020,GA,Georgia,Columbia,,-,-
+3/19/2020,GA,Georgia,Columbia,,-,-
+3/20/2020,GA,Georgia,Columbia,,-,-
+3/2/2020,GA,Georgia,Coweta,,-,-
+3/3/2020,GA,Georgia,Coweta,,-,-
+3/4/2020,GA,Georgia,Coweta,,-,-
+3/5/2020,GA,Georgia,Coweta,,-,-
+3/6/2020,GA,Georgia,Coweta,,-,-
+3/7/2020,GA,Georgia,Coweta,,-,-
+3/8/2020,GA,Georgia,Coweta,,-,-
+3/9/2020,GA,Georgia,Coweta,,-,-
+3/10/2020,GA,Georgia,Coweta,,-,-
+3/11/2020,GA,Georgia,Coweta,,-,-
+3/14/2020,GA,Georgia,Coweta,,-,-
+3/15/2020,GA,Georgia,Coweta,,-,-
+3/16/2020,GA,Georgia,Coweta,,-,-
+3/18/2020,GA,Georgia,Coweta,,-,-
+3/19/2020,GA,Georgia,Coweta,,-,-
+3/2/2020,GA,Georgia,Dawson,,-,-
+3/3/2020,GA,Georgia,Dawson,,-,-
+3/4/2020,GA,Georgia,Dawson,,-,-
+3/5/2020,GA,Georgia,Dawson,,-,-
+3/6/2020,GA,Georgia,Dawson,,-,-
+3/7/2020,GA,Georgia,Dawson,,-,-
+3/8/2020,GA,Georgia,Dawson,,-,-
+3/9/2020,GA,Georgia,Dawson,,-,-
+3/10/2020,GA,Georgia,Dawson,,-,-
+3/11/2020,GA,Georgia,Dawson,,-,-
+3/12/2020,GA,Georgia,Dawson,,-,-
+3/13/2020,GA,Georgia,Dawson,,-,-
+3/14/2020,GA,Georgia,Dawson,,-,-
+3/15/2020,GA,Georgia,Dawson,,-,-
+3/16/2020,GA,Georgia,Dawson,,-,-
+3/17/2020,GA,Georgia,Dawson,,-,-
+3/18/2020,GA,Georgia,Dawson,,-,-
+3/19/2020,GA,Georgia,Dawson,,-,-
+3/21/2020,GA,Georgia,Dawson,,-,-
+3/2/2020,GA,Georgia,DeKalb,,-,-
+3/3/2020,GA,Georgia,DeKalb,,-,-
+3/4/2020,GA,Georgia,DeKalb,,-,-
+3/5/2020,GA,Georgia,DeKalb,,-,-
+3/6/2020,GA,Georgia,DeKalb,,-,-
+3/7/2020,GA,Georgia,DeKalb,,-,-
+3/8/2020,GA,Georgia,DeKalb,,-,-
+3/10/2020,GA,Georgia,DeKalb,,-,-
+3/14/2020,GA,Georgia,DeKalb,,-,-
+3/16/2020,GA,Georgia,DeKalb,,-,-
+3/2/2020,GA,Georgia,Dougherty,,-,-
+3/3/2020,GA,Georgia,Dougherty,,-,-
+3/4/2020,GA,Georgia,Dougherty,,-,-
+3/5/2020,GA,Georgia,Dougherty,,-,-
+3/6/2020,GA,Georgia,Dougherty,,-,-
+3/7/2020,GA,Georgia,Dougherty,,-,-
+3/8/2020,GA,Georgia,Dougherty,,-,-
+3/9/2020,GA,Georgia,Dougherty,,-,-
+3/10/2020,GA,Georgia,Dougherty,,-,-
+3/11/2020,GA,Georgia,Dougherty,,-,-
+3/12/2020,GA,Georgia,Dougherty,,-,-
+3/13/2020,GA,Georgia,Dougherty,,-,-
+3/16/2020,GA,Georgia,Dougherty,,-,-
+3/17/2020,GA,Georgia,Dougherty,,-,-
+3/2/2020,GA,Georgia,Douglas,,-,-
+3/3/2020,GA,Georgia,Douglas,,-,-
+3/4/2020,GA,Georgia,Douglas,,-,-
+3/5/2020,GA,Georgia,Douglas,,-,-
+3/6/2020,GA,Georgia,Douglas,,-,-
+3/7/2020,GA,Georgia,Douglas,,-,-
+3/8/2020,GA,Georgia,Douglas,,-,-
+3/9/2020,GA,Georgia,Douglas,,-,-
+3/10/2020,GA,Georgia,Douglas,,-,-
+3/11/2020,GA,Georgia,Douglas,,-,-
+3/12/2020,GA,Georgia,Douglas,,-,-
+3/13/2020,GA,Georgia,Douglas,,-,-
+3/14/2020,GA,Georgia,Douglas,,-,-
+3/15/2020,GA,Georgia,Douglas,,-,-
+3/16/2020,GA,Georgia,Douglas,,-,-
+3/17/2020,GA,Georgia,Douglas,,-,-
+3/18/2020,GA,Georgia,Douglas,,-,-
+3/19/2020,GA,Georgia,Douglas,,-,-
+3/2/2020,GA,Georgia,Early,,-,-
+3/3/2020,GA,Georgia,Early,,-,-
+3/4/2020,GA,Georgia,Early,,-,-
+3/5/2020,GA,Georgia,Early,,-,-
+3/6/2020,GA,Georgia,Early,,-,-
+3/7/2020,GA,Georgia,Early,,-,-
+3/8/2020,GA,Georgia,Early,,-,-
+3/9/2020,GA,Georgia,Early,,-,-
+3/10/2020,GA,Georgia,Early,,-,-
+3/11/2020,GA,Georgia,Early,,-,-
+3/12/2020,GA,Georgia,Early,,-,-
+3/13/2020,GA,Georgia,Early,,-,-
+3/14/2020,GA,Georgia,Early,,-,-
+3/15/2020,GA,Georgia,Early,,-,-
+3/16/2020,GA,Georgia,Early,,-,-
+3/17/2020,GA,Georgia,Early,,-,-
+3/18/2020,GA,Georgia,Early,,-,-
+3/20/2020,GA,Georgia,Early,,-,-
+3/21/2020,GA,Georgia,Early,,-,-
+3/2/2020,GA,Georgia,Effingham,,-,-
+3/3/2020,GA,Georgia,Effingham,,-,-
+3/4/2020,GA,Georgia,Effingham,,-,-
+3/5/2020,GA,Georgia,Effingham,,-,-
+3/6/2020,GA,Georgia,Effingham,,-,-
+3/7/2020,GA,Georgia,Effingham,,-,-
+3/8/2020,GA,Georgia,Effingham,,-,-
+3/9/2020,GA,Georgia,Effingham,,-,-
+3/10/2020,GA,Georgia,Effingham,,-,-
+3/11/2020,GA,Georgia,Effingham,,-,-
+3/12/2020,GA,Georgia,Effingham,,-,-
+3/13/2020,GA,Georgia,Effingham,,-,-
+3/14/2020,GA,Georgia,Effingham,,-,-
+3/15/2020,GA,Georgia,Effingham,,-,-
+3/16/2020,GA,Georgia,Effingham,,-,-
+3/17/2020,GA,Georgia,Effingham,,-,-
+3/18/2020,GA,Georgia,Effingham,,-,-
+3/19/2020,GA,Georgia,Effingham,,-,-
+3/21/2020,GA,Georgia,Effingham,,-,-
+3/2/2020,GA,Georgia,Fayette,,-,-
+3/3/2020,GA,Georgia,Fayette,,-,-
+3/4/2020,GA,Georgia,Fayette,,-,-
+3/5/2020,GA,Georgia,Fayette,,-,-
+3/6/2020,GA,Georgia,Fayette,,-,-
+3/7/2020,GA,Georgia,Fayette,,-,-
+3/8/2020,GA,Georgia,Fayette,,-,-
+3/10/2020,GA,Georgia,Fayette,,-,-
+3/11/2020,GA,Georgia,Fayette,,-,-
+3/14/2020,GA,Georgia,Fayette,,-,-
+3/16/2020,GA,Georgia,Fayette,,-,-
+3/17/2020,GA,Georgia,Fayette,,-,-
+3/20/2020,GA,Georgia,Fayette,,-,-
+3/21/2020,GA,Georgia,Fayette,,-,-
+3/2/2020,GA,Georgia,Floyd,,-,-
+3/3/2020,GA,Georgia,Floyd,,-,-
+3/4/2020,GA,Georgia,Floyd,,-,-
+3/5/2020,GA,Georgia,Floyd,,-,-
+3/7/2020,GA,Georgia,Floyd,,-,-
+3/8/2020,GA,Georgia,Floyd,,-,-
+3/9/2020,GA,Georgia,Floyd,,-,-
+3/10/2020,GA,Georgia,Floyd,,-,-
+3/13/2020,GA,Georgia,Floyd,,-,-
+3/14/2020,GA,Georgia,Floyd,,-,-
+3/16/2020,GA,Georgia,Floyd,,-,-
+3/18/2020,GA,Georgia,Floyd,,-,-
+3/19/2020,GA,Georgia,Floyd,,-,-
+3/2/2020,GA,Georgia,Forsyth,,-,-
+3/3/2020,GA,Georgia,Forsyth,,-,-
+3/4/2020,GA,Georgia,Forsyth,,-,-
+3/5/2020,GA,Georgia,Forsyth,,-,-
+3/6/2020,GA,Georgia,Forsyth,,-,-
+3/7/2020,GA,Georgia,Forsyth,,-,-
+3/8/2020,GA,Georgia,Forsyth,,-,-
+3/9/2020,GA,Georgia,Forsyth,,-,-
+3/10/2020,GA,Georgia,Forsyth,,-,-
+3/11/2020,GA,Georgia,Forsyth,,-,-
+3/12/2020,GA,Georgia,Forsyth,,-,-
+3/13/2020,GA,Georgia,Forsyth,,-,-
+3/14/2020,GA,Georgia,Forsyth,,-,-
+3/15/2020,GA,Georgia,Forsyth,,-,-
+3/17/2020,GA,Georgia,Forsyth,,-,-
+3/20/2020,GA,Georgia,Forsyth,,-,-
+3/3/2020,GA,Georgia,Fulton,,-,-
+3/4/2020,GA,Georgia,Fulton,,-,-
+3/5/2020,GA,Georgia,Fulton,,-,-
+3/6/2020,GA,Georgia,Fulton,,-,-
+3/9/2020,GA,Georgia,Fulton,,-,-
+3/14/2020,GA,Georgia,Fulton,,-,-
+3/2/2020,GA,Georgia,Glynn,,-,-
+3/3/2020,GA,Georgia,Glynn,,-,-
+3/4/2020,GA,Georgia,Glynn,,-,-
+3/5/2020,GA,Georgia,Glynn,,-,-
+3/6/2020,GA,Georgia,Glynn,,-,-
+3/7/2020,GA,Georgia,Glynn,,-,-
+3/8/2020,GA,Georgia,Glynn,,-,-
+3/9/2020,GA,Georgia,Glynn,,-,-
+3/10/2020,GA,Georgia,Glynn,,-,-
+3/11/2020,GA,Georgia,Glynn,,-,-
+3/12/2020,GA,Georgia,Glynn,,-,-
+3/13/2020,GA,Georgia,Glynn,,-,-
+3/14/2020,GA,Georgia,Glynn,,-,-
+3/15/2020,GA,Georgia,Glynn,,-,-
+3/16/2020,GA,Georgia,Glynn,,-,-
+3/17/2020,GA,Georgia,Glynn,,-,-
+3/18/2020,GA,Georgia,Glynn,,-,-
+3/20/2020,GA,Georgia,Glynn,,-,-
+3/21/2020,GA,Georgia,Glynn,,-,-
+3/2/2020,GA,Georgia,Gordon,,-,-
+3/3/2020,GA,Georgia,Gordon,,-,-
+3/4/2020,GA,Georgia,Gordon,,-,-
+3/5/2020,GA,Georgia,Gordon,,-,-
+3/6/2020,GA,Georgia,Gordon,,-,-
+3/7/2020,GA,Georgia,Gordon,,-,-
+3/8/2020,GA,Georgia,Gordon,,-,-
+3/9/2020,GA,Georgia,Gordon,,-,-
+3/10/2020,GA,Georgia,Gordon,,-,-
+3/11/2020,GA,Georgia,Gordon,,-,-
+3/13/2020,GA,Georgia,Gordon,,-,-
+3/15/2020,GA,Georgia,Gordon,,-,-
+3/16/2020,GA,Georgia,Gordon,,-,-
+3/17/2020,GA,Georgia,Gordon,,-,-
+3/2/2020,GA,Georgia,Gwinnett,,-,-
+3/3/2020,GA,Georgia,Gwinnett,,-,-
+3/4/2020,GA,Georgia,Gwinnett,,-,-
+3/5/2020,GA,Georgia,Gwinnett,,-,-
+3/6/2020,GA,Georgia,Gwinnett,,-,-
+3/8/2020,GA,Georgia,Gwinnett,,-,-
+3/10/2020,GA,Georgia,Gwinnett,,-,-
+3/11/2020,GA,Georgia,Gwinnett,,-,-
+3/12/2020,GA,Georgia,Gwinnett,,-,-
+3/13/2020,GA,Georgia,Gwinnett,,-,-
+3/14/2020,GA,Georgia,Gwinnett,,-,-
+3/18/2020,GA,Georgia,Gwinnett,,-,-
+3/21/2020,GA,Georgia,Gwinnett,,-,-
+3/2/2020,GA,Georgia,Hall,,-,-
+3/3/2020,GA,Georgia,Hall,,-,-
+3/4/2020,GA,Georgia,Hall,,-,-
+3/5/2020,GA,Georgia,Hall,,-,-
+3/6/2020,GA,Georgia,Hall,,-,-
+3/7/2020,GA,Georgia,Hall,,-,-
+3/8/2020,GA,Georgia,Hall,,-,-
+3/9/2020,GA,Georgia,Hall,,-,-
+3/10/2020,GA,Georgia,Hall,,-,-
+3/11/2020,GA,Georgia,Hall,,-,-
+3/12/2020,GA,Georgia,Hall,,-,-
+3/13/2020,GA,Georgia,Hall,,-,-
+3/14/2020,GA,Georgia,Hall,,-,-
+3/15/2020,GA,Georgia,Hall,,-,-
+3/17/2020,GA,Georgia,Hall,,-,-
+3/2/2020,GA,Georgia,Heard,,-,-
+3/3/2020,GA,Georgia,Heard,,-,-
+3/4/2020,GA,Georgia,Heard,,-,-
+3/5/2020,GA,Georgia,Heard,,-,-
+3/6/2020,GA,Georgia,Heard,,-,-
+3/7/2020,GA,Georgia,Heard,,-,-
+3/8/2020,GA,Georgia,Heard,,-,-
+3/9/2020,GA,Georgia,Heard,,-,-
+3/10/2020,GA,Georgia,Heard,,-,-
+3/11/2020,GA,Georgia,Heard,,-,-
+3/12/2020,GA,Georgia,Heard,,-,-
+3/13/2020,GA,Georgia,Heard,,-,-
+3/14/2020,GA,Georgia,Heard,,-,-
+3/15/2020,GA,Georgia,Heard,,-,-
+3/16/2020,GA,Georgia,Heard,,-,-
+3/17/2020,GA,Georgia,Heard,,-,-
+3/18/2020,GA,Georgia,Heard,,-,-
+3/19/2020,GA,Georgia,Heard,,-,-
+3/21/2020,GA,Georgia,Heard,,-,-
+3/2/2020,GA,Georgia,Henry,,-,-
+3/3/2020,GA,Georgia,Henry,,-,-
+3/4/2020,GA,Georgia,Henry,,-,-
+3/5/2020,GA,Georgia,Henry,,-,-
+3/6/2020,GA,Georgia,Henry,,-,-
+3/7/2020,GA,Georgia,Henry,,-,-
+3/8/2020,GA,Georgia,Henry,,-,-
+3/9/2020,GA,Georgia,Henry,,-,-
+3/10/2020,GA,Georgia,Henry,,-,-
+3/11/2020,GA,Georgia,Henry,,-,-
+3/12/2020,GA,Georgia,Henry,,-,-
+3/13/2020,GA,Georgia,Henry,,-,-
+3/15/2020,GA,Georgia,Henry,,-,-
+3/17/2020,GA,Georgia,Henry,,-,-
+3/18/2020,GA,Georgia,Henry,,-,-
+3/2/2020,GA,Georgia,Houston,,-,-
+3/3/2020,GA,Georgia,Houston,,-,-
+3/4/2020,GA,Georgia,Houston,,-,-
+3/5/2020,GA,Georgia,Houston,,-,-
+3/6/2020,GA,Georgia,Houston,,-,-
+3/7/2020,GA,Georgia,Houston,,-,-
+3/8/2020,GA,Georgia,Houston,,-,-
+3/9/2020,GA,Georgia,Houston,,-,-
+3/10/2020,GA,Georgia,Houston,,-,-
+3/11/2020,GA,Georgia,Houston,,-,-
+3/12/2020,GA,Georgia,Houston,,-,-
+3/13/2020,GA,Georgia,Houston,,-,-
+3/14/2020,GA,Georgia,Houston,,-,-
+3/15/2020,GA,Georgia,Houston,,-,-
+3/16/2020,GA,Georgia,Houston,,-,-
+3/17/2020,GA,Georgia,Houston,,-,-
+3/19/2020,GA,Georgia,Houston,,-,-
+3/2/2020,GA,Georgia,Lamar,,-,-
+3/3/2020,GA,Georgia,Lamar,,-,-
+3/4/2020,GA,Georgia,Lamar,,-,-
+3/5/2020,GA,Georgia,Lamar,,-,-
+3/6/2020,GA,Georgia,Lamar,,-,-
+3/7/2020,GA,Georgia,Lamar,,-,-
+3/8/2020,GA,Georgia,Lamar,,-,-
+3/9/2020,GA,Georgia,Lamar,,-,-
+3/10/2020,GA,Georgia,Lamar,,-,-
+3/11/2020,GA,Georgia,Lamar,,-,-
+3/12/2020,GA,Georgia,Lamar,,-,-
+3/13/2020,GA,Georgia,Lamar,,-,-
+3/14/2020,GA,Georgia,Lamar,,-,-
+3/15/2020,GA,Georgia,Lamar,,-,-
+3/16/2020,GA,Georgia,Lamar,,-,-
+3/17/2020,GA,Georgia,Lamar,,-,-
+3/18/2020,GA,Georgia,Lamar,,-,-
+3/19/2020,GA,Georgia,Lamar,,-,-
+3/2/2020,GA,Georgia,Laurens,,-,-
+3/3/2020,GA,Georgia,Laurens,,-,-
+3/4/2020,GA,Georgia,Laurens,,-,-
+3/5/2020,GA,Georgia,Laurens,,-,-
+3/6/2020,GA,Georgia,Laurens,,-,-
+3/7/2020,GA,Georgia,Laurens,,-,-
+3/8/2020,GA,Georgia,Laurens,,-,-
+3/9/2020,GA,Georgia,Laurens,,-,-
+3/10/2020,GA,Georgia,Laurens,,-,-
+3/11/2020,GA,Georgia,Laurens,,-,-
+3/12/2020,GA,Georgia,Laurens,,-,-
+3/13/2020,GA,Georgia,Laurens,,-,-
+3/14/2020,GA,Georgia,Laurens,,-,-
+3/15/2020,GA,Georgia,Laurens,,-,-
+3/16/2020,GA,Georgia,Laurens,,-,-
+3/17/2020,GA,Georgia,Laurens,,-,-
+3/18/2020,GA,Georgia,Laurens,,-,-
+3/20/2020,GA,Georgia,Laurens,,-,-
+3/21/2020,GA,Georgia,Laurens,,-,-
+3/2/2020,GA,Georgia,Lee,,-,-
+3/3/2020,GA,Georgia,Lee,,-,-
+3/4/2020,GA,Georgia,Lee,,-,-
+3/5/2020,GA,Georgia,Lee,,-,-
+3/6/2020,GA,Georgia,Lee,,-,-
+3/7/2020,GA,Georgia,Lee,,-,-
+3/8/2020,GA,Georgia,Lee,,-,-
+3/9/2020,GA,Georgia,Lee,,-,-
+3/10/2020,GA,Georgia,Lee,,-,-
+3/12/2020,GA,Georgia,Lee,,-,-
+3/13/2020,GA,Georgia,Lee,,-,-
+3/14/2020,GA,Georgia,Lee,,-,-
+3/16/2020,GA,Georgia,Lee,,-,-
+3/17/2020,GA,Georgia,Lee,,-,-
+3/2/2020,GA,Georgia,Lincoln,,-,-
+3/3/2020,GA,Georgia,Lincoln,,-,-
+3/4/2020,GA,Georgia,Lincoln,,-,-
+3/5/2020,GA,Georgia,Lincoln,,-,-
+3/6/2020,GA,Georgia,Lincoln,,-,-
+3/7/2020,GA,Georgia,Lincoln,,-,-
+3/8/2020,GA,Georgia,Lincoln,,-,-
+3/9/2020,GA,Georgia,Lincoln,,-,-
+3/10/2020,GA,Georgia,Lincoln,,-,-
+3/11/2020,GA,Georgia,Lincoln,,-,-
+3/12/2020,GA,Georgia,Lincoln,,-,-
+3/13/2020,GA,Georgia,Lincoln,,-,-
+3/14/2020,GA,Georgia,Lincoln,,-,-
+3/15/2020,GA,Georgia,Lincoln,,-,-
+3/16/2020,GA,Georgia,Lincoln,,-,-
+3/17/2020,GA,Georgia,Lincoln,,-,-
+3/18/2020,GA,Georgia,Lincoln,,-,-
+3/19/2020,GA,Georgia,Lincoln,,-,-
+3/20/2020,GA,Georgia,Lincoln,,-,-
+3/2/2020,GA,Georgia,Lowndes,,-,-
+3/3/2020,GA,Georgia,Lowndes,,-,-
+3/4/2020,GA,Georgia,Lowndes,,-,-
+3/5/2020,GA,Georgia,Lowndes,,-,-
+3/6/2020,GA,Georgia,Lowndes,,-,-
+3/7/2020,GA,Georgia,Lowndes,,-,-
+3/8/2020,GA,Georgia,Lowndes,,-,-
+3/9/2020,GA,Georgia,Lowndes,,-,-
+3/10/2020,GA,Georgia,Lowndes,,-,-
+3/12/2020,GA,Georgia,Lowndes,,-,-
+3/13/2020,GA,Georgia,Lowndes,,-,-
+3/14/2020,GA,Georgia,Lowndes,,-,-
+3/21/2020,GA,Georgia,Lowndes,,-,-
+3/2/2020,GA,Georgia,Miller,,-,-
+3/3/2020,GA,Georgia,Miller,,-,-
+3/4/2020,GA,Georgia,Miller,,-,-
+3/5/2020,GA,Georgia,Miller,,-,-
+3/6/2020,GA,Georgia,Miller,,-,-
+3/7/2020,GA,Georgia,Miller,,-,-
+3/8/2020,GA,Georgia,Miller,,-,-
+3/9/2020,GA,Georgia,Miller,,-,-
+3/10/2020,GA,Georgia,Miller,,-,-
+3/11/2020,GA,Georgia,Miller,,-,-
+3/12/2020,GA,Georgia,Miller,,-,-
+3/13/2020,GA,Georgia,Miller,,-,-
+3/14/2020,GA,Georgia,Miller,,-,-
+3/15/2020,GA,Georgia,Miller,,-,-
+3/16/2020,GA,Georgia,Miller,,-,-
+3/17/2020,GA,Georgia,Miller,,-,-
+3/18/2020,GA,Georgia,Miller,,-,-
+3/19/2020,GA,Georgia,Miller,,-,-
+3/21/2020,GA,Georgia,Miller,,-,-
+3/2/2020,GA,Georgia,Monroe,,-,-
+3/3/2020,GA,Georgia,Monroe,,-,-
+3/4/2020,GA,Georgia,Monroe,,-,-
+3/5/2020,GA,Georgia,Monroe,,-,-
+3/6/2020,GA,Georgia,Monroe,,-,-
+3/7/2020,GA,Georgia,Monroe,,-,-
+3/8/2020,GA,Georgia,Monroe,,-,-
+3/9/2020,GA,Georgia,Monroe,,-,-
+3/10/2020,GA,Georgia,Monroe,,-,-
+3/11/2020,GA,Georgia,Monroe,,-,-
+3/12/2020,GA,Georgia,Monroe,,-,-
+3/13/2020,GA,Georgia,Monroe,,-,-
+3/14/2020,GA,Georgia,Monroe,,-,-
+3/15/2020,GA,Georgia,Monroe,,-,-
+3/16/2020,GA,Georgia,Monroe,,-,-
+3/17/2020,GA,Georgia,Monroe,,-,-
+3/18/2020,GA,Georgia,Monroe,,-,-
+3/19/2020,GA,Georgia,Monroe,,-,-
+3/21/2020,GA,Georgia,Monroe,,-,-
+3/2/2020,GA,Georgia,Muscogee,,-,-
+3/3/2020,GA,Georgia,Muscogee,,-,-
+3/4/2020,GA,Georgia,Muscogee,,-,-
+3/5/2020,GA,Georgia,Muscogee,,-,-
+3/6/2020,GA,Georgia,Muscogee,,-,-
+3/7/2020,GA,Georgia,Muscogee,,-,-
+3/8/2020,GA,Georgia,Muscogee,,-,-
+3/9/2020,GA,Georgia,Muscogee,,-,-
+3/10/2020,GA,Georgia,Muscogee,,-,-
+3/11/2020,GA,Georgia,Muscogee,,-,-
+3/12/2020,GA,Georgia,Muscogee,,-,-
+3/13/2020,GA,Georgia,Muscogee,,-,-
+3/14/2020,GA,Georgia,Muscogee,,-,-
+3/15/2020,GA,Georgia,Muscogee,,-,-
+3/16/2020,GA,Georgia,Muscogee,,-,-
+3/17/2020,GA,Georgia,Muscogee,,-,-
+3/18/2020,GA,Georgia,Muscogee,,-,-
+3/20/2020,GA,Georgia,Muscogee,,-,-
+3/2/2020,GA,Georgia,Newton,,-,-
+3/3/2020,GA,Georgia,Newton,,-,-
+3/4/2020,GA,Georgia,Newton,,-,-
+3/5/2020,GA,Georgia,Newton,,-,-
+3/6/2020,GA,Georgia,Newton,,-,-
+3/7/2020,GA,Georgia,Newton,,-,-
+3/8/2020,GA,Georgia,Newton,,-,-
+3/9/2020,GA,Georgia,Newton,,-,-
+3/10/2020,GA,Georgia,Newton,,-,-
+3/11/2020,GA,Georgia,Newton,,-,-
+3/12/2020,GA,Georgia,Newton,,-,-
+3/13/2020,GA,Georgia,Newton,,-,-
+3/14/2020,GA,Georgia,Newton,,-,-
+3/16/2020,GA,Georgia,Newton,,-,-
+3/17/2020,GA,Georgia,Newton,,-,-
+3/19/2020,GA,Georgia,Newton,,-,-
+3/21/2020,GA,Georgia,Newton,,-,-
+3/2/2020,GA,Georgia,Oconee,,-,-
+3/3/2020,GA,Georgia,Oconee,,-,-
+3/4/2020,GA,Georgia,Oconee,,-,-
+3/5/2020,GA,Georgia,Oconee,,-,-
+3/6/2020,GA,Georgia,Oconee,,-,-
+3/7/2020,GA,Georgia,Oconee,,-,-
+3/8/2020,GA,Georgia,Oconee,,-,-
+3/9/2020,GA,Georgia,Oconee,,-,-
+3/10/2020,GA,Georgia,Oconee,,-,-
+3/11/2020,GA,Georgia,Oconee,,-,-
+3/12/2020,GA,Georgia,Oconee,,-,-
+3/13/2020,GA,Georgia,Oconee,,-,-
+3/14/2020,GA,Georgia,Oconee,,-,-
+3/15/2020,GA,Georgia,Oconee,,-,-
+3/16/2020,GA,Georgia,Oconee,,-,-
+3/17/2020,GA,Georgia,Oconee,,-,-
+3/18/2020,GA,Georgia,Oconee,,-,-
+3/19/2020,GA,Georgia,Oconee,,-,-
+3/21/2020,GA,Georgia,Oconee,,-,-
+3/2/2020,GA,Georgia,Paulding,,-,-
+3/3/2020,GA,Georgia,Paulding,,-,-
+3/4/2020,GA,Georgia,Paulding,,-,-
+3/5/2020,GA,Georgia,Paulding,,-,-
+3/6/2020,GA,Georgia,Paulding,,-,-
+3/7/2020,GA,Georgia,Paulding,,-,-
+3/8/2020,GA,Georgia,Paulding,,-,-
+3/9/2020,GA,Georgia,Paulding,,-,-
+3/10/2020,GA,Georgia,Paulding,,-,-
+3/11/2020,GA,Georgia,Paulding,,-,-
+3/12/2020,GA,Georgia,Paulding,,-,-
+3/13/2020,GA,Georgia,Paulding,,-,-
+3/14/2020,GA,Georgia,Paulding,,-,-
+3/15/2020,GA,Georgia,Paulding,,-,-
+3/17/2020,GA,Georgia,Paulding,,-,-
+3/19/2020,GA,Georgia,Paulding,,-,-
+3/20/2020,GA,Georgia,Paulding,,-,-
+3/2/2020,GA,Georgia,Peach,,-,-
+3/3/2020,GA,Georgia,Peach,,-,-
+3/4/2020,GA,Georgia,Peach,,-,-
+3/5/2020,GA,Georgia,Peach,,-,-
+3/6/2020,GA,Georgia,Peach,,-,-
+3/7/2020,GA,Georgia,Peach,,-,-
+3/8/2020,GA,Georgia,Peach,,-,-
+3/9/2020,GA,Georgia,Peach,,-,-
+3/10/2020,GA,Georgia,Peach,,-,-
+3/11/2020,GA,Georgia,Peach,,-,-
+3/12/2020,GA,Georgia,Peach,,-,-
+3/13/2020,GA,Georgia,Peach,,-,-
+3/14/2020,GA,Georgia,Peach,,-,-
+3/15/2020,GA,Georgia,Peach,,-,-
+3/16/2020,GA,Georgia,Peach,,-,-
+3/17/2020,GA,Georgia,Peach,,-,-
+3/18/2020,GA,Georgia,Peach,,-,-
+3/20/2020,GA,Georgia,Peach,,-,-
+3/2/2020,GA,Georgia,Pickens,,-,-
+3/3/2020,GA,Georgia,Pickens,,-,-
+3/4/2020,GA,Georgia,Pickens,,-,-
+3/5/2020,GA,Georgia,Pickens,,-,-
+3/6/2020,GA,Georgia,Pickens,,-,-
+3/7/2020,GA,Georgia,Pickens,,-,-
+3/8/2020,GA,Georgia,Pickens,,-,-
+3/9/2020,GA,Georgia,Pickens,,-,-
+3/10/2020,GA,Georgia,Pickens,,-,-
+3/11/2020,GA,Georgia,Pickens,,-,-
+3/12/2020,GA,Georgia,Pickens,,-,-
+3/13/2020,GA,Georgia,Pickens,,-,-
+3/14/2020,GA,Georgia,Pickens,,-,-
+3/15/2020,GA,Georgia,Pickens,,-,-
+3/16/2020,GA,Georgia,Pickens,,-,-
+3/17/2020,GA,Georgia,Pickens,,-,-
+3/18/2020,GA,Georgia,Pickens,,-,-
+3/19/2020,GA,Georgia,Pickens,,-,-
+3/21/2020,GA,Georgia,Pickens,,-,-
+3/2/2020,GA,Georgia,Polk,,-,-
+3/3/2020,GA,Georgia,Polk,,-,-
+3/4/2020,GA,Georgia,Polk,,-,-
+3/5/2020,GA,Georgia,Polk,,-,-
+3/6/2020,GA,Georgia,Polk,,-,-
+3/8/2020,GA,Georgia,Polk,,-,-
+3/9/2020,GA,Georgia,Polk,,-,-
+3/10/2020,GA,Georgia,Polk,,-,-
+3/11/2020,GA,Georgia,Polk,,-,-
+3/12/2020,GA,Georgia,Polk,,-,-
+3/13/2020,GA,Georgia,Polk,,-,-
+3/14/2020,GA,Georgia,Polk,,-,-
+3/15/2020,GA,Georgia,Polk,,-,-
+3/16/2020,GA,Georgia,Polk,,-,-
+3/17/2020,GA,Georgia,Polk,,-,-
+3/18/2020,GA,Georgia,Polk,,-,-
+3/19/2020,GA,Georgia,Polk,,-,-
+3/2/2020,GA,Georgia,Richmond,,-,-
+3/3/2020,GA,Georgia,Richmond,,-,-
+3/4/2020,GA,Georgia,Richmond,,-,-
+3/5/2020,GA,Georgia,Richmond,,-,-
+3/6/2020,GA,Georgia,Richmond,,-,-
+3/7/2020,GA,Georgia,Richmond,,-,-
+3/8/2020,GA,Georgia,Richmond,,-,-
+3/9/2020,GA,Georgia,Richmond,,-,-
+3/10/2020,GA,Georgia,Richmond,,-,-
+3/11/2020,GA,Georgia,Richmond,,-,-
+3/12/2020,GA,Georgia,Richmond,,-,-
+3/13/2020,GA,Georgia,Richmond,,-,-
+3/14/2020,GA,Georgia,Richmond,,-,-
+3/15/2020,GA,Georgia,Richmond,,-,-
+3/16/2020,GA,Georgia,Richmond,,-,-
+3/18/2020,GA,Georgia,Richmond,,-,-
+3/2/2020,GA,Georgia,Rockdale,,-,-
+3/3/2020,GA,Georgia,Rockdale,,-,-
+3/4/2020,GA,Georgia,Rockdale,,-,-
+3/5/2020,GA,Georgia,Rockdale,,-,-
+3/6/2020,GA,Georgia,Rockdale,,-,-
+3/7/2020,GA,Georgia,Rockdale,,-,-
+3/8/2020,GA,Georgia,Rockdale,,-,-
+3/9/2020,GA,Georgia,Rockdale,,-,-
+3/10/2020,GA,Georgia,Rockdale,,-,-
+3/11/2020,GA,Georgia,Rockdale,,-,-
+3/12/2020,GA,Georgia,Rockdale,,-,-
+3/13/2020,GA,Georgia,Rockdale,,-,-
+3/14/2020,GA,Georgia,Rockdale,,-,-
+3/15/2020,GA,Georgia,Rockdale,,-,-
+3/16/2020,GA,Georgia,Rockdale,,-,-
+3/20/2020,GA,Georgia,Rockdale,,-,-
+3/2/2020,GA,Georgia,Spalding,,-,-
+3/3/2020,GA,Georgia,Spalding,,-,-
+3/4/2020,GA,Georgia,Spalding,,-,-
+3/5/2020,GA,Georgia,Spalding,,-,-
+3/6/2020,GA,Georgia,Spalding,,-,-
+3/7/2020,GA,Georgia,Spalding,,-,-
+3/8/2020,GA,Georgia,Spalding,,-,-
+3/9/2020,GA,Georgia,Spalding,,-,-
+3/10/2020,GA,Georgia,Spalding,,-,-
+3/11/2020,GA,Georgia,Spalding,,-,-
+3/12/2020,GA,Georgia,Spalding,,-,-
+3/13/2020,GA,Georgia,Spalding,,-,-
+3/14/2020,GA,Georgia,Spalding,,-,-
+3/15/2020,GA,Georgia,Spalding,,-,-
+3/16/2020,GA,Georgia,Spalding,,-,-
+3/17/2020,GA,Georgia,Spalding,,-,-
+3/18/2020,GA,Georgia,Spalding,,-,-
+3/19/2020,GA,Georgia,Spalding,,-,-
+3/21/2020,GA,Georgia,Spalding,,-,-
+3/2/2020,GA,Georgia,Sumter,,-,-
+3/3/2020,GA,Georgia,Sumter,,-,-
+3/4/2020,GA,Georgia,Sumter,,-,-
+3/5/2020,GA,Georgia,Sumter,,-,-
+3/6/2020,GA,Georgia,Sumter,,-,-
+3/7/2020,GA,Georgia,Sumter,,-,-
+3/8/2020,GA,Georgia,Sumter,,-,-
+3/9/2020,GA,Georgia,Sumter,,-,-
+3/10/2020,GA,Georgia,Sumter,,-,-
+3/11/2020,GA,Georgia,Sumter,,-,-
+3/12/2020,GA,Georgia,Sumter,,-,-
+3/13/2020,GA,Georgia,Sumter,,-,-
+3/14/2020,GA,Georgia,Sumter,,-,-
+3/15/2020,GA,Georgia,Sumter,,-,-
+3/16/2020,GA,Georgia,Sumter,,-,-
+3/17/2020,GA,Georgia,Sumter,,-,-
+3/18/2020,GA,Georgia,Sumter,,-,-
+3/19/2020,GA,Georgia,Sumter,,-,-
+3/21/2020,GA,Georgia,Sumter,,-,-
+3/2/2020,GA,Georgia,Terrell,,-,-
+3/3/2020,GA,Georgia,Terrell,,-,-
+3/4/2020,GA,Georgia,Terrell,,-,-
+3/5/2020,GA,Georgia,Terrell,,-,-
+3/6/2020,GA,Georgia,Terrell,,-,-
+3/7/2020,GA,Georgia,Terrell,,-,-
+3/8/2020,GA,Georgia,Terrell,,-,-
+3/9/2020,GA,Georgia,Terrell,,-,-
+3/10/2020,GA,Georgia,Terrell,,-,-
+3/11/2020,GA,Georgia,Terrell,,-,-
+3/12/2020,GA,Georgia,Terrell,,-,-
+3/13/2020,GA,Georgia,Terrell,,-,-
+3/14/2020,GA,Georgia,Terrell,,-,-
+3/15/2020,GA,Georgia,Terrell,,-,-
+3/16/2020,GA,Georgia,Terrell,,-,-
+3/17/2020,GA,Georgia,Terrell,,-,-
+3/18/2020,GA,Georgia,Terrell,,-,-
+3/19/2020,GA,Georgia,Terrell,,-,-
+3/21/2020,GA,Georgia,Terrell,,-,-
+3/2/2020,GA,Georgia,Tift,,-,-
+3/3/2020,GA,Georgia,Tift,,-,-
+3/4/2020,GA,Georgia,Tift,,-,-
+3/5/2020,GA,Georgia,Tift,,-,-
+3/6/2020,GA,Georgia,Tift,,-,-
+3/7/2020,GA,Georgia,Tift,,-,-
+3/8/2020,GA,Georgia,Tift,,-,-
+3/9/2020,GA,Georgia,Tift,,-,-
+3/10/2020,GA,Georgia,Tift,,-,-
+3/11/2020,GA,Georgia,Tift,,-,-
+3/12/2020,GA,Georgia,Tift,,-,-
+3/13/2020,GA,Georgia,Tift,,-,-
+3/14/2020,GA,Georgia,Tift,,-,-
+3/15/2020,GA,Georgia,Tift,,-,-
+3/16/2020,GA,Georgia,Tift,,-,-
+3/17/2020,GA,Georgia,Tift,,-,-
+3/18/2020,GA,Georgia,Tift,,-,-
+3/19/2020,GA,Georgia,Tift,,-,-
+3/2/2020,GA,Georgia,Troup,,-,-
+3/3/2020,GA,Georgia,Troup,,-,-
+3/4/2020,GA,Georgia,Troup,,-,-
+3/5/2020,GA,Georgia,Troup,,-,-
+3/6/2020,GA,Georgia,Troup,,-,-
+3/7/2020,GA,Georgia,Troup,,-,-
+3/8/2020,GA,Georgia,Troup,,-,-
+3/9/2020,GA,Georgia,Troup,,-,-
+3/10/2020,GA,Georgia,Troup,,-,-
+3/11/2020,GA,Georgia,Troup,,-,-
+3/12/2020,GA,Georgia,Troup,,-,-
+3/13/2020,GA,Georgia,Troup,,-,-
+3/14/2020,GA,Georgia,Troup,,-,-
+3/15/2020,GA,Georgia,Troup,,-,-
+3/18/2020,GA,Georgia,Troup,,-,-
+3/19/2020,GA,Georgia,Troup,,-,-
+3/2/2020,GA,Georgia,Turner,,-,-
+3/3/2020,GA,Georgia,Turner,,-,-
+3/4/2020,GA,Georgia,Turner,,-,-
+3/5/2020,GA,Georgia,Turner,,-,-
+3/6/2020,GA,Georgia,Turner,,-,-
+3/7/2020,GA,Georgia,Turner,,-,-
+3/8/2020,GA,Georgia,Turner,,-,-
+3/9/2020,GA,Georgia,Turner,,-,-
+3/10/2020,GA,Georgia,Turner,,-,-
+3/11/2020,GA,Georgia,Turner,,-,-
+3/12/2020,GA,Georgia,Turner,,-,-
+3/13/2020,GA,Georgia,Turner,,-,-
+3/14/2020,GA,Georgia,Turner,,-,-
+3/15/2020,GA,Georgia,Turner,,-,-
+3/16/2020,GA,Georgia,Turner,,-,-
+3/17/2020,GA,Georgia,Turner,,-,-
+3/18/2020,GA,Georgia,Turner,,-,-
+3/19/2020,GA,Georgia,Turner,,-,-
+3/21/2020,GA,Georgia,Turner,,-,-
+3/2/2020,GA,Georgia,Unknown,,-,-
+3/3/2020,GA,Georgia,Unknown,,-,-
+3/4/2020,GA,Georgia,Unknown,,-,-
+3/5/2020,GA,Georgia,Unknown,,-,-
+3/6/2020,GA,Georgia,Unknown,,-,-
+3/7/2020,GA,Georgia,Unknown,,-,-
+3/8/2020,GA,Georgia,Unknown,,-,-
+3/9/2020,GA,Georgia,Unknown,,-,-
+3/10/2020,GA,Georgia,Unknown,,-,-
+3/11/2020,GA,Georgia,Unknown,,-,-
+3/12/2020,GA,Georgia,Unknown,,-,-
+3/13/2020,GA,Georgia,Unknown,,-,-
+3/14/2020,GA,Georgia,Unknown,,-,-
+3/15/2020,GA,Georgia,Unknown,,-,-
+3/16/2020,GA,Georgia,Unknown,,-,-
+3/17/2020,GA,Georgia,Unknown,,-,-
+3/18/2020,GA,Georgia,Unknown,,-,-
+3/2/2020,GA,Georgia,Whitfield,,-,-
+3/3/2020,GA,Georgia,Whitfield,,-,-
+3/4/2020,GA,Georgia,Whitfield,,-,-
+3/5/2020,GA,Georgia,Whitfield,,-,-
+3/6/2020,GA,Georgia,Whitfield,,-,-
+3/7/2020,GA,Georgia,Whitfield,,-,-
+3/8/2020,GA,Georgia,Whitfield,,-,-
+3/9/2020,GA,Georgia,Whitfield,,-,-
+3/10/2020,GA,Georgia,Whitfield,,-,-
+3/11/2020,GA,Georgia,Whitfield,,-,-
+3/12/2020,GA,Georgia,Whitfield,,-,-
+3/13/2020,GA,Georgia,Whitfield,,-,-
+3/14/2020,GA,Georgia,Whitfield,,-,-
+3/15/2020,GA,Georgia,Whitfield,,-,-
+3/16/2020,GA,Georgia,Whitfield,,-,-
+3/17/2020,GA,Georgia,Whitfield,,-,-
+3/19/2020,GA,Georgia,Whitfield,,-,-
+3/20/2020,GA,Georgia,Whitfield,,-,-
+3/21/2020,GA,Georgia,Whitfield,,-,-
+3/2/2020,GA,Georgia,Worth,,-,-
+3/3/2020,GA,Georgia,Worth,,-,-
+3/4/2020,GA,Georgia,Worth,,-,-
+3/5/2020,GA,Georgia,Worth,,-,-
+3/6/2020,GA,Georgia,Worth,,-,-
+3/7/2020,GA,Georgia,Worth,,-,-
+3/8/2020,GA,Georgia,Worth,,-,-
+3/9/2020,GA,Georgia,Worth,,-,-
+3/10/2020,GA,Georgia,Worth,,-,-
+3/11/2020,GA,Georgia,Worth,,-,-
+3/12/2020,GA,Georgia,Worth,,-,-
+3/13/2020,GA,Georgia,Worth,,-,-
+3/14/2020,GA,Georgia,Worth,,-,-
+3/15/2020,GA,Georgia,Worth,,-,-
+3/16/2020,GA,Georgia,Worth,,-,-
+3/17/2020,GA,Georgia,Worth,,-,-
+3/18/2020,GA,Georgia,Worth,,-,-
+3/19/2020,GA,Georgia,Worth,,-,-
+3/21/2020,GA,Georgia,Worth,,-,-
+3/22/2020,AR,Arkansas,Benton,1–4,0,-
+3/22/2020,AR,Arkansas,Boone,1–4,0,-
+3/22/2020,AR,Arkansas,Bradley,1–4,0,-
+3/22/2020,AR,Arkansas,Clark,1–4,0,-
+3/22/2020,AR,Arkansas,Cleburne,25,0,-
+3/22/2020,AR,Arkansas,Cleveland,1–4,0,-
+3/22/2020,AR,Arkansas,Columbia,1–4,0,-
+3/22/2020,AR,Arkansas,Conway,1–4,0,-
+3/22/2020,AR,Arkansas,Craighead,1–4,0,-
+3/22/2020,AR,Arkansas,Crittenden,1–4,0,-
+3/22/2020,AR,Arkansas,Desha,1–4,0,-
+3/22/2020,AR,Arkansas,Faulkner,7,0,-
+3/22/2020,AR,Arkansas,Garland,9,0,-
+3/22/2020,AR,Arkansas,Grant,1–4,0,-
+3/22/2020,AR,Arkansas,Greene,1–4,0,-
+3/22/2020,AR,Arkansas,Independence,1–4,0,-
+3/22/2020,AR,Arkansas,Jefferson,20,0,-
+3/22/2020,AR,Arkansas,Lincoln,1–4,0,-
+3/22/2020,AR,Arkansas,Poinsett,1–4,0,-
+3/22/2020,AR,Arkansas,Polk,1–4,0,-
+3/22/2020,AR,Arkansas,Pope,1–4,0,-
+3/22/2020,AR,Arkansas,Pulaski,52,0,-
+3/22/2020,AR,Arkansas,Saline,1–4,0,-
+3/22/2020,AR,Arkansas,Searcy,1–4,0,-
+3/22/2020,AR,Arkansas,Sebastian,1–4,0,-
+3/22/2020,AR,Arkansas,Union,1–4,0,-
+3/22/2020,AR,Arkansas,Sevier,1–4,0,-
+3/22/2020,AR,Arkansas,Van Buren,1–4,0,-
+3/22/2020,AR,Arkansas,Washington,5,0,-
+3/22/2020,AR,Arkansas,Woodruff,1–4,0,-
+3/22/2020,AR,Arkansas,Under Investigation,1,0,-
+3/22/2020,AZ,Arizona,Maricopa,81,-,-
+3/22/2020,AZ,Arizona,Pinal,16,-,-
+3/22/2020,AZ,Arizona,Coconino,14,-,-
+3/22/2020,AZ,Arizona,Pima,17,-,-
+3/22/2020,AZ,Arizona,Navajo,13,-,-
+3/22/2020,AZ,Arizona,Navajo Nation,26,-,-
+3/22/2020,AZ,Arizona,Yavapai,3,-,-
+3/22/2020,AZ,Arizona,Apache,3,-,-
+3/22/2020,AZ,Arizona,Cochise,1,-,-
+3/22/2020,AZ,Arizona,Graham,2,-,-
+3/22/2020,AZ,Arizona,Santa Cruz,1,-,-
+3/22/2020,AZ,Arizona,Yuma,1,-,-
+3/22/2020,CA,California,Los Angeles,409,5,-
+3/22/2020,CA,California,Santa Clara,302,10,-
+3/22/2020,CA,California,San Diego,178,1,-
+3/22/2020,CA,California,San Mateo,118,1,-
+3/22/2020,CA,California,San Francisco,108,0,-
+3/22/2020,CA,California,Alameda,106,0,-
+3/22/2020,CA,California,Orange,95,0,-
+3/22/2020,CA,California,Contra Costa,61,1,-
+3/22/2020,CA,California,Sacramento,53,3,-
+3/22/2020,CA,California,Riverside,45,6,-
+3/22/2020,CA,California,San Joaquin,41,2,-
+3/22/2020,CA,California,Marin,38,0,-
+3/22/2020,CA,California,Ventura,30,1,-
+3/22/2020,CA,California,Sonoma,27,1,-
+3/22/2020,CA,California,San Luis Obispo,27,0,-
+3/22/2020,CA,California,Santa Barbara,18,0,-
+3/22/2020,CA,California,San Bernardino,17,0,-
+3/22/2020,CA,California,Santa Cruz,15,0,-
+3/22/2020,CA,California,Solano,14,0,-
+3/22/2020,CA,California,Monterey,14,1,-
+3/22/2020,CA,California,Placer,12,1,-
+3/22/2020,CA,California,Tulare,11,0,-
+3/22/2020,CA,California,Stanislaus,8,0,-
+3/22/2020,CA,California,Yolo,6,1,-
+3/22/2020,CA,California,San Benito,6,1,-
+3/22/2020,CA,California,Imperial,6,0,-
+3/22/2020,CA,California,Fresno,6,0,-
+3/22/2020,CA,California,Kern,4,0,-
+3/22/2020,CA,California,Madera,3,0,-
+3/22/2020,CA,California,Yuba,3,0,-
+3/22/2020,CA,California,El Dorado,2,0,-
+3/22/2020,CA,California,Humboldt,2,0,-
+3/22/2020,CA,California,Napa,2,0,-
+3/22/2020,CA,California,Calaveras,2,0,-
+3/22/2020,CA,California,Butte,2,0,-
+3/22/2020,CA,California,Amador,2,0,-
+3/22/2020,CA,California,Siskiyou,2,0,-
+3/22/2020,CA,California,Shasta,1,0,-
+3/22/2020,CA,California,Nevada,1,0,-
+3/22/2020,CA,California,Mendocino,1,0,-
+3/22/2020,CA,California,Mono,1,0,-
+3/22/2020,CO,Colorado,Adams,18,0,-
+3/22/2020,CO,Colorado,Arapahoe,45,0,-
+3/22/2020,CO,Colorado,Boulder,37,0,-
+3/22/2020,CO,Colorado,Broomfield,2,0,-
+3/22/2020,CO,Colorado,Chaffee,3,0,-
+3/22/2020,CO,Colorado,Clear Creek,3,0,-
+3/22/2020,CO,Colorado,Crowley,1,1,-
+3/22/2020,CO,Colorado,Denver,125,0,-
+3/22/2020,CO,Colorado,Douglas,33,0,-
+3/22/2020,CO,Colorado,Eagle,80,1,-
+3/22/2020,CO,Colorado,Elbert,3,0,-
+3/22/2020,CO,Colorado,El Paso,74,3,-
+3/22/2020,CO,Colorado,Garfield,8,0,-
+3/22/2020,CO,Colorado,Grand,3,0,-
+3/22/2020,CO,Colorado,Gunnison,22,0,-
+3/22/2020,CO,Colorado,Hinsdale,1,0,-
+3/22/2020,CO,Colorado,Jefferson,51,0,-
+3/22/2020,CO,Colorado,Larimer,32,0,-
+3/22/2020,CO,Colorado,Mesa,2,0,-
+3/22/2020,CO,Colorado,Montrose,1,0,-
+3/22/2020,CO,Colorado,Morgan,2,0,-
+3/22/2020,CO,Colorado,Park,1,0,-
+3/22/2020,CO,Colorado,Pitkin,16,0,-
+3/22/2020,CO,Colorado,Pueblo,3,0,-
+3/22/2020,CO,Colorado,Rio Blanco,1,0,-
+3/22/2020,CO,Colorado,Routt,3,0,-
+3/22/2020,CO,Colorado,Miguel,1,0,-
+3/22/2020,CO,Colorado,Summit,7,0,-
+3/22/2020,CO,Colorado,Weld,37,1,-
+3/22/2020,CO,Colorado,Yuma,9,0,-
+3/22/2020,CO,Colorado,Unknown,1,0,-
+3/22/2020,CT,Connecticut,Fairfield,208,5,-
+3/22/2020,CT,Connecticut,Hartford,54,1,-
+3/22/2020,CT,Connecticut,Litchfield,12,0,-
+3/22/2020,CT,Connecticut,Middlesex,6,0,-
+3/22/2020,CT,Connecticut,New Haven,29,0,-
+3/22/2020,CT,Connecticut,New London,3,0,-
+3/22/2020,CT,Connecticut,Tolland,14,2,-
+3/22/2020,CT,Connecticut,Windham,1,0,-
+3/22/2020,DE,Delaware,Kent,5,-,-
+3/22/2020,DE,Delaware,New Castle,33,-,-
+3/22/2020,DE,Delaware,Sussex,9,-,-
+3/22/2020,FL,Florida,Dade,11,-,-
+3/22/2020,FL,Florida,Broward,11,-,-
+3/22/2020,FL,Florida,Palm Beach,7,-,-
+3/22/2020,FL,Florida,Hillsborough,4,-,-
+3/22/2020,FL,Florida,Duval,2,-,-
+3/22/2020,FL,Florida,Pinellas,2,-,-
+3/22/2020,FL,Florida,Alachua,3,-,-
+3/22/2020,FL,Florida,Collier,4,-,-
+3/22/2020,FL,Florida,Orange,5,-,-
+3/22/2020,FL,Florida,Lee,3,-,-
+3/22/2020,FL,Florida,Osceola,3,-,-
+3/22/2020,FL,Florida,Seminole,1,-,-
+3/22/2020,FL,Florida,Sarasota,5,-,-
+3/22/2020,FL,Florida,St. Johns,1,-,-
+3/22/2020,FL,Florida,Okaloosa,0,-,-
+3/22/2020,FL,Florida,Volusia,0,-,-
+3/22/2020,FL,Florida,Manatee,0,-,-
+3/22/2020,FL,Florida,Pasco,1,-,-
+3/22/2020,FL,Florida,Polk,0,-,-
+3/22/2020,FL,Florida,Citrus,0,-,-
+3/22/2020,FL,Florida,Indian River,1,-,-
+3/22/2020,FL,Florida,Brevard,0,-,-
+3/22/2020,FL,Florida,Clay,0,-,-
+3/22/2020,FL,Florida,Lake,0,-,-
+3/22/2020,FL,Florida,Hernando,0,-,-
+3/22/2020,FL,Florida,Leon,1,-,-
+3/22/2020,FL,Florida,Sumter,0,-,-
+3/22/2020,FL,Florida,Escambia,0,-,-
+3/22/2020,FL,Florida,Santa Rosa,0,-,-
+3/22/2020,FL,Florida,Walton,2,-,-
+3/22/2020,FL,Florida,Marion,0,-,-
+3/22/2020,FL,Florida,St. Lucie,0,-,-
+3/22/2020,FL,Florida,Baker,0,-,-
+3/22/2020,FL,Florida,Charlotte,0,-,-
+3/22/2020,FL,Florida,Columbia,0,-,-
+3/22/2020,FL,Florida,Martin,0,-,-
+3/22/2020,FL,Florida,Putnam,0,-,-
+3/22/2020,FL,Florida,Bay,1,-,-
+3/22/2020,FL,Florida,Bradford,0,-,-
+3/22/2020,FL,Florida,Desoto,0,-,-
+3/22/2020,FL,Florida,Flagler,0,-,-
+3/22/2020,FL,Florida,Gadsden,1,-,-
+3/22/2020,FL,Florida,Highlands,0,-,-
+3/22/2020,FL,Florida,Jackson,1,-,-
+3/22/2020,FL,Florida,Monroe,0,-,-
+3/22/2020,FL,Florida,Nassau,0,-,-
+3/22/2020,FL,Florida,Unknown,1,-,-
+3/22/2020,GA,Georgia,Baldwin,,-,-
+3/22/2020,GA,Georgia,Barrow,,-,-
+3/22/2020,GA,Georgia,Bartow,,-,-
+3/22/2020,GA,Georgia,Bibb,,-,-
+3/22/2020,GA,Georgia,Carroll,,-,-
+3/22/2020,GA,Georgia,Charlton,,-,-
+3/22/2020,GA,Georgia,Chatham,,-,-
+3/22/2020,GA,Georgia,Cherokee,,-,-
+3/22/2020,GA,Georgia,Clarke,,-,-
+3/22/2020,GA,Georgia,Clayton,,-,-
+3/22/2020,GA,Georgia,Cobb,,-,-
+3/22/2020,GA,Georgia,Columbia,,-,-
+3/22/2020,GA,Georgia,Coweta,,-,-
+3/22/2020,GA,Georgia,Dawson,,-,-
+3/22/2020,GA,Georgia,DeKalb,,-,-
+3/22/2020,GA,Georgia,Dougherty,,-,-
+3/22/2020,GA,Georgia,Douglas,,-,-
+3/22/2020,GA,Georgia,Early,,-,-
+3/22/2020,GA,Georgia,Effingham,,-,-
+3/22/2020,GA,Georgia,Fayette,,-,-
+3/22/2020,GA,Georgia,Floyd,,-,-
+3/22/2020,GA,Georgia,Forsyth,,-,-
+3/22/2020,GA,Georgia,Fulton,,-,-
+3/22/2020,GA,Georgia,Glynn,,-,-
+3/22/2020,GA,Georgia,Gordon,,-,-
+3/22/2020,GA,Georgia,Gwinnett,,-,-
+3/22/2020,GA,Georgia,Hall,,-,-
+3/22/2020,GA,Georgia,Heard,,-,-
+3/22/2020,GA,Georgia,Henry,,-,-
+3/22/2020,GA,Georgia,Houston,,-,-
+3/22/2020,GA,Georgia,Lamar,,-,-
+3/22/2020,GA,Georgia,Laurens,,-,-
+3/22/2020,GA,Georgia,Lee,,-,-
+3/22/2020,GA,Georgia,Lincoln,,-,-
+3/22/2020,GA,Georgia,Lowndes,,-,-
+3/22/2020,GA,Georgia,Miller,,-,-
+3/22/2020,GA,Georgia,Monroe,,-,-
+3/22/2020,GA,Georgia,Muscogee,,-,-
+3/22/2020,GA,Georgia,Newton,,-,-
+3/22/2020,GA,Georgia,Oconee,,-,-
+3/22/2020,GA,Georgia,Paulding,,-,-
+3/22/2020,GA,Georgia,Peach,,-,-
+3/22/2020,GA,Georgia,Pickens,,-,-
+3/22/2020,GA,Georgia,Polk,,-,-
+3/22/2020,GA,Georgia,Richmond,,-,-
+3/22/2020,GA,Georgia,Rockdale,,-,-
+3/22/2020,GA,Georgia,Spalding,,-,-
+3/22/2020,GA,Georgia,Sumter,,-,-
+3/22/2020,GA,Georgia,Terrell,,-,-
+3/22/2020,GA,Georgia,Tift,,-,-
+3/22/2020,GA,Georgia,Troup,,-,-
+3/22/2020,GA,Georgia,Turner,,-,-
+3/22/2020,GA,Georgia,Whitfield,,-,-
+3/22/2020,GA,Georgia,Worth,,-,-
+3/22/2020,GA,Georgia,Unknown,,-,-
+3/22/2020,HI,Hawaii,Hawai‘i,3,-,-
+3/22/2020,HI,Hawaii,Honolulu,41,-,-
+3/22/2020,HI,Hawaii,Kaua‘i,3,-,-
+3/22/2020,HI,Hawaii,Maui,9,-,-
+3/22/2020,IA,Iowa,Adair,1,0,-
+3/22/2020,IA,Iowa,Allamakee,5,0,-
+3/22/2020,IA,Iowa,Black Hawk,3,0,-
+3/22/2020,IA,Iowa,Carroll,1,0,-
+3/22/2020,IA,Iowa,Cerro Gordo,2,0,-
+3/22/2020,IA,Iowa,Dallas,6,0,-
+3/22/2020,IA,Iowa,Dubuque,4,0,-
+3/22/2020,IA,Iowa,Fayette,1,0,-
+3/22/2020,IA,Iowa,Harrison,3,0,-
+3/22/2020,IA,Iowa,Henry,1,0,-
+3/22/2020,IA,Iowa,Johnson,32,0,-
+3/22/2020,IA,Iowa,Kossuth,1,0,-
+3/22/2020,IA,Iowa,Linn,4,0,-
+3/22/2020,IA,Iowa,Muscatine,2,0,-
+3/22/2020,IA,Iowa,Polk,10,0,-
+3/22/2020,IA,Iowa,Pottawattamie,2,0,-
+3/22/2020,IA,Iowa,Poweshiek,1,0,-
+3/22/2020,IA,Iowa,Scott,1,0,-
+3/22/2020,IA,Iowa,Sioux,1,0,-
+3/22/2020,IA,Iowa,Story,1,0,-
+3/22/2020,IA,Iowa,Tama,3,0,-
+3/22/2020,IA,Iowa,Washington,3,0,-
+3/22/2020,IA,Iowa,Winneshiek,1,0,-
+3/22/2020,IA,Iowa,Woodbury,1,0,-
+3/22/2020,IL,Illinois,Adams,1,0,0
+3/22/2020,IL,Illinois,Champaign,2,0,0
+3/22/2020,IL,Illinois,Christian,1,0,0
+3/22/2020,IL,Illinois,Clinton,3,0,0
+3/22/2020,IL,Illinois,Cook,805,6,2
+3/22/2020,IL,Illinois,Cumberland,1,0,0
+3/22/2020,IL,Illinois,DeKalb,1,0,0
+3/22/2020,IL,Illinois,DuPage,79,0,0
+3/22/2020,IL,Illinois,Jackson,1,0,0
+3/22/2020,IL,Illinois,Jo Daviess,1,0,0
+3/22/2020,IL,Illinois,Kane,13,0,0
+3/22/2020,IL,Illinois,Kankakee,2,0,0
+3/22/2020,IL,Illinois,Kendall,4,0,0
+3/22/2020,IL,Illinois,Lake,69,0,0
+3/22/2020,IL,Illinois,LaSalle,1,0,0
+3/22/2020,IL,Illinois,Livingston,1,0,0
+3/22/2020,IL,Illinois,Madison,2,0,0
+3/22/2020,IL,Illinois,McHenry,12,0,0
+3/22/2020,IL,Illinois,McLean,6,1,0
+3/22/2020,IL,Illinois,Peoria,3,0,0
+3/22/2020,IL,Illinois,Rock Island,1,0,0
+3/22/2020,IL,Illinois,Sangamon,4,1,0
+3/22/2020,IL,Illinois,St. Clair,3,0,0
+3/22/2020,IL,Illinois,Stephenson,1,0,0
+3/22/2020,IL,Illinois,Washington,1,0,0
+3/22/2020,IL,Illinois,Whiteside,1,0,0
+3/22/2020,IL,Illinois,Will,22,1,0
+3/22/2020,IL,Illinois,Williamson,1,0,0
+3/22/2020,IL,Illinois,Winnebago,4,0,0
+3/22/2020,IL,Illinois,Woodford,2,0,0
+3/22/2020,IL,Illinois,Unknown County,2,0,0
+3/22/2020,KS,Kansas,Butler,2,0,-
+3/22/2020,KS,Kansas,Cherokee,1,0,-
+3/22/2020,KS,Kansas,Douglas,1,0,-
+3/22/2020,KS,Kansas,Ford,0 (+1),0,-
+3/22/2020,KS,Kansas,Franklin,1,0,-
+3/22/2020,KS,Kansas,Jackson,1,0,-
+3/22/2020,KS,Kansas,Johnson,25,1,-
+3/22/2020,KS,Kansas,Leavenworth,4,0,-
+3/22/2020,KS,Kansas,Linn,1,0,-
+3/22/2020,KS,Kansas,Miami,0 (+1),0,-
+3/22/2020,KS,Kansas,Mitchell,1,0,-
+3/22/2020,KS,Kansas,Morris,2,0,-
+3/22/2020,KS,Kansas,Reno,1,0,-
+3/22/2020,KS,Kansas,Riley,1,0,-
+3/22/2020,KS,Kansas,Sedgwick,1,0,-
+3/22/2020,KS,Kansas,Wyandotte,13,1,-
+3/22/2020,KY,Kentucky,Anderson,1,1,-
+3/22/2020,KY,Kentucky,Bourbon,2,1,-
+3/22/2020,KY,Kentucky,Calloway,1,,-
+3/22/2020,KY,Kentucky,Clark,2,,-
+3/22/2020,KY,Kentucky,Christian,1,,-
+3/22/2020,KY,Kentucky,Daviess,1,,-
+3/22/2020,KY,Kentucky,Fayette,10,,-
+3/22/2020,KY,Kentucky,Franklin,1,,-
+3/22/2020,KY,Kentucky,Hardin,1,,-
+3/22/2020,KY,Kentucky,Harrison,7,,-
+3/22/2020,KY,Kentucky,Henderson,2,,-
+3/22/2020,KY,Kentucky,Kenton,1,,-
+3/22/2020,KY,Kentucky,Jefferson,25,1,-
+3/22/2020,KY,Kentucky,Lyon,1,,-
+3/22/2020,KY,Kentucky,Montgomery,2,,-
+3/22/2020,KY,Kentucky,Nelson,1,,-
+3/22/2020,KY,Kentucky,Oldham,1,,-
+3/22/2020,KY,Kentucky,Pulaski,2,,-
+3/22/2020,KY,Kentucky,Warren,2,,-
+3/22/2020,KY,Kentucky,Source:[1][2][3],Source:[1][2][3],Source:[1][2][3],-
 3/22/2020,LA,Louisiana,Ascension,12,0,-
 3/22/2020,LA,Louisiana,Assumption,1,0,-
 3/22/2020,LA,Louisiana,Avoyelles,1,0,-
@@ -1948,6 +3338,34 @@
 3/22/2020,LA,Louisiana,Webster,1,0,-
 3/22/2020,LA,Louisiana,West Baton Rouge,3,0,-
 3/22/2020,LA,Louisiana,Under Investigation,9,0,-
+3/22/2020,MD,Maryland,Anne Arundel,18,0,0
+3/22/2020,MD,Maryland,Baltimore,28,1,0
+3/22/2020,MD,Maryland,Baltimore City,24,0,0
+3/22/2020,MD,Maryland,Calvert,2,0,0
+3/22/2020,MD,Maryland,Caroline,1,0,0
+3/22/2020,MD,Maryland,Carroll,4,0,0
+3/22/2020,MD,Maryland,Cecil,1,0,0
+3/22/2020,MD,Maryland,Charles,5,0,0
+3/22/2020,MD,Maryland,Frederick,1,0,0
+3/22/2020,MD,Maryland,Harford,5,0,0
+3/22/2020,MD,Maryland,Howard,24,0,0
+3/22/2020,MD,Maryland,Montgomery,83,1,3
+3/22/2020,MD,Maryland,"Prince George's",40,1,0
+3/22/2020,MD,Maryland,"St. Mary's",1,0,0
+3/22/2020,MD,Maryland,Somerset,1,0,0
+3/22/2020,MD,Maryland,Talbot,1,0,0
+3/22/2020,MD,Maryland,Washington,1,0,0
+3/22/2020,MD,Maryland,Wicomico,2,0,0
+3/22/2020,MD,Maryland,Worcester,2,0,0
+3/22/2020,ME,Maine,Androscoggin,3,-,1
+3/22/2020,ME,Maine,Cumberland,25,-,0
+3/22/2020,ME,Maine,Hancock,1,-,0
+3/22/2020,ME,Maine,Kennebec,3,-,0
+3/22/2020,ME,Maine,Lincoln,3,-,0
+3/22/2020,ME,Maine,Oxford,1,-,0
+3/22/2020,ME,Maine,Penobscot,1,-,0
+3/22/2020,ME,Maine,York,3,-,0
+3/22/2020,ME,Maine,Unknown,12,-,0
 3/22/2020,MI,Michigan,Allegan,1,0,-
 3/22/2020,MI,Michigan,Barry,1,0,-
 3/22/2020,MI,Michigan,Bay,1,0,-
@@ -1977,338 +3395,11 @@
 3/22/2020,MI,Michigan,Saginaw,2,0,-
 3/22/2020,MI,Michigan,St. Clair,7,0,-
 3/22/2020,MI,Michigan,Tuscola,1,0,-
-3/22/2020,MI,Michigan,Washtenaw,35,0,-
+3/22/2020,MI,Michigan,Washtenaw,35,1,-
 3/22/2020,MI,Michigan,Wayne,477,5,-
 3/22/2020,MI,Michigan,Wexford,1,0,-
 3/22/2020,MI,Michigan,Out-of-State*,2,0,-
 3/22/2020,MI,Michigan,"*Patients are not residents, but are being treated within the state of Michigan.","*Patients are not residents, but are being treated within the state of Michigan.","*Patients are not residents, but are being treated within the state of Michigan.",-
-3/22/2020,CO,Colorado,Adams,14,0,-
-3/22/2020,CO,Colorado,Arapahoe,40,0,-
-3/22/2020,CO,Colorado,Boulder,30,0,-
-3/22/2020,CO,Colorado,Broomfield,2,0,-
-3/22/2020,CO,Colorado,Chaffee,2,0,-
-3/22/2020,CO,Colorado,Crowley,1,1,-
-3/22/2020,CO,Colorado,Clear Creek,3,0,-
-3/22/2020,CO,Colorado,Denver,97,0,-
-3/22/2020,CO,Colorado,Douglas,27,0,-
-3/22/2020,CO,Colorado,Eagle,61,1,-
-3/22/2020,CO,Colorado,Elbert,1,0,-
-3/22/2020,CO,Colorado,El Paso,74,3,-
-3/22/2020,CO,Colorado,Garfield,7,0,-
-3/22/2020,CO,Colorado,Grand,3,0,-
-3/22/2020,CO,Colorado,Gunnison,21,0,-
-3/22/2020,CO,Colorado,Hinsdale,1,0,-
-3/22/2020,CO,Colorado,Jefferson,43,0,-
-3/22/2020,CO,Colorado,Larimer,19,0,-
-3/22/2020,CO,Colorado,Mesa,1,0,-
-3/22/2020,CO,Colorado,Montrose,1,0,-
-3/22/2020,CO,Colorado,Morgan,2,0,-
-3/22/2020,CO,Colorado,Park,1,0,-
-3/22/2020,CO,Colorado,Pitkin,15,0,-
-3/22/2020,CO,Colorado,Pueblo,3,0,-
-3/22/2020,CO,Colorado,Rio Blanco,1,0,-
-3/22/2020,CO,Colorado,Routt,2,0,-
-3/22/2020,CO,Colorado,Miguel,1,0,-
-3/22/2020,CO,Colorado,Summit,7,0,-
-3/22/2020,CO,Colorado,Weld,21,1,-
-3/22/2020,CO,Colorado,Yuma,9,0,-
-3/22/2020,CO,Colorado,Unknown,1,0,-
-3/22/2020,OR,Oregon,Benton,4,0,-
-3/22/2020,OR,Oregon,Clackamas,12,0,-
-3/22/2020,OR,Oregon,Deschutes,10,0,-
-3/22/2020,OR,Oregon,Douglas,1,0,-
-3/22/2020,OR,Oregon,Grant,1,0,-
-3/22/2020,OR,Oregon,Jackson,2,0,-
-3/22/2020,OR,Oregon,Josephine,1,0,-
-3/22/2020,OR,Oregon,Klamath,1,0,-
-3/22/2020,OR,Oregon,Lane,4,1,-
-3/22/2020,OR,Oregon,Linn,19,0,-
-3/22/2020,OR,Oregon,Marion,22,1,-
-3/22/2020,OR,Oregon,Multnomah,19,1,-
-3/22/2020,OR,Oregon,Polk,1,0,-
-3/22/2020,OR,Oregon,Umatilla,2,0,-
-3/22/2020,OR,Oregon,Union,1,0,-
-3/22/2020,OR,Oregon,Washington,55,1,-
-3/22/2020,OR,Oregon,Yamhill,6,0,-
-3/22/2020,SC,South Carolina,Abbeville,1,0,-
-3/22/2020,SC,South Carolina,Aiken,1,0,-
-3/22/2020,SC,South Carolina,Anderson,10,0,-
-3/22/2020,SC,South Carolina,Beaufort,14,0,-
-3/22/2020,SC,South Carolina,Berkeley,2,0,-
-3/22/2020,SC,South Carolina,Calhoun,1,0,-
-3/22/2020,SC,South Carolina,Charleston,13,1,-
-3/22/2020,SC,South Carolina,Clarendon,1,0,-
-3/22/2020,SC,South Carolina,Colleton,1,0,-
-3/22/2020,SC,South Carolina,Darlington,5,0,-
-3/22/2020,SC,South Carolina,Dillon,1,0,-
-3/22/2020,SC,South Carolina,Dorchester,1,0,-
-3/22/2020,SC,South Carolina,Edgefield,1,0,-
-3/22/2020,SC,South Carolina,Fairfield,1,0,-
-3/22/2020,SC,South Carolina,Florence,1,1,-
-3/22/2020,SC,South Carolina,Greenville,19,0,-
-3/22/2020,SC,South Carolina,Greenwood,3,0,-
-3/22/2020,SC,South Carolina,Hampton,1,0,-
-3/22/2020,SC,South Carolina,Horry,11,0,-
-3/22/2020,SC,South Carolina,Jasper,1,0,-
-3/22/2020,SC,South Carolina,Kershaw,44,0,-
-3/22/2020,SC,South Carolina,Lancaster,5,0,-
-3/22/2020,SC,South Carolina,Lee,1,0,-
-3/22/2020,SC,South Carolina,Lexington,12,1,-
-3/22/2020,SC,South Carolina,Marlboro,1,0,-
-3/22/2020,SC,South Carolina,Newberry,1,0,-
-3/22/2020,SC,South Carolina,Orangeburg,3,0,-
-3/22/2020,SC,South Carolina,Richland,29,0,-
-3/22/2020,SC,South Carolina,Saluda,1,0,-
-3/22/2020,SC,South Carolina,Spartanburg,2,0,-
-3/22/2020,SC,South Carolina,Sumter,3,0,-
-3/22/2020,SC,South Carolina,York,4,0,-
-3/22/2020,SC,South Carolina,Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34] • Mar 22 [35],Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34] • Mar 22 [35],Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34] • Mar 22 [35],-
-3/22/2020,NJ,New Jersey,Atlantic,4,0,0
-3/22/2020,NJ,New Jersey,Bergen,363,2,1
-3/22/2020,NJ,New Jersey,Burlington,21,0,0
-3/22/2020,NJ,New Jersey,Camden,15,0,0
-3/22/2020,NJ,New Jersey,Cape May,2,0,0
-3/22/2020,NJ,New Jersey,Cumberland,1,0,0
-3/22/2020,NJ,New Jersey,Essex,107,0,0
-3/22/2020,NJ,New Jersey,Gloucester,6,0,0
-3/22/2020,NJ,New Jersey,Hudson,97,0,0
-3/22/2020,NJ,New Jersey,Hunterdon,14,0,1
-3/22/2020,NJ,New Jersey,Mercer,30,0,0
-3/22/2020,NJ,New Jersey,Middlesex,116,0,0
-3/22/2020,NJ,New Jersey,Monmouth,92,1,0
-3/22/2020,NJ,New Jersey,Morris,64,0,0
-3/22/2020,NJ,New Jersey,Ocean,62,0,0
-3/22/2020,NJ,New Jersey,Passaic,67,0,0
-3/22/2020,NJ,New Jersey,Somerset,34,0,0
-3/22/2020,NJ,New Jersey,Sussex,6,0,0
-3/22/2020,NJ,New Jersey,Union,81,0,0
-3/22/2020,NJ,New Jersey,Warren,5,1,1
-3/22/2020,NJ,New Jersey,Under Investigation,140,13,0
-3/22/2020,DE,Delaware,Kent,5,-,-
-3/22/2020,DE,Delaware,New Castle,33,-,-
-3/22/2020,DE,Delaware,Sussex,9,-,-
-3/22/2020,VA,Virginia,Accomack,1,0,-
-3/22/2020,VA,Virginia,Albemarle,2,0,-
-3/22/2020,VA,Virginia,Alexandria (City),5,0,-
-3/22/2020,VA,Virginia,Amherst,1,0,-
-3/22/2020,VA,Virginia,Arlington,26,0,-
-3/22/2020,VA,Virginia,Bedford,1,0,-
-3/22/2020,VA,Virginia,Botetourt,1,0,-
-3/22/2020,VA,Virginia,Charles City,1,0,-
-3/22/2020,VA,Virginia,Charlottesville (City),4,0,-
-3/22/2020,VA,Virginia,Chesterfield,8,0,-
-3/22/2020,VA,Virginia,Culpeper,2,0,-
-3/22/2020,VA,Virginia,Fairfax,31,1[32],-
-3/22/2020,VA,Virginia,Fluvanna,1,0,-
-3/22/2020,VA,Virginia,Franklin,1,0,-
-3/22/2020,VA,Virginia,Gloucester,2,0,-
-3/22/2020,VA,Virginia,Goochland,2,0,-
-3/22/2020,VA,Virginia,Hanover,1,0,-
-3/22/2020,VA,Virginia,Harrisonburg (City),1,0,-
-3/22/2020,VA,Virginia,Henrico,8,0,-
-3/22/2020,VA,Virginia,Isle of Wight,1,0,-
-3/22/2020,VA,Virginia,James City,32,3[33],-
-3/22/2020,VA,Virginia,Lee,2,0,-
-3/22/2020,VA,Virginia,Louisa,1,0,-
-3/22/2020,VA,Virginia,Loudoun,15,0,-
-3/22/2020,VA,Virginia,Mecklenburg,1,0,-
-3/22/2020,VA,Virginia,Newport News (City),2,1[34],-
-3/22/2020,VA,Virginia,Norfolk (City),3,0,-
-3/22/2020,VA,Virginia,Portsmouth (City),1,0,-
-3/22/2020,VA,Virginia,Prince Edward,1,0,-
-3/22/2020,VA,Virginia,Prince William,18,0,-
-3/22/2020,VA,Virginia,Richmond (City),6,0,-
-3/22/2020,VA,Virginia,Rockingham,2,0,-
-3/22/2020,VA,Virginia,Spotsylvania,2,0,-
-3/22/2020,VA,Virginia,Stafford,5,0,-
-3/22/2020,VA,Virginia,Suffolk (city),1,0,-
-3/22/2020,VA,Virginia,Virginia Beach (City),17,0,-
-3/22/2020,VA,Virginia,Williamsburg (City),5,1[35],-
-3/22/2020,VA,Virginia,York,5,0,-
-3/22/2020,WA,Washington,Benton,7,2,-
-3/22/2020,WA,Washington,Chelan,3,0,-
-3/22/2020,WA,Washington,Clallam,4,0,-
-3/22/2020,WA,Washington,Clark,10,3,-
-3/22/2020,WA,Washington,Columbia,1,0,-
-3/22/2020,WA,Washington,Cowlitz,3,0,-
-3/22/2020,WA,Washington,Franklin,3,0,-
-3/22/2020,WA,Washington,Grant,18,1,-
-3/22/2020,WA,Washington,Grays Harbor,1,0,-
-3/22/2020,WA,Washington,Island,21,1,-
-3/22/2020,WA,Washington,Jefferson,6,0,-
-3/22/2020,WA,Washington,King,1040,75,-
-3/22/2020,WA,Washington,Kitsap,18,0,-
-3/22/2020,WA,Washington,Kittitas,4,0,-
-3/22/2020,WA,Washington,Klickitat,4,0,-
-3/22/2020,WA,Washington,Lewis,2,0,-
-3/22/2020,WA,Washington,Lincoln,1,0,-
-3/22/2020,WA,Washington,Mason,1,0,-
-3/22/2020,WA,Washington,Pierce,107,1,-
-3/22/2020,WA,Washington,San Juan,1,0,-
-3/22/2020,WA,Washington,Skagit,33,0,-
-3/22/2020,WA,Washington,Snohomish,480,10,-
-3/22/2020,WA,Washington,Spokane,20,0,-
-3/22/2020,WA,Washington,Stevens,1,0,-
-3/22/2020,WA,Washington,Thurston,11,0,-
-3/22/2020,WA,Washington,Walla Walla,1,0,-
-3/22/2020,WA,Washington,Whatcom,14,2[4],-
-3/22/2020,WA,Washington,Whitman,1,0,-
-3/22/2020,WA,Washington,Yakima,16,0,-
-3/22/2020,WA,Washington,(Unassigned),165,0[6],-
-3/22/2020,AL,Alabama,Baldwin,2,-,-
-3/22/2020,AL,Alabama,Calhoun,1,-,-
-3/22/2020,AL,Alabama,Chambers,1,-,-
-3/22/2020,AL,Alabama,Cullman,2,-,-
-3/22/2020,AL,Alabama,Elmore,6,-,-
-3/22/2020,AL,Alabama,Jackson,1,-,-
-3/22/2020,AL,Alabama,Jefferson,61,-,-
-3/22/2020,AL,Alabama,Lamar,1,-,-
-3/22/2020,AL,Alabama,Lauderdale,2,-,-
-3/22/2020,AL,Alabama,Lee,14,-,-
-3/22/2020,AL,Alabama,Limestone,1,-,-
-3/22/2020,AL,Alabama,Madison,12,-,-
-3/22/2020,AL,Alabama,Marion,1,-,-
-3/22/2020,AL,Alabama,Mobile,2,-,-
-3/22/2020,AL,Alabama,Montgomery,3,-,-
-3/22/2020,AL,Alabama,Shelby,17,-,-
-3/22/2020,AL,Alabama,St. Clair,1,-,-
-3/22/2020,AL,Alabama,Talladega,1,-,-
-3/22/2020,AL,Alabama,Tuscaloosa,7,-,-
-3/22/2020,AL,Alabama,Walker,1,-,-
-3/22/2020,AL,Alabama,Washington,1,-,-
-3/22/2020,ME,Maine,Androscoggin,3,-,1
-3/22/2020,ME,Maine,Cumberland,25,-,0
-3/22/2020,ME,Maine,Hancock,1,-,0
-3/22/2020,ME,Maine,Kennebec,3,-,0
-3/22/2020,ME,Maine,Lincoln,3,-,0
-3/22/2020,ME,Maine,Oxford,1,-,0
-3/22/2020,ME,Maine,Penobscot,1,-,0
-3/22/2020,ME,Maine,York,3,-,0
-3/22/2020,ME,Maine,Unknown,12,-,0
-3/22/2020,KY,Kentucky,Anderson,1,1,-
-3/22/2020,KY,Kentucky,Bourbon,2,1,-
-3/22/2020,KY,Kentucky,Calloway,1,,-
-3/22/2020,KY,Kentucky,Clark,2,,-
-3/22/2020,KY,Kentucky,Christian,1,,-
-3/22/2020,KY,Kentucky,Daviess,1,,-
-3/22/2020,KY,Kentucky,Fayette,10,,-
-3/22/2020,KY,Kentucky,Franklin,1,,-
-3/22/2020,KY,Kentucky,Hardin,1,,-
-3/22/2020,KY,Kentucky,Harrison,7,,-
-3/22/2020,KY,Kentucky,Henderson,2,,-
-3/22/2020,KY,Kentucky,Kenton,1,,-
-3/22/2020,KY,Kentucky,Jefferson,25,1,-
-3/22/2020,KY,Kentucky,Lyon,1,,-
-3/22/2020,KY,Kentucky,Montgomery,2,,-
-3/22/2020,KY,Kentucky,Nelson,1,,-
-3/22/2020,KY,Kentucky,Oldham,1,,-
-3/22/2020,KY,Kentucky,Pulaski,2,,-
-3/22/2020,KY,Kentucky,Warren,2,,-
-3/22/2020,KY,Kentucky,Source:[1][2][3],Source:[1][2][3],Source:[1][2][3],-
-3/22/2020,IA,Iowa,Adair,1,0,-
-3/22/2020,IA,Iowa,Allamakee,5,0,-
-3/22/2020,IA,Iowa,Black Hawk,3,0,-
-3/22/2020,IA,Iowa,Carroll,1,0,-
-3/22/2020,IA,Iowa,Cerro Gordo,2,0,-
-3/22/2020,IA,Iowa,Dallas,6,0,-
-3/22/2020,IA,Iowa,Dubuque,4,0,-
-3/22/2020,IA,Iowa,Fayette,1,0,-
-3/22/2020,IA,Iowa,Harrison,3,0,-
-3/22/2020,IA,Iowa,Henry,1,0,-
-3/22/2020,IA,Iowa,Johnson,32,0,-
-3/22/2020,IA,Iowa,Kossuth,1,0,-
-3/22/2020,IA,Iowa,Linn,4,0,-
-3/22/2020,IA,Iowa,Muscatine,2,0,-
-3/22/2020,IA,Iowa,Polk,10,0,-
-3/22/2020,IA,Iowa,Pottawattamie,2,0,-
-3/22/2020,IA,Iowa,Poweshiek,1,0,-
-3/22/2020,IA,Iowa,Scott,1,0,-
-3/22/2020,IA,Iowa,Sioux,1,0,-
-3/22/2020,IA,Iowa,Story,1,0,-
-3/22/2020,IA,Iowa,Tama,3,0,-
-3/22/2020,IA,Iowa,Washington,3,0,-
-3/22/2020,IA,Iowa,Winneshiek,1,0,-
-3/22/2020,IA,Iowa,Woodbury,1,0,-
-3/22/2020,AK,Alaska,Anchorage,4,-,-
-3/22/2020,AK,Alaska,Gulf Coast,1,-,-
-3/22/2020,AK,Alaska,Interior,6,-,-
-3/22/2020,AK,Alaska,Mat-Su,0,-,-
-3/22/2020,AK,Alaska,Northern,0,-,-
-3/22/2020,AK,Alaska,Southeast,3,-,-
-3/22/2020,AK,Alaska,Southwest,0,-,-
-3/22/2020,CA,California,Los Angeles,351,4,–
-3/22/2020,CA,California,Santa Clara,263,8,–
-3/22/2020,CA,California,San Diego,159,0,–
-3/22/2020,CA,California,San Mateo,117,1,–
-3/22/2020,CA,California,San Francisco,105,0,–
-3/22/2020,CA,California,Orange,78,0,–
-3/22/2020,CA,California,Alameda[c],70,0,–
-3/22/2020,CA,California,Sacramento,53,3,–
-3/22/2020,CA,California,Contra Costa,51,1,–
-3/22/2020,CA,California,Marin,38,0,–
-3/22/2020,CA,California,San Joaquin,31,2,–
-3/22/2020,CA,California,Riverside,30,5,–
-3/22/2020,CA,California,Ventura,26,0,–
-3/22/2020,CA,California,Sonoma,24,1,0
-3/22/2020,CA,California,San Luis Obispo,21,0,–
-3/22/2020,CA,California,Santa Cruz,15,0,–
-3/22/2020,CA,California,Solano,14,0,–
-3/22/2020,CA,California,Santa Barbara,13,0,0
-3/22/2020,CA,California,Tulare,12,0,–
-3/22/2020,CA,California,Placer,12,1,–
-3/22/2020,CA,California,Monterey,11,0,0
-3/22/2020,CA,California,San Bernardino,10,0,0
-3/22/2020,CA,California,Fresno,6,0,–
-3/22/2020,CA,California,Imperial,6,0,–
-3/22/2020,CA,California,Yolo,6,0,–
-3/22/2020,CA,California,Stanislaus,5,0,–
-3/22/2020,CA,California,San Benito,5,1,2
-3/22/2020,CA,California,Kern,5,0,–
-3/22/2020,CA,California,Madera,3,0,1
-3/22/2020,CA,California,Calaveras,2,0,–
-3/22/2020,CA,California,El Dorado,1,0,1
-3/22/2020,CA,California,Siskiyou,2,0,–
-3/22/2020,CA,California,Yuba,2,0,–
-3/22/2020,CA,California,Butte,1,0,–
-3/22/2020,CA,California,Humboldt,1,0,1
-3/22/2020,CA,California,Nevada,1,0,0
-3/22/2020,CA,California,Shasta,1,0,–
-3/22/2020,CA,California,Mendocino,1,0,–
-3/22/2020,CA,California,As of 22 March 2020 (UTC),As of 22 March 2020 (UTC),As of 22 March 2020 (UTC),As of 22 March 2020 (UTC)
-3/22/2020,CA,California,"^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero. ^ Including cases in the City of Berkeley compiled by Berkeleyside.","^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero. ^ Including cases in the City of Berkeley compiled by Berkeleyside.","^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero. ^ Including cases in the City of Berkeley compiled by Berkeleyside.","^ Cases reported by each county's health department. County reporting standards vary: we list total cases where available, but some only report active cases; on the other hand some cases may be double-counted if a resident of one county got tested in another. ^ ""–"" denotes that no data is currently available for that county, not that the value is zero. ^ Including cases in the City of Berkeley compiled by Berkeleyside."
-3/22/2020,NM,New Mexico,Bernalillo County,34,-,-
-3/22/2020,NM,New Mexico,Catron County,0,-,-
-3/22/2020,NM,New Mexico,Chaves County,0,-,-
-3/22/2020,NM,New Mexico,Cibola County,0,-,-
-3/22/2020,NM,New Mexico,Colfax County,0,-,-
-3/22/2020,NM,New Mexico,Curry County,0,-,-
-3/22/2020,NM,New Mexico,De Baca County,0,-,-
-3/22/2020,NM,New Mexico,Doña Ana County,4,-,-
-3/22/2020,NM,New Mexico,Eddy County,0,-,-
-3/22/2020,NM,New Mexico,Grant County,0,-,-
-3/22/2020,NM,New Mexico,Guadalupe County,0,-,-
-3/22/2020,NM,New Mexico,Harding County,0,-,-
-3/22/2020,NM,New Mexico,Hidalgo County,0,-,-
-3/22/2020,NM,New Mexico,Lea County,1,-,-
-3/22/2020,NM,New Mexico,Lincoln County,0,-,-
-3/22/2020,NM,New Mexico,Los Alamos County,0,-,-
-3/22/2020,NM,New Mexico,Luna County,0,-,-
-3/22/2020,NM,New Mexico,McKinley County,2,-,-
-3/22/2020,NM,New Mexico,Mora County,0,-,-
-3/22/2020,NM,New Mexico,Otero County,0,-,-
-3/22/2020,NM,New Mexico,Quay County,0,-,-
-3/22/2020,NM,New Mexico,Rio Arriba County,0,-,-
-3/22/2020,NM,New Mexico,Roosevelt County,0,-,-
-3/22/2020,NM,New Mexico,San Juan County,1,-,-
-3/22/2020,NM,New Mexico,San Miguel County,1,-,-
-3/22/2020,NM,New Mexico,Sandoval County,7,-,-
-3/22/2020,NM,New Mexico,Santa Fe County,10,-,-
-3/22/2020,NM,New Mexico,Sierra County,0,-,-
-3/22/2020,NM,New Mexico,Socorro County,2,-,-
-3/22/2020,NM,New Mexico,Taos County,3,-,-
-3/22/2020,NM,New Mexico,Torrance County,0,-,-
-3/22/2020,NM,New Mexico,Union County,0,-,-
-3/22/2020,NM,New Mexico,Valencia County,0,-,-
 3/22/2020,MN,Minnesota,Anoka,5,-,
 3/22/2020,MN,Minnesota,Benton,1,-,
 3/22/2020,MN,Minnesota,Blue Earth,2,-,
@@ -2383,22 +3474,107 @@
 3/22/2020,MS,Mississippi,Winston,2,-,-
 3/22/2020,MS,Mississippi,Yazoo,1,-,-
 3/22/2020,MS,Mississippi,Total,207,-,-
-3/22/2020,OK,Oklahoma,Canadian,2,-,-
-3/22/2020,OK,Oklahoma,Cleveland,13,-,-
-3/22/2020,OK,Oklahoma,Custer,1,-,-
-3/22/2020,OK,Oklahoma,Garvin,2,-,-
-3/22/2020,OK,Oklahoma,Grady,1,-,-
-3/22/2020,OK,Oklahoma,Jackson,1,-,-
-3/22/2020,OK,Oklahoma,Kay,4,-,-
-3/22/2020,OK,Oklahoma,Logan,1,-,-
-3/22/2020,OK,Oklahoma,McClain,1,-,-
-3/22/2020,OK,Oklahoma,Muskogee,1,-,-
-3/22/2020,OK,Oklahoma,Noble,1,-,-
-3/22/2020,OK,Oklahoma,Oklahoma,26,-,-
-3/22/2020,OK,Oklahoma,Pawnee,3,-,-
-3/22/2020,OK,Oklahoma,Tulsa,6,-,-
-3/22/2020,OK,Oklahoma,Washington,2,-,-
-3/22/2020,OK,Oklahoma,Total,67,-,-
+3/22/2020,NJ,New Jersey,Atlantic,4,0,0
+3/22/2020,NJ,New Jersey,Bergen,363,7,1
+3/22/2020,NJ,New Jersey,Burlington,21,0,0
+3/22/2020,NJ,New Jersey,Camden,15,0,0
+3/22/2020,NJ,New Jersey,Cape May,2,0,0
+3/22/2020,NJ,New Jersey,Cumberland,1,0,0
+3/22/2020,NJ,New Jersey,Essex,107,4,0
+3/22/2020,NJ,New Jersey,Gloucester,6,0,0
+3/22/2020,NJ,New Jersey,Hudson,97,1,0
+3/22/2020,NJ,New Jersey,Hunterdon,14,0,1
+3/22/2020,NJ,New Jersey,Mercer,30,0,0
+3/22/2020,NJ,New Jersey,Middlesex,116,1,0
+3/22/2020,NJ,New Jersey,Monmouth,92,3,0
+3/22/2020,NJ,New Jersey,Morris,64,1,0
+3/22/2020,NJ,New Jersey,Ocean,62,1,0
+3/22/2020,NJ,New Jersey,Passaic,67,1,0
+3/22/2020,NJ,New Jersey,Salem,1,0,0
+3/22/2020,NJ,New Jersey,Somerset,34,0,0
+3/22/2020,NJ,New Jersey,Sussex,6,0,0
+3/22/2020,NJ,New Jersey,Union,81,0,0
+3/22/2020,NJ,New Jersey,Warren,9,1,1
+3/22/2020,NJ,New Jersey,Under Investigation,140,13,0
+3/22/2020,NM,New Mexico,Bernalillo County,34,-,-
+3/22/2020,NM,New Mexico,Catron County,0,-,-
+3/22/2020,NM,New Mexico,Chaves County,0,-,-
+3/22/2020,NM,New Mexico,Cibola County,0,-,-
+3/22/2020,NM,New Mexico,Colfax County,0,-,-
+3/22/2020,NM,New Mexico,Curry County,0,-,-
+3/22/2020,NM,New Mexico,De Baca County,0,-,-
+3/22/2020,NM,New Mexico,Doña Ana County,4,-,-
+3/22/2020,NM,New Mexico,Eddy County,0,-,-
+3/22/2020,NM,New Mexico,Grant County,0,-,-
+3/22/2020,NM,New Mexico,Guadalupe County,0,-,-
+3/22/2020,NM,New Mexico,Harding County,0,-,-
+3/22/2020,NM,New Mexico,Hidalgo County,0,-,-
+3/22/2020,NM,New Mexico,Lea County,1,-,-
+3/22/2020,NM,New Mexico,Lincoln County,0,-,-
+3/22/2020,NM,New Mexico,Los Alamos County,0,-,-
+3/22/2020,NM,New Mexico,Luna County,0,-,-
+3/22/2020,NM,New Mexico,McKinley County,2,-,-
+3/22/2020,NM,New Mexico,Mora County,0,-,-
+3/22/2020,NM,New Mexico,Otero County,0,-,-
+3/22/2020,NM,New Mexico,Quay County,0,-,-
+3/22/2020,NM,New Mexico,Rio Arriba County,0,-,-
+3/22/2020,NM,New Mexico,Roosevelt County,0,-,-
+3/22/2020,NM,New Mexico,San Juan County,1,-,-
+3/22/2020,NM,New Mexico,San Miguel County,1,-,-
+3/22/2020,NM,New Mexico,Sandoval County,7,-,-
+3/22/2020,NM,New Mexico,Santa Fe County,10,-,-
+3/22/2020,NM,New Mexico,Sierra County,0,-,-
+3/22/2020,NM,New Mexico,Socorro County,2,-,-
+3/22/2020,NM,New Mexico,Taos County,3,-,-
+3/22/2020,NM,New Mexico,Torrance County,0,-,-
+3/22/2020,NM,New Mexico,Union County,0,-,-
+3/22/2020,NM,New Mexico,Valencia County,0,-,-
+3/22/2020,NY,New York,Albany,123,-,-
+3/22/2020,NY,New York,Allegany,2,-,-
+3/22/2020,NY,New York,Broome,3,-,-
+3/22/2020,NY,New York,Chenango,3,-,-
+3/22/2020,NY,New York,Clinton,4,-,-
+3/22/2020,NY,New York,Columbia,5,-,-
+3/22/2020,NY,New York,Cortland,1,-,-
+3/22/2020,NY,New York,Delaware,3,-,-
+3/22/2020,NY,New York,Dutchess,82,-,-
+3/22/2020,NY,New York,Erie,54,-,-
+3/22/2020,NY,New York,Essex,3,-,-
+3/22/2020,NY,New York,Fulton,1,-,-
+3/22/2020,NY,New York,Genesee,1,-,-
+3/22/2020,NY,New York,Greene,2,-,-
+3/22/2020,NY,New York,Hamilton,2,-,-
+3/22/2020,NY,New York,Herkimer,4,-,-
+3/22/2020,NY,New York,Jefferson,1,-,-
+3/22/2020,NY,New York,Livingston,2,-,-
+3/22/2020,NY,New York,Madison,1,-,-
+3/22/2020,NY,New York,Monroe,57,-,-
+3/22/2020,NY,New York,Montgomery,3,-,-
+3/22/2020,NY,New York,Nassau,"1,900",-,-
+3/22/2020,NY,New York,Niagara,6,-,-
+3/22/2020,NY,New York,New York City,"9,045",-,-
+3/22/2020,NY,New York,Oneida,5,-,-
+3/22/2020,NY,New York,Onondaga,29,-,-
+3/22/2020,NY,New York,Ontario,6,-,-
+3/22/2020,NY,New York,Orange,247,-,-
+3/22/2020,NY,New York,Putnam,37,-,-
+3/22/2020,NY,New York,Rensselaer,26,-,-
+3/22/2020,NY,New York,Rockland,455,-,-
+3/22/2020,NY,New York,Saratoga,41,-,-
+3/22/2020,NY,New York,Schenectady,39,-,-
+3/22/2020,NY,New York,Schoharie,1,-,-
+3/22/2020,NY,New York,St. Lawrence,1,-,-
+3/22/2020,NY,New York,Steuben,3,-,-
+3/22/2020,NY,New York,Suffolk,"1,034",-,-
+3/22/2020,NY,New York,Sullivan,16,-,-
+3/22/2020,NY,New York,Tioga,1,-,-
+3/22/2020,NY,New York,Tompkins,13,-,-
+3/22/2020,NY,New York,Ulster,26,-,-
+3/22/2020,NY,New York,Warren,1,-,-
+3/22/2020,NY,New York,Washington,1,-,-
+3/22/2020,NY,New York,Wayne,3,-,-
+3/22/2020,NY,New York,Westchester,"1,873",-,-
+3/22/2020,NY,New York,Wyoming,2,-,-
 3/22/2020,OH,Ohio,Ashland,1,-,-
 3/22/2020,OH,Ohio,Ashtabula,2,-,-
 3/22/2020,OH,Ohio,Belmont,2,-,-
@@ -2438,7 +3614,110 @@
 3/22/2020,OH,Ohio,Union,1,-,-
 3/22/2020,OH,Ohio,Warren,3,-,-
 3/22/2020,OH,Ohio,Wood,1,-,-
-3/22/2020,OH,Ohio,Total OH cases,351,-,-
+3/22/2020,OR,Oregon,Benton,4,0,-
+3/22/2020,OR,Oregon,Clackamas,12,0,-
+3/22/2020,OR,Oregon,Deschutes,10,0,-
+3/22/2020,OR,Oregon,Douglas,1,0,-
+3/22/2020,OR,Oregon,Grant,1,0,-
+3/22/2020,OR,Oregon,Jackson,2,0,-
+3/22/2020,OR,Oregon,Josephine,1,0,-
+3/22/2020,OR,Oregon,Klamath,1,0,-
+3/22/2020,OR,Oregon,Lane,4,1,-
+3/22/2020,OR,Oregon,Linn,19,0,-
+3/22/2020,OR,Oregon,Marion,22,1,-
+3/22/2020,OR,Oregon,Multnomah,19,1,-
+3/22/2020,OR,Oregon,Polk,1,0,-
+3/22/2020,OR,Oregon,Umatilla,2,0,-
+3/22/2020,OR,Oregon,Union,1,0,-
+3/22/2020,OR,Oregon,Washington,55,1,-
+3/22/2020,OR,Oregon,Yamhill,6,0,-
+3/22/2020,PR,Puerto Rico,San Juan,4,-,0
+3/22/2020,PR,Puerto Rico,Mayagüez,1,-,0
+3/22/2020,PR,Puerto Rico,Undisclosed,1,-,0
+3/22/2020,SC,South Carolina,Abbeville,1,0,-
+3/22/2020,SC,South Carolina,Aiken,1,0,-
+3/22/2020,SC,South Carolina,Anderson,10,0,-
+3/22/2020,SC,South Carolina,Beaufort,14,0,-
+3/22/2020,SC,South Carolina,Berkeley,2,0,-
+3/22/2020,SC,South Carolina,Calhoun,1,0,-
+3/22/2020,SC,South Carolina,Charleston,13,1,-
+3/22/2020,SC,South Carolina,Clarendon,1,0,-
+3/22/2020,SC,South Carolina,Colleton,1,0,-
+3/22/2020,SC,South Carolina,Darlington,5,0,-
+3/22/2020,SC,South Carolina,Dillon,1,0,-
+3/22/2020,SC,South Carolina,Dorchester,1,0,-
+3/22/2020,SC,South Carolina,Edgefield,1,0,-
+3/22/2020,SC,South Carolina,Fairfield,1,0,-
+3/22/2020,SC,South Carolina,Florence,1,1,-
+3/22/2020,SC,South Carolina,Greenville,19,0,-
+3/22/2020,SC,South Carolina,Greenwood,3,0,-
+3/22/2020,SC,South Carolina,Hampton,1,0,-
+3/22/2020,SC,South Carolina,Horry,11,0,-
+3/22/2020,SC,South Carolina,Jasper,1,0,-
+3/22/2020,SC,South Carolina,Kershaw,44,0,-
+3/22/2020,SC,South Carolina,Lancaster,5,0,-
+3/22/2020,SC,South Carolina,Lee,1,0,-
+3/22/2020,SC,South Carolina,Lexington,12,1,-
+3/22/2020,SC,South Carolina,Marlboro,1,0,-
+3/22/2020,SC,South Carolina,Newberry,1,0,-
+3/22/2020,SC,South Carolina,Orangeburg,3,0,-
+3/22/2020,SC,South Carolina,Richland,29,0,-
+3/22/2020,SC,South Carolina,Saluda,1,0,-
+3/22/2020,SC,South Carolina,Spartanburg,2,0,-
+3/22/2020,SC,South Carolina,Sumter,3,0,-
+3/22/2020,SC,South Carolina,York,4,0,-
+3/22/2020,SC,South Carolina,Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34] • Mar 22 [35],Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34] • Mar 22 [35],Daily Sources Latest DHEC count[1] Mar 7 [20] • Mar 8 [21] • Mar 9 [22] • Mar 10 [23] • Mar 11 [24] • Mar 12 [25] • Mar 13 [26] •Mar 14 [27] • Mar 15 [28] • Mar 16 [29] • Mar 17 [30] • Mar 18 [31] • Mar 19 [32] • Mar 20 [33][19][16] •Mar 21 [34] • Mar 22 [35],-
+3/22/2020,SD,South Dakota,Beadle,10,,-
+3/22/2020,SD,South Dakota,Bon Homme,1,,-
+3/22/2020,SD,South Dakota,Charles Mix,1,,-
+3/22/2020,SD,South Dakota,Davison,1,1[a],-
+3/22/2020,SD,South Dakota,McCook,1,,-
+3/22/2020,SD,South Dakota,Minnehaha,5,,-
+3/22/2020,SD,South Dakota,Brown,1,,-
+3/22/2020,SD,South Dakota,Pennington,1,,-
+3/22/2020,TN,Tennessee,Anderson,1,-,-
+3/22/2020,TN,Tennessee,Blount,1,-,-
+3/22/2020,TN,Tennessee,Bradley,2,-,-
+3/22/2020,TN,Tennessee,Campbell,2,-,-
+3/22/2020,TN,Tennessee,Carroll,2,-,-
+3/22/2020,TN,Tennessee,Cheatham,4,-,-
+3/22/2020,TN,Tennessee,Chester,1,-,-
+3/22/2020,TN,Tennessee,Cocke,1,-,-
+3/22/2020,TN,Tennessee,Cumberland,2,-,-
+3/22/2020,TN,Tennessee,Davidson,167,-,-
+3/22/2020,TN,Tennessee,Dickson,4,-,-
+3/22/2020,TN,Tennessee,Dyer,2,-,-
+3/22/2020,TN,Tennessee,Fayette,3,-,-
+3/22/2020,TN,Tennessee,Franklin,1,-,-
+3/22/2020,TN,Tennessee,Gibson,1,-,-
+3/22/2020,TN,Tennessee,Greene,2,-,-
+3/22/2020,TN,Tennessee,Hamblen,2,-,-
+3/22/2020,TN,Tennessee,Hamilton,8,-,-
+3/22/2020,TN,Tennessee,Houston,1,-,-
+3/22/2020,TN,Tennessee,Jefferson,2,-,-
+3/22/2020,TN,Tennessee,Knox,5,-,-
+3/22/2020,TN,Tennessee,Loudon,1,-,-
+3/22/2020,TN,Tennessee,Marion,1,-,-
+3/22/2020,TN,Tennessee,Maury,2,-,-
+3/22/2020,TN,Tennessee,McMinn,1,-,-
+3/22/2020,TN,Tennessee,Monroe,3,-,-
+3/22/2020,TN,Tennessee,Montgomery,3,-,-
+3/22/2020,TN,Tennessee,Perry,1,-,-
+3/22/2020,TN,Tennessee,Putnam,6,-,-
+3/22/2020,TN,Tennessee,Roane,1,-,-
+3/22/2020,TN,Tennessee,Robertson,3,-,-
+3/22/2020,TN,Tennessee,Rutherford,8,-,-
+3/22/2020,TN,Tennessee,Scott,2,-,-
+3/22/2020,TN,Tennessee,Sevier,1,-,-
+3/22/2020,TN,Tennessee,Shelby,66,-,-
+3/22/2020,TN,Tennessee,Sullivan,1,-,-
+3/22/2020,TN,Tennessee,Sumner,22,-,-
+3/22/2020,TN,Tennessee,Tipton,5,-,-
+3/22/2020,TN,Tennessee,Washington,2,-,-
+3/22/2020,TN,Tennessee,Williamson,48,-,-
+3/22/2020,TN,Tennessee,Wilson,2,-,-
+3/22/2020,TN,Tennessee,Out of TN,82,-,-
+3/22/2020,TN,Tennessee,Unknown,30,-,-
 3/22/2020,TX,Texas,Bell,3,-,-
 3/22/2020,TX,Texas,Bexar,24,-,-
 3/22/2020,TX,Texas,Bowie,1,-,-
@@ -2483,3 +3762,94 @@
 3/22/2020,TX,Texas,Wichita,3,-,-
 3/22/2020,TX,Texas,Williamson,9,-,-
 3/22/2020,TX,Texas,Pending County Assignment,69,-,-
+3/22/2020,VA,Virginia,Accomack,1,0,-
+3/22/2020,VA,Virginia,Albemarle,2,0,-
+3/22/2020,VA,Virginia,Alexandria (City),5,0,-
+3/22/2020,VA,Virginia,Amherst,1,0,-
+3/22/2020,VA,Virginia,Arlington,26,0,-
+3/22/2020,VA,Virginia,Bedford,1,0,-
+3/22/2020,VA,Virginia,Botetourt,1,0,-
+3/22/2020,VA,Virginia,Charles City,1,0,-
+3/22/2020,VA,Virginia,Charlottesville (City),4,0,-
+3/22/2020,VA,Virginia,Chesterfield,8,0,-
+3/22/2020,VA,Virginia,Culpeper,2,0,-
+3/22/2020,VA,Virginia,Fairfax,31,1[32],-
+3/22/2020,VA,Virginia,Fluvanna,1,0,-
+3/22/2020,VA,Virginia,Franklin,1,0,-
+3/22/2020,VA,Virginia,Gloucester,2,0,-
+3/22/2020,VA,Virginia,Goochland,2,0,-
+3/22/2020,VA,Virginia,Hanover,1,0,-
+3/22/2020,VA,Virginia,Harrisonburg (City),1,0,-
+3/22/2020,VA,Virginia,Henrico,8,0,-
+3/22/2020,VA,Virginia,Isle of Wight,1,0,-
+3/22/2020,VA,Virginia,James City,32,3[33],-
+3/22/2020,VA,Virginia,Lee,2,0,-
+3/22/2020,VA,Virginia,Louisa,1,0,-
+3/22/2020,VA,Virginia,Loudoun,15,0,-
+3/22/2020,VA,Virginia,Mecklenburg,1,0,-
+3/22/2020,VA,Virginia,Newport News (City),2,1[34],-
+3/22/2020,VA,Virginia,Norfolk (City),3,0,-
+3/22/2020,VA,Virginia,Portsmouth (City),1,0,-
+3/22/2020,VA,Virginia,Prince Edward,1,0,-
+3/22/2020,VA,Virginia,Prince William,18,0,-
+3/22/2020,VA,Virginia,Richmond (City),6,0,-
+3/22/2020,VA,Virginia,Rockingham,2,0,-
+3/22/2020,VA,Virginia,Spotsylvania,2,0,-
+3/22/2020,VA,Virginia,Stafford,5,0,-
+3/22/2020,VA,Virginia,Suffolk (city),1,0,-
+3/22/2020,VA,Virginia,Virginia Beach (City),17,0,-
+3/22/2020,VA,Virginia,Williamsburg (City),5,1[35],-
+3/22/2020,VA,Virginia,York,5,0,-
+3/22/2020,WA,Washington,Benton,7,2,-
+3/22/2020,WA,Washington,Chelan,3,0,-
+3/22/2020,WA,Washington,Clallam,4,0,-
+3/22/2020,WA,Washington,Clark,10,3,-
+3/22/2020,WA,Washington,Columbia,1,0,-
+3/22/2020,WA,Washington,Cowlitz,3,0,-
+3/22/2020,WA,Washington,Franklin,3,0,-
+3/22/2020,WA,Washington,Grant,18,1,-
+3/22/2020,WA,Washington,Grays Harbor,1,0,-
+3/22/2020,WA,Washington,Island,21,1,-
+3/22/2020,WA,Washington,Jefferson,6,0,-
+3/22/2020,WA,Washington,King,1040,75,-
+3/22/2020,WA,Washington,Kitsap,18,0,-
+3/22/2020,WA,Washington,Kittitas,4,0,-
+3/22/2020,WA,Washington,Klickitat,4,0,-
+3/22/2020,WA,Washington,Lewis,2,0,-
+3/22/2020,WA,Washington,Lincoln,1,0,-
+3/22/2020,WA,Washington,Mason,1,0,-
+3/22/2020,WA,Washington,Pierce,107,1,-
+3/22/2020,WA,Washington,San Juan,1,0,-
+3/22/2020,WA,Washington,Skagit,33,0,-
+3/22/2020,WA,Washington,Snohomish,480,10,-
+3/22/2020,WA,Washington,Spokane,20,0,-
+3/22/2020,WA,Washington,Stevens,1,0,-
+3/22/2020,WA,Washington,Thurston,11,0,-
+3/22/2020,WA,Washington,Walla Walla,1,0,-
+3/22/2020,WA,Washington,Whatcom,14,2[4],-
+3/22/2020,WA,Washington,Whitman,1,0,-
+3/22/2020,WA,Washington,Yakima,16,0,-
+3/22/2020,WA,Washington,(Unassigned),165,0[6],-
+3/22/2020,WY,Wyoming,Albany,0,0,-
+3/22/2020,WY,Wyoming,Big Horn,0,0,-
+3/22/2020,WY,Wyoming,Campbell,1,0,-
+3/22/2020,WY,Wyoming,Carbon,1,0,-
+3/22/2020,WY,Wyoming,Converse,0,0,-
+3/22/2020,WY,Wyoming,Crook,0,0,-
+3/22/2020,WY,Wyoming,Fremont,9,0,-
+3/22/2020,WY,Wyoming,Goshen,0,0,-
+3/22/2020,WY,Wyoming,Hot Springs,0,0,-
+3/22/2020,WY,Wyoming,Johnson,0,0,-
+3/22/2020,WY,Wyoming,Laramie,5,0,-
+3/22/2020,WY,Wyoming,Lincoln,0,0,-
+3/22/2020,WY,Wyoming,Natrona,1,0,-
+3/22/2020,WY,Wyoming,Niobrara,0,0,-
+3/22/2020,WY,Wyoming,Park,1,0,-
+3/22/2020,WY,Wyoming,Platte,0,0,-
+3/22/2020,WY,Wyoming,Sheridan,4,0,-
+3/22/2020,WY,Wyoming,Sublette,0,0,-
+3/22/2020,WY,Wyoming,Sweetwater,0,0,-
+3/22/2020,WY,Wyoming,Teton,2,0,-
+3/22/2020,WY,Wyoming,Uinta,0,0,-
+3/22/2020,WY,Wyoming,Washakie,0,0,-
+3/22/2020,WY,Wyoming,Weston,0,0,-

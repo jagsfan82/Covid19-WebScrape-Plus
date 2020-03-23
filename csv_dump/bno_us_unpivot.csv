@@ -174,8 +174,8 @@
 3/21/2020,California,Serious,
 3/21/2020,California,Critical,1
 3/21/2020,California,Recovered,1
-3/22/2020,California,Confirmed,1536
-3/22/2020,California,Deaths,28
+3/22/2020,California,Confirmed,1787
+3/22/2020,California,Deaths,34
 3/22/2020,California,Serious,
 3/22/2020,California,Critical,1
 3/22/2020,California,Recovered,1
@@ -204,8 +204,8 @@
 3/21/2020,Colorado,Serious,
 3/21/2020,Colorado,Critical,
 3/21/2020,Colorado,Recovered,
-3/22/2020,Colorado,Confirmed,475
-3/22/2020,Colorado,Deaths,5
+3/22/2020,Colorado,Confirmed,591
+3/22/2020,Colorado,Deaths,7
 3/22/2020,Colorado,Serious,
 3/22/2020,Colorado,Critical,
 3/22/2020,Colorado,Recovered,
@@ -234,8 +234,8 @@
 3/21/2020,Connecticut,Serious,
 3/21/2020,Connecticut,Critical,
 3/21/2020,Connecticut,Recovered,
-3/22/2020,Connecticut,Confirmed,223
-3/22/2020,Connecticut,Deaths,5
+3/22/2020,Connecticut,Confirmed,327
+3/22/2020,Connecticut,Deaths,8
 3/22/2020,Connecticut,Serious,
 3/22/2020,Connecticut,Critical,
 3/22/2020,Connecticut,Recovered,
@@ -324,8 +324,8 @@
 3/21/2020,District of Columbia,Serious,
 3/21/2020,District of Columbia,Critical,
 3/21/2020,District of Columbia,Recovered,
-3/22/2020,District of Columbia,Confirmed,98
-3/22/2020,District of Columbia,Deaths,1
+3/22/2020,District of Columbia,Confirmed,116
+3/22/2020,District of Columbia,Deaths,2
 3/22/2020,District of Columbia,Serious,
 3/22/2020,District of Columbia,Critical,
 3/22/2020,District of Columbia,Recovered,
@@ -354,7 +354,7 @@
 3/21/2020,Florida,Serious,
 3/21/2020,Florida,Critical,
 3/21/2020,Florida,Recovered,
-3/22/2020,Florida,Confirmed,830
+3/22/2020,Florida,Confirmed,1007
 3/22/2020,Florida,Deaths,13
 3/22/2020,Florida,Serious,
 3/22/2020,Florida,Critical,
@@ -384,8 +384,8 @@
 3/21/2020,Georgia,Serious,
 3/21/2020,Georgia,Critical,
 3/21/2020,Georgia,Recovered,
-3/22/2020,Georgia,Confirmed,600
-3/22/2020,Georgia,Deaths,23
+3/22/2020,Georgia,Confirmed,620
+3/22/2020,Georgia,Deaths,25
 3/22/2020,Georgia,Serious,
 3/22/2020,Georgia,Critical,
 3/22/2020,Georgia,Recovered,
@@ -624,8 +624,8 @@
 3/21/2020,Kansas,Serious,
 3/21/2020,Kansas,Critical,
 3/21/2020,Kansas,Recovered,
-3/22/2020,Kansas,Confirmed,60
-3/22/2020,Kansas,Deaths,1
+3/22/2020,Kansas,Confirmed,64
+3/22/2020,Kansas,Deaths,2
 3/22/2020,Kansas,Serious,
 3/22/2020,Kansas,Critical,
 3/22/2020,Kansas,Recovered,
@@ -655,7 +655,7 @@
 3/21/2020,Kentucky,Critical,
 3/21/2020,Kentucky,Recovered,
 3/22/2020,Kentucky,Confirmed,103
-3/22/2020,Kentucky,Deaths,2
+3/22/2020,Kentucky,Deaths,3
 3/22/2020,Kentucky,Serious,
 3/22/2020,Kentucky,Critical,
 3/22/2020,Kentucky,Recovered,
@@ -774,8 +774,8 @@
 3/21/2020,Massachusetts,Serious,
 3/21/2020,Massachusetts,Critical,
 3/21/2020,Massachusetts,Recovered,
-3/22/2020,Massachusetts,Confirmed,525
-3/22/2020,Massachusetts,Deaths,2
+3/22/2020,Massachusetts,Confirmed,646
+3/22/2020,Massachusetts,Deaths,5
 3/22/2020,Massachusetts,Serious,
 3/22/2020,Massachusetts,Critical,
 3/22/2020,Massachusetts,Recovered,
@@ -894,7 +894,7 @@
 3/21/2020,Missouri,Serious,
 3/21/2020,Missouri,Critical,
 3/21/2020,Missouri,Recovered,
-3/22/2020,Missouri,Confirmed,90
+3/22/2020,Missouri,Confirmed,135
 3/22/2020,Missouri,Deaths,3
 3/22/2020,Missouri,Serious,
 3/22/2020,Missouri,Critical,
@@ -1074,7 +1074,7 @@
 3/21/2020,New Mexico,Serious,
 3/21/2020,New Mexico,Critical,
 3/21/2020,New Mexico,Recovered,
-3/22/2020,New Mexico,Confirmed,57
+3/22/2020,New Mexico,Confirmed,65
 3/22/2020,New Mexico,Deaths,0
 3/22/2020,New Mexico,Serious,
 3/22/2020,New Mexico,Critical,
@@ -1104,9 +1104,9 @@
 3/21/2020,New York,Serious,60
 3/21/2020,New York,Critical,
 3/21/2020,New York,Recovered,
-3/22/2020,New York,Confirmed,15777
-3/22/2020,New York,Deaths,114
-3/22/2020,New York,Serious,60
+3/22/2020,New York,Confirmed,16887
+3/22/2020,New York,Deaths,150
+3/22/2020,New York,Serious,450
 3/22/2020,New York,Critical,
 3/22/2020,New York,Recovered,
 3/17/20,North Carolina,Confirmed,40
@@ -1134,7 +1134,7 @@
 3/21/2020,North Carolina,Serious,
 3/21/2020,North Carolina,Critical,
 3/21/2020,North Carolina,Recovered,
-3/22/2020,North Carolina,Confirmed,255
+3/22/2020,North Carolina,Confirmed,307
 3/22/2020,North Carolina,Deaths,0
 3/22/2020,North Carolina,Serious,
 3/22/2020,North Carolina,Critical,
@@ -1255,7 +1255,7 @@
 3/21/2020,Oklahoma,Critical,
 3/21/2020,Oklahoma,Recovered,
 3/22/2020,Oklahoma,Confirmed,67
-3/22/2020,Oklahoma,Deaths,1
+3/22/2020,Oklahoma,Deaths,2
 3/22/2020,Oklahoma,Serious,
 3/22/2020,Oklahoma,Critical,
 3/22/2020,Oklahoma,Recovered,
@@ -1315,7 +1315,7 @@
 3/21/2020,Pennsylvania,Critical,1
 3/21/2020,Pennsylvania,Recovered,
 3/22/2020,Pennsylvania,Confirmed,479
-3/22/2020,Pennsylvania,Deaths,2
+3/22/2020,Pennsylvania,Deaths,3
 3/22/2020,Pennsylvania,Serious,
 3/22/2020,Pennsylvania,Critical,1
 3/22/2020,Pennsylvania,Recovered,
@@ -1345,7 +1345,7 @@
 3/21/2020,Puerto Rico,Critical,
 3/21/2020,Puerto Rico,Recovered,
 3/22/2020,Puerto Rico,Confirmed,23
-3/22/2020,Puerto Rico,Deaths,0
+3/22/2020,Puerto Rico,Deaths,1
 3/22/2020,Puerto Rico,Serious,
 3/22/2020,Puerto Rico,Critical,
 3/22/2020,Puerto Rico,Recovered,
@@ -1465,7 +1465,7 @@
 3/21/2020,Tennessee,Critical,
 3/21/2020,Tennessee,Recovered,
 3/22/2020,Tennessee,Confirmed,505
-3/22/2020,Tennessee,Deaths,0
+3/22/2020,Tennessee,Deaths,2
 3/22/2020,Tennessee,Serious,
 3/22/2020,Tennessee,Critical,
 3/22/2020,Tennessee,Recovered,
@@ -1494,8 +1494,8 @@
 3/21/2020,Texas,Serious,
 3/21/2020,Texas,Critical,1
 3/21/2020,Texas,Recovered,
-3/22/2020,Texas,Confirmed,667
-3/22/2020,Texas,Deaths,6
+3/22/2020,Texas,Confirmed,692
+3/22/2020,Texas,Deaths,7
 3/22/2020,Texas,Serious,
 3/22/2020,Texas,Critical,1
 3/22/2020,Texas,Recovered,
@@ -1644,7 +1644,7 @@
 3/21/2020,Washington,Serious,
 3/21/2020,Washington,Critical,
 3/21/2020,Washington,Recovered,19
-3/22/2020,Washington,Confirmed,1793
+3/22/2020,Washington,Confirmed,1996
 3/22/2020,Washington,Deaths,96
 3/22/2020,Washington,Serious,
 3/22/2020,Washington,Critical,
@@ -1674,7 +1674,7 @@
 3/21/2020,West Virginia,Serious,
 3/21/2020,West Virginia,Critical,
 3/21/2020,West Virginia,Recovered,
-3/22/2020,West Virginia,Confirmed,12
+3/22/2020,West Virginia,Confirmed,16
 3/22/2020,West Virginia,Deaths,0
 3/22/2020,West Virginia,Serious,
 3/22/2020,West Virginia,Critical,

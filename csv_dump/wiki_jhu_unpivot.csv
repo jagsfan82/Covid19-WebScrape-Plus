@@ -3274,23 +3274,22 @@
 3/21/2020,US,As of 22 March 2020 (UTC) · History of cases: United States,Asof22March2020(UTC)·Historyofcases:UnitedStates,Asof22March2020(UTC)·Historyofcases:UnitedStates,As of 22 March 2020 (UTC) · History of cases: United States,death
 3/22/2020,China,,30.9756,112.2707,"81,054",confirmed
 3/22/2020,Italy,,43,12,"59,138",confirmed
-3/22/2020,United States,,,,"33,382",confirmed
-3/22/2020,Spain,,40,-4,"28,603",confirmed
-3/22/2020,Germany,,51,9,"24,852",confirmed
+3/22/2020,Spain,,40,-4,"28,768",confirmed
+3/22/2020,Germany,,51,9,"24,873",confirmed
 3/22/2020,Iran,,32,53,"21,638",confirmed
 3/22/2020,France,,46.2276,2.2137,"16,018",confirmed
-3/22/2020,"Korea, South",,,,"8,897",confirmed
+3/22/2020,"Korea, South",,,,"8,961",confirmed
 3/22/2020,Switzerland,,46.8182,8.2275,"7,245",confirmed
 3/22/2020,United Kingdom,,49.3723,-2.3644,"5,702",confirmed
 3/22/2020,Netherlands,,52.1326,5.2913,"4,216",confirmed
-3/22/2020,Austria,,47.5162,14.5501,"3,580",confirmed
+3/22/2020,Austria,,47.5162,14.5501,"3,582",confirmed
 3/22/2020,Belgium,,50.8333,4,"3,401",confirmed
-3/22/2020,Norway,,60.472,8.4689,"2,383",confirmed
+3/22/2020,Norway,,60.472,8.4689,"2,385",confirmed
 3/22/2020,Sweden,,63,16,"1,934",confirmed
 3/22/2020,Portugal,,39.3999,-8.2245,"1,600",confirmed
 3/22/2020,Brazil,,-14.235,-51.9253,"1,546",confirmed
 3/22/2020,Denmark,,56.2639,9.5018,"1,512",confirmed
-3/22/2020,Canada,,49.2827,-123.1207,"1,435",confirmed
+3/22/2020,Canada,,49.2827,-123.1207,"1,385",confirmed
 3/22/2020,Australia,,-33.8688,151.2093,"1,356",confirmed
 3/22/2020,Malaysia,,2.5,112.5,"1,306",confirmed
 3/22/2020,Turkey,,38.9637,35.2433,"1,236",confirmed
@@ -3322,14 +3321,14 @@
 3/22/2020,Egypt,,26,30,327,confirmed
 3/22/2020,Estonia,,58.5953,25.0136,326,confirmed
 3/22/2020,Hong Kong,,22.3193,114.1694,317,confirmed
+3/22/2020,Panama,,8.538,-80.7821,313,confirmed
 3/22/2020,South Africa,,-30.5595,22.9375,274,confirmed
+3/22/2020,Argentina,,-38.4161,-63.6167,266,confirmed
 3/22/2020,Croatia,,45.1,15.2,254,confirmed
 3/22/2020,Mexico,,23.6345,-102.5528,251,confirmed
 3/22/2020,Lebanon,,33.8547,35.8623,248,confirmed
-3/22/2020,Panama,,8.538,-80.7821,245,confirmed
 3/22/2020,Iraq,,33,44,233,confirmed
 3/22/2020,Colombia,,4.5709,-74.2973,231,confirmed
-3/22/2020,Argentina,,-38.4161,-63.6167,225,confirmed
 3/22/2020,Serbia,,44.0165,21.0059,222,confirmed
 3/22/2020,Dominican Republic,,18.7357,-70.1627,202,confirmed
 3/22/2020,Algeria,,28.0339,1.6596,201,confirmed
@@ -3339,9 +3338,10 @@
 3/22/2020,Slovakia,,48.669,19.699,185,confirmed
 3/22/2020,San Marino,,43.9424,12.4578,175,confirmed
 3/22/2020,Taiwan,,23.7,121,169,confirmed
+3/22/2020,Uruguay,,-32.5228,-55.7658,158,confirmed
 3/22/2020,United Arab Emirates,,24,54,153,confirmed
+3/22/2020,Lithuania,,55.1694,23.8813,143,confirmed
 3/22/2020,Latvia,,56.8796,24.6032,139,confirmed
-3/22/2020,Uruguay,,-32.5228,-55.7658,135,confirmed
 3/22/2020,Costa Rica,,9.7489,-83.7534,134,confirmed
 3/22/2020,Hungary,,47.1625,19.5033,131,confirmed
 3/22/2020,Bosnia and Herzegovina,,43.9159,17.6791,126,confirmed
@@ -3350,13 +3350,13 @@
 3/22/2020,Vietnam,,16,108,113,confirmed
 3/22/2020,Andorra,,42.5063,1.5218,112,confirmed
 3/22/2020,Jordan,,31.24,36.51,112,confirmed
-3/22/2020,Lithuania,,55.1694,23.8813,105,confirmed
+3/22/2020,New Zealand,,-40.9006,174.886,102,confirmed
+3/22/2020,Moldova,,47.4116,28.3699,94,confirmed
 3/22/2020,Malta,,35.9375,14.3754,90,confirmed
 3/22/2020,Albania,,41.1533,20.1683,89,confirmed
 3/22/2020,Brunei,,4.5353,114.7277,88,confirmed
 3/22/2020,Cambodia,,11.55,104.9167,84,confirmed
 3/22/2020,Sri Lanka,,7,81,81,confirmed
-3/22/2020,Moldova,,47.4116,28.3699,80,confirmed
 3/22/2020,Venezuela,,6.4238,-66.5897,77,confirmed
 3/22/2020,Belarus,,53.7098,27.9534,76,confirmed
 3/22/2020,Burkina Faso,,12.2383,-1.5616,75,confirmed
@@ -3364,12 +3364,12 @@
 3/22/2020,Tunisia,,34,9,75,confirmed
 3/22/2020,Ukraine,,48.3794,31.1656,73,confirmed
 3/22/2020,Senegal,,14.4974,-14.4524,67,confirmed
-3/22/2020,New Zealand,,-40.9006,174.886,66,confirmed
 3/22/2020,Azerbaijan,,40.1431,47.5769,65,confirmed
 3/22/2020,occupied Palestinian territory,,,,59,confirmed
 3/22/2020,Kazakhstan,,48.0196,66.9237,59,confirmed
 3/22/2020,Oman,,21,57,55,confirmed
 3/22/2020,Georgia,,42.3154,43.3569,54,confirmed
+3/22/2020,Trinidad and Tobago,,10.6918,-61.2225,50,confirmed
 3/22/2020,Liechtenstein,,47.14,9.55,44,confirmed
 3/22/2020,Uzbekistan,,41.3775,64.5853,43,confirmed
 3/22/2020,Afghanistan,,33,65,40,confirmed
@@ -3379,11 +3379,12 @@
 3/22/2020,Kosovo,,42.6026,20.903,31,confirmed
 3/22/2020,DR Congo,,,,30,confirmed
 3/22/2020,Nigeria,,9.082,8.6753,30,confirmed
-3/22/2020,Mauritius,,-20.2,57.5,28,confirmed
 3/22/2020,Bangladesh,,23.685,90.3563,27,confirmed
 3/22/2020,Honduras,,15.2,-86.2419,26,confirmed
+3/22/2020,"Cote d'Ivoire",,,,25,confirmed
 3/22/2020,Bolivia,,-16.2902,-63.5887,24,confirmed
-3/22/2020,Ghana,,7.9465,-1.0232,23,confirmed
+3/22/2020,Ghana,,7.9465,-1.0232,24,confirmed
+3/22/2020,Mauritius,,-20.2,57.5,24,confirmed
 3/22/2020,Monaco,,43.7333,7.4167,23,confirmed
 3/22/2020,Paraguay,,-23.4425,-58.4438,22,confirmed
 3/22/2020,Montenegro,,42.5,19.3,21,confirmed
@@ -3392,7 +3393,6 @@
 3/22/2020,Jamaica,,18.1096,-77.2975,19,confirmed
 3/22/2020,China,,30.9756,112.2707,19,confirmed
 3/22/2020,Rwanda,,-1.9403,29.8739,19,confirmed
-3/22/2020,"Cote d'Ivoire",,,,17,confirmed
 3/22/2020,Togo,,8.6195,0.8248,16,confirmed
 3/22/2020,Jersey,,,,15,confirmed
 3/22/2020,Kenya,,-0.0236,37.9062,15,confirmed
@@ -3402,7 +3402,6 @@
 3/22/2020,Tanzania,,-6.369,34.8888,12,confirmed
 3/22/2020,Ethiopia,,9.145,40.4897,11,confirmed
 3/22/2020,Mongolia,,46.8625,103.8467,10,confirmed
-3/22/2020,Trinidad and Tobago,,10.6918,-61.2225,9,confirmed
 3/22/2020,Seychelles,,-4.6796,55.492,7,confirmed
 3/22/2020,Equatorial Guinea,,1.5,10,6,confirmed
 3/22/2020,Gabon,,-0.8037,11.6094,5,confirmed
@@ -3433,29 +3432,28 @@
 3/22/2020,Sudan,,12.8628,30.2176,2,confirmed
 3/22/2020,Antigua and Barbuda,,17.0608,-61.7964,1,confirmed
 3/22/2020,Chad,,15.4542,18.7322,1,confirmed
-3/22/2020,Dominica,,,,1,confirmed
+3/22/2020,Dominica,,15.415,-61.371,1,confirmed
 3/22/2020,Djibouti,,11.8251,42.5903,1,confirmed
 3/22/2020,Eritrea,,15.1794,39.7823,1,confirmed
 3/22/2020,Gambia,,,,1,confirmed
-3/22/2020,Grenada,,,,1,confirmed
-3/22/2020,Mozambique,,,,1,confirmed
+3/22/2020,Grenada,,12.1165,-61.679,1,confirmed
+3/22/2020,Mozambique,,-18.6657,35.5296,1,confirmed
 3/22/2020,Nepal,,28.1667,84.25,1,confirmed
 3/22/2020,Papua New Guinea,,-6.315,143.9555,1,confirmed
 3/22/2020,Saint Vincent and the Grenadines,,,,1,confirmed
 3/22/2020,Somalia,,5.1521,46.1996,1,confirmed
-3/22/2020,Syria,,,,1,confirmed
+3/22/2020,Syria,,34.8021,38.9968,1,confirmed
 3/22/2020,East Timor,,-8.55,125.56,1,confirmed
 3/22/2020,Uganda,,1,32,1,confirmed
 3/22/2020,Vatican City,,,,1,confirmed
-3/22/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the ca ses cover several territories, as noted accordingly. ^ Reported cumulative confirmed cases. The actual number of infections and cases are likely higher than reported, but impossible to ascertain. ^ Recovered cases. All recoveries may not be reported. ""–"" denotes that no reliable data is currently available for that territory, not that the value is zero. ^ China: Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Italy: Only at-risk people showing symptoms have been tested from 27 February 2020 and onwards.[2][3] ^ United States: Includes 42 cases in the US territories: • Guam",,,,0,confirmed
+3/22/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the cases cover several territories, as noted accordingly. ^ Reported cumulative confirmed cases. The actual number of infections and cases are likely higher than reported, but impossible to ascertain. ^ Recovered cases. All recoveries may not be reported. ""–"" denotes that no reliable data is currently available for that territory, not that the value is zero. ^ ChinaIncludes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ ItalyOnly at-risk people showing symptoms have been tested from 27 February 2020 and onwards.[2][3] ^ United States 1. Includes 56 cases in the US territories: • Guam",,,,0,confirmed
 3/22/2020,China,,30.9756,112.2707,"3,261",death
 3/22/2020,Italy,,43,12,"5,476",death
-3/22/2020,United States,,,,417,death
-3/22/2020,Spain,,40,-4,"1,756",death
+3/22/2020,Spain,,40,-4,"1,772",death
 3/22/2020,Germany,,51,9,94,death
 3/22/2020,Iran,,32,53,"1,685",death
 3/22/2020,France,,46.2276,2.2137,674,death
-3/22/2020,"Korea, South",,,,104,death
+3/22/2020,"Korea, South",,,,111,death
 3/22/2020,Switzerland,,46.8182,8.2275,98,death
 3/22/2020,United Kingdom,,49.3723,-2.3644,282,death
 3/22/2020,Netherlands,,52.1326,5.2913,180,death
@@ -3498,14 +3496,14 @@
 3/22/2020,Egypt,,26,30,14,death
 3/22/2020,Estonia,,58.5953,25.0136,0,death
 3/22/2020,Hong Kong,,22.3193,114.1694,4,death
+3/22/2020,Panama,,8.538,-80.7821,3,death
 3/22/2020,South Africa,,-30.5595,22.9375,0,death
+3/22/2020,Argentina,,-38.4161,-63.6167,4,death
 3/22/2020,Croatia,,45.1,15.2,0,death
 3/22/2020,Mexico,,23.6345,-102.5528,2,death
 3/22/2020,Lebanon,,33.8547,35.8623,4,death
-3/22/2020,Panama,,8.538,-80.7821,3,death
 3/22/2020,Iraq,,33,44,20,death
 3/22/2020,Colombia,,4.5709,-74.2973,2,death
-3/22/2020,Argentina,,-38.4161,-63.6167,4,death
 3/22/2020,Serbia,,44.0165,21.0059,2,death
 3/22/2020,Dominican Republic,,18.7357,-70.1627,3,death
 3/22/2020,Algeria,,28.0339,1.6596,17,death
@@ -3515,9 +3513,10 @@
 3/22/2020,Slovakia,,48.669,19.699,0,death
 3/22/2020,San Marino,,43.9424,12.4578,20,death
 3/22/2020,Taiwan,,23.7,121,2,death
-3/22/2020,United Arab Emirates,,24,54,2,death
-3/22/2020,Latvia,,56.8796,24.6032,0,death
 3/22/2020,Uruguay,,-32.5228,-55.7658,0,death
+3/22/2020,United Arab Emirates,,24,54,2,death
+3/22/2020,Lithuania,,55.1694,23.8813,1,death
+3/22/2020,Latvia,,56.8796,24.6032,0,death
 3/22/2020,Costa Rica,,9.7489,-83.7534,2,death
 3/22/2020,Hungary,,47.1625,19.5033,6,death
 3/22/2020,Bosnia and Herzegovina,,43.9159,17.6791,1,death
@@ -3526,13 +3525,13 @@
 3/22/2020,Vietnam,,16,108,0,death
 3/22/2020,Andorra,,42.5063,1.5218,1,death
 3/22/2020,Jordan,,31.24,36.51,0,death
-3/22/2020,Lithuania,,55.1694,23.8813,1,death
+3/22/2020,New Zealand,,-40.9006,174.886,0,death
+3/22/2020,Moldova,,47.4116,28.3699,1,death
 3/22/2020,Malta,,35.9375,14.3754,0,death
-3/22/2020,Albania,,41.1533,20.1683,3,death
+3/22/2020,Albania,,41.1533,20.1683,2,death
 3/22/2020,Brunei,,4.5353,114.7277,0,death
 3/22/2020,Cambodia,,11.55,104.9167,0,death
 3/22/2020,Sri Lanka,,7,81,0,death
-3/22/2020,Moldova,,47.4116,28.3699,1,death
 3/22/2020,Venezuela,,6.4238,-66.5897,0,death
 3/22/2020,Belarus,,53.7098,27.9534,0,death
 3/22/2020,Burkina Faso,,12.2383,-1.5616,4,death
@@ -3540,12 +3539,12 @@
 3/22/2020,Tunisia,,34,9,3,death
 3/22/2020,Ukraine,,48.3794,31.1656,3,death
 3/22/2020,Senegal,,14.4974,-14.4524,0,death
-3/22/2020,New Zealand,,-40.9006,174.886,0,death
 3/22/2020,Azerbaijan,,40.1431,47.5769,1,death
 3/22/2020,occupied Palestinian territory,,,,0,death
 3/22/2020,Kazakhstan,,48.0196,66.9237,0,death
 3/22/2020,Oman,,21,57,0,death
 3/22/2020,Georgia,,42.3154,43.3569,0,death
+3/22/2020,Trinidad and Tobago,,10.6918,-61.2225,0,death
 3/22/2020,Liechtenstein,,47.14,9.55,0,death
 3/22/2020,Uzbekistan,,41.3775,64.5853,0,death
 3/22/2020,Afghanistan,,33,65,1,death
@@ -3553,22 +3552,22 @@
 3/22/2020,Cyprus,,,,0,death
 3/22/2020,Cuba,,22,-80,1,death
 3/22/2020,Kosovo,,42.6026,20.903,0,death
-3/22/2020,DR Congo,,,,1,death
+3/22/2020,DR Congo,,,,2,death
 3/22/2020,Nigeria,,9.082,8.6753,0,death
-3/22/2020,Mauritius,,-20.2,57.5,2,death
 3/22/2020,Bangladesh,,23.685,90.3563,2,death
 3/22/2020,Honduras,,15.2,-86.2419,0,death
+3/22/2020,"Cote d'Ivoire",,,,0,death
 3/22/2020,Bolivia,,-16.2902,-63.5887,0,death
 3/22/2020,Ghana,,7.9465,-1.0232,1,death
+3/22/2020,Mauritius,,-20.2,57.5,2,death
 3/22/2020,Monaco,,43.7333,7.4167,0,death
 3/22/2020,Paraguay,,-23.4425,-58.4438,1,death
-3/22/2020,Montenegro,,42.5,19.3,0,death
+3/22/2020,Montenegro,,42.5,19.3,1,death
 3/22/2020,Guernsey,,,,0,death
 3/22/2020,Guatemala,,15.7835,-90.2308,1,death
 3/22/2020,Jamaica,,18.1096,-77.2975,1,death
 3/22/2020,China,,30.9756,112.2707,0,death
 3/22/2020,Rwanda,,-1.9403,29.8739,0,death
-3/22/2020,"Cote d'Ivoire",,,,0,death
 3/22/2020,Togo,,8.6195,0.8248,0,death
 3/22/2020,Jersey,,,,0,death
 3/22/2020,Kenya,,-0.0236,37.9062,0,death
@@ -3578,7 +3577,6 @@
 3/22/2020,Tanzania,,-6.369,34.8888,0,death
 3/22/2020,Ethiopia,,9.145,40.4897,0,death
 3/22/2020,Mongolia,,46.8625,103.8467,0,death
-3/22/2020,Trinidad and Tobago,,10.6918,-61.2225,0,death
 3/22/2020,Seychelles,,-4.6796,55.492,0,death
 3/22/2020,Equatorial Guinea,,1.5,10,0,death
 3/22/2020,Gabon,,-0.8037,11.6094,1,death
@@ -3609,29 +3607,28 @@
 3/22/2020,Sudan,,12.8628,30.2176,1,death
 3/22/2020,Antigua and Barbuda,,17.0608,-61.7964,0,death
 3/22/2020,Chad,,15.4542,18.7322,0,death
-3/22/2020,Dominica,,,,0,death
+3/22/2020,Dominica,,15.415,-61.371,0,death
 3/22/2020,Djibouti,,11.8251,42.5903,0,death
 3/22/2020,Eritrea,,15.1794,39.7823,0,death
 3/22/2020,Gambia,,,,0,death
-3/22/2020,Grenada,,,,0,death
-3/22/2020,Mozambique,,,,0,death
+3/22/2020,Grenada,,12.1165,-61.679,0,death
+3/22/2020,Mozambique,,-18.6657,35.5296,0,death
 3/22/2020,Nepal,,28.1667,84.25,0,death
 3/22/2020,Papua New Guinea,,-6.315,143.9555,0,death
 3/22/2020,Saint Vincent and the Grenadines,,,,0,death
 3/22/2020,Somalia,,5.1521,46.1996,0,death
-3/22/2020,Syria,,,,0,death
+3/22/2020,Syria,,34.8021,38.9968,0,death
 3/22/2020,East Timor,,-8.55,125.56,0,death
 3/22/2020,Uganda,,1,32,0,death
 3/22/2020,Vatican City,,,,0,death
-3/22/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the ca ses cover several territories, as noted accordingly. ^ Reported cumulative confirmed cases. The actual number of infections and cases are likely higher than reported, but impossible to ascertain. ^ Recovered cases. All recoveries may not be reported. ""–"" denotes that no reliable data is currently available for that territory, not that the value is zero. ^ China: Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Italy: Only at-risk people showing symptoms have been tested from 27 February 2020 and onwards.[2][3] ^ United States: Includes 42 cases in the US territories: • Guam",,,,0,death
+3/22/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the cases cover several territories, as noted accordingly. ^ Reported cumulative confirmed cases. The actual number of infections and cases are likely higher than reported, but impossible to ascertain. ^ Recovered cases. All recoveries may not be reported. ""–"" denotes that no reliable data is currently available for that territory, not that the value is zero. ^ ChinaIncludes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ ItalyOnly at-risk people showing symptoms have been tested from 27 February 2020 and onwards.[2][3] ^ United States 1. Includes 56 cases in the US territories: • Guam",,,,0,death
 3/22/2020,China,,30.9756,112.2707,"72,244",recovered
 3/22/2020,Italy,,43,12,"7,024",recovered
-3/22/2020,United States,,,,178,recovered
 3/22/2020,Spain,,40,-4,"2,575",recovered
 3/22/2020,Germany,,51,9,266,recovered
 3/22/2020,Iran,,32,53,"7,913",recovered
 3/22/2020,France,,46.2276,2.2137,"2,200",recovered
-3/22/2020,"Korea, South",,,,"2,909",recovered
+3/22/2020,"Korea, South",,,,"3,166",recovered
 3/22/2020,Switzerland,,46.8182,8.2275,15,recovered
 3/22/2020,United Kingdom,,49.3723,-2.3644,140,recovered
 3/22/2020,Netherlands,,52.1326,5.2913,–,recovered
@@ -3674,14 +3671,14 @@
 3/22/2020,Egypt,,26,30,56,recovered
 3/22/2020,Estonia,,58.5953,25.0136,4,recovered
 3/22/2020,Hong Kong,,22.3193,114.1694,100,recovered
+3/22/2020,Panama,,8.538,-80.7821,0,recovered
 3/22/2020,South Africa,,-30.5595,22.9375,0,recovered
+3/22/2020,Argentina,,-38.4161,-63.6167,27,recovered
 3/22/2020,Croatia,,45.1,15.2,5,recovered
 3/22/2020,Mexico,,23.6345,-102.5528,4,recovered
 3/22/2020,Lebanon,,33.8547,35.8623,8,recovered
-3/22/2020,Panama,,8.538,-80.7821,1,recovered
 3/22/2020,Iraq,,33,44,57,recovered
 3/22/2020,Colombia,,4.5709,-74.2973,3,recovered
-3/22/2020,Argentina,,-38.4161,-63.6167,27,recovered
 3/22/2020,Serbia,,44.0165,21.0059,2,recovered
 3/22/2020,Dominican Republic,,18.7357,-70.1627,0,recovered
 3/22/2020,Algeria,,28.0339,1.6596,65,recovered
@@ -3691,9 +3688,10 @@
 3/22/2020,Slovakia,,48.669,19.699,7,recovered
 3/22/2020,San Marino,,43.9424,12.4578,4,recovered
 3/22/2020,Taiwan,,23.7,121,28,recovered
-3/22/2020,United Arab Emirates,,24,54,38,recovered
-3/22/2020,Latvia,,56.8796,24.6032,1,recovered
 3/22/2020,Uruguay,,-32.5228,-55.7658,0,recovered
+3/22/2020,United Arab Emirates,,24,54,38,recovered
+3/22/2020,Lithuania,,55.1694,23.8813,1,recovered
+3/22/2020,Latvia,,56.8796,24.6032,1,recovered
 3/22/2020,Costa Rica,,9.7489,-83.7534,2,recovered
 3/22/2020,Hungary,,47.1625,19.5033,16,recovered
 3/22/2020,Bosnia and Herzegovina,,43.9159,17.6791,2,recovered
@@ -3702,13 +3700,13 @@
 3/22/2020,Vietnam,,16,108,17,recovered
 3/22/2020,Andorra,,42.5063,1.5218,1,recovered
 3/22/2020,Jordan,,31.24,36.51,1,recovered
-3/22/2020,Lithuania,,55.1694,23.8813,1,recovered
+3/22/2020,New Zealand,,-40.9006,174.886,0,recovered
+3/22/2020,Moldova,,47.4116,28.3699,2,recovered
 3/22/2020,Malta,,35.9375,14.3754,2,recovered
 3/22/2020,Albania,,41.1533,20.1683,2,recovered
-3/22/2020,Brunei,,4.5353,114.7277,1,recovered
+3/22/2020,Brunei,,4.5353,114.7277,2,recovered
 3/22/2020,Cambodia,,11.55,104.9167,2,recovered
 3/22/2020,Sri Lanka,,7,81,3,recovered
-3/22/2020,Moldova,,47.4116,28.3699,2,recovered
 3/22/2020,Venezuela,,6.4238,-66.5897,15,recovered
 3/22/2020,Belarus,,53.7098,27.9534,15,recovered
 3/22/2020,Burkina Faso,,12.2383,-1.5616,5,recovered
@@ -3716,12 +3714,12 @@
 3/22/2020,Tunisia,,34,9,1,recovered
 3/22/2020,Ukraine,,48.3794,31.1656,1,recovered
 3/22/2020,Senegal,,14.4974,-14.4524,5,recovered
-3/22/2020,New Zealand,,-40.9006,174.886,0,recovered
 3/22/2020,Azerbaijan,,40.1431,47.5769,10,recovered
 3/22/2020,occupied Palestinian territory,,,,17,recovered
 3/22/2020,Kazakhstan,,48.0196,66.9237,0,recovered
 3/22/2020,Oman,,21,57,17,recovered
 3/22/2020,Georgia,,42.3154,43.3569,3,recovered
+3/22/2020,Trinidad and Tobago,,10.6918,-61.2225,0,recovered
 3/22/2020,Liechtenstein,,47.14,9.55,0,recovered
 3/22/2020,Uzbekistan,,41.3775,64.5853,0,recovered
 3/22/2020,Afghanistan,,33,65,1,recovered
@@ -3731,11 +3729,12 @@
 3/22/2020,Kosovo,,42.6026,20.903,0,recovered
 3/22/2020,DR Congo,,,,0,recovered
 3/22/2020,Nigeria,,9.082,8.6753,2,recovered
-3/22/2020,Mauritius,,-20.2,57.5,0,recovered
 3/22/2020,Bangladesh,,23.685,90.3563,3,recovered
 3/22/2020,Honduras,,15.2,-86.2419,0,recovered
+3/22/2020,"Cote d'Ivoire",,,,1,recovered
 3/22/2020,Bolivia,,-16.2902,-63.5887,0,recovered
 3/22/2020,Ghana,,7.9465,-1.0232,0,recovered
+3/22/2020,Mauritius,,-20.2,57.5,0,recovered
 3/22/2020,Monaco,,43.7333,7.4167,1,recovered
 3/22/2020,Paraguay,,-23.4425,-58.4438,0,recovered
 3/22/2020,Montenegro,,42.5,19.3,0,recovered
@@ -3744,7 +3743,6 @@
 3/22/2020,Jamaica,,18.1096,-77.2975,2,recovered
 3/22/2020,China,,30.9756,112.2707,10,recovered
 3/22/2020,Rwanda,,-1.9403,29.8739,0,recovered
-3/22/2020,"Cote d'Ivoire",,,,1,recovered
 3/22/2020,Togo,,8.6195,0.8248,0,recovered
 3/22/2020,Jersey,,,,0,recovered
 3/22/2020,Kenya,,-0.0236,37.9062,0,recovered
@@ -3754,7 +3752,6 @@
 3/22/2020,Tanzania,,-6.369,34.8888,0,recovered
 3/22/2020,Ethiopia,,9.145,40.4897,0,recovered
 3/22/2020,Mongolia,,46.8625,103.8467,0,recovered
-3/22/2020,Trinidad and Tobago,,10.6918,-61.2225,0,recovered
 3/22/2020,Seychelles,,-4.6796,55.492,0,recovered
 3/22/2020,Equatorial Guinea,,1.5,10,0,recovered
 3/22/2020,Gabon,,-0.8037,11.6094,0,recovered
@@ -3785,21 +3782,21 @@
 3/22/2020,Sudan,,12.8628,30.2176,0,recovered
 3/22/2020,Antigua and Barbuda,,17.0608,-61.7964,0,recovered
 3/22/2020,Chad,,15.4542,18.7322,0,recovered
-3/22/2020,Dominica,,,,0,recovered
+3/22/2020,Dominica,,15.415,-61.371,0,recovered
 3/22/2020,Djibouti,,11.8251,42.5903,0,recovered
 3/22/2020,Eritrea,,15.1794,39.7823,0,recovered
 3/22/2020,Gambia,,,,0,recovered
-3/22/2020,Grenada,,,,0,recovered
-3/22/2020,Mozambique,,,,0,recovered
+3/22/2020,Grenada,,12.1165,-61.679,0,recovered
+3/22/2020,Mozambique,,-18.6657,35.5296,0,recovered
 3/22/2020,Nepal,,28.1667,84.25,1,recovered
 3/22/2020,Papua New Guinea,,-6.315,143.9555,0,recovered
 3/22/2020,Saint Vincent and the Grenadines,,,,0,recovered
 3/22/2020,Somalia,,5.1521,46.1996,0,recovered
-3/22/2020,Syria,,,,0,recovered
+3/22/2020,Syria,,34.8021,38.9968,0,recovered
 3/22/2020,East Timor,,-8.55,125.56,0,recovered
 3/22/2020,Uganda,,1,32,0,recovered
 3/22/2020,Vatican City,,,,0,recovered
-3/22/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the ca ses cover several territories, as noted accordingly. ^ Reported cumulative confirmed cases. The actual number of infections and cases are likely higher than reported, but impossible to ascertain. ^ Recovered cases. All recoveries may not be reported. ""–"" denotes that no reliable data is currently available for that territory, not that the value is zero. ^ China: Includes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ Italy: Only at-risk people showing symptoms have been tested from 27 February 2020 and onwards.[2][3] ^ United States: Includes 42 cases in the US territories: • Guam",,,,0,recovered
+3/22/2020,"Notes ^ Countries and territories, and one international conveyance where cases were diagnosed. Nationality and location of original infection may vary. In some countries, the cases cover several territories, as noted accordingly. ^ Reported cumulative confirmed cases. The actual number of infections and cases are likely higher than reported, but impossible to ascertain. ^ Recovered cases. All recoveries may not be reported. ""–"" denotes that no reliable data is currently available for that territory, not that the value is zero. ^ ChinaIncludes clinically diagnosed cases and deaths from 12 February 2020 and onwards in the province of Hubei. ^ ItalyOnly at-risk people showing symptoms have been tested from 27 February 2020 and onwards.[2][3] ^ United States 1. Includes 56 cases in the US territories: • Guam",,,,0,recovered
 3/22/2020,US,⋮,⋮,⋮,​ ​ ​ ​ ​,confirmed
 3/22/2020,US,2020-01-24,2020-01-24,2020-01-24,​ ​ ​ ​ ​,confirmed
 3/22/2020,US,2020-01-25,2020-01-25,2020-01-25,​ ​ ​ ​ ​,confirmed
